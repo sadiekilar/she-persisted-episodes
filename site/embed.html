@@ -15,13 +15,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-in{--red:#740000;--cream:#fdfdf5;--ink:#1c1c1c;--g:64px;--g:clamp(32px,4.444cqw,64px);--card:320px;--card:clamp(240px,22.222cqw,320px)}
 #sp-episodes *,#sp-episodes *::before,#sp-episodes *::after{box-sizing:border-box}
 #sp-episodes a{color:inherit;text-decoration:none;background:none;border:0;transition:opacity 150ms}
-#sp-episodes img{display:block;max-width:none;margin:0;border:0;transition:opacity 150ms}
+#sp-episodes img{display:block;max-width:none;margin:0;border:0}
 #sp-episodes h2{margin:0;padding:0;font-family:inherit;font-size:38px;font-size:clamp(26px,2.639cqw,38px);font-weight:700;line-height:1;letter-spacing:-.6px;color:inherit;text-transform:none}
 #sp-episodes h2 span{font-weight:400}
 #sp-episodes a:focus,#sp-episodes input:focus{outline:none}
 #sp-episodes a:focus-visible{outline:2px solid currentColor;outline-offset:2px}
 #sp-episodes a.sp-text:hover,#sp-episodes a.sp-pill:hover{opacity:.75}
-#sp-episodes a:hover img{opacity:.75}
 
 /* 1. hero */
 #sp-episodes .sp-hero{background:var(--red);color:var(--cream);padding:16px 0 56px var(--g);margin-top:-1px;overflow:hidden}
@@ -42,10 +41,11 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:0 var(--g)}
 #sp-episodes .sp-head .sp-text,#sp-episodes .sp-count{flex:none;font-size:14px}
 #sp-episodes .sp-count{font-size:13px;opacity:.8}
-#sp-episodes .sp-row{display:flex;gap:20px;padding:0 var(--g);overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 96%,transparent);mask-image:linear-gradient(90deg,#000 96%,transparent)}
+/* 8px of vertical room so a card growing on hover isn't clipped by the scroller */
+#sp-episodes .sp-row{display:flex;gap:20px;padding:8px var(--g);margin:-8px 0;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 96%,transparent);mask-image:linear-gradient(90deg,#000 96%,transparent)}
 #sp-episodes .sp-row::-webkit-scrollbar{display:none}
 #sp-episodes .sp-card{flex:none;width:var(--card);display:flex;flex-direction:column}
-#sp-episodes .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;border-radius:16px;filter:grayscale(1);background:var(--cream)}
+#sp-episodes .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;border-radius:16px;filter:grayscale(1);background:var(--cream);transition:transform 200ms ease,filter 200ms ease}
 #sp-episodes .sp-card-title{padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2;color:var(--ink)}
 
 /* red bands */
@@ -54,7 +54,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-recs{gap:20px;padding:48px 0 56px}
 #sp-episodes .sp-recs-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;padding:0 var(--g)}
 #sp-episodes .sp-rec{display:flex;flex-direction:column}
-#sp-episodes .sp-frame{display:block;overflow:hidden;border-radius:16px;background:var(--cream)}
+#sp-episodes .sp-frame{display:block;overflow:hidden;border-radius:16px;background:var(--cream);transition:transform 200ms ease}
 #sp-episodes .sp-frame img{width:100%;aspect-ratio:16/9;object-fit:cover}
 #sp-episodes .sp-rec-title{padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2}
 #sp-episodes .sp-topics{gap:28px;padding:56px 0 72px}
@@ -71,6 +71,14 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-search input::-webkit-search-cancel-button{display:none}
 #sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
 #sp-episodes .sp-pills{display:none}
+
+/* hover: shelf thumbnails grow and turn to color; recommends and topic tiles grow; the hero stays still */
+@media (hover:hover){
+  #sp-episodes .sp-card:hover img{transform:scale(1.035);filter:grayscale(0)}
+  #sp-episodes .sp-rec:hover .sp-frame{transform:scale(1.03)}
+  #sp-episodes .sp-tile:hover .sp-frame{transform:scale(1.04)}
+}
+#sp-episodes .sp-card:focus-visible img{filter:grayscale(0)}
 
 @media (max-width:900px) and (min-width:601px){
   #sp-episodes .sp-tiles{grid-template-columns:repeat(4,minmax(0,1fr))}
@@ -112,6 +120,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 }
 @media (prefers-reduced-motion:reduce){
   #sp-episodes .sp-track{transition:none}
+  #sp-episodes .sp-card:hover img,#sp-episodes .sp-rec:hover .sp-frame,#sp-episodes .sp-tile:hover .sp-frame{transform:none}
 }
 </style>
 <script>
