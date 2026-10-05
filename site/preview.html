@@ -1,0 +1,27 @@
+<!doctype html>
+<!-- Local harness: loads embed.html against ../index/episodes.json.
+     Serve the repo root (npm run preview) and open /site/preview.html. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>episodes — preview</title>
+<style>
+  body{margin:0;background:#fdfdf5}
+  .nav{height:70px;background:#740000;color:#fdfdf5;display:flex;align-items:center;justify-content:center;font:700 20px 'Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:-.44px}
+  @media (max-width:600px){.nav{height:56px;font-size:16px}}
+</style>
+</head>
+<body>
+<div class="nav">she persisted</div>
+<div id="mount"></div>
+<script>
+  // Assets and the index come from this checkout instead of GitHub Pages.
+  window.SP_EPISODES_CONFIG = { PAGES_BASE: '../' };
+  try { localStorage.removeItem('sp:episodes:v1'); } catch (e) {}
+  fetch('embed.html', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(function (html) {
+    document.getElementById('mount').appendChild(document.createRange().createContextualFragment(html));
+  });
+</script>
+</body>
+</html>

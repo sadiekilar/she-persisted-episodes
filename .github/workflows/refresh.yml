@@ -1,0 +1,37 @@
+name: refresh episodes
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/import.js --since-last
+      - run: node scripts/audit.js
+      - run: node scripts/summarize.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - run: node scripts/build-index.js
+      - name: commit if changed
+        run: |
+          git add episodes index
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "refresh episodes"
+            git push
+          fi

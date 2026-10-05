@@ -1,0 +1,491 @@
+<!-- she persisted — episodes page. Paste this whole file into a Code Block (mode HTML) in a section above the blog list on /episodes. Set PAGES_BASE below to the GitHub Pages URL of this repo. -->
+<div id="sp-episodes" hidden><div class="sp-in"></div></div>
+<style>
+/* Stock Squarespace blog list: hidden while the custom page is showing. */
+html.sp-ep-custom section:has(.collection-content-wrapper){display:none!important}
+html.sp-ep-custom .collection-content-wrapper,html.sp-ep-custom .blog-list-pagination{display:none!important}
+/* The section holding this Code Block: no padding, no width cap. */
+section.sp-ep-section{padding:0!important;min-height:0!important}
+section.sp-ep-section>.content-wrapper{padding:0!important;max-width:none!important;width:100%!important}
+html.sp-ep-stock section.sp-ep-section{display:none!important}
+
+#sp-episodes{container-type:inline-size;background:#fdfdf5;color:#740000;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.2;letter-spacing:-.44px;text-align:left;text-transform:none;-webkit-text-size-adjust:100%}
+#sp-episodes[hidden]{display:none}
+#sp-episodes .sp-in{--red:#740000;--cream:#fdfdf5;--ink:#1c1c1c;--g:64px;--g:clamp(32px,4.444cqw,64px);--card:320px;--card:clamp(240px,22.222cqw,320px)}
+#sp-episodes *,#sp-episodes *::before,#sp-episodes *::after{box-sizing:border-box}
+#sp-episodes a{color:inherit;text-decoration:none;background:none;border:0;transition:opacity 150ms}
+#sp-episodes img{display:block;max-width:none;margin:0;border:0;transition:opacity 150ms}
+#sp-episodes h2{margin:0;padding:0;font-family:inherit;font-size:38px;font-size:clamp(26px,2.639cqw,38px);font-weight:700;line-height:1;letter-spacing:-.6px;color:inherit;text-transform:none}
+#sp-episodes h2 span{font-weight:400}
+#sp-episodes a:focus,#sp-episodes input:focus{outline:none}
+#sp-episodes a:focus-visible{outline:2px solid currentColor;outline-offset:2px}
+#sp-episodes a.sp-text:hover,#sp-episodes a.sp-pill:hover{opacity:.75}
+#sp-episodes a:hover img{opacity:.75}
+
+/* 1. hero */
+#sp-episodes .sp-hero{background:var(--red);color:var(--cream);padding:16px 0 56px var(--g);margin-top:-1px;overflow:hidden}
+#sp-episodes .sp-track{display:flex;gap:28px;transition:transform 450ms ease;touch-action:pan-y}
+#sp-episodes .sp-track.sp-drag{transition:none}
+#sp-episodes .sp-slide{position:relative;flex:none;width:1120px;width:min(1120px,calc(100cqw - var(--g)*2 - 192px));aspect-ratio:21/9;display:flex;flex-direction:column;justify-content:flex-end;gap:10px;padding:32px;border-radius:16px;overflow:hidden;color:var(--cream);background:var(--cream);-webkit-user-select:none;user-select:none;-webkit-user-drag:none}
+#sp-episodes .sp-slide img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 30%;pointer-events:none}
+#sp-episodes .sp-scrim{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 45%,rgba(0,0,0,.8));pointer-events:none}
+#sp-episodes .sp-kicker{position:relative;align-self:flex-start;background:var(--red);padding:5px 12px 7px;font-size:15px;font-weight:700;line-height:1}
+#sp-episodes .sp-slide-title{position:relative;max-width:680px;font-size:36px;font-size:clamp(24px,2.5cqw,36px);font-weight:700;line-height:1.05}
+#sp-episodes .sp-slide:focus-visible{outline-offset:-4px}
+
+/* shelves */
+#sp-episodes .sp-stack{display:flex;flex-direction:column;gap:72px;padding:64px 0 96px}
+#sp-episodes .sp-below{display:flex;flex-direction:column;gap:72px}
+#sp-episodes .sp-below[hidden]{display:none}
+#sp-episodes .sp-shelf{display:flex;flex-direction:column;gap:18px}
+#sp-episodes .sp-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:0 var(--g)}
+#sp-episodes .sp-head .sp-text,#sp-episodes .sp-count{flex:none;font-size:14px}
+#sp-episodes .sp-count{font-size:13px;opacity:.8}
+#sp-episodes .sp-row{display:flex;gap:20px;padding:0 var(--g);overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 96%,transparent);mask-image:linear-gradient(90deg,#000 96%,transparent)}
+#sp-episodes .sp-row::-webkit-scrollbar{display:none}
+#sp-episodes .sp-card{flex:none;width:var(--card);display:flex;flex-direction:column}
+#sp-episodes .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;border-radius:16px;filter:grayscale(1);background:var(--cream)}
+#sp-episodes .sp-card-title{padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2;color:var(--ink)}
+
+/* red bands */
+#sp-episodes .sp-band{display:flex;flex-direction:column;background:var(--red);color:var(--cream)}
+#sp-episodes .sp-band h2{padding:0 var(--g)}
+#sp-episodes .sp-recs{gap:20px;padding:48px 0 56px}
+#sp-episodes .sp-recs-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;padding:0 var(--g)}
+#sp-episodes .sp-rec{display:flex;flex-direction:column}
+#sp-episodes .sp-frame{display:block;overflow:hidden;border-radius:16px;background:var(--cream)}
+#sp-episodes .sp-frame img{width:100%;aspect-ratio:16/9;object-fit:cover}
+#sp-episodes .sp-rec-title{padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2}
+#sp-episodes .sp-topics{gap:28px;padding:56px 0 72px}
+#sp-episodes .sp-tiles{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:24px 20px;padding:0 var(--g)}
+#sp-episodes .sp-tile{display:flex;flex-direction:column;align-items:flex-start;gap:10px}
+#sp-episodes .sp-tile .sp-frame{width:100%}
+#sp-episodes .sp-tile-label{padding-bottom:1px;font-size:16px;font-weight:700;line-height:1.1}
+#sp-episodes .sp-tile.sp-active .sp-tile-label{box-shadow:inset 0 -1px 0 var(--cream)}
+#sp-episodes .sp-search-wrap{display:flex;padding:8px var(--g) 0}
+#sp-episodes .sp-search{display:flex;align-items:center;gap:12px;width:520px;max-width:100%;height:56px;margin:0;padding:0 20px;border:1.5px solid var(--cream);border-radius:999px;cursor:text}
+#sp-episodes .sp-search svg{flex:none;width:18px;height:18px}
+#sp-episodes .sp-search input{flex:1;min-width:0;width:auto;height:auto;margin:0;padding:0;border:0;border-radius:0;background:none;box-shadow:none;color:var(--cream);font:inherit;font-size:17px;letter-spacing:inherit;-webkit-appearance:none;appearance:none}
+#sp-episodes .sp-search input::placeholder{color:var(--cream);opacity:.8}
+#sp-episodes .sp-search input::-webkit-search-cancel-button{display:none}
+#sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
+#sp-episodes .sp-pills{display:none}
+
+@media (max-width:900px) and (min-width:601px){
+  #sp-episodes .sp-tiles{grid-template-columns:repeat(4,minmax(0,1fr))}
+}
+
+/* mobile */
+@media (max-width:600px){
+  #sp-episodes .sp-in{--g:20px;--card:164px}
+  #sp-episodes h2{font-size:22px;letter-spacing:-.44px}
+  #sp-episodes .sp-hero{padding:14px 0 28px 20px}
+  #sp-episodes .sp-track{gap:12px}
+  #sp-episodes .sp-slide{width:300px;aspect-ratio:16/10;gap:6px;padding:20px}
+  #sp-episodes .sp-kicker{padding:4px 10px 6px;font-size:12px}
+  #sp-episodes .sp-slide-title{font-size:20px;line-height:1.1}
+  #sp-episodes .sp-stack{gap:48px;padding:40px 0 64px}
+  #sp-episodes .sp-below{gap:48px;margin-top:-8px}
+  #sp-episodes .sp-shelf{gap:14px}
+  #sp-episodes .sp-head .sp-text,#sp-episodes .sp-count{font-size:12px;opacity:.8}
+  #sp-episodes .sp-row{gap:12px;scroll-snap-type:x mandatory;scroll-padding-left:20px;-webkit-mask-image:linear-gradient(90deg,#000 94%,transparent);mask-image:linear-gradient(90deg,#000 94%,transparent)}
+  #sp-episodes .sp-card{scroll-snap-align:start}
+  #sp-episodes .sp-card img{border-radius:14px}
+  #sp-episodes .sp-card-title{padding:8px 2px 0;font-size:14px}
+  #sp-episodes .sp-desktop-only{display:none}
+  #sp-episodes .sp-recs{gap:14px;padding:36px 0 40px}
+  #sp-episodes .sp-recs-grid{grid-template-columns:minmax(0,1fr);gap:16px}
+  #sp-episodes .sp-frame{border-radius:14px}
+  #sp-episodes .sp-rec-title{padding:8px 2px 0;font-size:14px}
+  #sp-episodes .sp-topics{gap:14px;padding:36px 20px 44px}
+  #sp-episodes .sp-topics h2{padding:0}
+  #sp-episodes .sp-tiles{display:none}
+  #sp-episodes .sp-search-wrap{order:1;padding:0}
+  #sp-episodes .sp-search{width:100%;height:48px;gap:10px;padding:0 16px}
+  #sp-episodes .sp-search svg{width:16px;height:16px}
+  /* 16px, not the 15px in the design: anything smaller makes iOS zoom the page on focus. */
+  #sp-episodes .sp-search input{font-size:16px}
+  #sp-episodes .sp-pills{order:2;display:flex;flex-wrap:wrap;gap:8px;padding-top:6px}
+  #sp-episodes .sp-pill{padding:10px 14px;border:1px solid var(--cream);border-radius:999px;font-size:14px;line-height:1;white-space:nowrap}
+  #sp-episodes .sp-pill.sp-active{background:var(--cream);color:var(--red)}
+}
+@media (prefers-reduced-motion:reduce){
+  #sp-episodes .sp-track{transition:none}
+}
+</style>
+<script>
+(function () {
+  var CFG = {
+    // GitHub Pages root of the she-persisted-episodes repo (trailing slash).
+    PAGES_BASE: 'https://USERNAME.github.io/she-persisted-episodes/',
+    // The Squarespace blog collection that holds the episode posts.
+    COLLECTION: '/episodes',
+    FEATURED: ['anxiety', 'self-improvement', 'depression', 'relationships'],
+    // Hard-coded until the "sadie recommends" tag is on all three in Squarespace.
+    RECOMMENDS: [261, 228, 242],
+    RECOMMENDS_TAG: 'sadie recommends',
+    HERO_RECOMMENDS: 242,
+    HERO_TOPICS: { anxiety: 249, relationships: 257 },
+    HERO_INTERVAL: 6000,
+    CACHE_KEY: 'sp:episodes:v1',
+    CACHE_TTL: 60 * 60 * 1000
+  };
+  var over = window.SP_EPISODES_CONFIG || {};
+  for (var k in over) CFG[k] = over[k];
+
+  var ASSETS = CFG.PAGES_BASE + 'site/assets/';
+  var REC_IMAGES = { 261: 'start-here-1.png', 228: 'start-here-2.png', 242: 'start-here-3.png' };
+  var TOPIC_PHOTOS = {
+    '20s': ['brand-photos-rachel-artime-0011.jpg', 'center 40%'],
+    'adhd': ['brand-photos-rachel-artime-0004.jpg', 'center 60%'],
+    'body image': ['brand-photos-rachel-artime-0009.jpg', 'center 35%'],
+    'career': ['brand-photos-rachel-artime-0008-4.jpg', 'center 55%'],
+    'college': ['brand-photos-rachel-artime-0010-2.jpg', 'center 60%'],
+    'dbt': ['brand-photos-rachel-artime-0015-2.jpg', 'center 35%'],
+    'emotions': ['brand-photos-rachel-artime-0014-2-66d1fb78.jpg', 'center 45%'],
+    'sleep': ['brand-photos-rachel-artime-0034.jpg', 'center 40%'],
+    'social media': ['brand-photos-rachel-artime-0020-2.jpg', 'center 40%'],
+    'teen mental health': ['brand-photos-rachel-artime-0005-3.jpg', 'center 45%'],
+    'trauma': ['brand-photos-rachel-artime-0032-2.jpg', 'center 50%'],
+    'troubled teen industry': ['brand-photos-rachel-artime-0015-4.jpg', 'center 55%']
+  };
+
+  var root = document.getElementById('sp-episodes');
+  if (!root || root.dataset.ready) return;
+  root.dataset.ready = '1';
+  var inner = root.querySelector('.sp-in');
+  var html = document.documentElement;
+  var mobile = window.matchMedia('(max-width:600px)');
+  var reduced = window.matchMedia('(prefers-reduced-motion:reduce)');
+
+  var section = root.closest('section');
+  if (section) section.classList.add('sp-ep-section');
+
+  // Squarespace's own filtered / paginated views (?tag=, ?offset=, ?view=all …)
+  // keep the stock blog list; the custom page only replaces the bare landing page.
+  var params = new URLSearchParams(location.search);
+  var STOCK_PARAMS = ['tag', 'category', 'offset', 'view', 'author', 'month', 'year', 'reversePaginate'];
+  if (STOCK_PARAMS.some(function (p) { return params.has(p); })) {
+    html.classList.add('sp-ep-stock');
+    return;
+  }
+  html.classList.add('sp-ep-custom');
+
+  // ---------- data ----------
+  function readCache() {
+    try {
+      var c = JSON.parse(localStorage.getItem(CFG.CACHE_KEY));
+      if (c && c.expires > Date.now() && c.data && c.data.episodes) return c.data;
+    } catch (e) {}
+    return null;
+  }
+  function writeCache(data) {
+    try { localStorage.setItem(CFG.CACHE_KEY, JSON.stringify({ expires: Date.now() + CFG.CACHE_TTL, data: data })); } catch (e) {}
+  }
+  function text(htmlStr) {
+    var d = document.createElement('div');
+    d.innerHTML = htmlStr || '';
+    return (d.textContent || '').replace(/\s+/g, ' ').trim();
+  }
+  // Squarespace's JSON view of the collection: first page only, no transcripts kept.
+  function normalizeSquarespace(json) {
+    var episodes = (json.items || []).map(function (it) {
+      var m = /^(\d+)[.:]/.exec(it.title || '');
+      return m && {
+        number: +m[1],
+        title: it.title,
+        url: location.origin + it.fullUrl,
+        image: it.assetUrl || '',
+        tags: (it.tags || []).map(function (t) { return String(t).toLowerCase(); }),
+        excerpt: text(it.excerpt).slice(0, 300),
+        publishOn: it.publishOn,
+        guests: [],
+        summary: ''
+      };
+    }).filter(Boolean);
+    return { tags: ((json.collection || {}).tags || []).map(function (t) { return String(t).toLowerCase(); }), episodes: episodes };
+  }
+  function getJson(url) {
+    return fetch(url).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    });
+  }
+  function load() {
+    var cached = readCache();
+    if (cached) return Promise.resolve(cached);
+    return getJson(CFG.PAGES_BASE + 'index/episodes.json').then(function (data) {
+      writeCache(data);
+      return data;
+    }).catch(function () {
+      return getJson(CFG.COLLECTION + '?format=json').then(normalizeSquarespace);
+    });
+  }
+
+  // ---------- rendering ----------
+  var episodes = [], byNumber = {}, tags = [];
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; });
+  }
+  function thumb(url) {
+    if (!/squarespace-cdn\.com/.test(url || '')) return url || '';
+    return url.split('?')[0] + '?format=' + (mobile.matches ? '750w' : '1000w');
+  }
+  function tagUrl(tag) { return CFG.COLLECTION + '?tag=' + encodeURIComponent(tag); }
+  function inTag(tag) { return episodes.filter(function (e) { return e.tags.indexOf(tag) > -1; }); }
+  function img(src, eager, style) {
+    return '<img src="' + esc(src) + '" alt=""' + (eager ? '' : ' loading="lazy"') + ' decoding="async" draggable="false"' + (style ? ' style="' + esc(style) + '"' : '') + '>';
+  }
+  function card(e, eager) {
+    return '<a class="sp-card" href="' + esc(e.url) + '">' + img(thumb(e.image), eager) + '<span class="sp-card-title">' + esc(e.title) + '</span></a>';
+  }
+  function shelf(o) {
+    if (!o.list.length && !o.empty) return '';
+    return '<div class="sp-shelf' + (o.cls ? ' ' + o.cls : '') + '"' + (o.tag ? ' data-shelf="' + esc(o.tag) + '"' : '') + '>' +
+      '<div class="sp-head"><h2>' + esc(o.title) + (o.chevron ? ' <span>›</span>' : '') + '</h2>' + (o.right || '') + '</div>' +
+      (o.list.length ? '<div class="sp-row">' + o.list.map(function (e, i) { return card(e, i < (o.eager || 0)); }).join('') + '</div>' : '') +
+      '</div>';
+  }
+  function tagShelf(tag, cls) {
+    return shelf({ title: tag, chevron: true, tag: tag, cls: cls, list: inTag(tag), right: '<a class="sp-text" href="' + esc(tagUrl(tag)) + '">see all</a>' });
+  }
+  function slide(o, eager) {
+    return '<a class="sp-slide" href="' + esc(o.href) + '" draggable="false"' + (o.topic ? ' data-topic="' + esc(o.topic) + '"' : '') + '>' +
+      img(o.image, eager) + '<span class="sp-scrim"></span><span class="sp-kicker">' + esc(o.kicker) + '</span><span class="sp-slide-title">' + esc(o.title) + '</span></a>';
+  }
+  function recommended() {
+    var tagged = inTag(CFG.RECOMMENDS_TAG);
+    var pinned = CFG.RECOMMENDS.map(function (n) { return byNumber[n]; }).filter(Boolean);
+    // Tag-driven once Squarespace has the tag on every pinned episode.
+    var useTag = tagged.length >= 3 && pinned.every(function (e) { return tagged.indexOf(e) > -1; }) && tagged.length > pinned.length;
+    return (useTag ? tagged : pinned).slice(0, 3);
+  }
+  function recImage(e) { return REC_IMAGES[e.number] ? ASSETS + REC_IMAGES[e.number] : thumb(e.image); }
+
+  function render() {
+    var slides = [];
+    var newest = episodes[0];
+    slides.push({ href: newest.url, image: thumb(newest.image), kicker: 'new episode', title: newest.title });
+    var rec = byNumber[CFG.HERO_RECOMMENDS];
+    if (rec) slides.push({ href: rec.url, image: recImage(rec), kicker: 'sadie recommends', title: rec.title });
+    Object.keys(CFG.HERO_TOPICS).forEach(function (tag) {
+      var e = byNumber[CFG.HERO_TOPICS[tag]] || inTag(tag)[0];
+      if (e) slides.push({ href: tagUrl(tag), image: thumb(e.image), kicker: 'topic', title: tag, topic: tag });
+    });
+
+    var topicTags = tags.filter(function (t) { return CFG.FEATURED.indexOf(t) < 0 && t !== CFG.RECOMMENDS_TAG && inTag(t).length; }).sort();
+    var pillTags = topicTags.concat(['depression', 'relationships'].filter(function (t) { return inTag(t).length; }));
+    var recs = recommended();
+    var F = CFG.FEATURED;
+
+    inner.innerHTML =
+      '<div class="sp-hero"><div class="sp-track">' + slides.map(function (s) { return slide(s, true); }).join('') + '</div></div>' +
+      '<div class="sp-stack">' +
+        shelf({ title: 'latest', chevron: true, list: episodes.slice(1, 9), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
+        tagShelf(F[0]) +
+        (recs.length ? '<div class="sp-band sp-recs"><h2>sadie recommends</h2><div class="sp-recs-grid">' + recs.map(function (e) {
+          return '<a class="sp-rec" href="' + esc(e.url) + '"><span class="sp-frame">' + img(recImage(e)) + '</span><span class="sp-rec-title">' + esc(e.title) + '</span></a>';
+        }).join('') + '</div></div>' : '') +
+        tagShelf(F[1]) + tagShelf(F[2], 'sp-desktop-only') + tagShelf(F[3], 'sp-desktop-only') +
+        '<div class="sp-band sp-topics"><h2>looking for something specific?</h2>' +
+          '<div class="sp-tiles">' + topicTags.map(function (t) {
+            var p = TOPIC_PHOTOS[t];
+            var src = p ? ASSETS + 'topic-photos/' + p[0] : thumb(inTag(t)[0].image);
+            return '<a class="sp-tile" href="' + esc(tagUrl(t)) + '" data-tag="' + esc(t) + '"><span class="sp-frame">' + img(src, false, 'object-position:' + (p ? p[1] : 'center 30%')) + '</span><span class="sp-tile-label">' + esc(t) + '</span></a>';
+          }).join('') + '</div>' +
+          '<div class="sp-search-wrap"><label class="sp-search"><svg viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><circle cx="7.25" cy="7.25" r="5.5"/><path d="M11.4 11.4 16.5 16.5"/></svg>' +
+          '<input type="search" placeholder="search episodes" aria-label="search episodes" autocomplete="off" autocapitalize="none" spellcheck="false" enterkeyhint="search"></label></div>' +
+          '<div class="sp-pills">' + pillTags.map(function (t) { return '<a class="sp-pill" href="' + esc(tagUrl(t)) + '" data-tag="' + esc(t) + '">' + esc(t) + '</a>'; }).join('') + '</div>' +
+        '</div>' +
+        '<div class="sp-below" hidden><div class="sp-topic-slot"></div><div class="sp-results-slot"></div></div>' +
+      '</div>';
+
+    root.hidden = false;
+    fullBleed();
+    hero();
+    topics();
+    search();
+  }
+
+  // The Code Block sits inside Squarespace's padded grid; stretch to the viewport.
+  function fullBleed() {
+    root.style.width = '';
+    root.style.marginLeft = '';
+    var parent = root.parentElement;
+    if (!parent) return;
+    var vw = html.clientWidth;
+    var left = parent.getBoundingClientRect().left + parseFloat(getComputedStyle(parent).paddingLeft || 0);
+    if (Math.abs(left) > 0.5 || Math.abs(parent.clientWidth - vw) > 0.5) {
+      root.style.width = vw + 'px';
+      root.style.marginLeft = -left + 'px';
+    }
+  }
+
+  // ---------- hero ----------
+  function hero() {
+    var box = inner.querySelector('.sp-hero');
+    var track = box.querySelector('.sp-track');
+    var slides = [].slice.call(track.children);
+    var index = 0, timer = null, hover = false, held = false, dragged = false;
+
+    function offsetFor(i) {
+      var max = Math.max(0, track.scrollWidth - box.clientWidth + 2 * parseFloat(getComputedStyle(box).paddingLeft));
+      return Math.min(slides[i].offsetLeft - slides[0].offsetLeft, max);
+    }
+    function go(i) {
+      index = (i + slides.length) % slides.length;
+      track.style.transform = 'translateX(' + -offsetFor(index) + 'px)';
+    }
+    function step(d) { go(Math.max(0, Math.min(slides.length - 1, index + d))); }
+    function schedule() {
+      clearInterval(timer);
+      if (reduced.matches || slides.length < 2) return;
+      timer = setInterval(function () {
+        if (!hover && !held && !document.hidden && !box.contains(document.activeElement)) go(index + 1);
+      }, CFG.HERO_INTERVAL);
+    }
+
+    box.addEventListener('mouseenter', function () { hover = true; });
+    box.addEventListener('mouseleave', function () { hover = false; });
+    box.addEventListener('keydown', function (e) {
+      if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+      e.preventDefault();
+      step(e.key === 'ArrowRight' ? 1 : -1);
+      slides[index].focus({ preventScroll: true });
+      schedule();
+    });
+    box.addEventListener('focusin', function (e) {
+      var i = slides.indexOf(e.target.closest('.sp-slide'));
+      if (i > -1 && i !== index) go(i);
+      box.scrollLeft = 0;
+    });
+
+    var startX = 0, startY = 0, base = 0, pid = null;
+    track.addEventListener('pointerdown', function (e) {
+      if (e.pointerType === 'mouse' && e.button !== 0) return;
+      pid = e.pointerId; startX = e.clientX; startY = e.clientY; base = offsetFor(index);
+      held = true; dragged = false;
+    });
+    track.addEventListener('pointermove', function (e) {
+      if (e.pointerId !== pid) return;
+      var dx = e.clientX - startX;
+      if (!dragged) {
+        if (Math.abs(dx) < 8 || Math.abs(dx) < Math.abs(e.clientY - startY)) return;
+        dragged = true;
+        track.classList.add('sp-drag');
+        try { track.setPointerCapture(pid); } catch (err) {}
+      }
+      track.style.transform = 'translateX(' + (dx - base) + 'px)';
+    });
+    function end(e) {
+      if (e.pointerId !== pid) return;
+      pid = null; held = false;
+      if (!dragged) return;
+      track.classList.remove('sp-drag');
+      var dx = e.clientX - startX;
+      if (e.type === 'pointerup' && Math.abs(dx) > 40) step(dx < 0 ? 1 : -1); else go(index);
+      schedule();
+    }
+    track.addEventListener('pointerup', end);
+    track.addEventListener('pointercancel', end);
+    track.addEventListener('dragstart', function (e) { e.preventDefault(); });
+    track.addEventListener('click', function (e) {
+      if (dragged) { e.preventDefault(); dragged = false; return; }
+      var s = e.target.closest('[data-topic]');
+      if (!s || e.metaKey || e.ctrlKey || e.shiftKey) return;
+      e.preventDefault();
+      var tag = s.getAttribute('data-topic');
+      var existing = inner.querySelector('.sp-stack > .sp-shelf[data-shelf="' + tag + '"]');
+      if (existing && existing.offsetParent) scrollToEl(existing.querySelector('.sp-head'));
+      else openTopic(tag, true);
+    });
+
+    window.addEventListener('resize', function () { fullBleed(); go(index); });
+    if (reduced.addEventListener) reduced.addEventListener('change', schedule);
+    schedule();
+  }
+
+  // ---------- topic + results shelves ----------
+  var activeTag = null;
+  function below() {
+    var wrap = inner.querySelector('.sp-below');
+    wrap.hidden = !wrap.querySelector('.sp-shelf');
+    return wrap;
+  }
+  function scrollToEl(el) {
+    var fixed = 0;
+    var header = document.querySelector('#header, header.header');
+    if (header && /fixed|sticky/.test(getComputedStyle(header).position)) fixed = Math.max(0, header.getBoundingClientRect().bottom);
+    var y = el.getBoundingClientRect().top + window.pageYOffset - fixed - 24;
+    window.scrollTo({ top: Math.max(0, y), behavior: reduced.matches ? 'auto' : 'smooth' });
+  }
+  function openTopic(tag, force) {
+    var slot = inner.querySelector('.sp-topic-slot');
+    activeTag = !force && activeTag === tag ? null : tag;
+    slot.innerHTML = activeTag ? tagShelf(activeTag) : '';
+    [].forEach.call(inner.querySelectorAll('[data-tag]'), function (el) {
+      var on = el.getAttribute('data-tag') === activeTag;
+      el.classList.toggle('sp-active', on);
+      el.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    below();
+    if (activeTag) scrollToEl(slot.querySelector('.sp-head'));
+  }
+  function topics() {
+    inner.querySelector('.sp-topics').addEventListener('click', function (e) {
+      var el = e.target.closest('[data-tag]');
+      if (!el || e.metaKey || e.ctrlKey || e.shiftKey) return;
+      e.preventDefault();
+      openTopic(el.getAttribute('data-tag'));
+    });
+  }
+
+  function find(query) {
+    var terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+    var hits = [];
+    episodes.forEach(function (e) {
+      if (!e._hay) {
+        e._title = e.title.toLowerCase();
+        e._hay = [e.title, e.excerpt, e.summary, (e.guests || []).join(' '), e.tags.join(' ')].join(' ').toLowerCase();
+      }
+      if (!terms.every(function (t) { return e._hay.indexOf(t) > -1; })) return;
+      hits.push({ e: e, inTitle: terms.every(function (t) { return e._title.indexOf(t) > -1; }) });
+    });
+    hits.sort(function (a, b) { return (b.inTitle - a.inTitle) || (b.e.number - a.e.number); });
+    return hits.map(function (h) { return h.e; });
+  }
+  function search() {
+    var input = inner.querySelector('.sp-search input');
+    var slot = inner.querySelector('.sp-results-slot');
+    var timer = null;
+    function run() {
+      var q = input.value.trim();
+      if (q.length < 2) { slot.innerHTML = ''; below(); return; }
+      var list = find(q);
+      slot.innerHTML = shelf({
+        title: (list.length ? 'results for “' : 'no episodes for “') + q + '”',
+        list: list, empty: true, cls: 'sp-results',
+        right: list.length ? '<span class="sp-count">' + list.length + (list.length === 1 ? ' episode' : ' episodes') + '</span>' : ''
+      });
+      below();
+    }
+    input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(run, 200); });
+    input.addEventListener('keydown', function (e) { if (e.key === 'Enter') e.preventDefault(); });
+  }
+
+  // ---------- go ----------
+  load().then(function (data) {
+    episodes = (data.episodes || []).filter(function (e) { return e && e.number != null && e.url; })
+      .map(function (e) { e.tags = e.tags || []; return e; })
+      .sort(function (a, b) { return b.number - a.number; });
+    if (!episodes.length) throw new Error('no episodes');
+    episodes.forEach(function (e) { byNumber[e.number] = e; });
+    tags = data.tags || [];
+    render();
+  }).catch(function () {
+    // Nothing to show: hand the page back to Squarespace's own list.
+    html.classList.remove('sp-ep-custom');
+    if (section) section.classList.remove('sp-ep-section');
+  });
+})();
+</script>

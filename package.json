@@ -1,0 +1,15 @@
+{
+  "name": "she-persisted-episodes",
+  "private": true,
+  "description": "she persisted episode archive: transcripts, index and the Squarespace episodes-page embed",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "import": "node scripts/import.js --since-last",
+    "import:all": "node scripts/import.js --all",
+    "audit": "node scripts/audit.js",
+    "summarize": "node scripts/summarize.js",
+    "build": "node scripts/build-index.js",
+    "refresh": "node scripts/import.js --since-last && node scripts/audit.js && node scripts/summarize.js && node scripts/build-index.js",
+    "preview": "python3 -m http.server 4173"
+  }
+}
