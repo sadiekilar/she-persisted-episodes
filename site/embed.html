@@ -1,4 +1,4 @@
-<!-- she persisted — episodes page. Paste this whole file into a Code Block (mode HTML) in a section above the blog list on /episodes. Set PAGES_BASE below to the GitHub Pages URL of this repo. -->
+<!-- she persisted - episodes page. This file is plain ASCII on purpose (special characters are written as \u escapes) so pasting can't garble it. Paste this whole file into a Code Block (mode HTML) in a section above the blog list on /episodes. Set PAGES_BASE below to the GitHub Pages URL of this repo. -->
 <div id="sp-episodes" hidden><div class="sp-in"></div></div>
 <style>
 /* Stock Squarespace blog list: hidden while the custom page is showing. */
@@ -95,6 +95,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-card:hover img{transform:scale(1.035);filter:grayscale(0)}
   #sp-episodes .sp-rec:hover .sp-frame{transform:scale(1.03)}
   #sp-episodes .sp-tile:hover .sp-frame{transform:scale(1.04)}
+  #sp-episodes .sp-card:hover .sp-card-title,#sp-episodes .sp-rec:hover .sp-rec-title,#sp-episodes .sp-tile:hover .sp-tile-label{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
 }
 #sp-episodes .sp-card:focus-visible img{filter:grayscale(0)}
 
@@ -189,7 +190,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   var section = root.closest('section');
   if (section) section.classList.add('sp-ep-section');
 
-  // Squarespace's own filtered / paginated views (?tag=, ?offset=, ?view=all …)
+  // Squarespace's own filtered / paginated views (?tag=, ?offset=, ?view=all ...)
   // keep the stock blog list; the custom page only replaces the bare landing page.
   var params = new URLSearchParams(location.search);
   var STOCK_PARAMS = ['tag', 'category', 'offset', 'view', 'author', 'month', 'year', 'reversePaginate'];
@@ -273,7 +274,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function shelf(o) {
     if (!o.list.length && !o.empty) return '';
     return '<div class="sp-shelf' + (o.cls ? ' ' + o.cls : '') + '"' + (o.tag ? ' data-shelf="' + esc(o.tag) + '"' : '') + '>' +
-      '<div class="sp-head"><h2>' + (o.href ? '<a class="sp-text" href="' + esc(o.href) + '">' : '') + esc(o.title) + (o.chevron ? ' <span>›</span>' : '') + (o.href ? '</a>' : '') + '</h2>' + (o.right || '') + '</div>' +
+      '<div class="sp-head"><h2>' + (o.href ? '<a class="sp-text" href="' + esc(o.href) + '">' : '') + esc(o.title) + (o.chevron ? ' <span>\u203a</span>' : '') + (o.href ? '</a>' : '') + '</h2>' + (o.right || '') + '</div>' +
       (o.list.length ? '<div class="sp-row-wrap"><div class="sp-row">' + o.list.map(function (e, i) { return card(e, i < (o.eager || 0)); }).join('') + '</div>' + arrow('prev') + arrow('next') + '</div>' : '') +
       '</div>';
   }
@@ -557,7 +558,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       if (q.length < 2) { slot.innerHTML = ''; below(); return; }
       var list = find(q);
       slot.innerHTML = shelf({
-        title: (list.length ? 'results for “' : 'no episodes for “') + q + '”',
+        title: (list.length ? 'results for \u201c' : 'no episodes for \u201c') + q + '\u201d',
         list: list, empty: true, cls: 'sp-results',
         right: list.length ? '<span class="sp-count">' + list.length + (list.length === 1 ? ' episode' : ' episodes') + '</span>' : ''
       });
