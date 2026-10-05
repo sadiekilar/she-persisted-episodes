@@ -155,6 +155,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     PAGES_BASE: 'https://sadiekilar.github.io/she-persisted-episodes/',
     // The Squarespace blog collection that holds the episode posts.
     COLLECTION: '/episodes',
+    // How many episodes the "latest" row holds (the newest one is in the hero, so the row starts at the second).
+    LATEST_COUNT: 20,
     FEATURED: ['anxiety', 'self-improvement', 'depression', 'relationships'],
     // Hard-coded until the "sadie recommends" tag is on all three in Squarespace.
     RECOMMENDS: [261, 228, 242],
@@ -336,7 +338,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
         return slides.map(function (s) { return slide(s, true, set !== 1); }).join('');
       }).join('') + '</div></div>' + (slides.length > 1 ? arrow('prev') + arrow('next') : '') + '</div></div>' +
       '<div class="sp-stack">' +
-        shelf({ title: 'latest', chevron: true, href: CFG.COLLECTION + '?view=all', list: episodes.slice(1, 9), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
+        shelf({ title: 'latest', chevron: true, href: CFG.COLLECTION + '?view=all', list: episodes.slice(1, 1 + CFG.LATEST_COUNT), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
         tagShelf(F[0]) +
         (recs.length ? '<div class="sp-band sp-recs"><h2><a class="sp-text" href="' + esc(tagUrl(CFG.RECOMMENDS_TAG)) + '">sadie recommends</a></h2><div class="sp-recs-grid">' + recs.map(function (e) {
           return '<a class="sp-rec" href="' + esc(e.url) + '"><span class="sp-frame">' + img(recImage(e)) + '</span><span class="sp-rec-title">' + esc(e.title) + '</span></a>';
