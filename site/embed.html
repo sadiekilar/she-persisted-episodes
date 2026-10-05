@@ -76,20 +76,21 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
 #sp-episodes .sp-pills{display:none}
 
-/* carousel arrows: a bare chevron on a translucent strip at each edge, shown only while the row is hovered */
-#sp-episodes button.sp-arrow{position:absolute;z-index:2;top:0;display:none;align-items:center;justify-content:center;width:var(--g);min-width:0;height:auto;margin:0;padding:0;border:0;border-radius:0;background:rgba(247,247,239,.7);color:var(--red);box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;opacity:0;transition:opacity 150ms}
+/* carousel arrows: one thin chevron in the side gutter, no background, shown only while the row is hovered;
+   the left one appears only after the row has moved */
+#sp-episodes button.sp-arrow{position:absolute;z-index:2;top:0;display:none;align-items:center;justify-content:center;width:var(--g);min-width:0;height:auto;margin:0;padding:0;border:0;border-radius:0;background:none;color:var(--red);box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;opacity:0;transition:opacity 150ms}
 #sp-episodes button.sp-arrow:focus{outline:none}
 #sp-episodes button.sp-arrow:focus-visible{outline:2px solid currentColor;outline-offset:-2px}
-#sp-episodes button.sp-arrow svg{width:22px;height:22px}
+#sp-episodes button.sp-arrow svg{width:28px;height:28px}
 #sp-episodes .sp-row-wrap{position:relative}
 #sp-episodes .sp-row-wrap .sp-arrow{height:var(--card)}
-#sp-episodes .sp-hero .sp-arrow{bottom:0;background:rgba(116,0,0,.5);color:var(--cream)}
-#sp-episodes .sp-hero .sp-prev{left:calc(var(--g)*-1);background:none}
+#sp-episodes .sp-hero .sp-arrow{bottom:0;color:var(--cream)}
+#sp-episodes .sp-hero .sp-prev{left:calc(var(--g)*-1)}
 #sp-episodes .sp-prev{left:0}
 #sp-episodes .sp-next{right:0}
 @media (hover:hover){
   #sp-episodes button.sp-arrow{display:flex}
-  #sp-episodes .sp-row-wrap.sp-noscroll .sp-arrow,#sp-episodes .sp-row-wrap.sp-at-start .sp-prev{display:none}
+  #sp-episodes .sp-row-wrap.sp-noscroll .sp-arrow,#sp-episodes .sp-row-wrap.sp-at-start .sp-prev,#sp-episodes .sp-hero:not(.sp-moved) .sp-prev{display:none}
   #sp-episodes .sp-row-wrap:hover .sp-arrow,#sp-episodes .sp-hero:hover .sp-arrow,#sp-episodes button.sp-arrow:focus-visible{opacity:1}
 }
 
@@ -280,7 +281,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     return '<a class="sp-card" href="' + esc(e.url) + '"><span class="sp-thumb">' + img(thumb(e.image), eager) + '</span><span class="sp-card-title">' + esc(e.title) + '</span></a>';
   }
   function arrow(dir) {
-    return '<button type="button" class="sp-arrow sp-' + dir + '" aria-label="' + (dir === 'prev' ? 'previous' : 'next') + '"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="' + (dir === 'prev' ? 'M10 3 5 8l5 5' : 'M6 3l5 5-5 5') + '"/></svg></button>';
+    return '<button type="button" class="sp-arrow sp-' + dir + '" aria-label="' + (dir === 'prev' ? 'previous' : 'next') + '"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="' + (dir === 'prev' ? 'M10 3 5 8l5 5' : 'M6 3l5 5-5 5') + '"/></svg></button>';
   }
   function shelf(o) {
     if (!o.list.length && !o.empty) return '';
@@ -395,6 +396,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       track.classList.remove('sp-drag');
     }
     function go(i) {
+      if (i !== index) box.classList.add('sp-moved');
       index = Math.max(0, Math.min(slides.length - 1, i));
       place(index);
       clearTimeout(settle);
