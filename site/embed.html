@@ -155,8 +155,17 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     // Hard-coded until the "sadie recommends" tag is on all three in Squarespace.
     RECOMMENDS: [261, 228, 242],
     RECOMMENDS_TAG: 'sadie recommends',
-    HERO_RECOMMENDS: 242,
-    HERO_TOPICS: { anxiety: 249, relationships: 257 },
+    // Hero rotation, in order. rec = episode number; topic = tag, photo = episode whose
+    // thumbnail stands in for it (the newest episode in the tag when left out).
+    HERO: [
+      { latest: true },
+      { rec: 261 },
+      { topic: 'anxiety', photo: 249 },
+      { rec: 228 },
+      { topic: 'relationships', photo: 257 },
+      { rec: 242 },
+      { topic: 'dbt' }
+    ],
     HERO_INTERVAL: 6000,
     CACHE_KEY: 'sp:episodes:v1',
     CACHE_TTL: 60 * 60 * 1000
@@ -298,13 +307,18 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 
   function render() {
     var slides = [];
-    var newest = episodes[0];
-    slides.push({ href: newest.url, image: thumb(newest.image), kicker: 'new episode', title: newest.title });
-    var rec = byNumber[CFG.HERO_RECOMMENDS];
-    if (rec) slides.push({ href: rec.url, image: thumb(rec.image), kicker: 'sadie recommends', title: rec.title });
-    Object.keys(CFG.HERO_TOPICS).forEach(function (tag) {
-      var e = byNumber[CFG.HERO_TOPICS[tag]] || inTag(tag)[0];
-      if (e) slides.push({ href: tagUrl(tag), image: thumb(e.image), kicker: 'topic', title: tag, topic: tag });
+    CFG.HERO.forEach(function (h) {
+      var e;
+      if (h.latest) {
+        e = episodes[0];
+        slides.push({ href: e.url, image: thumb(e.image), kicker: 'new episode', title: e.title });
+      } else if (h.rec) {
+        e = byNumber[h.rec];
+        if (e && e !== episodes[0]) slides.push({ href: e.url, image: thumb(e.image), kicker: 'sadie recommends', title: e.title });
+      } else if (h.topic) {
+        e = byNumber[h.photo] || inTag(h.topic)[0];
+        if (e) slides.push({ href: tagUrl(h.topic), image: thumb(e.image), kicker: 'topic', title: h.topic, topic: h.topic });
+      }
     });
 
     var topicTags = tags.filter(function (t) { return CFG.FEATURED.indexOf(t) < 0 && t !== CFG.RECOMMENDS_TAG && inTag(t).length; }).sort();
