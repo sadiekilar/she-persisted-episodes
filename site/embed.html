@@ -439,7 +439,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       el.setAttribute('aria-pressed', on ? 'true' : 'false');
     });
     below();
-    if (activeTag) scrollToEl(slot.querySelector('.sp-head'));
+    // Only a hero topic slide (force) jumps down to the shelf; tiles and pills leave the page where it is.
+    if (activeTag && force) scrollToEl(slot.querySelector('.sp-head'));
   }
   function topics() {
     inner.querySelector('.sp-topics').addEventListener('click', function (e) {
