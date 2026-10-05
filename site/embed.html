@@ -3,7 +3,7 @@
 <style>
 /* Stock Squarespace blog list: hidden while the custom page is showing. */
 html.sp-ep-custom section:has(.collection-content-wrapper){display:none!important}
-html.sp-ep-custom .collection-content-wrapper,html.sp-ep-custom .blog-list-pagination{display:none!important}
+html.sp-ep-custom .collection-content-wrapper,html.sp-ep-custom .blog-list-pagination,html.sp-ep-custom #itemPagination{display:none!important}
 /* The section holding this Code Block: no side or bottom padding, no width cap.
    padding-top is left alone: Squarespace sets it to the fixed header's height. */
 section.sp-ep-section{padding-right:0!important;padding-bottom:0!important;padding-left:0!important;min-height:0!important}
@@ -36,9 +36,10 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-slide:focus-visible{outline-offset:-4px}
 
 /* shelves */
-#sp-episodes .sp-stack{display:flex;flex-direction:column;gap:72px;padding:64px 0 96px}
-#sp-episodes .sp-below{display:flex;flex-direction:column;gap:72px}
-#sp-episodes .sp-below[hidden]{display:none}
+/* The page ends on the red band, flush with the red footer, unless a topic or results shelf is open below it. */
+#sp-episodes .sp-stack{display:flex;flex-direction:column;gap:72px;padding:64px 0 0}
+#sp-episodes .sp-below{display:flex;flex-direction:column;gap:72px;padding-bottom:96px}
+#sp-episodes .sp-below[hidden],#sp-episodes .sp-below>div:empty{display:none}
 #sp-episodes .sp-shelf{display:flex;flex-direction:column;gap:18px}
 #sp-episodes .sp-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:0 var(--g)}
 #sp-episodes .sp-head>.sp-text,#sp-episodes .sp-count{flex:none;font-size:14px}
@@ -66,7 +67,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-tile-label{padding-bottom:1px;font-size:16px;font-weight:700;line-height:1.1}
 #sp-episodes .sp-tile.sp-active .sp-tile-label{box-shadow:inset 0 -1px 0 var(--cream)}
 #sp-episodes .sp-search-wrap{display:flex;padding:8px var(--g) 0}
-#sp-episodes .sp-search{display:flex;align-items:center;gap:12px;width:520px;max-width:100%;height:56px;margin:0;padding:0 20px;border:1.5px solid var(--cream);border-radius:999px;cursor:text}
+#sp-episodes .sp-search{display:flex;align-items:center;gap:12px;width:100%;height:56px;margin:0;padding:0 20px;border:1.5px solid var(--cream);border-radius:999px;cursor:text}
 #sp-episodes .sp-search svg{flex:none;width:18px;height:18px}
 #sp-episodes .sp-search input{flex:1;min-width:0;width:auto;height:auto;margin:0;padding:0;border:0;border-radius:0;background:none;box-shadow:none;color:var(--cream);font:inherit;font-size:17px;letter-spacing:inherit;-webkit-appearance:none;appearance:none}
 #sp-episodes .sp-search input::placeholder{color:var(--cream);opacity:.8}
@@ -110,8 +111,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-slide{width:300px;aspect-ratio:16/10;gap:6px;padding:20px}
   #sp-episodes .sp-kicker{padding:4px 10px 6px;font-size:12px}
   #sp-episodes .sp-slide-title{font-size:20px;line-height:1.1}
-  #sp-episodes .sp-stack{gap:48px;padding:40px 0 64px}
-  #sp-episodes .sp-below{gap:48px;margin-top:-8px}
+  #sp-episodes .sp-stack{gap:48px;padding:40px 0 0}
+  #sp-episodes .sp-below{gap:48px;margin-top:-8px;padding-bottom:64px}
   #sp-episodes .sp-shelf{gap:14px}
   #sp-episodes .sp-head>.sp-text,#sp-episodes .sp-count{font-size:12px;opacity:.8}
   #sp-episodes .sp-row{gap:12px;scroll-snap-type:x mandatory;scroll-padding-left:20px;-webkit-mask-image:linear-gradient(90deg,#000 94%,transparent);mask-image:linear-gradient(90deg,#000 94%,transparent)}
