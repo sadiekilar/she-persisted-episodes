@@ -23,7 +23,9 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes a.sp-text:hover,#sp-episodes a.sp-pill:hover{opacity:.75}
 
 /* 1. hero */
-#sp-episodes .sp-hero{background:var(--red);color:var(--cream);padding:16px 0 56px var(--g);margin-top:-1px;overflow:hidden}
+#sp-episodes .sp-hero{background:var(--red);color:var(--cream);padding:16px 0 56px var(--g);margin-top:-1px}
+#sp-episodes .sp-hero-box{position:relative}
+#sp-episodes .sp-clip{overflow:hidden}
 #sp-episodes .sp-track{display:flex;gap:28px;transition:transform 450ms ease;touch-action:pan-y}
 #sp-episodes .sp-track.sp-drag{transition:none}
 #sp-episodes .sp-slide{position:relative;flex:none;width:1120px;width:min(1120px,calc(100cqw - var(--g)*2 - 192px));aspect-ratio:21/9;display:flex;flex-direction:column;justify-content:flex-end;gap:10px;padding:32px;border-radius:16px;overflow:hidden;color:var(--cream);background:var(--cream);-webkit-user-select:none;user-select:none;-webkit-user-drag:none}
@@ -39,7 +41,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-below[hidden]{display:none}
 #sp-episodes .sp-shelf{display:flex;flex-direction:column;gap:18px}
 #sp-episodes .sp-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:0 var(--g)}
-#sp-episodes .sp-head .sp-text,#sp-episodes .sp-count{flex:none;font-size:14px}
+#sp-episodes .sp-head>.sp-text,#sp-episodes .sp-count{flex:none;font-size:14px}
 #sp-episodes .sp-count{font-size:13px;opacity:.8}
 /* 8px of vertical room so a card growing on hover isn't clipped by the scroller */
 #sp-episodes .sp-row{display:flex;gap:20px;padding:8px var(--g);margin:-8px 0;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 96%,transparent);mask-image:linear-gradient(90deg,#000 96%,transparent)}
@@ -72,6 +74,21 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
 #sp-episodes .sp-pills{display:none}
 
+/* carousel arrows: centered in the side gutters */
+#sp-episodes button.sp-arrow{position:absolute;z-index:2;display:flex;align-items:center;justify-content:center;width:40px;height:40px;min-width:0;margin:0;padding:0;border:0;border-radius:50%;background:var(--red);color:var(--cream);box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;transition:opacity 150ms}
+#sp-episodes button.sp-arrow:hover{opacity:.75}
+#sp-episodes button.sp-arrow:focus{outline:none}
+#sp-episodes button.sp-arrow:focus-visible{outline:2px solid currentColor;outline-offset:2px}
+#sp-episodes button.sp-arrow svg{width:16px;height:16px}
+#sp-episodes .sp-row-wrap{position:relative}
+#sp-episodes .sp-row-wrap .sp-arrow{top:calc(var(--card)/2 - 20px)}
+#sp-episodes .sp-row-wrap .sp-prev{left:calc((var(--g) - 40px)/2)}
+#sp-episodes .sp-row-wrap .sp-next{right:calc((var(--g) - 40px)/2)}
+#sp-episodes .sp-row-wrap.sp-noscroll .sp-arrow{display:none}
+#sp-episodes .sp-hero .sp-arrow{top:calc(50% - 20px);background:var(--cream);color:var(--red)}
+#sp-episodes .sp-hero .sp-prev{left:calc((var(--g) + 40px)/-2)}
+#sp-episodes .sp-hero .sp-next{right:calc((var(--g) - 40px)/2)}
+
 /* hover: shelf thumbnails grow and turn to color; recommends and topic tiles grow; the hero stays still */
 @media (hover:hover){
   #sp-episodes .sp-card:hover img{transform:scale(1.035);filter:grayscale(0)}
@@ -96,12 +113,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-stack{gap:48px;padding:40px 0 64px}
   #sp-episodes .sp-below{gap:48px;margin-top:-8px}
   #sp-episodes .sp-shelf{gap:14px}
-  #sp-episodes .sp-head .sp-text,#sp-episodes .sp-count{font-size:12px;opacity:.8}
+  #sp-episodes .sp-head>.sp-text,#sp-episodes .sp-count{font-size:12px;opacity:.8}
   #sp-episodes .sp-row{gap:12px;scroll-snap-type:x mandatory;scroll-padding-left:20px;-webkit-mask-image:linear-gradient(90deg,#000 94%,transparent);mask-image:linear-gradient(90deg,#000 94%,transparent)}
   #sp-episodes .sp-card{scroll-snap-align:start}
   #sp-episodes .sp-card img{border-radius:14px}
   #sp-episodes .sp-card-title{padding:8px 2px 0;font-size:14px}
-  #sp-episodes .sp-desktop-only{display:none}
+  #sp-episodes .sp-desktop-only,#sp-episodes button.sp-arrow{display:none}
   #sp-episodes .sp-recs{gap:14px;padding:36px 0 40px}
   #sp-episodes .sp-recs-grid{grid-template-columns:minmax(0,1fr);gap:16px}
   #sp-episodes .sp-frame{border-radius:14px}
@@ -249,18 +266,21 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function card(e, eager) {
     return '<a class="sp-card" href="' + esc(e.url) + '">' + img(thumb(e.image), eager) + '<span class="sp-card-title">' + esc(e.title) + '</span></a>';
   }
+  function arrow(dir) {
+    return '<button type="button" class="sp-arrow sp-' + dir + '" aria-label="' + (dir === 'prev' ? 'previous' : 'next') + '"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="' + (dir === 'prev' ? 'M10 3 5 8l5 5' : 'M6 3l5 5-5 5') + '"/></svg></button>';
+  }
   function shelf(o) {
     if (!o.list.length && !o.empty) return '';
     return '<div class="sp-shelf' + (o.cls ? ' ' + o.cls : '') + '"' + (o.tag ? ' data-shelf="' + esc(o.tag) + '"' : '') + '>' +
       '<div class="sp-head"><h2>' + (o.href ? '<a class="sp-text" href="' + esc(o.href) + '">' : '') + esc(o.title) + (o.chevron ? ' <span>›</span>' : '') + (o.href ? '</a>' : '') + '</h2>' + (o.right || '') + '</div>' +
-      (o.list.length ? '<div class="sp-row">' + o.list.map(function (e, i) { return card(e, i < (o.eager || 0)); }).join('') + '</div>' : '') +
+      (o.list.length ? '<div class="sp-row-wrap"><div class="sp-row">' + o.list.map(function (e, i) { return card(e, i < (o.eager || 0)); }).join('') + '</div>' + arrow('prev') + arrow('next') + '</div>' : '') +
       '</div>';
   }
   function tagShelf(tag, cls) {
     return shelf({ title: tag, chevron: true, href: tagUrl(tag), tag: tag, cls: cls, list: inTag(tag), right: '<a class="sp-text" href="' + esc(tagUrl(tag)) + '">see all</a>' });
   }
-  function slide(o, eager) {
-    return '<a class="sp-slide" href="' + esc(o.href) + '" draggable="false"' + (o.topic ? ' data-topic="' + esc(o.topic) + '"' : '') + '>' +
+  function slide(o, eager, clone) {
+    return '<a class="sp-slide" href="' + esc(o.href) + '" draggable="false"' + (clone ? ' tabindex="-1" aria-hidden="true"' : '') + (o.topic ? ' data-topic="' + esc(o.topic) + '"' : '') + '>' +
       img(o.image, eager) + '<span class="sp-scrim"></span><span class="sp-kicker">' + esc(o.kicker) + '</span><span class="sp-slide-title">' + esc(o.title) + '</span></a>';
   }
   function recommended() {
@@ -289,7 +309,10 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     var F = CFG.FEATURED;
 
     inner.innerHTML =
-      '<div class="sp-hero"><div class="sp-track">' + slides.map(function (s) { return slide(s, true); }).join('') + '</div></div>' +
+      // Three copies of the slides: the middle set is the real one, the outer two let the carousel loop forever.
+      '<div class="sp-hero"><div class="sp-hero-box"><div class="sp-clip"><div class="sp-track" data-count="' + slides.length + '">' + [0, 1, 2].map(function (set) {
+        return slides.map(function (s) { return slide(s, true, set !== 1); }).join('');
+      }).join('') + '</div></div>' + (slides.length > 1 ? arrow('prev') + arrow('next') : '') + '</div></div>' +
       '<div class="sp-stack">' +
         shelf({ title: 'latest', chevron: true, href: CFG.COLLECTION + '?view=all', list: episodes.slice(1, 9), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
         tagShelf(F[0]) +
@@ -313,6 +336,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     root.hidden = false;
     fullBleed();
     hero();
+    rows();
     topics();
     search();
   }
@@ -336,43 +360,67 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     var box = inner.querySelector('.sp-hero');
     var track = box.querySelector('.sp-track');
     var slides = [].slice.call(track.children);
-    var index = 0, timer = null, hover = false, held = false, dragged = false;
+    var n = +track.getAttribute('data-count');
+    var index = n, timer = null, settle = null, hover = false, held = false, dragged = false;
 
-    function offsetFor(i) {
-      var max = Math.max(0, track.scrollWidth - box.clientWidth + 2 * parseFloat(getComputedStyle(box).paddingLeft));
-      return Math.min(slides[i].offsetLeft - slides[0].offsetLeft, max);
+    function offsetFor(i) { return slides[i].offsetLeft - slides[0].offsetLeft; }
+    function place(i) { track.style.transform = 'translateX(' + -offsetFor(i) + 'px)'; }
+    // Jump (no animation) from a copy back to the identical slide in the middle set.
+    function normalize() {
+      clearTimeout(settle);
+      var i = n + ((index % n) + n) % n;
+      if (i === index) return;
+      index = i;
+      track.classList.add('sp-drag');
+      place(index);
+      void track.offsetWidth;
+      track.classList.remove('sp-drag');
     }
     function go(i) {
-      index = (i + slides.length) % slides.length;
-      track.style.transform = 'translateX(' + -offsetFor(index) + 'px)';
+      index = Math.max(0, Math.min(slides.length - 1, i));
+      place(index);
+      clearTimeout(settle);
+      settle = setTimeout(normalize, reduced.matches ? 0 : 500);
     }
-    function step(d) { go(Math.max(0, Math.min(slides.length - 1, index + d))); }
+    function step(d) { normalize(); go(index + d); }
     function schedule() {
       clearInterval(timer);
-      if (reduced.matches || slides.length < 2) return;
+      if (reduced.matches || n < 2) return;
       timer = setInterval(function () {
-        if (!hover && !held && !document.hidden && !box.contains(document.activeElement)) go(index + 1);
+        if (!hover && !held && !document.hidden && !box.contains(document.activeElement)) step(1);
       }, CFG.HERO_INTERVAL);
     }
 
+    track.classList.add('sp-drag');
+    place(index);
+    void track.offsetWidth;
+    track.classList.remove('sp-drag');
+
     box.addEventListener('mouseenter', function () { hover = true; });
     box.addEventListener('mouseleave', function () { hover = false; });
+    box.addEventListener('click', function (e) {
+      var btn = e.target.closest('.sp-arrow');
+      if (!btn) return;
+      step(btn.classList.contains('sp-next') ? 1 : -1);
+      schedule();
+    });
     box.addEventListener('keydown', function (e) {
       if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
       e.preventDefault();
       step(e.key === 'ArrowRight' ? 1 : -1);
-      slides[index].focus({ preventScroll: true });
+      if (e.target.closest('.sp-slide')) slides[n + (index % n)].focus({ preventScroll: true });
       schedule();
     });
     box.addEventListener('focusin', function (e) {
       var i = slides.indexOf(e.target.closest('.sp-slide'));
-      if (i > -1 && i !== index) go(i);
-      box.scrollLeft = 0;
+      if (i > -1 && i % n !== index % n) { normalize(); go(i); }
+      box.querySelector('.sp-clip').scrollLeft = 0;
     });
 
     var startX = 0, startY = 0, base = 0, pid = null;
     track.addEventListener('pointerdown', function (e) {
       if (e.pointerType === 'mouse' && e.button !== 0) return;
+      normalize();
       pid = e.pointerId; startX = e.clientX; startY = e.clientY; base = offsetFor(index);
       held = true; dragged = false;
     });
@@ -393,7 +441,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       if (!dragged) return;
       track.classList.remove('sp-drag');
       var dx = e.clientX - startX;
-      if (e.type === 'pointerup' && Math.abs(dx) > 40) step(dx < 0 ? 1 : -1); else go(index);
+      go(e.type === 'pointerup' && Math.abs(dx) > 40 ? index + (dx < 0 ? 1 : -1) : index);
       schedule();
     }
     track.addEventListener('pointerup', end);
@@ -410,9 +458,42 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       else openTopic(tag, true);
     });
 
-    window.addEventListener('resize', function () { fullBleed(); go(index); });
+    window.addEventListener('resize', function () {
+      fullBleed();
+      track.classList.add('sp-drag');
+      place(index);
+      void track.offsetWidth;
+      track.classList.remove('sp-drag');
+      updateArrows();
+    });
     if (reduced.addEventListener) reduced.addEventListener('change', schedule);
     schedule();
+  }
+
+  // ---------- shelf rows ----------
+  // Arrows page a row by whole cards and wrap around at either end.
+  function updateArrows() {
+    [].forEach.call(inner.querySelectorAll('.sp-row-wrap'), function (wrap) {
+      var row = wrap.querySelector('.sp-row');
+      wrap.classList.toggle('sp-noscroll', row.scrollWidth <= row.clientWidth + 1);
+    });
+  }
+  function rows() {
+    inner.querySelector('.sp-stack').addEventListener('click', function (e) {
+      var btn = e.target.closest('.sp-row-wrap .sp-arrow');
+      if (!btn) return;
+      var row = btn.parentElement.querySelector('.sp-row');
+      var cards = row.children;
+      var max = row.scrollWidth - row.clientWidth;
+      var unit = cards.length > 1 ? cards[1].offsetLeft - cards[0].offsetLeft : row.clientWidth;
+      var gutter = parseFloat(getComputedStyle(row).paddingLeft);
+      var page = Math.max(1, Math.floor((row.clientWidth - 2 * gutter) / unit)) * unit;
+      var next = btn.classList.contains('sp-next');
+      var x = row.scrollLeft;
+      var to = next ? (x >= max - 2 ? 0 : Math.min(max, x + page)) : (x <= 2 ? max : Math.max(0, x - page));
+      row.scrollTo({ left: to, behavior: reduced.matches ? 'auto' : 'smooth' });
+    });
+    updateArrows();
   }
 
   // ---------- topic + results shelves ----------
@@ -420,6 +501,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function below() {
     var wrap = inner.querySelector('.sp-below');
     wrap.hidden = !wrap.querySelector('.sp-shelf');
+    updateArrows();
     return wrap;
   }
   function scrollToEl(el) {
