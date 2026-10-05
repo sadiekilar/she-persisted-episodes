@@ -17,7 +17,7 @@
 <div id="mount"></div>
 <script>
   // Assets and the index come from this checkout instead of GitHub Pages.
-  window.SP_EPISODES_CONFIG = { PAGES_BASE: '../' };
+  window.SP_EPISODES_CONFIG = { PAGES_BASE: location.origin + '/' };
   try { localStorage.removeItem('sp:episodes:v1'); } catch (e) {}
   fetch('embed.html', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(function (html) {
     document.getElementById('mount').appendChild(document.createRange().createContextualFragment(html));

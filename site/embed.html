@@ -78,6 +78,32 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
 #sp-episodes .sp-pills{display:none}
 
+/* archive page: "all episodes" or one tag */
+#sp-episodes .sp-arch{display:grid;grid-template-columns:220px minmax(0,900px);gap:20px 40px;align-items:start;padding:48px var(--g) 96px}
+#sp-episodes .sp-arch>*{grid-column:2}
+#sp-episodes .sp-side{grid-column:1;grid-row:1/span 4;position:sticky;top:calc(var(--sp-top,0px) + 24px);display:flex;flex-direction:column;gap:20px}
+#sp-episodes .sp-side-kicker{font-size:12px;font-weight:700;letter-spacing:.04em}
+#sp-episodes .sp-side-list{display:flex;flex-direction:column;gap:2px;font-size:15px;line-height:1.1}
+#sp-episodes .sp-side-item{padding:9px 12px;border-radius:10px}
+#sp-episodes .sp-side-item:hover{opacity:.75}
+#sp-episodes .sp-side-item.sp-on{background:var(--red);color:var(--cream);font-weight:700}
+#sp-episodes .sp-back{display:none}
+#sp-episodes .sp-arch-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px}
+#sp-episodes h1{margin:0;padding:0;font-family:inherit;font-size:56px;font-weight:700;line-height:1;letter-spacing:-1px;color:inherit;text-transform:none;white-space:nowrap}
+#sp-episodes .sp-arch-head .sp-count{font-size:14px}
+#sp-episodes .sp-feed{display:flex;flex-direction:column}
+#sp-episodes .sp-item{display:grid;grid-template-columns:120px minmax(0,1fr);gap:24px;align-items:center;padding:20px 0;border-top:1px solid rgba(116,0,0,.2)}
+#sp-episodes .sp-item .sp-thumb{border-radius:12px}
+#sp-episodes .sp-item img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;filter:grayscale(1);transition:transform 300ms ease,filter 300ms ease}
+#sp-episodes .sp-item-text{display:flex;flex-direction:column;gap:8px}
+#sp-episodes .sp-item-title{font-size:22px;font-weight:700;line-height:1.15;color:var(--ink)}
+#sp-episodes .sp-item-excerpt{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:15px;line-height:1.4;color:var(--ink);opacity:.75}
+#sp-episodes .sp-more-wrap{display:flex;justify-content:center;padding-top:4px}
+#sp-episodes .sp-more-wrap[hidden]{display:none}
+#sp-episodes button.sp-more{margin:0;padding:14px 28px;border:1px solid var(--red);border-radius:999px;background:none;color:var(--red);font:inherit;font-size:15px;line-height:1;letter-spacing:inherit;text-transform:none;box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;transition:opacity 150ms}
+#sp-episodes button.sp-more:hover{opacity:.75}
+#sp-episodes button.sp-more:focus-visible{outline:2px solid currentColor;outline-offset:2px}
+
 /* carousel arrows: one thin chevron in the side gutter, no background, shown only while the row is hovered;
    the left one appears only after the row has moved */
 #sp-episodes button.sp-arrow{position:absolute;z-index:2;top:0;display:none;align-items:center;justify-content:center;width:var(--g);min-width:0;height:auto;margin:0;padding:0;border:0;border-radius:0;background:none;color:var(--red);box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;opacity:0;transition:opacity 150ms}
@@ -98,14 +124,15 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 
 /* hover: the title underlines and the photo zooms slightly inside its fixed frame (shelf thumbnails also turn to color); the hero stays still */
 @media (hover:hover){
-  #sp-episodes .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}
+  #sp-episodes .sp-card:hover img,#sp-episodes .sp-item:hover img{transform:scale(1.05);filter:grayscale(0)}
   #sp-episodes .sp-rec:hover .sp-frame img,#sp-episodes .sp-tile:hover .sp-frame img{transform:scale(1.05)}
-  #sp-episodes .sp-card:hover .sp-card-title,#sp-episodes .sp-rec:hover .sp-rec-title,#sp-episodes .sp-tile:hover .sp-tile-label{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
+  #sp-episodes .sp-item:hover .sp-item-title,#sp-episodes .sp-card:hover .sp-card-title,#sp-episodes .sp-rec:hover .sp-rec-title,#sp-episodes .sp-tile:hover .sp-tile-label{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
 }
-#sp-episodes .sp-card:focus-visible img{filter:grayscale(0)}
+#sp-episodes .sp-card:focus-visible img,#sp-episodes .sp-item:focus-visible img{filter:grayscale(0)}
 
 @media (max-width:900px) and (min-width:601px){
   #sp-episodes .sp-tiles{grid-template-columns:repeat(4,minmax(0,1fr))}
+  #sp-episodes .sp-arch{grid-template-columns:170px minmax(0,1fr);gap:20px 28px}
 }
 
 /* mobile */
@@ -142,10 +169,25 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-pills{order:2;display:flex;flex-wrap:wrap;gap:8px;padding-top:6px}
   #sp-episodes .sp-pill{padding:10px 14px;border:1px solid var(--cream);border-radius:999px;font-size:14px;line-height:1;white-space:nowrap}
   #sp-episodes .sp-pill.sp-active{background:var(--cream);color:var(--red)}
+  #sp-episodes .sp-arch{grid-template-columns:minmax(0,1fr);gap:14px;padding:28px 20px 64px}
+  #sp-episodes .sp-arch>*{grid-column:1}
+  #sp-episodes .sp-back{display:block;order:1;justify-self:start;font-size:14px}
+  #sp-episodes .sp-arch-head{order:2}
+  #sp-episodes h1{font-size:32px;letter-spacing:-.6px;white-space:normal}
+  #sp-episodes .sp-side{order:3;grid-row:auto;position:static;min-width:0}
+  #sp-episodes .sp-side-kicker{display:none}
+  #sp-episodes .sp-side-list{flex-direction:row;gap:8px;margin:0 -20px;padding:0 20px;overflow-x:auto;scrollbar-width:none;font-size:14px;line-height:1}
+  #sp-episodes .sp-side-list::-webkit-scrollbar{display:none}
+  #sp-episodes .sp-side-item{flex:none;padding:10px 14px;border:1px solid var(--red);border-radius:999px;white-space:nowrap}
+  #sp-episodes .sp-feed{order:4}
+  #sp-episodes .sp-more-wrap{order:5;padding-top:10px}
+  #sp-episodes .sp-item{grid-template-columns:88px minmax(0,1fr);gap:16px;padding:16px 0}
+  #sp-episodes .sp-item-title{font-size:17px}
+  #sp-episodes .sp-item-excerpt{-webkit-line-clamp:2;font-size:14px}
 }
 @media (prefers-reduced-motion:reduce){
   #sp-episodes .sp-track{transition:none}
-  #sp-episodes .sp-card:hover img,#sp-episodes .sp-rec:hover .sp-frame img,#sp-episodes .sp-tile:hover .sp-frame img{transform:none}
+  #sp-episodes .sp-card:hover img,#sp-episodes .sp-item:hover img,#sp-episodes .sp-rec:hover .sp-frame img,#sp-episodes .sp-tile:hover .sp-frame img{transform:none}
 }
 </style>
 <script>
@@ -207,11 +249,26 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   var section = root.closest('section');
   if (section) section.classList.add('sp-ep-section');
 
-  // Squarespace's own filtered / paginated views (?tag=, ?offset=, ?view=all ...)
-  // keep the stock blog list; the custom page only replaces the bare landing page.
-  var params = new URLSearchParams(location.search);
-  var STOCK_PARAMS = ['tag', 'category', 'offset', 'view', 'author', 'month', 'year', 'reversePaginate'];
-  if (STOCK_PARAMS.some(function (p) { return params.has(p); })) {
+  // Which view a URL means. browse = the landing page; archive = "all episodes" (?view=all)
+  // or one tag (?tag=x, or Squarespace's own /tag/x links). null = not ours: Squarespace's
+  // paginated / category / author views keep the stock blog list.
+  var STOCK_PARAMS = ['category', 'offset', 'author', 'month', 'year', 'reversePaginate'];
+  function parse(href) {
+    var u;
+    try { u = new URL(href, location.href); } catch (e) { return null; }
+    if (u.origin !== location.origin) return null;
+    var path = u.pathname.replace(/\/+$/, '');
+    if (path.indexOf(CFG.COLLECTION + '/tag/') === 0) return { view: 'archive', tag: decodeURIComponent(path.slice(CFG.COLLECTION.length + 5)).toLowerCase() };
+    if (path !== CFG.COLLECTION) return null;
+    if (STOCK_PARAMS.some(function (p) { return u.searchParams.has(p); })) return null;
+    var tag = u.searchParams.get('tag');
+    if (tag) return { view: 'archive', tag: tag.toLowerCase() };
+    if (u.searchParams.get('view') === 'all') return { view: 'archive', tag: null };
+    return { view: 'browse' };
+  }
+  var herePath = location.pathname.replace(/\/+$/, '');
+  var onCollection = herePath === CFG.COLLECTION || herePath.indexOf(CFG.COLLECTION + '/') === 0;
+  if (onCollection && !parse(location.href)) {
     html.classList.add('sp-ep-stock');
     return;
   }
@@ -273,11 +330,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; });
   }
-  function thumb(url) {
+  function thumb(url, width) {
     if (!/squarespace-cdn\.com/.test(url || '')) return url || '';
-    return url.split('?')[0] + '?format=' + (mobile.matches ? '750w' : '1000w');
+    return url.split('?')[0] + '?format=' + (width || (mobile.matches ? '750w' : '1000w'));
   }
   function tagUrl(tag) { return CFG.COLLECTION + '?tag=' + encodeURIComponent(tag); }
+  function countLabel(n) { return n + (n === 1 ? ' episode' : ' episodes'); }
   function inTag(tag) { return episodes.filter(function (e) { return e.tags.indexOf(tag) > -1; }); }
   function img(src, eager, style) {
     return '<img src="' + esc(src) + '" alt=""' + (eager ? '' : ' loading="lazy"') + ' decoding="async" draggable="false"' + (style ? ' style="' + esc(style) + '"' : '') + '>';
@@ -311,7 +369,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   }
   function recImage(e) { return REC_IMAGES[e.number] ? ASSETS + REC_IMAGES[e.number] : thumb(e.image); }
 
-  function render() {
+  function renderBrowse() {
     var slides = [];
     CFG.HERO.forEach(function (h) {
       var e;
@@ -354,14 +412,11 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
           '<input type="search" placeholder="search episodes" aria-label="search episodes" autocomplete="off" autocapitalize="none" spellcheck="false" enterkeyhint="search"></label></div>' +
           '<div class="sp-pills">' + pillTags.map(function (t) { return '<a class="sp-pill" href="' + esc(tagUrl(t)) + '" data-tag="' + esc(t) + '">' + esc(t) + '</a>'; }).join('') + '</div>' +
         '</div>' +
-        '<div class="sp-below" hidden><div class="sp-topic-slot"></div><div class="sp-results-slot"></div></div>' +
+        '<div class="sp-below" hidden><div class="sp-results-slot"></div></div>' +
       '</div>';
 
-    root.hidden = false;
-    fullBleed();
     hero();
     rows();
-    topics();
     search();
   }
 
@@ -380,6 +435,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   }
 
   // ---------- hero ----------
+  var heroApi = null;
   function hero() {
     var box = inner.querySelector('.sp-hero');
     var track = box.querySelector('.sp-track');
@@ -473,25 +529,19 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     track.addEventListener('pointercancel', end);
     track.addEventListener('dragstart', function (e) { e.preventDefault(); });
     track.addEventListener('click', function (e) {
-      if (dragged) { e.preventDefault(); dragged = false; return; }
-      var s = e.target.closest('[data-topic]');
-      if (!s || e.metaKey || e.ctrlKey || e.shiftKey) return;
-      e.preventDefault();
-      var tag = s.getAttribute('data-topic');
-      var existing = inner.querySelector('.sp-stack > .sp-shelf[data-shelf="' + tag + '"]');
-      if (existing && existing.offsetParent) scrollToEl(existing.querySelector('.sp-head'));
-      else openTopic(tag, true);
+      if (dragged) { e.preventDefault(); dragged = false; }
     });
 
-    window.addEventListener('resize', function () {
-      fullBleed();
-      track.classList.add('sp-drag');
-      place(index);
-      void track.offsetWidth;
-      track.classList.remove('sp-drag');
-      updateArrows();
-    });
-    if (reduced.addEventListener) reduced.addEventListener('change', schedule);
+    heroApi = {
+      relayout: function () {
+        track.classList.add('sp-drag');
+        place(index);
+        void track.offsetWidth;
+        track.classList.remove('sp-drag');
+      },
+      schedule: schedule,
+      stop: function () { clearInterval(timer); clearTimeout(settle); }
+    };
     schedule();
   }
 
@@ -519,49 +569,15 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       var to = next ? (x >= max - 2 ? 0 : Math.min(max, x + page)) : (x <= 2 ? max : Math.max(0, x - page));
       row.scrollTo({ left: to, behavior: reduced.matches ? 'auto' : 'smooth' });
     });
-    // scroll doesn't bubble, so listen in the capture phase for every row at once
-    inner.addEventListener('scroll', function (e) {
-      var wrap = e.target.parentElement;
-      if (wrap && wrap.classList.contains('sp-row-wrap')) wrap.classList.toggle('sp-at-start', e.target.scrollLeft <= 2);
-    }, true);
     updateArrows();
   }
 
-  // ---------- topic + results shelves ----------
-  var activeTag = null;
+  // ---------- search results shelf ----------
   function below() {
     var wrap = inner.querySelector('.sp-below');
     wrap.hidden = !wrap.querySelector('.sp-shelf');
     updateArrows();
     return wrap;
-  }
-  function scrollToEl(el) {
-    var fixed = 0;
-    var header = document.querySelector('#header, header.header');
-    if (header && /fixed|sticky/.test(getComputedStyle(header).position)) fixed = Math.max(0, header.getBoundingClientRect().bottom);
-    var y = el.getBoundingClientRect().top + window.pageYOffset - fixed - 24;
-    window.scrollTo({ top: Math.max(0, y), behavior: reduced.matches ? 'auto' : 'smooth' });
-  }
-  function openTopic(tag, force) {
-    var slot = inner.querySelector('.sp-topic-slot');
-    activeTag = !force && activeTag === tag ? null : tag;
-    slot.innerHTML = activeTag ? tagShelf(activeTag) : '';
-    [].forEach.call(inner.querySelectorAll('[data-tag]'), function (el) {
-      var on = el.getAttribute('data-tag') === activeTag;
-      el.classList.toggle('sp-active', on);
-      el.setAttribute('aria-pressed', on ? 'true' : 'false');
-    });
-    below();
-    // Only a hero topic slide (force) jumps down to the shelf; tiles and pills leave the page where it is.
-    if (activeTag && force) scrollToEl(slot.querySelector('.sp-head'));
-  }
-  function topics() {
-    inner.querySelector('.sp-topics').addEventListener('click', function (e) {
-      var el = e.target.closest('[data-tag]');
-      if (!el || e.metaKey || e.ctrlKey || e.shiftKey) return;
-      e.preventDefault();
-      openTopic(el.getAttribute('data-tag'));
-    });
   }
 
   function find(query) {
@@ -589,12 +605,92 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       slot.innerHTML = shelf({
         title: (list.length ? 'results for \u201c' : 'no episodes for \u201c') + q + '\u201d',
         list: list, empty: true, cls: 'sp-results',
-        right: list.length ? '<span class="sp-count">' + list.length + (list.length === 1 ? ' episode' : ' episodes') + '</span>' : ''
+        right: list.length ? '<span class="sp-count">' + countLabel(list.length) + '</span>' : ''
       });
       below();
     }
     input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(run, 200); });
     input.addEventListener('keydown', function (e) { if (e.key === 'Enter') e.preventDefault(); });
+  }
+
+  // ---------- archive: "all episodes" or one tag ----------
+  var PAGE = 20;
+  function renderArchive(tag) {
+    var list = tag ? inTag(tag) : episodes;
+    var shown = 0;
+    function side(t) {
+      var on = (t || null) === (tag || null);
+      return '<a class="sp-side-item' + (on ? ' sp-on' : '') + '" href="' + esc(t ? tagUrl(t) : CFG.COLLECTION + '?view=all') + '"' + (on ? ' aria-current="page"' : '') + '>' + esc(t || 'all episodes') + '</a>';
+    }
+    function item(e) {
+      return '<a class="sp-item" href="' + esc(e.url) + '"><span class="sp-thumb">' + img(thumb(e.image, '500w'), shown < 6) + '</span>' +
+        '<span class="sp-item-text"><span class="sp-item-title">' + esc(e.title) + '</span>' + (e.excerpt ? '<span class="sp-item-excerpt">' + esc(e.excerpt) + '</span>' : '') + '</span></a>';
+    }
+    inner.innerHTML = '<div class="sp-arch">' +
+      '<nav class="sp-side" aria-label="browse episodes"><span class="sp-side-kicker">BROWSE</span><div class="sp-side-list">' + side(null) + tags.slice().sort().map(side).join('') + '</div></nav>' +
+      '<a class="sp-text sp-back" href="' + esc(CFG.COLLECTION) + '">\u2039 episodes</a>' +
+      '<div class="sp-arch-head"><h1>' + esc(tag || 'all episodes') + '</h1><span class="sp-count">' + countLabel(list.length) + '</span></div>' +
+      '<div class="sp-feed"></div>' +
+      '<div class="sp-more-wrap"><button type="button" class="sp-more">load more</button></div>' +
+      '</div>';
+    var feed = inner.querySelector('.sp-feed');
+    var more = inner.querySelector('.sp-more-wrap');
+    function add() {
+      var next = list.slice(shown, shown + PAGE);
+      var htmlStr = '';
+      next.forEach(function (e) { htmlStr += item(e); shown++; });
+      feed.insertAdjacentHTML('beforeend', htmlStr);
+      more.hidden = shown >= list.length;
+    }
+    more.querySelector('button').addEventListener('click', add);
+    add();
+    // keep the current topic's pill in view in the mobile pill row
+    var on = inner.querySelector('.sp-side-item.sp-on');
+    var rowEl = inner.querySelector('.sp-side-list');
+    if (on && rowEl.scrollWidth > rowEl.clientWidth) rowEl.scrollLeft = on.offsetLeft - rowEl.offsetLeft - 20;
+  }
+
+  // ---------- router ----------
+  function fixedHeader() {
+    var header = document.querySelector('#header, header.header');
+    return header && /fixed|sticky/.test(getComputedStyle(header).position) ? Math.max(0, header.getBoundingClientRect().bottom) : 0;
+  }
+  function show(route) {
+    if (heroApi) { heroApi.stop(); heroApi = null; }
+    if (route.view === 'archive') renderArchive(route.tag); else renderBrowse();
+    root.hidden = false;
+    root.style.setProperty('--sp-top', fixedHeader() + 'px');
+    fullBleed();
+  }
+  function init() {
+    // Links between the landing page and the archive swap the view in place (no reload).
+    root.addEventListener('click', function (e) {
+      if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      var a = e.target.closest('a[href]');
+      var route = a && parse(a.href);
+      if (!route) return;
+      e.preventDefault();
+      history.pushState(null, '', a.href);
+      show(route);
+      window.scrollTo(0, 0);
+    });
+    window.addEventListener('popstate', function () {
+      var route = parse(location.href) || (onCollection ? null : { view: 'browse' });
+      if (route) show(route); else location.reload();
+    });
+    window.addEventListener('resize', function () {
+      fullBleed();
+      root.style.setProperty('--sp-top', fixedHeader() + 'px');
+      if (heroApi) heroApi.relayout();
+      if (inner.querySelector('.sp-stack')) updateArrows();
+    });
+    // scroll doesn't bubble, so listen in the capture phase for every row at once
+    inner.addEventListener('scroll', function (e) {
+      var wrap = e.target.parentElement;
+      if (wrap && wrap.classList && wrap.classList.contains('sp-row-wrap')) wrap.classList.toggle('sp-at-start', e.target.scrollLeft <= 2);
+    }, true);
+    if (reduced.addEventListener) reduced.addEventListener('change', function () { if (heroApi) heroApi.schedule(); });
+    show(parse(location.href) || { view: 'browse' });
   }
 
   // ---------- go ----------
@@ -605,7 +701,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     if (!episodes.length) throw new Error('no episodes');
     episodes.forEach(function (e) { byNumber[e.number] = e; });
     tags = data.tags || [];
-    render();
+    init();
   }).catch(function () {
     // Nothing to show: hand the page back to Squarespace's own list.
     html.classList.remove('sp-ep-custom');

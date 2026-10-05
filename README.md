@@ -46,13 +46,15 @@ The nightly job only looks at the newest page of posts. If you change tags or ti
 
 ### How the embed shares the page with the blog list
 
-The Code Block lives on the blog page itself, so no URLs change.
+The Code Block lives on the blog page itself, so no URLs change. The embed draws three views and swaps between them without reloading:
 
-- `/episodes` shows the custom page and hides Squarespace's own post grid.
-- `/episodes?view=all`, `/episodes?tag=anxiety` and Squarespace's own pagination links show the stock grid and hide the custom page. "all episodes" and "see all" link there.
-- If the index and the Squarespace fallback both fail to load, the stock grid shows as normal.
+- `/episodes`: the browse page (hero, shelves, topics, search).
+- `/episodes?view=all`: the archive, every episode in a list with a topic sidebar.
+- `/episodes?tag=anxiety` (and Squarespace's own `/episodes/tag/anxiety` links): the archive filtered to one tag.
 
-Hiding the stock grid relies on the template's `.collection-content-wrapper` and `.blog-list-pagination` class names (see the first lines of the `<style>` block). If a Squarespace update renames them, that is the place to fix.
+Squarespace's own post grid stays hidden on all three. It only shows for Squarespace's paginated, category or author views (`?offset=`, `?category=`, `?author=`), or if the index and the Squarespace fallback both fail to load.
+
+Hiding the stock grid relies on the template's `.collection-content-wrapper`, `.blog-list-pagination` and `#itemPagination` names (see the first lines of the `<style>` block). If a Squarespace update renames them, that is the place to fix.
 
 ## Transcript backfill
 
