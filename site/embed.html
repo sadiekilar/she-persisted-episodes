@@ -48,7 +48,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-row{display:flex;gap:20px;padding:8px var(--g);margin:-8px 0;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-mask-image:linear-gradient(90deg,#000 96%,transparent);mask-image:linear-gradient(90deg,#000 96%,transparent)}
 #sp-episodes .sp-row::-webkit-scrollbar{display:none}
 #sp-episodes .sp-card{flex:none;width:var(--card);display:flex;flex-direction:column}
-#sp-episodes .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;border-radius:16px;filter:grayscale(1);background:var(--cream);transition:transform 200ms ease,filter 200ms ease}
+#sp-episodes .sp-thumb{display:block;overflow:hidden;border-radius:16px;background:var(--cream);isolation:isolate}
+#sp-episodes .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;filter:grayscale(1);transition:transform 300ms ease,filter 300ms ease}
 #sp-episodes .sp-card-title{padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2;color:var(--ink)}
 
 /* red bands */
@@ -57,8 +58,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-recs{gap:20px;padding:48px 0 56px}
 #sp-episodes .sp-recs-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;padding:0 var(--g)}
 #sp-episodes .sp-rec{display:flex;flex-direction:column}
-#sp-episodes .sp-frame{display:block;overflow:hidden;border-radius:16px;background:var(--cream);transition:transform 200ms ease}
-#sp-episodes .sp-frame img{width:100%;aspect-ratio:16/9;object-fit:cover}
+#sp-episodes .sp-frame{display:block;overflow:hidden;border-radius:16px;background:var(--cream);isolation:isolate}
+#sp-episodes .sp-frame img{width:100%;aspect-ratio:16/9;object-fit:cover;transition:transform 300ms ease}
 #sp-episodes .sp-rec-title{padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2}
 #sp-episodes .sp-topics{gap:28px;padding:56px 0 72px}
 #sp-episodes .sp-tiles{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:24px 20px;padding:0 var(--g)}
@@ -92,11 +93,10 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-row-wrap:hover .sp-arrow,#sp-episodes .sp-hero:hover .sp-arrow,#sp-episodes button.sp-arrow:focus-visible{opacity:1}
 }
 
-/* hover: shelf thumbnails grow and turn to color; recommends and topic tiles grow; the hero stays still */
+/* hover: the title underlines and the photo zooms slightly inside its fixed frame (shelf thumbnails also turn to color); the hero stays still */
 @media (hover:hover){
-  #sp-episodes .sp-card:hover img{transform:scale(1.035);filter:grayscale(0)}
-  #sp-episodes .sp-rec:hover .sp-frame{transform:scale(1.03)}
-  #sp-episodes .sp-tile:hover .sp-frame{transform:scale(1.04)}
+  #sp-episodes .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}
+  #sp-episodes .sp-rec:hover .sp-frame img,#sp-episodes .sp-tile:hover .sp-frame img{transform:scale(1.05)}
   #sp-episodes .sp-card:hover .sp-card-title,#sp-episodes .sp-rec:hover .sp-rec-title,#sp-episodes .sp-tile:hover .sp-tile-label{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
 }
 #sp-episodes .sp-card:focus-visible img{filter:grayscale(0)}
@@ -120,7 +120,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-head>.sp-text,#sp-episodes .sp-count{font-size:12px;opacity:.8}
   #sp-episodes .sp-row{gap:12px;scroll-snap-type:x mandatory;scroll-padding-left:20px;-webkit-mask-image:linear-gradient(90deg,#000 94%,transparent);mask-image:linear-gradient(90deg,#000 94%,transparent)}
   #sp-episodes .sp-card{scroll-snap-align:start}
-  #sp-episodes .sp-card img{border-radius:14px}
+  #sp-episodes .sp-thumb{border-radius:14px}
   #sp-episodes .sp-card-title{padding:8px 2px 0;font-size:14px}
   #sp-episodes .sp-desktop-only,#sp-episodes button.sp-arrow{display:none!important}
   #sp-episodes .sp-recs{gap:14px;padding:36px 0 40px}
@@ -141,7 +141,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 }
 @media (prefers-reduced-motion:reduce){
   #sp-episodes .sp-track{transition:none}
-  #sp-episodes .sp-card:hover img,#sp-episodes .sp-rec:hover .sp-frame,#sp-episodes .sp-tile:hover .sp-frame{transform:none}
+  #sp-episodes .sp-card:hover img,#sp-episodes .sp-rec:hover .sp-frame img,#sp-episodes .sp-tile:hover .sp-frame img{transform:none}
 }
 </style>
 <script>
@@ -277,7 +277,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     return '<img src="' + esc(src) + '" alt=""' + (eager ? '' : ' loading="lazy"') + ' decoding="async" draggable="false"' + (style ? ' style="' + esc(style) + '"' : '') + '>';
   }
   function card(e, eager) {
-    return '<a class="sp-card" href="' + esc(e.url) + '">' + img(thumb(e.image), eager) + '<span class="sp-card-title">' + esc(e.title) + '</span></a>';
+    return '<a class="sp-card" href="' + esc(e.url) + '"><span class="sp-thumb">' + img(thumb(e.image), eager) + '</span><span class="sp-card-title">' + esc(e.title) + '</span></a>';
   }
   function arrow(dir) {
     return '<button type="button" class="sp-arrow sp-' + dir + '" aria-label="' + (dir === 'prev' ? 'previous' : 'next') + '"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="' + (dir === 'prev' ? 'M10 3 5 8l5 5' : 'M6 3l5 5-5 5') + '"/></svg></button>';
