@@ -252,12 +252,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function shelf(o) {
     if (!o.list.length && !o.empty) return '';
     return '<div class="sp-shelf' + (o.cls ? ' ' + o.cls : '') + '"' + (o.tag ? ' data-shelf="' + esc(o.tag) + '"' : '') + '>' +
-      '<div class="sp-head"><h2>' + esc(o.title) + (o.chevron ? ' <span>›</span>' : '') + '</h2>' + (o.right || '') + '</div>' +
+      '<div class="sp-head"><h2>' + (o.href ? '<a class="sp-text" href="' + esc(o.href) + '">' : '') + esc(o.title) + (o.chevron ? ' <span>›</span>' : '') + (o.href ? '</a>' : '') + '</h2>' + (o.right || '') + '</div>' +
       (o.list.length ? '<div class="sp-row">' + o.list.map(function (e, i) { return card(e, i < (o.eager || 0)); }).join('') + '</div>' : '') +
       '</div>';
   }
   function tagShelf(tag, cls) {
-    return shelf({ title: tag, chevron: true, tag: tag, cls: cls, list: inTag(tag), right: '<a class="sp-text" href="' + esc(tagUrl(tag)) + '">see all</a>' });
+    return shelf({ title: tag, chevron: true, href: tagUrl(tag), tag: tag, cls: cls, list: inTag(tag), right: '<a class="sp-text" href="' + esc(tagUrl(tag)) + '">see all</a>' });
   }
   function slide(o, eager) {
     return '<a class="sp-slide" href="' + esc(o.href) + '" draggable="false"' + (o.topic ? ' data-topic="' + esc(o.topic) + '"' : '') + '>' +
@@ -291,9 +291,9 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     inner.innerHTML =
       '<div class="sp-hero"><div class="sp-track">' + slides.map(function (s) { return slide(s, true); }).join('') + '</div></div>' +
       '<div class="sp-stack">' +
-        shelf({ title: 'latest', chevron: true, list: episodes.slice(1, 9), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
+        shelf({ title: 'latest', chevron: true, href: CFG.COLLECTION + '?view=all', list: episodes.slice(1, 9), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
         tagShelf(F[0]) +
-        (recs.length ? '<div class="sp-band sp-recs"><h2>sadie recommends</h2><div class="sp-recs-grid">' + recs.map(function (e) {
+        (recs.length ? '<div class="sp-band sp-recs"><h2><a class="sp-text" href="' + esc(tagUrl(CFG.RECOMMENDS_TAG)) + '">sadie recommends</a></h2><div class="sp-recs-grid">' + recs.map(function (e) {
           return '<a class="sp-rec" href="' + esc(e.url) + '"><span class="sp-frame">' + img(recImage(e)) + '</span><span class="sp-rec-title">' + esc(e.title) + '</span></a>';
         }).join('') + '</div></div>' : '') +
         tagShelf(F[1]) + tagShelf(F[2], 'sp-desktop-only') + tagShelf(F[3], 'sp-desktop-only') +
