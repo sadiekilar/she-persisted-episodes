@@ -75,20 +75,22 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
 #sp-episodes .sp-pills{display:none}
 
-/* carousel arrows: centered in the side gutters */
-#sp-episodes button.sp-arrow{position:absolute;z-index:2;display:flex;align-items:center;justify-content:center;width:40px;height:40px;min-width:0;margin:0;padding:0;border:0;border-radius:50%;background:var(--red);color:var(--cream);box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;transition:opacity 150ms}
-#sp-episodes button.sp-arrow:hover{opacity:.75}
+/* carousel arrows: a bare chevron on a translucent strip at each edge, shown only while the row is hovered */
+#sp-episodes button.sp-arrow{position:absolute;z-index:2;top:0;display:none;align-items:center;justify-content:center;width:var(--g);min-width:0;height:auto;margin:0;padding:0;border:0;border-radius:0;background:rgba(247,247,239,.7);color:var(--red);box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none;opacity:0;transition:opacity 150ms}
 #sp-episodes button.sp-arrow:focus{outline:none}
-#sp-episodes button.sp-arrow:focus-visible{outline:2px solid currentColor;outline-offset:2px}
-#sp-episodes button.sp-arrow svg{width:16px;height:16px}
+#sp-episodes button.sp-arrow:focus-visible{outline:2px solid currentColor;outline-offset:-2px}
+#sp-episodes button.sp-arrow svg{width:22px;height:22px}
 #sp-episodes .sp-row-wrap{position:relative}
-#sp-episodes .sp-row-wrap .sp-arrow{top:calc(var(--card)/2 - 20px)}
-#sp-episodes .sp-row-wrap .sp-prev{left:calc((var(--g) - 40px)/2)}
-#sp-episodes .sp-row-wrap .sp-next{right:calc((var(--g) - 40px)/2)}
-#sp-episodes .sp-row-wrap.sp-noscroll .sp-arrow{display:none}
-#sp-episodes .sp-hero .sp-arrow{top:calc(50% - 20px);background:var(--cream);color:var(--red)}
-#sp-episodes .sp-hero .sp-prev{left:calc((var(--g) + 40px)/-2)}
-#sp-episodes .sp-hero .sp-next{right:calc((var(--g) - 40px)/2)}
+#sp-episodes .sp-row-wrap .sp-arrow{height:var(--card)}
+#sp-episodes .sp-hero .sp-arrow{bottom:0;background:rgba(116,0,0,.5);color:var(--cream)}
+#sp-episodes .sp-hero .sp-prev{left:calc(var(--g)*-1);background:none}
+#sp-episodes .sp-prev{left:0}
+#sp-episodes .sp-next{right:0}
+@media (hover:hover){
+  #sp-episodes button.sp-arrow{display:flex}
+  #sp-episodes .sp-row-wrap.sp-noscroll .sp-arrow,#sp-episodes .sp-row-wrap.sp-at-start .sp-prev{display:none}
+  #sp-episodes .sp-row-wrap:hover .sp-arrow,#sp-episodes .sp-hero:hover .sp-arrow,#sp-episodes button.sp-arrow:focus-visible{opacity:1}
+}
 
 /* hover: shelf thumbnails grow and turn to color; recommends and topic tiles grow; the hero stays still */
 @media (hover:hover){
@@ -120,7 +122,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-card{scroll-snap-align:start}
   #sp-episodes .sp-card img{border-radius:14px}
   #sp-episodes .sp-card-title{padding:8px 2px 0;font-size:14px}
-  #sp-episodes .sp-desktop-only,#sp-episodes button.sp-arrow{display:none}
+  #sp-episodes .sp-desktop-only,#sp-episodes button.sp-arrow{display:none!important}
   #sp-episodes .sp-recs{gap:14px;padding:36px 0 40px}
   #sp-episodes .sp-recs-grid{grid-template-columns:minmax(0,1fr);gap:16px}
   #sp-episodes .sp-frame{border-radius:14px}
@@ -473,11 +475,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   }
 
   // ---------- shelf rows ----------
-  // Arrows page a row by whole cards and wrap around at either end.
+  // Arrows page a row by whole cards; next wraps back to the start, prev is hidden at the start.
   function updateArrows() {
     [].forEach.call(inner.querySelectorAll('.sp-row-wrap'), function (wrap) {
       var row = wrap.querySelector('.sp-row');
       wrap.classList.toggle('sp-noscroll', row.scrollWidth <= row.clientWidth + 1);
+      wrap.classList.toggle('sp-at-start', row.scrollLeft <= 2);
     });
   }
   function rows() {
@@ -495,6 +498,11 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       var to = next ? (x >= max - 2 ? 0 : Math.min(max, x + page)) : (x <= 2 ? max : Math.max(0, x - page));
       row.scrollTo({ left: to, behavior: reduced.matches ? 'auto' : 'smooth' });
     });
+    // scroll doesn't bubble, so listen in the capture phase for every row at once
+    inner.addEventListener('scroll', function (e) {
+      var wrap = e.target.parentElement;
+      if (wrap && wrap.classList.contains('sp-row-wrap')) wrap.classList.toggle('sp-at-start', e.target.scrollLeft <= 2);
+    }, true);
     updateArrows();
   }
 
