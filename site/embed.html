@@ -78,6 +78,14 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-search:focus-within{outline:2px solid var(--cream);outline-offset:2px}
 #sp-episodes .sp-pills{display:none}
 
+/* mobile topic sheet: appended to <body>, because #sp-episodes is a size container and would trap position:fixed */
+.sp-ep-sheet{position:fixed;inset:0;z-index:100000;display:flex;align-items:flex-end;background:rgba(0,0,0,.4);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:-.44px;-webkit-tap-highlight-color:transparent}
+.sp-ep-sheet .sp-sheet-panel{width:100%;max-height:75vh;overflow-y:auto;overscroll-behavior:contain;box-sizing:border-box;padding:10px 20px calc(20px + env(safe-area-inset-bottom,0px));border-radius:20px 20px 0 0;background:#f7f7ef;color:#740000}
+.sp-ep-sheet .sp-sheet-handle{display:block;width:36px;height:4px;margin:0 auto 10px;padding:0;border:0;border-radius:999px;background:rgba(116,0,0,.25);-webkit-appearance:none;appearance:none}
+.sp-ep-sheet a{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border:0;border-top:1px solid rgba(116,0,0,.2);color:#740000;font-size:17px;font-weight:400;line-height:1.2;text-decoration:none;text-transform:none}
+.sp-ep-sheet a:first-of-type{border-top:0}
+.sp-ep-sheet a.sp-on{font-weight:700}
+
 /* archive page: "all episodes" or one tag */
 #sp-episodes .sp-arch{display:grid;grid-template-columns:220px minmax(0,900px);gap:20px 40px;align-items:start;padding:48px var(--g) 96px}
 #sp-episodes .sp-arch>*{grid-column:2}
@@ -87,7 +95,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-side-item{padding:9px 12px;border-radius:10px}
 #sp-episodes .sp-side-item:hover{opacity:.75}
 #sp-episodes .sp-side-item.sp-on{background:var(--red);color:var(--cream);font-weight:700}
-#sp-episodes .sp-back{display:none}
+#sp-episodes .sp-back,#sp-episodes .sp-seg{display:none}
 #sp-episodes .sp-arch-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px}
 #sp-episodes h1{margin:0;padding:0;font-family:inherit;font-size:56px;font-weight:700;line-height:1;letter-spacing:-1px;color:inherit;text-transform:none;white-space:nowrap}
 #sp-episodes .sp-arch-head .sp-count{font-size:14px}
@@ -169,21 +177,25 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-pills{order:2;display:flex;flex-wrap:wrap;gap:8px;padding-top:6px}
   #sp-episodes .sp-pill{padding:10px 14px;border:1px solid var(--cream);border-radius:999px;font-size:14px;line-height:1;white-space:nowrap}
   #sp-episodes .sp-pill.sp-active{background:var(--cream);color:var(--red)}
-  #sp-episodes .sp-arch{grid-template-columns:minmax(0,1fr);gap:14px;padding:28px 20px 64px}
+  #sp-episodes .sp-arch{grid-template-columns:minmax(0,1fr);gap:16px;padding:24px 20px 64px}
   #sp-episodes .sp-arch>*{grid-column:1}
-  #sp-episodes .sp-back{display:block;order:1;justify-self:start;font-size:14px}
+  #sp-episodes .sp-side{display:none}
+  #sp-episodes .sp-back{display:inline-flex;align-items:center;gap:6px;order:1;justify-self:start;font-size:14px}
+  #sp-episodes .sp-back span{font-size:18px;line-height:1}
   #sp-episodes .sp-arch-head{order:2}
+  #sp-episodes .sp-arch-head .sp-count{font-size:12px}
   #sp-episodes h1{font-size:32px;letter-spacing:-.6px;white-space:normal}
-  #sp-episodes .sp-side{order:3;grid-row:auto;position:static;min-width:0}
-  #sp-episodes .sp-side-kicker{display:none}
-  #sp-episodes .sp-side-list{flex-direction:row;gap:8px;margin:0 -20px;padding:0 20px;overflow-x:auto;scrollbar-width:none;font-size:14px;line-height:1}
-  #sp-episodes .sp-side-list::-webkit-scrollbar{display:none}
-  #sp-episodes .sp-side-item{flex:none;padding:10px 14px;border:1px solid var(--red);border-radius:999px;white-space:nowrap}
-  #sp-episodes .sp-feed{order:4}
-  #sp-episodes .sp-more-wrap{order:5;padding-top:10px}
+  /* segmented control: all, the three featured topics (short labels), and "more" which opens the sheet */
+  #sp-episodes .sp-seg{order:3;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));padding:3px;border-radius:999px;background:rgba(116,0,0,.08)}
+  #sp-episodes .sp-seg a,#sp-episodes .sp-seg button{margin:0;padding:10px 4px;border:0;border-radius:999px;background:none;color:inherit;font:inherit;font-size:13px;font-weight:400;line-height:1;letter-spacing:inherit;text-align:center;text-transform:none;white-space:nowrap;box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none}
+  #sp-episodes .sp-seg .sp-on{background:var(--red);color:var(--cream);font-weight:700}
+  #sp-episodes .sp-feed{order:4;margin-top:8px}
+  #sp-episodes .sp-more-wrap{order:5;padding-top:16px}
+  #sp-episodes button.sp-more{padding:12px 24px;font-size:14px}
   #sp-episodes .sp-item{grid-template-columns:88px minmax(0,1fr);gap:16px;padding:16px 0}
   #sp-episodes .sp-item-title{font-size:17px}
-  #sp-episodes .sp-item-excerpt{-webkit-line-clamp:2;font-size:14px}
+  #sp-episodes .sp-item-text{gap:6px}
+  #sp-episodes .sp-item-excerpt{-webkit-line-clamp:2;font-size:14px;line-height:1.35}
 }
 @media (prefers-reduced-motion:reduce){
   #sp-episodes .sp-track{transition:none}
@@ -213,6 +225,14 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       { topic: 'relationships', photo: 257 },
       { rec: 242 },
       { topic: 'dbt' }
+    ],
+    // Mobile archive segmented control: tag + short label (keep labels to ~8 characters or the control wraps).
+    // Every other tag goes in the "more" sheet.
+    SEGMENTS: [
+      { tag: null, label: 'all' },
+      { tag: 'anxiety', label: 'anxiety' },
+      { tag: 'self-improvement', label: 'growth' },
+      { tag: 'depression', label: 'mood' }
     ],
     HERO_INTERVAL: 6000,
     CACHE_KEY: 'sp:episodes:v1',
@@ -622,14 +642,18 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       var on = (t || null) === (tag || null);
       return '<a class="sp-side-item' + (on ? ' sp-on' : '') + '" href="' + esc(t ? tagUrl(t) : CFG.COLLECTION + '?view=all') + '"' + (on ? ' aria-current="page"' : '') + '>' + esc(t || 'all episodes') + '</a>';
     }
+    var inSegments = CFG.SEGMENTS.some(function (g) { return (g.tag || null) === (tag || null); });
     function item(e) {
       return '<a class="sp-item" href="' + esc(e.url) + '"><span class="sp-thumb">' + img(thumb(e.image, '500w'), shown < 6) + '</span>' +
         '<span class="sp-item-text"><span class="sp-item-title">' + esc(e.title) + '</span>' + (e.excerpt ? '<span class="sp-item-excerpt">' + esc(e.excerpt) + '</span>' : '') + '</span></a>';
     }
     inner.innerHTML = '<div class="sp-arch">' +
       '<nav class="sp-side" aria-label="browse episodes"><span class="sp-side-kicker">BROWSE</span><div class="sp-side-list">' + side(null) + tags.slice().sort().map(side).join('') + '</div></nav>' +
-      '<a class="sp-text sp-back" href="' + esc(CFG.COLLECTION) + '">\u2039 episodes</a>' +
+      '<a class="sp-text sp-back" href="' + esc(CFG.COLLECTION) + '"><span>\u2039</span>episodes</a>' +
       '<div class="sp-arch-head"><h1>' + esc(tag || 'all episodes') + '</h1><span class="sp-count">' + countLabel(list.length) + '</span></div>' +
+      '<div class="sp-seg">' + CFG.SEGMENTS.map(function (g) {
+        return '<a href="' + esc(g.tag ? tagUrl(g.tag) : CFG.COLLECTION + '?view=all') + '"' + ((g.tag || null) === (tag || null) ? ' class="sp-on" aria-current="page"' : '') + '>' + esc(g.label) + '</a>';
+      }).join('') + '<button type="button" class="sp-seg-more' + (inSegments ? '' : ' sp-on') + '" aria-haspopup="dialog">more \u25be</button></div>' +
       '<div class="sp-feed"></div>' +
       '<div class="sp-more-wrap"><button type="button" class="sp-more">load more</button></div>' +
       '</div>';
@@ -644,10 +668,55 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     }
     more.querySelector('button').addEventListener('click', add);
     add();
-    // keep the current topic's pill in view in the mobile pill row
-    var on = inner.querySelector('.sp-side-item.sp-on');
-    var rowEl = inner.querySelector('.sp-side-list');
-    if (on && rowEl.scrollWidth > rowEl.clientWidth) rowEl.scrollLeft = on.offsetLeft - rowEl.offsetLeft - 20;
+    inner.querySelector('.sp-seg-more').addEventListener('click', function () { openSheet(tag); });
+  }
+
+  // Bottom sheet listing every tag that isn't a segment (mobile "more").
+  var sheet = null;
+  function closeSheet() {
+    if (!sheet) return;
+    sheet.remove();
+    sheet = null;
+    html.style.overflow = '';
+    document.removeEventListener('keydown', sheetKey);
+  }
+  function sheetKey(e) { if (e.key === 'Escape') closeSheet(); }
+  function openSheet(tag) {
+    closeSheet();
+    var rest = tags.slice().sort().filter(function (t) { return !CFG.SEGMENTS.some(function (g) { return g.tag === t; }); });
+    sheet = document.createElement('div');
+    sheet.className = 'sp-ep-sheet';
+    sheet.setAttribute('role', 'dialog');
+    sheet.setAttribute('aria-modal', 'true');
+    sheet.setAttribute('aria-label', 'more topics');
+    sheet.innerHTML = '<div class="sp-sheet-panel"><button type="button" class="sp-sheet-handle" aria-label="close"></button>' + rest.map(function (t) {
+      return '<a href="' + esc(tagUrl(t)) + '"' + (t === tag ? ' class="sp-on" aria-current="page"' : '') + '><span>' + esc(t) + '</span>' + (t === tag ? '<span aria-hidden="true">\u2713</span>' : '') + '</a>';
+    }).join('') + '</div>';
+    var panel = sheet.firstChild;
+    sheet.addEventListener('click', function (e) {
+      var a = e.target.closest('a[href]');
+      if (a) { e.preventDefault(); closeSheet(); go(a.href); return; }
+      if (!panel.contains(e.target) || e.target.closest('.sp-sheet-handle')) closeSheet();
+    });
+    // drag the sheet down to dismiss
+    var y0 = null;
+    panel.addEventListener('touchstart', function (e) { y0 = panel.scrollTop <= 0 ? e.touches[0].clientY : null; }, { passive: true });
+    panel.addEventListener('touchmove', function (e) {
+      if (y0 == null) return;
+      var dy = e.touches[0].clientY - y0;
+      panel.style.transform = dy > 0 ? 'translateY(' + dy + 'px)' : '';
+    }, { passive: true });
+    panel.addEventListener('touchend', function (e) {
+      if (y0 == null) return;
+      var dy = e.changedTouches[0].clientY - y0;
+      y0 = null;
+      if (dy > 70) closeSheet(); else panel.style.transform = '';
+    });
+    document.addEventListener('keydown', sheetKey);
+    html.style.overflow = 'hidden';
+    document.body.appendChild(sheet);
+    var first = sheet.querySelector('a.sp-on') || sheet.querySelector('a');
+    if (first) first.focus({ preventScroll: true });
   }
 
   // ---------- router ----------
@@ -657,10 +726,18 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   }
   function show(route) {
     if (heroApi) { heroApi.stop(); heroApi = null; }
+    closeSheet();
     if (route.view === 'archive') renderArchive(route.tag); else renderBrowse();
     root.hidden = false;
     root.style.setProperty('--sp-top', fixedHeader() + 'px');
     fullBleed();
+  }
+  function go(href) {
+    var route = parse(href);
+    if (!route) { location.href = href; return; }
+    history.pushState(null, '', href);
+    show(route);
+    window.scrollTo(0, 0);
   }
   function init() {
     // Links between the landing page and the archive swap the view in place (no reload).
@@ -670,9 +747,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       var route = a && parse(a.href);
       if (!route) return;
       e.preventDefault();
-      history.pushState(null, '', a.href);
-      show(route);
-      window.scrollTo(0, 0);
+      go(a.href);
     });
     window.addEventListener('popstate', function () {
       var route = parse(location.href) || (onCollection ? null : { view: 'browse' });
