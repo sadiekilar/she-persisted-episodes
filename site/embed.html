@@ -277,7 +277,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     var newest = episodes[0];
     slides.push({ href: newest.url, image: thumb(newest.image), kicker: 'new episode', title: newest.title });
     var rec = byNumber[CFG.HERO_RECOMMENDS];
-    if (rec) slides.push({ href: rec.url, image: recImage(rec), kicker: 'sadie recommends', title: rec.title });
+    if (rec) slides.push({ href: rec.url, image: thumb(rec.image), kicker: 'sadie recommends', title: rec.title });
     Object.keys(CFG.HERO_TOPICS).forEach(function (tag) {
       var e = byNumber[CFG.HERO_TOPICS[tag]] || inTag(tag)[0];
       if (e) slides.push({ href: tagUrl(tag), image: thumb(e.image), kicker: 'topic', title: tag, topic: tag });
