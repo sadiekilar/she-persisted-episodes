@@ -4,8 +4,9 @@
 /* Stock Squarespace blog list: hidden while the custom page is showing. */
 html.sp-ep-custom section:has(.collection-content-wrapper){display:none!important}
 html.sp-ep-custom .collection-content-wrapper,html.sp-ep-custom .blog-list-pagination{display:none!important}
-/* The section holding this Code Block: no padding, no width cap. */
-section.sp-ep-section{padding:0!important;min-height:0!important}
+/* The section holding this Code Block: no side or bottom padding, no width cap.
+   padding-top is left alone: Squarespace sets it to the fixed header's height. */
+section.sp-ep-section{padding-right:0!important;padding-bottom:0!important;padding-left:0!important;min-height:0!important}
 section.sp-ep-section>.content-wrapper{padding:0!important;max-width:none!important;width:100%!important}
 html.sp-ep-stock section.sp-ep-section{display:none!important}
 
