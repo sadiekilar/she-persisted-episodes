@@ -20,7 +20,8 @@ index/quotes-review.md    pull quotes awaiting approval (tick a box, commit)
 index/section-variants.md posts whose show-notes headings the extractor didn't recognise
 index/youtube-unmatched.md channel videos that couldn't be paired with an episode
 scripts/import.js         Squarespace → episodes/*.md (with scripts/sections.js: description, bullets, mentioned, video ids)
-scripts/rss-sync.js       show RSS + Apple lookup → audio, duration, Apple episode links
+scripts/rss-sync.js       show RSS + Apple lookup → audio, duration, Apple episode links, Flightcast transcripts and chapters
+scripts/spotify-sync.js   Spotify episode ids, read from the Spotify for Creators page each post embeds
 scripts/youtube-sync.js   YouTube Data API → video ids, durations, Shorts per episode
 scripts/summarize.js      summaries / guests / quotes via the Claude API
 scripts/chapters.js       aligns "we talk about" bullets to transcript timestamps via the Claude API

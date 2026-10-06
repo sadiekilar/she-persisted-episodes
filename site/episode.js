@@ -368,7 +368,7 @@
     var paras = (ep.transcript && ep.transcript.paragraphs) || [];
     if (!paras.length) return '';
     var stamped = paras.some(function (p) { return p.t != null; });
-    var chapters = stamped && ep.chapters && ep.chapters.length ? ep.chapters.slice().sort(function (a, b) { return a.t - b.t; }) : [];
+    var chapters = stamped && ep.chapters && ep.chapters.length > 1 ? ep.chapters.slice().sort(function (a, b) { return a.t - b.t; }) : [];
     function para(p) {
       return '<div class="sp-para">' + (p.t != null ? '<a class="sp-stamp" href="#t=' + p.t + '" data-seek="' + p.t + '" title="play from ' + fmt(p.t) + '"><time datetime="' + iso(p.t) + '">' + fmt(p.t) + '</time></a>' : '<span class="sp-stamp"></span>') +
         '<p>' + (p.speaker ? '<b>' + esc(p.speaker) + ':</b> ' : '') + esc(p.text) + '</p></div>';

@@ -50,7 +50,8 @@ async function main() {
   for (const { ep, paragraphs } of todo) {
     try {
       const chapters = await align(ep, paragraphs, key);
-      if (!chapters.length) throw new Error('empty');
+      const need = Math.max(2, Math.ceil(ep.meta.talk_about.length / 2));
+      if (chapters.length < need) throw new Error(`only ${chapters.length} of ${ep.meta.talk_about.length} bullets placed`);
       writeEpisode(ep.file, { ...ep.meta, chapters }, ep.body);
       done++;
       console.log(`chapters ${ep.meta.number}: ${chapters.map((c) => fmt(c.t)).join(', ')}`);

@@ -23,6 +23,7 @@ jobs:
           node-version: 22
       - run: node scripts/import.js --since-last
       - run: node scripts/rss-sync.js
+      - run: node scripts/spotify-sync.js
       - run: node scripts/youtube-sync.js
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}

@@ -151,8 +151,12 @@ function extract(bodyHtml) {
       if (el.text) description.push(el);
     } else if (state === 'talkAbout') {
       if (el.tag === 'ul' || el.tag === 'ol') { if (!talkAbout.length) talkAbout = listItems(el.html); continue; }
-      if (el.text && !talkAbout.length && !isHeading(el)) talkAbout.push(el.text);
-      if (isHeading(el)) state = 'other';
+      if (isHeading(el)) { state = 'other'; continue; }
+      // older posts write the list as paragraphs: "+ item", "- item", "\u2192 item"
+      const bullet = /^\s*[+\-\u2022\u2192*\u00b7]\s*(.+)$/.exec(el.text || '');
+      if (bullet) talkAbout.push(bullet[1].trim());
+      else if (el.text && !talkAbout.length) talkAbout.push(el.text);
+      else if (el.text && talkAbout.length) state = 'other';
     } else if (state === 'mentioned') {
       if (isHeading(el) && !/^(call|text|visit|go to)\b/i.test(el.text)) { state = 'other'; continue; }
       if (el.text) mentioned.push(el);
