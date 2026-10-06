@@ -7,8 +7,9 @@
 // post on the pages that get fetched.
 const fs = require('fs');
 const path = require('path');
-const { SITE, COLLECTION, INDEX_DIR, sleep, fetchJson, htmlToText, htmlToMarkdown, wordCount, decodeEntities, episodeFile, readEpisodes, parseEpisode, writeEpisode } = require('./lib');
+const { SITE, COLLECTION, INDEX_DIR, sleep, fetchJson, htmlToText, htmlToMarkdown, wordCount, decodeEntities, episodeFile, readEpisodes, parseEpisode, writeEpisode, transcriptOf } = require('./lib');
 const { extract } = require('./sections');
+const { withTranscript } = require('./flightcast');
 
 const DELAY_MS = 600;
 const BOILERPLATE = /^(#+\s*)?(listen to this episode|about she persisted|recent episodes|more episodes)\b/i;
@@ -132,9 +133,13 @@ async function main() {
         mentioned_html: sections.mentioned_html,
         youtube_id: sections.youtube_id || (prev ? prev.meta.youtube_id : '') || '',
         spotify_episode_id: sections.spotify_episode_id || (prev ? prev.meta.spotify_episode_id : '') || '',
+        creators_embed_url: sections.creators_embed_url || (prev ? prev.meta.creators_embed_url : '') || '',
       });
       // A Descript backfill is hand-placed; never overwrite it with the blog body.
-      const body = prev && prev.meta.transcript_source === 'descript' ? prev.body : bodyToMarkdown(ep.bodyHtml);
+      // Flightcast / Descript transcripts are the source of truth; re-import only refreshes the notes above them.
+      const fresh = bodyToMarkdown(ep.bodyHtml);
+      const keepTranscript = prev && /^(flightcast|descript)$/.test(prev.meta.transcript_source || '');
+      const body = keepTranscript ? withTranscript(fresh, transcriptOf(prev.body)) : fresh;
       const file = episodeFile(ep.number);
       const before = prev ? fs.readFileSync(file, 'utf8') : null;
       writeEpisode(file, meta, body);

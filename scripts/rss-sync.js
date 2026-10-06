@@ -1,7 +1,12 @@
 #!/usr/bin/env node
 // Show RSS feed (the host's) + Apple's episode lookup → audio_url, duration_sec,
-// apple_episode_url. Matched to episodes by the leading number in the title.
+// apple_episode_url, and from Flightcast: the timestamped transcript (source of truth)
+// and chapters. Matched to episodes by the leading number in the title.
+//   node scripts/rss-sync.js          transcripts only for episodes that don't have Flightcast's yet
+//   node scripts/rss-sync.js --all    re-fetch every transcript
 const { readEpisodes, writeEpisode, decodeEntities, sleep } = require('./lib');
+const { vttToParagraphs, paragraphsToMarkdown, withTranscript, chaptersFromNotes, chaptersFromJson } = require('./flightcast');
+const REFETCH = process.argv.includes('--all');
 
 const FEED = process.env.SHOW_RSS || 'https://rss2.flightcast.com/zpjo9decpjwnj5srl30kahnx.xml';
 const APPLE_ID = process.env.APPLE_PODCAST_ID || '1463051730';
@@ -28,10 +33,14 @@ async function main() {
     const title = (/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/.exec(it) || [])[1];
     const n = numberOf(title);
     if (n == null || rss.has(n)) continue;
+    const notes = (/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/.exec(it) || [])[1] || (/<itunes:summary>([\s\S]*?)<\/itunes:summary>/.exec(it) || [])[1] || '';
     rss.set(n, {
       audio: (/<enclosure\b[^>]*\burl="([^"]+)"/.exec(it) || [])[1] || '',
       duration: toSeconds((/<itunes:duration>([^<]*)<\/itunes:duration>/.exec(it) || [])[1]),
       guid: ((/<guid\b[^>]*>([^<]*)<\/guid>/.exec(it) || [])[1] || '').trim(),
+      vtt: (/<podcast:transcript\b[^>]*\burl="([^"]+)"[^>]*\btype="text\/vtt"/.exec(it) || /<podcast:transcript\b[^>]*\burl="([^"]+\.vtt)"/.exec(it) || [])[1] || '',
+      chaptersUrl: (/<podcast:chapters\b[^>]*\burl="([^"]+)"/.exec(it) || [])[1] || '',
+      notesChapters: chaptersFromNotes(notes),
     });
   }
   console.log(`rss: ${items.length} items, ${rss.size} with episode numbers`);
@@ -50,23 +59,43 @@ async function main() {
     console.error(`apple lookup failed: ${err.message}`);
   }
 
+  let transcripts = 0, chapters = 0;
   for (const ep of episodes) {
     const meta = { ...ep.meta };
+    let body = ep.body;
     const r = rss.get(meta.number);
     const a = apple.get(meta.number);
     if (r) {
       found.rss++;
       if (r.audio && (!meta.audio_url || /embedly|spotify\.com\/embed|creators\.spotify/.test(meta.audio_url))) meta.audio_url = r.audio;
       if (r.duration && !meta.duration_sec) meta.duration_sec = r.duration;
+      // chapters: a chapters file beats show-notes timestamps beats whatever was generated before
+      let ch = [];
+      if (r.chaptersUrl) { try { ch = chaptersFromJson(await (await fetch(r.chaptersUrl)).json()); } catch (err) { console.error(`chapters ${meta.number}: ${err.message}`); } }
+      if (!ch.length) ch = r.notesChapters;
+      if (ch.length) { meta.chapters = ch; meta.chapters_source = 'feed'; chapters++; }
+      // transcript: Flightcast's timestamped VTT replaces the blog copy
+      if (r.vtt && (REFETCH || meta.transcript_source !== 'flightcast')) {
+        try {
+          const paragraphs = vttToParagraphs(await (await fetch(r.vtt)).text());
+          if (paragraphs.length > 20) {
+            body = withTranscript(body, paragraphsToMarkdown(paragraphs));
+            meta.transcript_source = 'flightcast';
+            meta.transcript_url = r.vtt;
+            transcripts++;
+          }
+          await sleep(150);
+        } catch (err) { console.error(`transcript ${meta.number}: ${err.message}`); }
+      }
     }
     if (a) {
       found.apple++;
       meta.apple_episode_url = a.url;
       if (a.duration && !meta.duration_sec) meta.duration_sec = a.duration;
     }
-    if (JSON.stringify(meta) !== JSON.stringify(ep.meta)) writeEpisode(ep.file, meta, ep.body);
+    if (JSON.stringify(meta) !== JSON.stringify(ep.meta) || body !== ep.body) writeEpisode(ep.file, meta, body);
   }
-  console.log(`matched ${found.rss} episodes in the feed, ${found.apple} on apple`);
+  console.log(`matched ${found.rss} episodes in the feed, ${found.apple} on apple; ${transcripts} transcripts fetched, ${chapters} episodes with feed chapters`);
   await sleep(0);
 }
 

@@ -91,6 +91,8 @@ function extract(bodyHtml) {
   // embedly wraps the player: src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fepisode%2F<id>
   const wrapped = /[?&]src=(https?%3A%2F%2Fopen\.spotify\.com[^&"'\s]+)/i.exec(flat);
   const spotify = SPOTIFY.exec(flat) || SPOTIFY.exec(unescaped) || (wrapped && SPOTIFY.exec(decodeURIComponent(wrapped[1])));
+  // Every post carries the Anchor / Spotify for Creators player; its src doubles as the Spotify episode link.
+  const creators = /https?:\/\/(?:creators\.spotify\.com\/pod\/profile|anchor\.fm)\/[\w.-]+\/embed\/episodes\/[\w.-]+(?:\/[\w.-]+)?/i.exec(flat + ' ' + unescaped);
 
   const els = [];
   const seenMarkers = new Set();
@@ -155,6 +157,7 @@ function extract(bodyHtml) {
     mentioned_html: cleanHtml(mentioned.map((e) => e.html).join('')),
     youtube_id: youtube ? youtube[1] || youtube[2] || youtube[3] : null,
     spotify_episode_id: spotify ? spotify[1] : null,
+    creators_embed_url: creators ? creators[0] : null,
     transcriptBlock,
     headings,
     missing,

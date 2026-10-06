@@ -79,7 +79,7 @@ for (const ep of episodes) {
     number: m.number, title: m.title, slug: m.slug, url: m.original_url, date: m.date, tags: m.tags || [], image: m.image_url || '',
     description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
     guests: m.guests || [], summary: m.summary || '',
-    youtube_id: m.youtube_id || null, spotify_episode_id: m.spotify_episode_id || null, apple_episode_url: m.apple_episode_url || null,
+    youtube_id: m.youtube_id || null, spotify_episode_id: m.spotify_episode_id || null, creators_embed_url: m.creators_embed_url || null, apple_episode_url: m.apple_episode_url || null,
     audio_url: m.audio_url || null, duration_sec: m.duration_sec || null,
     quote: m.quotes_approved ? (m.quote || '') : '',
     chapters: m.chapters || [], shorts: m.shorts || [],

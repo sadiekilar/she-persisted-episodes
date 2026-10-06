@@ -864,7 +864,7 @@ in this solo episode celebrating 200 episodes, sadie shares dbt skills and strat
 - tags: teen mental health
 - guests: ellen galinsky, president of families and work institute and author of mind in the making and the breakthrough years
 - url: https://shepersistedpodcast.com/episodes/ep199
-- transcript: episodes/ep-199.md (partial)
+- transcript: episodes/ep-199.md (full)
 
 sadie sits down with ellen galinsky, president of the families and work institute and author of the breakthrough years, to talk about what teens are actually going through. they cover the emotional realities of adolescence—the highs, lows, and constant transitions—and how adults often misunderstand or stereotype teens instead of seeing them as individuals. ellen shares research on purpose, autonomy, and the power of helping others, plus practical advice on how parents can listen without fixing and how teens can build the skills they need. the conversation also touches on navigating phones, mental health conversations, and finding people who make you feel like a good person.
 
@@ -1202,7 +1202,7 @@ In this week's solo episode, I discuss why we invalidate our emotions and the po
 - tags: emotions, self-improvement
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep174
-- transcript: episodes/ep-174.md (partial)
+- transcript: episodes/ep-174.md (full)
 
 Today's guest is Dr. Emily Anhalt— a psychologist, emotional fitness consultant, and the CoFounder and Chief Clinical Officer of Coa, the gym for mental health. For the past thirteen years, Dr. Anhalt has been working clinically with executives, founders, and tech employees, and has conducted extensive research with prominent psychologists and entrepreneurs about how leaders can improve their emotional fitness. We discuss how she started specializing in emotional fitness, the seven traits of emotional fitness that can help you succeed, key ways you can start to build your emotional fitness including becoming more mindful and self-aware, what emotional push-ups are and examples you can try yourself, why people often prioritize their physical health over mental health, the dangerous effects of having low emotional fitness, how to differentiate emotional fitness from other similar psychology terms, the benefits of incorporating building your emotional fitness into your routine, predictions on future trends that will embrace emotional fitness, and important emotional skills all teens (and parents!) should know.
 
@@ -1250,7 +1250,7 @@ sadie shares practical dbt skills for navigating relationships during the holida
 - tags: depression, anxiety, teen mental health
 - guests: ana tueme, volunteer crisis counselor at crisis text line
 - url: https://shepersistedpodcast.com/episodes/ep170
-- transcript: episodes/ep-170.md (partial)
+- transcript: episodes/ep-170.md (full)
 
 sadie talks with ana tueme, a crisis text line volunteer with over 200 hours of experience, about what happens when you text crisis text line. they walk through exactly what to expect when you reach out—how the conversation starts, what a counselor will say, and how it feels to ask for help. ana shares what most teens are texting in about (depression, anxiety, suicidal thoughts, stress) and offers practical advice and coping skills for those struggles. they also discuss how becoming a volunteer taught ana to be a better listener and support system, and how you can get involved with crisis text line yourself, either as a volunteer or campus advocate.
 
@@ -1540,7 +1540,7 @@ sadie answers listener questions about navigating mental health in college and d
 - tags: college, dbt
 - guests: dr. sarah olivo, dr. liz seidler
 - url: https://shepersistedpodcast.com/episodes/ep149
-- transcript: episodes/ep-149.md (partial)
+- transcript: episodes/ep-149.md (full)
 
 sadie sits down with dr. sarah olivo and dr. liz seidler, clinical psychologists and hosts of the college is fine, everything is fine podcast, to talk about using dbt skills to navigate college. they cover the basics of dbt states of mind (emotion mind, rational mind, and wise mind) and how to apply them both to your own decisions and to understanding others around you. they walk through specific skills like abc please (accumulating positive emotions, building mastery, coping ahead, and reducing emotional vulnerability through physical health, eating, avoiding substances, sleep, and exercise), and give and fast skills for setting boundaries and maintaining relationships. the conversation emphasizes that struggling during freshman year is universal, even when everyone seems fine, and offers practical advice on researching mental health resources before you even get to campus.
 
@@ -1554,7 +1554,7 @@ sadie sits down with dr. sarah olivo and dr. liz seidler, clinical psychologists
 - tags: college, teen mental health
 - guests: emi nietfeld, author and mental health advocate
 - url: https://shepersistedpodcast.com/episodes/ep148
-- transcript: episodes/ep-148.md (partial)
+- transcript: episodes/ep-148.md (full)
 
 sadie talks with emi nietfeld, author of the memoir acceptance, about navigating college applications when mental health has shaped your high school experience. they discuss how emi wrote about her time in foster care and treatment in her harvard essays, the strategic choices around what to disclose (and what not to), how transcripts reflect absences or treatment, and the role of counselor recommendations in explaining gaps. emi emphasizes that seeking help shouldn't be delayed out of fear it will hurt admissions chances, and that disclosure should be a strategic choice—not an obligation. the conversation covers the pressure to craft a "phoenix rising" narrative, the lack of support many students face, and the importance of mental health as a foundation for everything else.
 
@@ -1568,7 +1568,7 @@ sadie talks with emi nietfeld, author of the memoir acceptance, about navigating
 - tags: college
 - guests: dr. bianca busch, board-certified adult and child & adolescent psychiatrist (the college psychiatrist)
 - url: https://shepersistedpodcast.com/episodes/ep147
-- transcript: episodes/ep-147.md (partial)
+- transcript: episodes/ep-147.md (full)
 
 sadie talks with dr. bianca busch, a psychiatrist who specializes in college students, about why mental health struggles are so common during this transition. they discuss warning signs that you might need support—like staying in your room, failing assignments, or feeling down for more than two weeks—and when to reach out for help. dr. busch walks through what to prioritize (sleep and nutrition over perfect grades) and how to set yourself up before college by maintaining accommodations, finding providers in your new state, and building an identity outside academics. she also shares what she wishes student health services could do differently and recommends therapy (especially cbt or dbt) as a first step before considering medication.
 
@@ -1788,7 +1788,7 @@ sadie walks through her go-to dbt coping skills for distress and emotion regulat
 - tags: emotions, self-improvement
 - guests: jay fields, educator, coach and author specializing in embodied social and emotional intelligence
 - url: https://shepersistedpodcast.com/episodes/ep131
-- transcript: episodes/ep-131.md (partial)
+- transcript: episodes/ep-131.md (full)
 
 sadie talks with jay fields, an educator and coach specializing in embodied emotional intelligence, about why we struggle with emotions and how to build healthier patterns. they discuss how childhood shapes our ability to regulate emotions and form relationships, the importance of validating feelings before problem-solving, and practical ways to connect with your body to manage your nervous system. jay shares the abc method (awareness, body, centering) for regulation, the power of self-empathy using "of course" statements, and how building trust with yourself through felt resources creates the foundation for lasting behavior change.
 
@@ -1840,7 +1840,7 @@ sadie sits down with ally petitti, host of trying to figure it out, to talk abou
 - tags: emotions, depression
 - guests: sharon brubaker, certified life coach and grief specialist
 - url: https://shepersistedpodcast.com/episodes/ep127
-- transcript: episodes/ep-127.md (partial)
+- transcript: episodes/ep-127.md (full)
 
 this episode covers how to navigate grief as a teenager with sharon brubaker, a certified life coach and grief specialist. she explains that grief isn't just about death—it includes breakups, bullying, losing friendships, and anything that hurts your heart. sharon debunks the five stages of grief (originally written for dying patients, not grievers) and shares practical tools: journaling, brain dumps, leaning into difficult emotions instead of avoiding them, and finding safe people to talk to. she also gives specific advice on supporting someone who's grieving (bring water and a notepad, not just casseroles) and emphasizes that healing requires action steps, not just time.
 
@@ -1868,7 +1868,7 @@ sadie walks through how to protect your mental health during the holiday season 
 - tags: teen mental health, college, relationships, social media
 - guests: zach gottlieb, 16-year-old founder of talk with zach
 - url: https://shepersistedpodcast.com/episodes/ep125
-- transcript: episodes/ep-125.md (partial)
+- transcript: episodes/ep-125.md (full)
 
 sadie and zach gottlieb, 16-year-old founder of talk with zach, discuss teen mental health from a male perspective. they cover why boys struggle to express emotions, how toxic masculinity leads to higher suicide rates despite lower reported depression, and the importance of creating safe spaces for vulnerability. they also talk through common teen stressors—finals, relationships, social media comparison, and college application pressure—and give practical advice on navigating breakups, setting boundaries with overbearing parents, and avoiding burnout. zach emphasizes being the best version of yourself in applications rather than comparing to peers, and both stress seeking professional help for serious mental health struggles instead of relying only on friends.
 
@@ -1902,7 +1902,7 @@ in this solo q+a, sadie answers listener questions about managing disordered eat
 - tags: troubled teen industry
 - guests: bobby cook from breaking code silence
 - url: https://shepersistedpodcast.com/episodes/ep122
-- transcript: episodes/ep-122.md (partial)
+- transcript: episodes/ep-122.md (full)
 
 sadie and bobby cook from breaking code silence discuss the troubled teen industry—privately owned, under-regulated programs like wilderness therapy and therapeutic boarding schools that often use abusive tactics marketed as mental health treatment. bobby shares his 29-month experience at hidden lake academy and explains red flags parents should watch for: involuntary admissions, forced transport ("gooning"), limited parent contact, custody sign-overs, unqualified staff, and no evidence-based care. they cover how these programs profit billions annually with zero federal oversight, the trauma survivors face, and how listeners can support change through advocacy and spreading awareness.
 
@@ -1940,7 +1940,7 @@ sadie breaks down how to build sustainable mental health habits using insights f
 - tags: teen mental health
 - guests: shani tran, therapist and author of dope therapy
 - url: https://shepersistedpodcast.com/episodes/ep119
-- transcript: episodes/ep-119.md (partial)
+- transcript: episodes/ep-119.md (full)
 
 in this episode, sadie sits down with shani tran—therapist, author of dope therapy, and tiktok creator—to break down how to navigate therapy as a teen. they discuss how to manage the anxiety and vulnerability that come with starting therapy, what to look for (and what red flags to avoid) when choosing a therapist, and why teens today face unique mental health challenges that deserve validation. shani also covers what to do when therapy isn't working, including how to communicate with your therapist or make a change if the fit isn't right. listeners come away with practical tools for advocating for themselves in therapy and understanding that it's okay to ask for what you need.
 
@@ -1992,7 +1992,7 @@ sadie sits down with lindsey simcik, co-host of the almost 30 podcast, to talk a
 - tags: depression
 - guests: adia fadaei, crisis counselor at 988 crisis & suicide lifeline
 - url: https://shepersistedpodcast.com/episodes/ep115
-- transcript: episodes/ep-115.md (partial)
+- transcript: episodes/ep-115.md (full)
 
 in this episode, sadie sits down with adia fadaei, a 19-year-old crisis counselor at the 988 crisis & suicide lifeline. they walk through exactly what happens when you call 988—from the first questions you'll be asked to how counselors assess risk and provide support. adia breaks down warning signs of suicidality, the concept of suicidal ambivalence, and debunks common misconceptions about 988 (like false claims about police involvement). they also discuss why joking about suicide is harmful, what proactive safety planning looks like, and reasons for hope in suicide prevention work.
 
@@ -2040,7 +2040,7 @@ Today's guest is Dr. Margaret Rutherford—a psychologist, author, podcast host,
 - tags: teen mental health, trauma
 - guests: ashley blaine featherson-jenkins, actress, producer, and host of trials to triumphs
 - url: https://shepersistedpodcast.com/episodes/ep111
-- transcript: episodes/ep-111.md (partial)
+- transcript: episodes/ep-111.md (full)
 
 sadie sits down with ashley blaine featherson-jenkins—actress, producer, and host of trials to triumphs—to talk about therapy, mental health, and finding your purpose. they discuss why preventative therapy matters, especially for people of color navigating ancestral and current trauma. ashley shares how she got into therapy almost by accident, why weekly sessions became her "peace in the week," and how redefining therapy on your own terms makes all the difference. they also talk about opening up in relationships, staying grounded during uncertain seasons, and building a daily gratitude practice. ashley's advice: find your why, do things that make you happy, and trust that the best is yet to come.
 
@@ -2092,7 +2092,7 @@ sadie sits down with dr. michael slepian, columbia professor and author of the s
 - tags: emotions, depression
 - guests: liz fosslien, co-author of big feelings and illustrator, mollie west duffy, co-author of big feelings
 - url: https://shepersistedpodcast.com/episodes/ep107
-- transcript: episodes/ep-107.md (partial)
+- transcript: episodes/ep-107.md (full)
 
 liz fosslien and mollie west duffy, authors of big feelings, talk through why seven emotions—burnout, perfectionism, comparison, uncertainty, anger, regret, and despair—are especially hard to work through. they explain how to identify what these feelings are trying to tell you instead of shutting them down, why sitting with discomfort helps you understand the need underneath, and how mollie recovered from suicidal ideation by chunking time, finding the right support, and slowly rebuilding her life. they also share concrete ways to show up for someone in crisis without overwhelming them.
 
@@ -2134,7 +2134,7 @@ sadie wraps up her freshman year at upenn by sharing practical advice on maintai
 - tags: sleep
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep104
-- transcript: episodes/ep-104.md (partial)
+- transcript: episodes/ep-104.md (full)
 
 Today's guests are Heather Turgeon and Julie Wright—the psychotherapists, sleep experts, and the authors of The Happy Sleeper and Generation Sleepless. In this episode, we discuss why teenagers are experiencing more sleep deprivation than any other demographic, the "perfect storm" leading teens to lose sleep, what exactly happens when you sleep + why it's so important that you get enough rest, at-home steps you can take to improve your sleep hygiene, night routine tips, how to combat insomnia, tips to get up in the morning, and so much more! If you are a teen or parent of a teen who struggles with sleep (like most of us do) this episode is for you and will provide so much value!
 
@@ -2144,7 +2144,7 @@ Today's guests are Heather Turgeon and Julie Wright—the psychotherapists, slee
 - tags: self-improvement
 - guests: emmalee bierly, lmft, jennifer chaiken, lmft
 - url: https://shepersistedpodcast.com/episodes/ep103
-- transcript: episodes/ep-103.md (partial)
+- transcript: episodes/ep-103.md (full)
 
 sadie sits down with emmalee bierly, lmft, and jennifer chaiken, lmft—co-founders of the therapy group and hosts of the shrinkchicks podcast. they talk about how their own negative therapy experiences in college led them to become therapists, why college is such a hard time for mental health, and the importance of therapist-shopping to find the right fit. they dive into how to actually get the most out of therapy sessions (hint: it's not just the 50 minutes in the room), why the therapeutic relationship is the biggest predictor of success, and how to use therapy to practice skills like setting boundaries or having conflict. they also debunk common myths—like that you should feel better after every session or that couples therapy means your relationship is in crisis—and explain what family systems therapy is all about.
 
@@ -2158,7 +2158,7 @@ sadie sits down with emmalee bierly, lmft, and jennifer chaiken, lmft—co-found
 - tags: teen mental health, college
 - guests: carmen applegate, host of the girly girl podcast
 - url: https://shepersistedpodcast.com/episodes/ep102
-- transcript: episodes/ep-102.md (partial)
+- transcript: episodes/ep-102.md (full)
 
 sadie sits down with carmen applegate, host of the girly girl podcast, to answer listener questions about navigating high school, college applications, and young adulthood. they discuss what they wish they'd done differently in high school (caring less about others' opinions, trying new activities), making the most of senior year, and surviving the college application process. the conversation covers practical podcast growth strategies like using tiktok and pinterest, creating varied content, and writing effective pitch emails. they also talk through dating questions—how to get over an ex, whether to be in a relationship, and reading signs someone likes you—emphasizing the importance of prioritizing friendships and doing what feels right for you.
 
@@ -2196,7 +2196,7 @@ in episode 100, sadie reflects on her own recovery from severe depression and an
 - tags: none
 - guests: danielle gronich, owner of san diego acne clinic and known as the acne guru™, kayleigh christina, holistic nutritionist
 - url: https://shepersistedpodcast.com/episodes/ep99
-- transcript: episodes/ep-099.md (partial)
+- transcript: episodes/ep-099.md (full)
 
 in this episode, sadie sits down with clearstem skincare founders danielle gronich (the acne guru™ and owner of san diego acne clinic) and kayleigh christina (holistic nutritionist) to break down everything about acne. they share their personal stories of struggling with cystic acne and the failed treatments they tried before finding what worked. the conversation covers common acne triggers like pore-clogging ingredients, supplements in excess (biotin, vitamin d, zinc, b12), and foods like dairy and whey protein. they also debunk popular tiktok skincare trends—baby botox, slugging, hydrocolloid bandages, and at-home high-frequency devices—and offer practical advice on routines, exfoliation, ice packing, and makeup that won't make breakouts worse.
 
@@ -2386,7 +2386,7 @@ sadie breaks down everything she learned about emotions from treatment at mclean
 - tags: trauma
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep84
-- transcript: episodes/ep-084.md (needs-descript)
+- transcript: episodes/ep-084.md (full)
 
 In today's episode, I sit down with Andrea Arlington—ICF, PCC Life Coach Specializing in Family Recovery & Relationships. We discuss all things family recovery, generational trauma, reparenting and nurturing yourself so you can support others. If you're struggling with your family relationships, this episode is for YOU and has so much profound wisdom for you to implement.
 
@@ -2505,7 +2505,7 @@ sadie sits down with dr. alexandra solomon, a licensed clinical psychologist and
 ## 75. Amen Clinic's Dr. Jay Faber on Teenage Substance Use: Brain Impacts, Long-Term Effects, and Quitting Tips
 
 - date: 2021-10-19
-- tags: none
+- tags: teen mental health
 - guests: dr. jay faber, child psychiatrist at amen clinics
 - url: https://shepersistedpodcast.com/episodes/ep75
 - transcript: episodes/ep-075.md (full)
@@ -2519,7 +2519,7 @@ sadie sits down with dr. jay faber, a child psychiatrist at amen clinics, to tal
 ## 74. Sophie Gray (Founder of DiveThru) on Diet Culture, Body Neutrality, Teenage Self-Harm, and Mental Health Education
 
 - date: 2021-10-09
-- tags: none
+- tags: emotions, teen mental health, body image
 - guests: sophie gray (founder of divethru)
 - url: https://shepersistedpodcast.com/episodes/ep74
 - transcript: episodes/ep-074.md (full)
@@ -2533,7 +2533,7 @@ sadie talks with sophie gray, founder of the mental health app divethru. sophie 
 ## 73. Victoria Garrick on Student-Athlete Mental Health, Body Image, Intuitive Eating, Vulnerability, and College Lifestyle
 
 - date: 2021-10-03
-- tags: none
+- tags: body image, college
 - guests: victoria garrick, former d1 athlete and mental health advocate
 - url: https://shepersistedpodcast.com/episodes/ep73
 - transcript: episodes/ep-073.md (full)
@@ -2547,7 +2547,7 @@ sadie talks with victoria garrick, a former d1 volleyball player at usc, about h
 ## 72. Almost 30's Krista Williams on How Meditation Will Change Your Life, Body Acceptance, Experiencing Your Emotions, and Surviving Depression + Anxiety
 
 - date: 2021-09-26
-- tags: none
+- tags: emotions, body image, trauma
 - guests: krista williams from almost 30
 - url: https://shepersistedpodcast.com/episodes/ep72
 - transcript: episodes/ep-072.md (full)
@@ -2561,7 +2561,7 @@ sadie sits down with krista williams from the almost 30 podcast to talk about na
 ## 71. 1st Month of College DEBRIEF: Tips for Move-In, Socializing, Productivity, Studying, and more!
 
 - date: 2021-09-20
-- tags: none
+- tags: college
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep71
 - transcript: episodes/ep-071.md (full)
@@ -2571,7 +2571,7 @@ sadie recaps her first month at the university of pennsylvania, covering move-in
 ## 69. Navigating Anxiety as a Teenager: Coping Skills, Listener Q+A, Personal Experiences, and More
 
 - date: 2021-08-14
-- tags: none
+- tags: anxiety, teen mental health
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep69
 - transcript: episodes/ep-069.md (full)
@@ -2581,7 +2581,7 @@ sadie covers navigating anxiety as a teenager, starting with insights from denma
 ## 68. How Our Mental + Physical Health Are Connected feat. Laura Martin
 
 - date: 2021-07-16
-- tags: none
+- tags: depression, anxiety
 - guests: laura martin, certified ibs nutrition consultant and founder of healing to happy
 - url: https://shepersistedpodcast.com/episodes/ep68
 - transcript: episodes/ep-068.md (full)
@@ -2595,7 +2595,7 @@ sadie sits down with laura martin, a certified ibs nutrition consultant and foun
 ## 67. High School RECAP
 
 - date: 2021-07-02
-- tags: none
+- tags: teen mental health
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep67
 - transcript: episodes/ep-067.md (full)
@@ -2609,7 +2609,7 @@ sadie recaps her entire high school experience across three states and three sch
 ## 66. Alexis Haines on Teenage Addiction, Childhood Trauma, and Taking Radical Accountability Over Your Healing
 
 - date: 2021-06-18
-- tags: none
+- tags: trauma
 - guests: alexis haines, addiction center owner, doula, podcast host, and author
 - url: https://shepersistedpodcast.com/episodes/ep66
 - transcript: episodes/ep-066.md (full)
@@ -2623,7 +2623,7 @@ alexis haines talks about her path from teenage heroin addiction and being in th
 ## 65. Therapy 101: Your Guide to Teen Treatment feat. Lindsay Fleming LPC
 
 - date: 2021-05-22
-- tags: none
+- tags: teen mental health, troubled teen industry, trauma
 - guests: lindsay fleming lpc
 - url: https://shepersistedpodcast.com/episodes/ep65
 - transcript: episodes/ep-065.md (full)
@@ -2651,7 +2651,7 @@ sadie talks with sydney montana, a survivor of cross creek, a behavioral modific
 ## 63. Overcoming Stagefright, Finding Your Voice, and Networking 101 feat. Rae Fung
 
 - date: 2021-04-30
-- tags: none
+- tags: anxiety, career, self-improvement
 - guests: rae fung, speaking coach
 - url: https://shepersistedpodcast.com/episodes/ep63
 - transcript: episodes/ep-063.md (full)
@@ -2679,7 +2679,7 @@ sadie talks with evan haines, co-founder of alo house, about his journey to sobr
 ## 61. Bite Sized Mindfulness for Adolescents feat. Kira Willey
 
 - date: 2021-04-18
-- tags: none
+- tags: self-improvement, teen mental health
 - guests: kira willey, mindfulness educator and children's author
 - url: https://shepersistedpodcast.com/episodes/ep61
 - transcript: episodes/ep-061.md (full)
@@ -2693,7 +2693,7 @@ sadie talks with kira willey, a mindfulness educator who works with kids and ado
 ## 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 
 - date: 2021-04-10
-- tags: none
+- tags: anxiety, self-improvement
 - guests: zachery dereniowski, medical student and mental health advocate
 - url: https://shepersistedpodcast.com/episodes/ep60
 - transcript: episodes/ep-060.md (full)
@@ -2710,7 +2710,7 @@ sadie sits down with zachery dereniowski (@mdmotivator), a former college dropou
 - tags: none
 - guests: hillary higgins, associate director of college counseling at the nueva school and former usc admissions counselor
 - url: https://shepersistedpodcast.com/episodes/ep59
-- transcript: episodes/ep-059.md (needs-descript)
+- transcript: episodes/ep-059.md (full)
 
 sadie talks with hillary higgins, associate director of college counseling at the nueva school and former usc admissions counselor, about navigating mental health disclosure in college applications. they discuss how to decide whether sharing your mental health journey is right for you, framing your experience in a solution-focused way that highlights growth and resilience, and addressing how mental health may have impacted your academic record. hillary also shares strategies for researching colleges and finding the right fit without visiting campus.
 
@@ -2720,7 +2720,7 @@ sadie talks with hillary higgins, associate director of college counseling at th
 - tags: none
 - guests: maya
 - url: https://shepersistedpodcast.com/episodes/ep58
-- transcript: episodes/ep-058.md (needs-descript)
+- transcript: episodes/ep-058.md (full)
 
 sadie sits down with her best friend maya to talk through the emotional rollercoaster of college applications. they cover how to handle rejection, deferral, and acceptance letters without losing your sense of self-worth, plus practical strategies for managing stress and anxiety during the waiting periods. the conversation offers peer perspective on staying grounded when so much feels out of your control, and reminds listeners that your college decision doesn't define your value or future.
 
@@ -2730,7 +2730,7 @@ sadie sits down with her best friend maya to talk through the emotional rollerco
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep57
-- transcript: episodes/ep-057.md (needs-descript)
+- transcript: episodes/ep-057.md (full)
 
 sadie walks through her entire university of pennsylvania application, breaking down her test scores, gpa, extracurriculars, and application strategy. she shares her complete personal statement about overcoming severe depression as a young teen, leaving home for treatment, and starting her podcast at fifteen. the episode offers practical advice on recommendation letters, supplemental essays, and how she framed her mental health journey as a strength in her application rather than hiding it.
 
@@ -2744,7 +2744,7 @@ sadie walks through her entire university of pennsylvania application, breaking 
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep56
-- transcript: episodes/ep-056.md (needs-descript)
+- transcript: episodes/ep-056.md (full)
 
 sadie breaks down ocd, anxiety, and exposure therapy in this solo episode. she explains how to tell if your fears are justified versus anxiety-driven, then walks through three evidence-based exposure techniques: imaginative (visualizing feared scenarios), introspective (examining thought patterns), and in vivo (real-life practice). she shares personal stories from her own ocd and anxiety treatment and gives practical tips for applying exposure therapy to everyday life.
 
@@ -2754,7 +2754,7 @@ sadie breaks down ocd, anxiety, and exposure therapy in this solo episode. she e
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep55
-- transcript: episodes/ep-055.md (needs-descript)
+- transcript: episodes/ep-055.md (full)
 
 sadie shares her personal mental health advice for navigating high school. she talks about using 504 plans and accommodations, building genuine relationships with school counselors, finding a passion project outside of academics, and learning to work smarter instead of just harder. the episode focuses on practical strategies she's used to succeed in school while protecting her mental health.
 
@@ -2774,7 +2774,7 @@ Kirstie Taylor and I sit down to talk about how "big T" and "little t" childhood
 - tags: none
 - guests: camila vola, host of my point of view podcast
 - url: https://shepersistedpodcast.com/episodes/ep53
-- transcript: episodes/ep-053.md (needs-descript)
+- transcript: episodes/ep-053.md (full)
 
 sadie talks with camila vola, a 22-year-old college student from argentina who hosts my point of view podcast. they share practical advice on pitching high-profile guests for your podcast, including exactly what to say in pitch emails and dms. camila and sadie also discuss why she started her show and how to intentionally curate your social media feed to support your confidence, self-esteem, and body image. listeners walk away with concrete strategies for reaching out to influencers and building a healthier relationship with social media.
 
@@ -2784,7 +2784,7 @@ sadie talks with camila vola, a 22-year-old college student from argentina who h
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep52
-- transcript: episodes/ep-052.md (needs-descript)
+- transcript: episodes/ep-052.md (full)
 
 in this solo q+a episode, sadie answers listener questions about starting she persisted and her motivations behind the podcast. she shares practical advice on podcast growth and production, including first steps for beginners and tips for building an audience. sadie also opens up about her treatment journey at 3east mclean hospital, discussing misconceptions she had before treatment and what surprised her most during recovery. she rounds out the episode with personal productivity tips for managing procrastination and maintaining happiness during shelter in place.
 
@@ -2794,7 +2794,7 @@ in this solo q+a episode, sadie answers listener questions about starting she pe
 - tags: none
 - guests: amanda dimarco, founder of just mands blog and podcast
 - url: https://shepersistedpodcast.com/episodes/ep51
-- transcript: episodes/ep-051.md (needs-descript)
+- transcript: episodes/ep-051.md (full)
 
 sadie talks with amanda dimarco, founder of just mands blog and podcast, about building her platforms around honest conversation and wellness. they cover amanda's journaling practices and tips for getting thoughts out of your head, how social media affects mental health and the importance of being aware of that impact, and navigating a surprise pregnancy at 22 while managing a public presence and family relationships. amanda shares what it means to show up authentically online and how to get started in blogging if you're interested in creating your own space.
 
@@ -2804,7 +2804,7 @@ sadie talks with amanda dimarco, founder of just mands blog and podcast, about b
 - tags: none
 - guests: dr. uma naidoo, director of nutritional and lifestyle psychiatry at massachusetts general hospital
 - url: https://shepersistedpodcast.com/episodes/ep50
-- transcript: episodes/ep-050.md (needs-descript)
+- transcript: episodes/ep-050.md (full)
 
 sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional chef who directs the first hospital-based nutritional psychiatry service in the united states. they explore the gut-brain connection and how what we eat directly impacts our mental health. dr. uma shares specific nutritional recommendations for managing depression, anxiety, and chronic stress, along with foods that support immunity. listeners learn practical ways to use food as a tool for better mental health.
 
@@ -2814,7 +2814,7 @@ sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional
 - tags: none
 - guests: sage lally, founder of be.
 - url: https://shepersistedpodcast.com/episodes/ep49
-- transcript: episodes/ep-049.md (needs-descript)
+- transcript: episodes/ep-049.md (full)
 
 sadie sits down with sage lally, founder of be., to talk about navigating mental health in college and the tools that helped them both. they discuss their experiences in dialectical behavioral therapy (dbt), why maladaptive coping mechanisms are so difficult to unlearn, and the importance of speaking up for your emotional needs in real time. sage also shares how she built be. as a newsletter and community platform that empowers women and non-binary people to tell their stories and find connection in shared experience.
 
@@ -2838,7 +2838,7 @@ sadie shares what helped her recover from teenage depression, drawing on skills 
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep47
-- transcript: episodes/ep-047.md (needs-descript)
+- transcript: episodes/ep-047.md (full)
 
 sadie breaks down dbt's tipp skill—a crisis survival tool that uses temperature, intense exercise, paced breathing, and paired muscle relaxation to calm your nervous system when emotions feel overwhelming. she explains what actually counts as a crisis (hint: not everything does), when crisis survival skills are most helpful, and introduces the riding the wave technique for getting through intense emotions without making things worse. this episode gives you practical, body-based tools to use when you're in acute distress.
 
@@ -2848,7 +2848,7 @@ sadie breaks down dbt's tipp skill—a crisis survival tool that uses temperatur
 - tags: none
 - guests: evonna kuehner, founder and ceo of anové beauty
 - url: https://shepersistedpodcast.com/episodes/ep46
-- transcript: episodes/ep-046.md (needs-descript)
+- transcript: episodes/ep-046.md (full)
 
 sadie talks with evonna kuehner, founder and ceo of anové beauty, about building a clean skincare brand from scratch while balancing life as a new mom. evonna shares practical skincare advice, including the correct order to apply products and her top five tips, plus myths she wants to debunk. they also get into leaving corporate life to bootstrap a startup, staying compassionate with yourself during your wellness journey, and finding balance when you're juggling everything at once.
 
@@ -2858,7 +2858,7 @@ sadie talks with evonna kuehner, founder and ceo of anové beauty, about buildin
 - tags: none
 - guests: abbie stasior, health and life coach
 - url: https://shepersistedpodcast.com/episodes/ep45
-- transcript: episodes/ep-045.md (needs-descript)
+- transcript: episodes/ep-045.md (full)
 
 sadie sits down with abbie stasior, a health and life coach, columbia grad student, and founder of be about being better. they talk through abbie's approach to juggling school, business, and her own physical health without burning out. abbie shares her journey to becoming a life and fitness coach, plus the morning and night routines that actually help her stay grounded. they also get real about what it means to fall off the wagon versus building true consistency in your life.
 
@@ -2868,7 +2868,7 @@ sadie sits down with abbie stasior, a health and life coach, columbia grad stude
 - tags: none
 - guests: kelsey jones, host of what's stopping you podcast
 - url: https://shepersistedpodcast.com/episodes/ep44
-- transcript: episodes/ep-044.md (needs-descript)
+- transcript: episodes/ep-044.md (full)
 
 sadie sits down with kelsey jones, host of what's stopping you podcast and student at university of texas, austin. they talk about kelsey's experience starting and growing a podcast, balancing full-time school with building a career, and practical strategies for staying productive. the conversation also explores insecurity and body confidence, with both sharing personal experiences about how common these struggles are.
 
@@ -2878,7 +2878,7 @@ sadie sits down with kelsey jones, host of what's stopping you podcast and stude
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep42
-- transcript: episodes/ep-042.md (needs-descript)
+- transcript: episodes/ep-042.md (full)
 
 sadie answers listener questions about her personal journey, covering how hearing others' stories has shaped her own recovery, what inspired her to share publicly, and managing school anxiety during quarantine. she discusses her college search process, thoughts on psychology as a career path, and why she chose podcasting. she also opens up about her experiences at mclean and therapeutic boarding school—how involved she was in choosing programs, what she wishes had been different in her transition, and any lasting impacts from treatment. plus thoughts on medication and whether she'll continue the podcast in college.
 
@@ -2888,7 +2888,7 @@ sadie answers listener questions about her personal journey, covering how hearin
 - tags: none
 - guests: daisye byrd graham
 - url: https://shepersistedpodcast.com/episodes/ep41
-- transcript: episodes/ep-041.md (needs-descript)
+- transcript: episodes/ep-041.md (full)
 
 sadie sits down with her best friend daisye byrd graham to discuss daisye's personal story, including her experiences with trauma and time in a wilderness therapy program. they explore what the adolescent treatment industry can look like from a teen's perspective and how their friendship began through these experiences. the conversation offers insight for parents considering wilderness programs while also touching on healing and resilience. despite the heavy topics, the episode includes moments of genuine laughter and connection between two friends.
 
@@ -2898,7 +2898,7 @@ sadie sits down with her best friend daisye byrd graham to discuss daisye's pers
 - tags: none
 - guests: j'anmetra waddell, author and life past crazy specialist
 - url: https://shepersistedpodcast.com/episodes/ep40
-- transcript: episodes/ep-040.md (needs-descript)
+- transcript: episodes/ep-040.md (full)
 
 sadie talks with j'anmetra waddell (jo-jo), a domestic abuse survivor, author, and the only life past crazy specialist. jo-jo shares her personal story of surviving trauma and offers practical guidance on moving forward after experiencing depression, anxiety, or traumatic events. listeners learn specific strategies for self-care and making commitments to their healing journey. the conversation is inspiring and grounded, giving you real tools to use when life feels overwhelming.
 
@@ -2908,7 +2908,7 @@ sadie talks with j'anmetra waddell (jo-jo), a domestic abuse survivor, author, a
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep39
-- transcript: episodes/ep-039.md (needs-descript)
+- transcript: episodes/ep-039.md (full)
 
 this episode is a practical guide to getting better sleep, especially if you struggle with insomnia or just want to improve your sleep quality. sadie shares evidence-based tips and tricks for creating the right conditions for rest, from environmental changes to mental shifts. the episode includes two guided sleep meditation practices you can use to help yourself fall asleep. whether you're a chronic insomniac or just looking to upgrade your sleep routine, this episode gives you actionable strategies to try tonight.
 
@@ -2918,7 +2918,7 @@ this episode is a practical guide to getting better sleep, especially if you str
 - tags: none
 - guests: leo flowers, tedx speaker, stand-up comedian, life coach, and podcast host
 - url: https://shepersistedpodcast.com/episodes/ep38
-- transcript: episodes/ep-038.md (needs-descript)
+- transcript: episodes/ep-038.md (full)
 
 sadie talks with leo flowers, a tedx speaker, stand-up comedian, life coach, and host of the before you kill yourself podcast. they discuss destigmatizing mental health, the intersection of comedy and therapy, and how to actually thrive through hard times. leo shares insights from his counseling background and his work helping people navigate their mental health journeys. listeners walk away with perspective on finding help, reframing struggle, and the tools that support real healing.
 
@@ -2928,7 +2928,7 @@ sadie talks with leo flowers, a tedx speaker, stand-up comedian, life coach, and
 - tags: none
 - guests: audrey bailey, artist and creator of brush and barley
 - url: https://shepersistedpodcast.com/episodes/ep37
-- transcript: episodes/ep-037.md (needs-descript)
+- transcript: episodes/ep-037.md (full)
 
 sadie talks with audrey bailey, artist and creator of brush and barley, about navigating faith and mental health together. audrey shares her journey with depression and anxiety since her teens, including experiences with toxic relationships and postpartum depression. they discuss the mental health stigma that exists in christian communities, how social media affects your wellbeing, and practical ways to support loved ones who are struggling. listeners come away with perspective on integrating spirituality with mental health care and understanding that faith and therapy can coexist.
 
@@ -2938,7 +2938,7 @@ sadie talks with audrey bailey, artist and creator of brush and barley, about na
 - tags: none
 - guests: sarah humphrey, host of it ain't it sis
 - url: https://shepersistedpodcast.com/episodes/ep36
-- transcript: episodes/ep-036.md (needs-descript)
+- transcript: episodes/ep-036.md (full)
 
 sadie sits down with sarah humphrey, host of it ain't it sis, to talk about navigating your teens and early twenties while working on yourself. they cover experiences with bullying and body image, what it's like to struggle with mental health when you're young, and practical advice for college. the conversation is about finding your own path and becoming who you want to be, even when you're still figuring it all out.
 
@@ -2948,7 +2948,7 @@ sadie sits down with sarah humphrey, host of it ain't it sis, to talk about navi
 - tags: none
 - guests: cassandra mcclure, entrepreneur and host of the clean beauty podcast
 - url: https://shepersistedpodcast.com/episodes/ep35
-- transcript: episodes/ep-035.md (needs-descript)
+- transcript: episodes/ep-035.md (full)
 
 sadie sits down with cassandra mcclure, a model-turned-makeup artist and clean beauty entrepreneur, to talk about navigating mental health during quarantine, the importance of diversity and representation in the beauty industry, and what it takes to build a business from the ground up. they discuss cassandra's journey creating lash binder™, her clean beauty podcast, and how she's pivoting to support struggling business owners through clean beauty con's virtual summit. the conversation touches on self-care practices during uncertain times and the power of giving back to your community.
 
@@ -2958,7 +2958,7 @@ sadie sits down with cassandra mcclure, a model-turned-makeup artist and clean b
 - tags: none
 - guests: brittany crane (founder of get out there girl)
 - url: https://shepersistedpodcast.com/episodes/ep34
-- transcript: episodes/ep-034.md (needs-descript)
+- transcript: episodes/ep-034.md (full)
 
 sadie talks with brittany crane, founder of get out there girl, about how nature, adventure, and connection can support mental health and self-compassion. brittany shares her approach to helping women escape comparison, guilt, and perfectionism by treating themselves like they would a good friend. they discuss brittany's self-compassion workbook, her high-adventure retreats for women, and the power of vulnerability in building genuine connections. listeners learn practical ways to quiet their inner critic and build inner strength through self-compassion practices.
 
@@ -2968,7 +2968,7 @@ sadie talks with brittany crane, founder of get out there girl, about how nature
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep33
-- transcript: episodes/ep-033.md (needs-descript)
+- transcript: episodes/ep-033.md (full)
 
 in this solo q+a episode, sadie answers listener questions about her podcasting journey, supporting friends with mental health struggles, and navigating major life transitions. she shares practical advice on validation and being present for friends (even ones you're not super close to), discusses how teenage mental health differs from adult experiences, and opens up about rebuilding relationships after treatment at mclean and therapeutic boarding school. she also covers her favorite in-the-moment coping skills and the challenges of transitioning back to regular school after residential treatment.
 
@@ -2978,7 +2978,7 @@ in this solo q+a episode, sadie answers listener questions about her podcasting 
 - tags: none
 - guests: scout sobel, host of scout podcast and okay sis
 - url: https://shepersistedpodcast.com/episodes/ep32
-- transcript: episodes/ep-032.md (needs-descript)
+- transcript: episodes/ep-032.md (full)
 
 sadie talks with scout sobel, host of scout podcast and okay sis, about living with bipolar disorder and what that journey has looked like for her. they discuss scout's work as a mental health advocate, what she's learned about building healthy relationships while managing mental illness, and how she navigates her diagnosis day to day. scout shares her experience as a bipolar survivor and the tools that have helped her along the way.
 
@@ -2988,7 +2988,7 @@ sadie talks with scout sobel, host of scout podcast and okay sis, about living w
 - tags: none
 - guests: alexis smith, creator of every ounce of strength
 - url: https://shepersistedpodcast.com/episodes/ep31
-- transcript: episodes/ep-031.md (needs-descript)
+- transcript: episodes/ep-031.md (full)
 
 sadie sits down with lexie smith from every ounce of strength to talk about her journey to full eating disorder recovery. they discuss what it means to truly own your recovery process, the difference between managing symptoms and fully recovering, and why you need to prioritize your own mental health before you can effectively help others. lexie shares her experience creating the recovery workbook and what she's learned about doing the deep work of healing.
 
@@ -2998,7 +2998,7 @@ sadie sits down with lexie smith from every ounce of strength to talk about her 
 - tags: none
 - guests: jill nowak (licsw) from 3east, mclean hospital
 - url: https://shepersistedpodcast.com/episodes/ep30
-- transcript: episodes/ep-030.md (needs-descript)
+- transcript: episodes/ep-030.md (full)
 
 sadie and jill nowak (licsw) from 3east at mclean hospital talk about sadie's experience in the adolescent treatment program and explore the practice of gratitude. they discuss why gratitude can feel impossible when you're struggling with mental health, how to start small with the practice anyway, and the real benefits it can offer. jill also shares her journey into adolescent mental health treatment work. the episode offers gratitude skills that work for anyone, whether you're in crisis or just want to build the habit.
 
@@ -3008,7 +3008,7 @@ sadie and jill nowak (licsw) from 3east at mclean hospital talk about sadie's ex
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep29
-- transcript: episodes/ep-029.md (needs-descript)
+- transcript: episodes/ep-029.md (full)
 
 in this episode, sadie applies dbt skills—specifically validation and mindfulness of others—to supporting the black lives matter movement. she explains how to make people feel seen, heard, and respected through empathy and validation, even if you're struggling with your own physical or mental health. the episode offers practical tools for strengthening relationships and showing up for others during a crucial moment. it's a departure from the usual format but focuses on skills anyone can use to be more present and supportive.
 
@@ -3032,7 +3032,7 @@ sadie sits down with dr. blaise aguirre, the psychiatrist who treated her at 3ea
 - tags: none
 - guests: emily lebaron, founder of living for hope
 - url: https://shepersistedpodcast.com/episodes/ep27
-- transcript: episodes/ep-027.md (needs-descript)
+- transcript: episodes/ep-027.md (full)
 
 sadie sits down with emily lebaron, founder of the living for hope brand, to discuss therapy, medication management, and navigating mental health during the covid-19 pandemic. emily opens up about surviving teenage depression and shares her journey of reducing stigma around mental health treatment. the conversation covers practical approaches to starting therapy, understanding medication options, and finding coping strategies during quarantine and uncertain times.
 
@@ -3042,7 +3042,7 @@ sadie sits down with emily lebaron, founder of the living for hope brand, to dis
 - tags: none
 - guests: ivy sutton
 - url: https://shepersistedpodcast.com/episodes/ep26
-- transcript: episodes/ep-026.md (needs-descript)
+- transcript: episodes/ep-026.md (full)
 
 sadie sits down with her younger sister ivy to talk about building independence, taking control of your mental health, and maintaining self-respect in relationships. the episode teaches the fast skill from dbt—a framework for keeping your self-respect when interacting with others by being fair, not apologizing unnecessarily, sticking to your values, and being truthful. together they explore what these principles look like in real life and how to apply them to everyday interactions.
 
@@ -3100,7 +3100,7 @@ sadie and maya (a returning guest and high school junior) talk about navigating 
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep21
-- transcript: episodes/ep-021.md (needs-descript)
+- transcript: episodes/ep-021.md (full)
 
 sadie breaks down two dbt interpersonal effectiveness skills designed to strengthen relationships and handle conflicts better. give (be gentle, act interested, validate, use an easy manner) helps you communicate in ways that preserve the relationship, while think (think it through, have empathy, consider interpretations, notice the other person, use kindness) keeps you mindful during difficult conversations. these skills are practical tools for navigating arguments with parents, maintaining friendships, and improving how you connect with others when emotions run high.
 
@@ -3110,7 +3110,7 @@ sadie breaks down two dbt interpersonal effectiveness skills designed to strengt
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep20
-- transcript: episodes/ep-020.md (needs-descript)
+- transcript: episodes/ep-020.md (full)
 
 this episode breaks down the dearman skill from dialectical behavior therapy (dbt), a practical tool for asking for what you want and getting your needs met in relationships. sadie walks through each letter of the acronym—describe the situation, express your feelings, assert what you need, reinforce why it matters, be mindful during the conversation, appear confident, and negotiate if needed. she explains when to use dearman (when your objective matters most) and gives concrete examples of how to apply each step in real conversations.
 
@@ -3120,7 +3120,7 @@ this episode breaks down the dearman skill from dialectical behavior therapy (db
 - tags: none
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep19
-- transcript: episodes/ep-019.md (needs-descript)
+- transcript: episodes/ep-019.md (full)
 
 sadie walks her younger sister through the interpersonal effectiveness module of dbt, covering what interpersonal effectiveness means and why relationships matter for mental health. they discuss common unhealthy beliefs people hold about asking for what they need, setting boundaries, and maintaining self-respect in relationships. the episode teaches listeners how to clarify their goals before entering difficult conversations—whether they want to change a situation, strengthen a relationship, or protect their self-respect.
 
@@ -3130,7 +3130,7 @@ sadie walks her younger sister through the interpersonal effectiveness module of
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep18
-- transcript: episodes/ep-018.md (needs-descript)
+- transcript: episodes/ep-018.md (full)
 
 this episode continues the mindfulness module, focusing on the HOW skills from dialectical behavior therapy (dbt). sadie breaks down three core practices: being nonjudgmental (observing without labeling things as good or bad), being effective (doing what works in the situation rather than what feels fair), and one-mindfully (giving full attention to one thing at a time). she also introduces loving-kindness meditation and explains the difference between being mind (present-focused awareness) and doing mind (task-oriented thinking). these skills help manage depression and anxiety by changing how you relate to your thoughts and experiences.
 
@@ -3140,7 +3140,7 @@ this episode continues the mindfulness module, focusing on the HOW skills from d
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep17
-- transcript: episodes/ep-017.md (needs-descript)
+- transcript: episodes/ep-017.md (full)
 
 this episode kicks off the mindfulness module of dbt by breaking down what mindfulness actually is and why it matters for your mental health toolkit. sadie teaches the three what skills—observe, describe, and participate—and explains the three states of mind (emotion mind, reasonable mind, and wise mind). the episode includes guided mindfulness practices so you can start applying these skills right away and begin building a foundation for the rest of your dbt work.
 
@@ -3150,7 +3150,7 @@ this episode kicks off the mindfulness module of dbt by breaking down what mindf
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep16
-- transcript: episodes/ep-016.md (needs-descript)
+- transcript: episodes/ep-016.md (full)
 
 sadie breaks down the fundamentals of dialectical behavioral therapy (dbt), covering the biosocial model, behavior change strategies, dialectics, and validation. she walks through a real conflict with her sister to show how dbt principles work in practice, specifically focusing on objective effectiveness—getting what you want while maintaining relationships. listeners learn concrete ways to identify behaviors they want to change and how to apply dbt thinking to interpersonal conflicts.
 
@@ -3160,7 +3160,7 @@ sadie breaks down the fundamentals of dialectical behavioral therapy (dbt), cove
 - tags: none
 - guests: sadie's best friend from home
 - url: https://shepersistedpodcast.com/episodes/ep15
-- transcript: episodes/ep-015.md (needs-descript)
+- transcript: episodes/ep-015.md (full)
 
 sadie sits down with her best friend from home, who shares what it was like to watch sadie struggle with mental health challenges, go to treatment, and return home. they talk through the stigma around mental illness that makes it hard to support friends openly, and explore how to be there for someone who's struggling. the episode emphasizes a key lesson: you need to maintain your own mental health and support system first before you can show up for someone else.
 
@@ -3170,7 +3170,7 @@ sadie sits down with her best friend from home, who shares what it was like to w
 - tags: none
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep14
-- transcript: episodes/ep-014.md (needs-descript)
+- transcript: episodes/ep-014.md (full)
 
 sadie sits down with her younger sister to talk about how mental health struggles affect the whole family. they discuss what it was like at home while sadie was at mclean hospital for treatment, the changes her sister noticed in sadie and their family dynamics, and the difficult position of wanting to talk about what's happening but feeling like it's not your story to share. her sister also shares dbt skills she learned through the process and offers advice on finding someone to talk to when a loved one is struggling.
 
@@ -3180,7 +3180,7 @@ sadie sits down with her younger sister to talk about how mental health struggle
 - tags: none
 - guests: emily thelen (ma, lcpc, ctrs)
 - url: https://shepersistedpodcast.com/episodes/ep11
-- transcript: episodes/ep-011.md (needs-descript)
+- transcript: episodes/ep-011.md (full)
 
 sadie sits down with emily thelen, one of her therapists from therapeutic boarding school, for a conversation about sadie's own journey through treatment. they discuss how emily witnessed sadie's changes over time, why emotional growth is hard to measure in the moment, and how society pushes us to avoid negative feelings instead of processing them. emily also turns the tables and asks sadie what she thinks makes therapy actually work.
 
@@ -3190,7 +3190,7 @@ sadie sits down with emily thelen, one of her therapists from therapeutic boardi
 - tags: none
 - guests: jacob sparks, lmft
 - url: https://shepersistedpodcast.com/episodes/ep10
-- transcript: episodes/ep-010.md (needs-descript)
+- transcript: episodes/ep-010.md (full)
 
 sadie sits down with jacob sparks, lmft, who was her individual and family therapist at the time of recording. they reflect on sadie's therapeutic journey, discussing what's helped her grow and what's held her back. jake shares practical advice on building healthier relationships and developing coping skills. he also turns the conversation around to ask sadie what she thinks therapists should know and what young people should keep in mind when starting therapy.
 
@@ -3200,7 +3200,7 @@ sadie sits down with jacob sparks, lmft, who was her individual and family thera
 - tags: none
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep8
-- transcript: episodes/ep-008.md (needs-descript)
+- transcript: episodes/ep-008.md (full)
 
 sadie sits down with her dad to talk about what it was like parenting a teen through residential treatment and therapeutic boarding school. they discuss the decision to send sadie away for treatment, how it impacted their family dynamics, and what the experience taught them both. the conversation also touches on mental health stigma and their relationship today. listeners get a parent's perspective on navigating adolescent depression and anxiety treatment, including family therapy and the realities of intensive programs.
 
@@ -3210,7 +3210,7 @@ sadie sits down with her dad to talk about what it was like parenting a teen thr
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep6
-- transcript: episodes/ep-006.md (needs-descript)
+- transcript: episodes/ep-006.md (full)
 
 sadie sits down with a friend to talk about navigating different types of relationships. they discuss recognizing codependency in romantic relationships and friendships, how family dynamics shift as you grow up, and the role of gossip in friendships. the conversation explores how two people with different personalities maintain their friendship while staying independent, and reflects on how various relationships have shaped them.
 
@@ -3220,7 +3220,7 @@ sadie sits down with a friend to talk about navigating different types of relati
 - tags: none
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep5
-- transcript: episodes/ep-005.md (needs-descript)
+- transcript: episodes/ep-005.md (full)
 
 this episode dives into teen anxiety—what it feels like day-to-day, how panic attacks actually happen in your body, and why anxiety makes everyday things like school feel impossible. sadie shares personal experiences to help listeners recognize their own patterns and understand they're not alone. you'll come away with a clearer picture of how anxiety works and why it shows up the way it does.
 
@@ -3230,7 +3230,7 @@ this episode dives into teen anxiety—what it feels like day-to-day, how panic 
 - tags: none
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep3
-- transcript: episodes/ep-003.md (needs-descript)
+- transcript: episodes/ep-003.md (full)
 
 sadie sits down with her younger sister to talk about what it was like watching sadie struggle with depression and anxiety from a sibling's perspective. they discuss how mental illness shifted their family dynamics, how their relationship changed during those two years, and what helped them heal together. the conversation offers insight into how family therapy can strengthen relationships and how siblings can support each other through mental health challenges.
 
@@ -3240,7 +3240,7 @@ sadie sits down with her younger sister to talk about what it was like watching 
 - tags: none
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep2
-- transcript: episodes/ep-002.md (needs-descript)
+- transcript: episodes/ep-002.md (full)
 
 sadie sits down with her dad to talk about what it was like for him to watch his daughter struggle with depression and anxiety. they discuss the difficult decision to send sadie to treatment, the helplessness parents feel when they don't know how to support their kid, and how their family has changed since then. this episode offers reassurance to parents that they're doing their best, while helping teens understand what their parents experience during these challenging times.
 

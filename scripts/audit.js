@@ -31,7 +31,7 @@ const complete = [];
 const tally = {};
 for (const ep of episodes) {
   const { words, flags } = audit(ep);
-  const status = !flags.length ? 'full' : flags[0] === 'no transcript' ? 'needs-descript' : words >= MIN_WORDS ? 'partial' : 'needs-descript';
+  const status = ep.meta.transcript_source === 'flightcast' && words >= 300 ? 'full' : !flags.length ? 'full' : flags[0] === 'no transcript' ? 'needs-descript' : words >= MIN_WORDS ? 'partial' : 'needs-descript';
   tally[status] = (tally[status] || 0) + 1;
   if (flags.length) rows.push({ ep, words, flags, status });
   // Episode-page completeness (template A needs all of these; anything missing → the page degrades per section).
@@ -43,7 +43,7 @@ for (const ep of episodes) {
   else if (stamped < 5) missing.push('transcript_timestamps');
   if (!(ep.meta.chapters || []).length) missing.push('chapters');
   if (!ep.meta.apple_episode_url) missing.push('apple_episode_url');
-  if (!ep.meta.spotify_episode_id) missing.push('spotify_episode_id');
+  if (!ep.meta.spotify_episode_id && !ep.meta.creators_embed_url) missing.push('spotify_episode_id');
   const completeness = missing.length ? 'partial' : 'full';
   complete.push({ ep, completeness, missing });
   const meta = { ...ep.meta, transcript_status: status, transcript_words: words, audit_flags: flags, completeness, missing };
@@ -76,7 +76,7 @@ fs.writeFileSync(path.join(INDEX_DIR, 'backfill.md'), out);
 const full = complete.filter((c) => c.completeness === 'full');
 const counts = {};
 complete.forEach((c) => c.missing.forEach((m) => { counts[m] = (counts[m] || 0) + 1; }));
-const why = { youtube_id: 'no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)', transcript: 'no full transcript on the post (see backfill.md)', transcript_timestamps: 'transcript has no timestamps, so paragraphs and chapters cannot seek the player (needs a timestamped Descript export)', chapters: 'no chapters yet (needs "we talk about" bullets plus a timestamped transcript, then chapters.js)', apple_episode_url: 'not in Apple\'s episode listing (Apple returns the newest 200 only)', spotify_episode_id: 'no Spotify episode player embedded in the post' };
+const why = { youtube_id: 'no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)', transcript: 'no full transcript on the post (see backfill.md)', transcript_timestamps: 'transcript has no timestamps, so paragraphs and chapters cannot seek the player (needs a timestamped Descript export)', chapters: 'no chapters yet (needs "we talk about" bullets plus a timestamped transcript, then chapters.js)', apple_episode_url: 'not in Apple\'s episode listing (Apple returns the newest 200 only)', spotify_episode_id: 'no Spotify or Spotify for Creators player embedded in the post' };
 fs.writeFileSync(path.join(INDEX_DIR, 'completeness.md'), `# episode page completeness
 
 ${full.length} of ${complete.length} episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.

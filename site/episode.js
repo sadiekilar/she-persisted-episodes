@@ -70,6 +70,7 @@
     '#sp-episode .sp-listen .sp-glyph{width:20px;height:20px}',
     '#sp-episode .sp-spotify{width:100%;height:152px;border:0;border-radius:12px}',
     '#sp-episode .sp-audio{display:block;width:100%;height:44px}',
+    '#sp-episode .sp-creators{display:block;width:100%;height:102px;border:0;border-radius:12px;overflow:hidden}',
     '#sp-episode .sp-notes{display:flex;flex-direction:column;gap:36px;width:100%;max-width:860px;margin:0 auto}',
     '#sp-episode .sp-desc{display:flex;flex-direction:column;gap:16px;font-size:18px;line-height:1.5;color:var(--ink)}',
     '#sp-episode .sp-desc b.sp-lead{color:var(--red);font-weight:700}',
@@ -230,7 +231,8 @@
     var cap = ep.duration_sec ? (yt ? 'youtube' : 'audio') + ' \u00b7 ' + fmt(ep.duration_sec) : '';
     var badges = [];
     if (yt) badges.push(badge('https://www.youtube.com/watch?v=' + yt, ICONS + 'youtube.svg', 'watch &amp; listen on', 'youtube'));
-    if (ep.spotify_episode_id) badges.push(badge('https://open.spotify.com/episode/' + ep.spotify_episode_id, ICONS + 'spotify.svg', 'watch &amp; listen on', 'spotify'));
+    var spotifyUrl = ep.spotify_episode_id ? 'https://open.spotify.com/episode/' + ep.spotify_episode_id : ep.creators_embed_url ? ep.creators_embed_url.replace('/embed/', '/') : '';
+    if (spotifyUrl) badges.push(badge(spotifyUrl, ICONS + 'spotify.svg', 'watch &amp; listen on', 'spotify'));
     if (ep.apple_episode_url) badges.push(badge(ep.apple_episode_url, ICONS + 'applepodcasts.svg', 'listen on', 'apple podcasts'));
     badges.push('<button type="button" class="sp-badge sp-share">' + glyph(SHARE_ICON) + '<span><small>share</small><strong>the episode</strong></span></button>');
     var others = index.episodes.filter(function (e) { return e.number !== number; }).sort(function (a, b) { return b.number - a.number; }).slice(0, 4);
@@ -242,8 +244,10 @@
         '<div class="sp-player-wrap">' +
           (yt
             ? '<div class="sp-player sp-yt"><img src="https://i.ytimg.com/vi/' + esc(yt) + '/maxresdefault.jpg" alt="" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(yt) + '/hqdefault.jpg\'"><button type="button" class="sp-play" aria-label="play"></button>' + (cap ? '<span class="sp-player-cap">' + cap + '</span>' : '') + '</div>'
-            : '<div class="sp-player"><img src="' + esc(thumb(ep.image, '1500w')) + '" alt="">' + (ep.spotify_episode_id ? '<a class="sp-listen" href="https://open.spotify.com/episode/' + esc(ep.spotify_episode_id) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'spotify.svg') + 'listen on spotify</a>' : ep.apple_episode_url ? '<a class="sp-listen" href="' + esc(ep.apple_episode_url) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'applepodcasts.svg') + 'listen on apple podcasts</a>' : '') + '</div>' +
-              (ep.spotify_episode_id ? '<iframe class="sp-spotify" src="https://open.spotify.com/embed/episode/' + esc(ep.spotify_episode_id) + '?theme=0" loading="lazy" allow="encrypted-media" title="spotify player"></iframe>'
+            : '<div class="sp-player"><img src="' + esc(thumb(ep.image, '1500w')) + '" alt="">' + (spotifyUrl ? '<a class="sp-listen" href="' + esc(spotifyUrl) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'spotify.svg') + 'listen on spotify</a>' : ep.apple_episode_url ? '<a class="sp-listen" href="' + esc(ep.apple_episode_url) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'applepodcasts.svg') + 'listen on apple podcasts</a>' : '') + '</div>' +
+              // the player under the photo: the post's Spotify for Creators embed, else a Spotify episode embed, else the plain audio
+              (ep.creators_embed_url ? '<iframe class="sp-creators" src="' + esc(ep.creators_embed_url) + '" loading="lazy" title="spotify player"></iframe>'
+                : ep.spotify_episode_id ? '<iframe class="sp-spotify" src="https://open.spotify.com/embed/episode/' + esc(ep.spotify_episode_id) + '?theme=0" loading="lazy" allow="encrypted-media" title="spotify player"></iframe>'
                 : ep.audio_url ? '<audio class="sp-audio" controls preload="none" src="' + esc(ep.audio_url) + '"></audio>' : '')) +
         '</div>' +
         '<div class="sp-notes">' +
