@@ -48,11 +48,15 @@ sadie reunites with dr. blaise aguirre, the psychiatrist who treated her at mcle
 
 - date: 2026-08-07
 - tags: teen mental health
-- guests: not extracted yet
+- guests: hailey hardcastle, gen z mental health advocate
 - url: https://shepersistedpodcast.com/episodes/260
 - transcript: episodes/ep-260.md (full)
 
-if you want to learn more about how our generation can create lasting change in mental health, this episode is for you ! today’s guest is hailey hardcastle —a gen z mental health advocate who helped pass landmark legislation in oregon allowing students to take mental health days off from school. she was honored by teen vogue as one of the "21 under 21: young women changing the world," and her ted talk on student mental health has been viewed more than 4 million times . fun fact: this episode was recorded live at the active minds 2026 mental health conference —the nation’s leading mental health conference for young adults! during this conversation, we discuss our personal mental health journeys, how hailey’s advocacy helped turn an idea into a state law, the most effective ways to advocate for gen z mental health, and so much more– including answering audience questions!
+sadie talks with hailey hardcastle, the gen z advocate who helped pass oregon's groundbreaking mental health days law (house bill 2191), now adopted in 13 states. recorded live at the 2026 active minds conference, they discuss hailey's journey from a six-year-old navigating mental health challenges to testifying at the state capitol, how policy shifts culture and language around asking for help, and why you don't need to be in crisis to deserve support. they share personal stories about overcoming the belief that "someone else needs it more," building sustainable mental health routines as adults, and finding local advocacy opportunities that align with your strengths. listeners walk away with concrete ways to start conversations, challenge scarcity thinking around resources, and advocate for mental health in their own communities.
+
+> having the language to talk about these challenges is so important. we can use policy to change culture and change people's attitudes about taking mental health days, talking about mental health.
+> the big barrier for me from asking for help was that i felt like other people needed help more. like i couldn't wrap my mind around the fact that i was also struggling and it was okay for me to reach out.
+> if these conversations can just reach one person and encourage that person to get help, then it's all worth it.
 
 ## 259. why you feel LOST after graduation (what actually helps!)
 
@@ -128,11 +132,15 @@ in this solo episode, sadie explains why asking for help feels so overwhelming�
 
 - date: 2026-04-04
 - tags: depression, relationships
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/254
 - transcript: episodes/ep-254.md (full)
 
-how do you help someone who’s struggling with depression ?? in this solo episode, i answer a mom's question on how she can best support her son with his depression. i explain how my mental health journey taught me what the best– and worst!– ways are to be there for someone who’s depressed– and three conversation ideas you can try out. whether you’re a parent , sibling , or friend , this advice can apply to anyone who wants to be a support system for their loved one.
+sadie answers a mom's question about supporting her 21-year-old son who's struggling with hopelessness and depression. she explains why traditional encouragement and problem-solving often backfire—they can feel like pressure or invalidation when someone is already overwhelmed. drawing on her own experience at 14, sadie shares how her dad shifted from blasting orchestra music and catastrophizing to asking simple questions about her dbt diary card ratings. listeners learn three approaches: validate before giving advice, reduce pressure but increase presence, and focus on connection over correction. the episode includes practical conversation starters and reframes anger as a response to feeling misunderstood or exhausted.
+
+> when you're already overwhelmed, love and support can feel like pressure.
+> people don't take advice they don't feel understood by.
+> it's not your job to pull them out of crisis. your job is to make sure they don't feel alone in it.
 
 ## 253. why therapy didn’t work… until this
 
@@ -382,11 +390,15 @@ sadie breaks down the psychology behind why we repeat patterns that hurt us, usi
 
 - date: 2025-10-12
 - tags: relationships, anxiety
-- guests: not extracted yet
+- guests: kara loewentheil, feminist coach and host of unf*ck your brain
 - url: https://shepersistedpodcast.com/episodes/235
 - transcript: episodes/ep-235.md (full)
 
-Today…
+sadie sits down with kara loewentheil—feminist coach, author of take back your brain, and host of unf*ck your brain—to talk about how society programs women's core beliefs and the anxiety that comes with them. they cover the difference between therapy and coaching, the 'brain gap' between men and women, how to actually rewire a thought (not just reframe it), and what confidence really looks like. kara also shares her take on gen z's approach to dating and relationships, the male loneliness epidemic, and why messy human intimacy beats ai companionship every time.
+
+> so many women i work with come in and they're like, i don't know why i'm so anxious around dating and relationships. like my parents were happy. there wasn't any emotional or physical problems in my home. like i wasn't raised in a way that would suggest this would happen. and i'm like, yeah, but society raised you that completely valorized romantic relationships as the be all and end all of your value and worth. so like, it's actually a rational response.
+> the core thing that we're always working on is the core wound of socialization for women is the idea that they don't have inherent worth or value. nobody says that to you directly. it's just that you pick up that your worth and value are always being connected to things that are about how you look or how you serve others.
+> self-love is just a relationship with yourself like you have with anybody else. the model for it is the best relationship you have in the rest of your life. it doesn't mean that you're not sometimes annoyed. but there's this baseline unconditional acceptance and love and respect, and that is what we're trying to have with ourselves.
 
 ## 234. what taylor swift says about mental health (a psych grad UNPACKS her best lyrics, quotes, + more!)
 
@@ -552,11 +564,15 @@ sadie sits down with dr. rosalind chow, an organizational behavior professor at 
 
 - date: 2025-05-31
 - tags: career, 20s, self-improvement, emotions
-- guests: not extracted yet
+- guests: dr. emily anhalt, clinical psychologist and co-founder of coa
 - url: https://shepersistedpodcast.com/episodes/222
 - transcript: episodes/ep-222.md (full)
 
-today’s guest is dr. emily anhalt —clinical psychologist, emotional fitness expert, author, and co-founder of ⁠ coa: your gym for mental health⁠ . dr. anhalt specializes in helping individuals, founders, and teams build emotional wellness through everyday mental fitness practices. in this episode, we dive deep into what it actually means to be emotionally fit—and how gen z can build better mental health at school, work, and in life.
+sadie sits down with dr. emily anhalt—clinical psychologist, emotional fitness expert, and co-founder of coa—to talk about what it actually means to be emotionally fit and how gen z can build better mental health in all areas of life. they explore the seven traits of emotional fitness (mindfulness, curiosity, self-awareness, resilience, empathy, communication, and playfulness), break down the difference between emotional fitness and emotional intelligence, and discuss why working on your mental health is like going to the gym: it takes practice, consistency, and the willingness to sit with discomfort. dr. anhalt also shares practical tools for handling imposter syndrome, taking feedback, accepting compliments, and stopping the 'should' spiral. listeners walk away with a clear roadmap for leveling up their emotional wellness—not just surviving, but actually thriving.
+
+> i think self-compassion is one of the most important ingredients in emotional fitness. anything that makes a person who they are, even things that make people annoying and frustrating and infuriating, those things served them well at some point or they wouldn't be that way.
+> emotional fitness isn't about a lack of emotional disorders or problems. it's about having an ongoing practice that bolsters you against the difficult things that you're going to face in life.
+> every single person out there can level up when it comes to their emotional fitness. every person can improve the relationship they have to themselves and to other people.
 
 ## 221. two psych majors tell ALL: GPAs, grad school, & so much more!
 
@@ -1082,11 +1098,15 @@ sadie talks with eden garcia-balis, a therapist and ceo of a nonprofit mental he
 
 - date: 2024-03-16
 - tags: depression, college, trauma
-- guests: not extracted yet
+- guests: dr. judith joseph, m.d., m.b.a.
 - url: https://shepersistedpodcast.com/episodes/ep183
 - transcript: episodes/ep-183.md (full)
 
-Today's guest is Judith Joseph, M.D., M.B.A.— a board-certified psychiatrist and researcher, Chair of Women in Medicine at Columbia University Vagelos College of Physicians and Surgeons, Clinical Assistant Professor at NYU Langone Medical Center, and founder of the first research lab to study high-functioning mental health conditions. She posts social media content for over 1 million followers and recently received a Congressional Proclamation from the U.S. House of Representatives for her social media advocacy and research.
+sadie talks with dr. judith joseph, a psychiatrist and researcher who founded the first lab studying high-functioning mental health conditions. they discuss what high-functioning depression looks like—staying busy to avoid pain, normalizing struggle, never feeling satisfied—and why it often goes unnoticed, especially among college students and in cultures where you're taught to push through. dr. joseph explains scarcity trauma, the overlap between perfectionism and high-functioning depression, and how these patterns show up in academics and relationships. they also cover her research on sexual trauma and domestic violence in college, emphasizing that safety and reducing shame are the two most critical factors for healing. listeners learn practical steps like listening to your body, starting with one minute of mindfulness, and finding a therapist before you're in crisis.
+
+> if you're someone who's like, i'm not as bad as other people, start thinking about getting help. because yeah, you may not be as bad as other people, but do you want to get there?
+> internalized blame and shame is a hallmark, it's central to trauma. blaming yourself and feeling shame are symptoms of the trauma. so there's nothing wrong with you.
+> you don't want to start looking for a therapist when you need one. because you know how it is, that wait list sucks and your options are going to be limited.
 
 ## 182. Anxiety 101: What We Do Wrong, How to Cope, and Facing Our Fears feat. Dr. David Rosmarin
 
@@ -1200,11 +1220,15 @@ In this week's solo episode, I discuss why we invalidate our emotions and the po
 
 - date: 2024-01-08
 - tags: emotions, self-improvement
-- guests: not extracted yet
+- guests: dr. emily anhalt, psychologist, emotional fitness consultant, and cofounder and chief clinical officer of coa
 - url: https://shepersistedpodcast.com/episodes/ep174
 - transcript: episodes/ep-174.md (full)
 
-Today's guest is Dr. Emily Anhalt— a psychologist, emotional fitness consultant, and the CoFounder and Chief Clinical Officer of Coa, the gym for mental health. For the past thirteen years, Dr. Anhalt has been working clinically with executives, founders, and tech employees, and has conducted extensive research with prominent psychologists and entrepreneurs about how leaders can improve their emotional fitness. We discuss how she started specializing in emotional fitness, the seven traits of emotional fitness that can help you succeed, key ways you can start to build your emotional fitness including becoming more mindful and self-aware, what emotional push-ups are and examples you can try yourself, why people often prioritize their physical health over mental health, the dangerous effects of having low emotional fitness, how to differentiate emotional fitness from other similar psychology terms, the benefits of incorporating building your emotional fitness into your routine, predictions on future trends that will embrace emotional fitness, and important emotional skills all teens (and parents!) should know.
+this episode explores emotional fitness with dr. emily anhalt, a psychologist who studies what makes people emotionally healthy. she shares the seven traits of emotional fitness—self-awareness, empathy, curiosity, mindfulness, playfulness, resilience, and communication—and how you can work on them through "emotional pushups" like asking for feedback, saying no, or sitting with discomfort. dr. anhalt explains why we invest in physical health but neglect mental health, how to start building emotional fitness even when nothing's "wrong," and what it looks like to make this a daily practice. listeners come away with concrete, stigma-free ways to strengthen their mental health before crisis hits.
+
+> everything that you want in life is on the other side of discomfort.
+> discomfort with your emotional health is similar to discomfort with physical health, which is like the first time you try to go for a run, it's going to be really hard. but if you run every day, then after a few weeks, all of a sudden you're like, oh my gosh, i just ran for 10 minutes without even feeling that tired.
+> if loneliness is hunger, then social media is fast food where it's like, if i'm hungry, fast food is better than nothing. it's better than starving, but it doesn't actually nourish me.
 
 ## 173. Food Myths, Fear Foods, & Eating Disorder Treatment feat. Registered Dietitian Amy Dahl, MS, RD
 
@@ -1304,11 +1328,15 @@ sadie talks with dr. justin puder, a licensed psychologist who works with teens 
 
 - date: 2023-10-28
 - tags: college
-- guests: not extracted yet
+- guests: amanda e. white, licensed therapist, founder of therapy for women center, host of recovered-ish podcast, and author of not drinking tonight
 - url: https://shepersistedpodcast.com/episodes/ep166
 - transcript: episodes/ep-166.md (full)
 
-Today's guest is Amanda E. White— a licensed therapist and founder of the Therapy for Women Center, a group therapy practice serving clients in 27 states. She is also the creator of the popular Instagram account @therapyforwomen, the host of the Recovered-ish podcast, and the author of the book Not Drinking Tonight and its corresponding workbook. We discuss her past struggles with mental health and addiction and how that inspired her to become a therapist, what she wishes she knew going into college, navigating substance use in college, how to recognize when substance use is becoming a problem and getting help, how she started her popular Taylor Swift Therapy series on TikTok, what your favorite Taylor Swift songs might mean about you from a mental health perspective, and tips on how to find the right therapist for you.
+sadie talks with amanda e. white, a licensed therapist and founder of therapy for women center, about navigating substance use in college and recognizing when it becomes unhealthy. amanda shares how her own struggles with mental health and addiction in college led her to become a therapist who practices with authenticity and self-disclosure. they discuss warning signs like drinking alone, using alcohol to cope with emotions, and trying to control your drinking—plus how denial can be thick when everyone around you drinks similarly. the second half is a taylor swift deep dive: amanda explains her viral taylor swift therapy series on tiktok, breaking down songs like "peace," "right where you left me," "afterglow," and "you're on your own kid" through a mental health lens. they close with advice on finding the right therapist—don't be afraid to switch if it's not a fit.
+
+> if you are struggling with your mental health in high school, it is extremely likely that you are going to struggle with your mental health in college. so not just looking at your environment change or the transition as the solution and instead living your life now, doing everything you can to take care of yourself now and then continue building on that as you go into the next thing.
+> i started drinking alone. and that was a huge change and a huge marker for me. i started, if i was having a bad day, using alcohol as a coping skill to deal with my mental health issues and struggles rather than it being, i mean, i still celebrated or partied and went out with people, but i also started using alcohol to deal with negative emotions.
+> the number one most important thing is your relationship with your therapist and whether you feel like you can trust them and be honest. so even if it's something that you can't put your finger on, like it seems like this therapist should be right for you, but you don't feel comfortable, it doesn't matter, find a new therapist.
 
 ## 165. Changing Your Behaviors 101: How to Decrease Problem Behaviors & Increase Wanted Behaviors
 
@@ -1580,11 +1608,15 @@ sadie talks with dr. bianca busch, a psychiatrist who specializes in college stu
 
 - date: 2023-05-05
 - tags: dbt, depression, anxiety
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep146
 - transcript: episodes/ep-146.md (full)
 
-Today's solo episode is all about how to maintain your mental health (aka avoid making your mental health WORSE) during times when you're struggling! We discuss the background on why keeping your mental health at a net neutral is effective from a DBT perspective and then dive into coping mechanisms and skills you can use to prevent your mental health from getting worse in the short AND long-term. These skills include the STOP, TIPP, distraction, and riding the wave skills as well as the radical acceptance, cope ahead, and accumulating positives skills. This episode is a MUST LISTEN if you struggle with maladaptive coping skills and are looking for manageable ways to keep your mental health from deteriorating during difficult times.
+in this solo episode, sadie breaks down how to maintain your mental health during difficult times without trying to fix everything at once—just focusing on not making things worse. she covers the dbt stages of treatment and explains why addressing life-threatening behaviors comes first, before quality-of-life issues or personal growth. then she walks through crisis skills like stop, tipp, distraction, and riding the wave, plus longer-term tools like radical acceptance, cope ahead, and accumulating positives. listeners come away with a concrete plan for staying afloat when overwhelmed, grounded in dbt principles and sadie's own recovery experience.
+
+> if we can focus on not even making things better because that is an overwhelming and distressing prospect at the moment, but just not making things worse, you can save yourself a lot of challenges and a lot of problems down the road.
+> nothing in life is impermanent. life is impermanent and that impermanence will be on your side.
+> freedom from suffering requires acceptance from deep within of what is. let yourself go completely with what is and let go of fighting reality. acceptance is the only way out of hell.
 
 ## 145. 7 Steps for Getting Better Sleep feat. Nicole Shallow
 
@@ -1814,11 +1846,15 @@ in this episode, sadie talks with kate stone—actress, founder of heartspeak em
 
 - date: 2023-01-05
 - tags: self-improvement
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep129
 - transcript: episodes/ep-129.md (full)
 
-Today's solo episode is all about new year's resolutions and goals for 2023! I cover why people with anxiety tend to set unrealistic goals, shifting your mental health goals from being results-based to actionable steps, types of mental health goals to set for this year, SMART goals, and my resolutions/intentions for 2023!
+sadie breaks down how to set mental health goals that actually work for 2023. she explains why people with anxiety often set unrealistic goals, walks through the smart goal framework (specific, measurable, actionable, realistic, time-bound), and shares four areas to focus on: physical health, relationships, your internal monologue (thoughts, beliefs, coping skills, urges), and resources like therapy or crisis plans. she also shares her own 2023 intentions, including working on four core dbt skills—radical acceptance, loving compassion, wise mind, and opposite action—plus goals around movement, community, sleep, and morning routines.
+
+> when we don't achieve our goals, we get more anxious. and then we set another goal because we're anxious because we didn't achieve that initial goal. and so it becomes a really vicious cycle.
+> acceptance is the only way out of hell. pain creates suffering only when you refuse to accept the pain.
+> it's when you do the opposite that you see a shift in your mood and your thoughts, your relationships, all of these things.
 
 ## 128. Ally Petitti on Anxiety, Health and Childhood Struggles, & Advice for Teens
 
@@ -1914,11 +1950,15 @@ sadie and bobby cook from breaking code silence discuss the troubled teen indust
 
 - date: 2022-11-08
 - tags: body image
-- guests: not extracted yet
+- guests: mary jelkovsky, host of mary's cup of tea and author of the gift of self-love
 - url: https://shepersistedpodcast.com/episodes/ep121
 - transcript: episodes/ep-121.md (full)
 
-Today's guest is Mary Jelkovsky—host of the self-love podcast Mary's Cup of Tea, author of The Gift of Self-Love, and inspirational speaker who helps women worldwide on their body-image struggles and loving themselves unconditionally. In this episode, we discuss the dangers of the world of body-building, how to critically consume social media images and avoid comparisons, tips for improving self-love and body image, and advice for starting journaling.
+sadie talks with mary jelkovsky—host of mary's cup of tea, author of the gift of self-love, and speaker on body image—about mary's journey through competitive bodybuilding, recovering from an eating disorder, and learning to love herself. they discuss how to critically consume social media, shift your relationship with platforms like instagram and tiktok, and improve self-love through small, consistent steps. mary shares practical tips for starting a journaling practice and reframes body image as an experience, not just an appearance.
+
+> your body is not an image. it's an experience.
+> when a flower doesn't bloom, you don't blame the flower. you change the conditions that it's in.
+> i'm not saying who cares what you look like. i'm saying who cares what you think you look like.
 
 ## 120. Mental Health Habits to Decrease Emotional Vulnerability & Sustain Recovery
 
@@ -2004,11 +2044,15 @@ in this episode, sadie sits down with adia fadaei, a 19-year-old crisis counselo
 
 - date: 2022-09-18
 - tags: depression
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep114
 - transcript: episodes/ep-114.md (full)
 
-In honor of September being Suicide Prevention Month, today's solo episode is all about my experiences with suicidal ideation. This episode focuses on skills education to help you navigate SI or support someone struggling white avoiding graphics that could potentially be triggering. I discuss my experiences with SI, what allowed me to shift these thought patterns, psychology facts to remember when feeling suicidal, my top crisis management skills, emotion regulation and long-term skills to build your life worth living, and answer some listener questions!
+sadie shares her journey with suicidal ideation, starting after her first hospitalizations when hopelessness set in. she discusses the turning point at 3east when she realized she'd been keeping suicide as a 'back burner option' and made a commitment to remove it from her life worth living. the episode covers psychology insights (like how we're bad at predicting the future and that impermanence works in our favor), crisis survival skills from dbt (stop, ride the wave, distraction, pros/cons lists, cope boxes, crisis plans), and long-term strategies like building routines, accumulating positives, and emotion regulation. sadie emphasizes that asking for help was her number one skill and that no one should navigate this alone.
+
+> I realized in a therapy session at McLean that the way I operated through any challenge, whether it was a difficult emotion or a therapy appointment or a tough conversation with my parents, anything and everything in my life, there was always this voice in the back of my mind saying, well, you know what? If it gets really bad, there's always this option.
+> My life worth living does not include having suicide as a plan B, as a back burner, as a second option. That's not the life I want to live. That's not the life I'm living.
+> I don't think anyone should be expected to navigate suicidal ideation by themselves. And if anything, I think being by yourself adds to those feelings.
 
 ## 113. How to Make New Friends, Overcome Loneliness, + Combat Social Anxiety with Friendship Expert Dr. Marisa Franco
 
@@ -2028,11 +2072,15 @@ in this episode, sadie sits down with dr. marisa franco—a psychologist, author
 
 - date: 2022-08-31
 - tags: depression
-- guests: not extracted yet
+- guests: dr. margaret rutherford, psychologist, author, and host of the self-work podcast
 - url: https://shepersistedpodcast.com/episodes/ep112
 - transcript: episodes/ep-112.md (full)
 
-Today's guest is Dr. Margaret Rutherford—a psychologist, author, podcast host, and writer! We discuss Dr. Margaret's background in the mental health field, how she identified and coined the term "perfectly hidden depression," what perfectly hidden depression is, how perfectionism can cover up emotional pain, the implications of not expressing emotions, high-functioning vs. perfectly hidden depression, warning signs to keep be aware of, Dr. Margaret's healing process for depression, how you can support someone struggling, and so much more!
+dr. margaret rutherford, a psychologist and author, joins sadie to discuss perfectly hidden depression—a syndrome she identified and coined after noticing patients who denied being depressed yet couldn't access or express painful emotions. they explore how early trauma and perfectionism create a camouflage for deep emotional pain, the difference between high-functioning depression (where people know they're depressed) and perfectly hidden depression (where the pain is unconscious and rigidly compartmentalized), warning signs like chronic overresponsibility and an inner voice of shame, and dr. margaret's five-stage healing process: consciousness, commitment, confrontation, connection, and change. listeners learn how to support someone struggling and why self-acceptance—owning both strengths and vulnerabilities—is the antidote to trauma-based perfectionism.
+
+> perfectionism actually can act as a camouflage for this pain and this despair and this inability to express trauma or pain from your past.
+> insights wonderful, but what gives you hope is behavior change.
+> self-acceptance is that you know, or you recognize, you realize, you own whatever words we want to use, that your strengths do not define you any more than your vulnerabilities do, and vice versa.
 
 ## 111. What Does Therapy Mean to You? feat. Ashley Blaine Featherson-Jenkins
 
@@ -2214,11 +2262,15 @@ Whitney Goodman, LMFT is the radically honest psychotherapist behind the hugely 
 
 - date: 2022-04-26
 - tags: teen mental health
-- guests: not extracted yet
+- guests: megan jacobs, managing director of products at truth initiative, jake warn, college student and truth impact scholarship recipient
 - url: https://shepersistedpodcast.com/episodes/ep97
 - transcript: episodes/ep-097.md (full)
 
-Truth Initiative is America's largest nonprofit public health organization dedicated to a future where tobacco and nicotine addiction are things of the past. In this roundtable with Truth Initiative, we discuss the prevalence of teen nicotine use, what happens when adolescents use nicotine (biologically, mentally, socially, etc), smoking cigarettes vs. vaping, the average age of onset, the mental health implications of vaping, This is Quitting as a resource (what it is, why it works, what to expect, etc), other resources that can be helpful on your quitting journey, and Megan + Jake's advice for teens currently trying to quit.
+sadie sits down with truth initiative's megan jacobs and college student jake warn to discuss teen nicotine use and quitting. they cover how nicotine affects the developing brain, creating withdrawal cycles that add stress rather than relieving it, why vaping delivers higher nicotine levels than cigarettes, and how young people often don't realize what they're signing up for. megan explains the this is quitting text program (text ditchvape to 88709), designed by and for young people who want support without judgment. jake shares his own story of quitting, emphasizing the importance of being honest with yourself, tailoring strategies to different situations, and enlisting friends to hold you accountable.
+
+> you're not going to punish an addiction out of someone. your child who is vaping needs love and support and information to get through this.
+> one juul pod contains as much nicotine as an entire pack of cigarettes.
+> i remember myself giving myself the okay to use, especially when i was struggling to come off when i'd have a tougher day. it really scared me when i came to that realization that my mind was trying to find a way to give me the okay to use something that i knew was really bad for me.
 
 ## 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
 
@@ -2276,11 +2328,15 @@ in this episode, sadie sits down with efia sulter—a mindset and manifestation 
 
 - date: 2022-03-25
 - tags: trauma
-- guests: not extracted yet
+- guests: michele rosenthal, certified professional coach, board certified trauma and ptsd hypnotist, licensed master practitioner of neuro-linguistic programming, and trauma recovery specialist
 - url: https://shepersistedpodcast.com/episodes/ep92
 - transcript: episodes/ep-092.md (full)
 
-Today's guest is Michele Rosenthal—a Certified Professional Coach, Board Certified Trauma and PTSD Hypnotist, Licensed Master Practitioner of Neuro-Linguistic Programming AND a trauma and PTSD survivor herself. She is also an award-winning trauma/PTSD blogger, award-nominated author, and keynote speaker as well as a Trauma Recovery Specialist and Mental Health Advocate. In this episode, we discuss Michele's journey, the implications of our trauma definition, the benefits of an integrative (mental, emotional, physical, and spiritual) recovery approach, overcoming trauma addiction, and the 4 steps of healing.
+michele rosenthal, a certified trauma recovery specialist and ptsd survivor, shares her 30-year journey with post-traumatic stress and how she eventually healed. she explains that trauma is broader than most people think—any experience that feels less than good—and that recovery requires an integrative approach addressing mental, emotional, physical, and spiritual realms, not just talk therapy. michele discusses overcoming trauma addiction, rebuilding identity after trauma, and how joy (like dancing argentine tango) helped her find the courage to heal. she emphasizes that there's no one-size-fits-all path and that survivors need to trust themselves, build the right team, and reconnect with life beyond their trauma.
+
+> trauma recovery is not a conventional process. it is an integrative process.
+> you are the white canvas and the trauma and the ptsd is the black dot.
+> we don't heal in isolation. we heal in community.
 
 ## 91. Why You're Experiencing Anxiety + A Therapist's Advice on How to Cope feat. Tara Bixby
 
@@ -2384,11 +2440,15 @@ sadie breaks down everything she learned about emotions from treatment at mclean
 
 - date: 2022-01-25
 - tags: trauma
-- guests: not extracted yet
+- guests: andrea arlington, icf pcc life coach specializing in family recovery and relationships
 - url: https://shepersistedpodcast.com/episodes/ep84
 - transcript: episodes/ep-084.md (full)
 
-In today's episode, I sit down with Andrea Arlington—ICF, PCC Life Coach Specializing in Family Recovery & Relationships. We discuss all things family recovery, generational trauma, reparenting and nurturing yourself so you can support others. If you're struggling with your family relationships, this episode is for YOU and has so much profound wisdom for you to implement.
+sadie talks with andrea arlington, an icf pcc life coach specializing in family recovery and relationships, about breaking cycles of generational trauma and healing family relationships affected by addiction. andrea shares her own story—from childhood emotional neglect to struggles with her daughters' addiction—and explains how unmet emotional needs drive substance use and mental health challenges. listeners learn practical steps for reparenting themselves, communicating compassionately with loved ones in active addiction, and nurturing their own needs so they can show up differently in relationships. the conversation challenges the old "let them hit rock bottom" approach and offers concrete tools like finger holding, mindfulness, and reframing how we affirm and celebrate others.
+
+> nobody sticks a needle in their arm without being in pain too, right? wow. that's a strategy right there that just knocks out all the pain.
+> the greatest gift we can give our loved one is an internal sense of calm and let them be who they are with you being able to be a container for it.
+> letting people hit rock bottom can actually exacerbate a sense of trauma and shame. and what do they do when they feel trauma and shame? they numb.
 
 ## 83. Freeing Yourself from Stress + Struggle by Understanding the Human Experience feat. Beth Segaloff
 
@@ -2762,11 +2822,15 @@ sadie shares her personal mental health advice for navigating high school. she t
 
 - date: 2021-01-23
 - tags: none
-- guests: not extracted yet
+- guests: kirstie taylor, dating and relationship writer
 - url: https://shepersistedpodcast.com/episodes/ep54
 - transcript: episodes/ep-054.md (full)
 
-Kirstie Taylor and I sit down to talk about how "big T" and "little t" childhood traumas impact relationships, attachment styles, boundaries, navigating break-ups, and hook-up vs. dating to marry culture.
+sadie sits down with dating and relationship writer kirstie taylor to explore how childhood experiences—both big t and little t traumas—shape the way we show up in relationships. they break down attachment styles (anxious, avoidant, secure) and what they look like in real life, talk about why boundaries aren't about keeping people out but about keeping yourself safe, and share practical steps for getting through a breakup (unfollow your ex, make a breakup list, take real time apart). they also touch on family boundaries as you transition into adulthood, how to handle mixed signals, and the difference between casual dating and dating for something serious. kirstie brings research-backed insight and relatable stories—this episode gives you tools to understand your patterns and build healthier relationships.
+
+> boundaries aren't meant to keep people out. boundaries are meant to keep you safe.
+> mixed signals are a clear signal.
+> if you do not address your childhood traumas, your relationships will.
 
 ## 53. How to Write Pitch Emails, Building Influencer Relationships, Using Social Media to Improve Body Confidence, + Podcast Tips feat. Camila Vola
 
