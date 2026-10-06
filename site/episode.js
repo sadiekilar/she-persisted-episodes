@@ -385,12 +385,14 @@
         var next = chapters[i + 1] ? chapters[i + 1].t : Infinity;
         var from = i === 0 ? 0 : c.t; // anything before the first chapter mark belongs to the first chapter
         var mine = paras.filter(function (p) { var t = p.t == null ? last : p.t; if (p.t != null) last = p.t; return t != null && t >= from && t < next; });
-        sections += '<section class="sp-chapter' + (i === 0 ? ' sp-open' : '') + '"><div class="sp-chapter-head"><h3><a class="sp-stamp" href="#t=' + c.t + '" data-seek="' + c.t + '"><time datetime="' + iso(c.t) + '">' + fmt(c.t) + '</time></a><a href="#t=' + c.t + '" data-seek="' + c.t + '">' + esc(c.title) + '</a></h3><button type="button" class="sp-toggle" aria-expanded="' + (i === 0) + '" aria-label="' + (i === 0 ? 'collapse' : 'expand') + '">' + (i === 0 ? '\u2013' : '+') + '</button></div><div class="sp-chapter-body">' + mine.map(para).join('') + '</div></section>';
+        sections += '<section class="sp-chapter"><div class="sp-chapter-head"><h3><a class="sp-stamp" href="#t=' + c.t + '" data-seek="' + c.t + '"><time datetime="' + iso(c.t) + '">' + fmt(c.t) + '</time></a><a href="#t=' + c.t + '" data-seek="' + c.t + '">' + esc(c.title) + '</a></h3><button type="button" class="sp-toggle" aria-expanded="false" aria-label="expand">+</button></div><div class="sp-chapter-body">' + mine.map(para).join('') + '</div></section>';
       });
     } else {
       sections = '<section class="sp-chapter sp-open"><div class="sp-chapter-body">' + paras.map(para).join('') + '</div></section>';
     }
-    var peek = paras.length > 6;
+    // chaptered: every chapter starts closed, so the list of topics is the transcript's table of contents.
+    // no chapters: a short fading preview with a button, so what follows stays within reach.
+    var peek = !chapters.length && paras.length > 6;
     return '<div class="sp-transcript-wrap"><div class="sp-transcript' + (stamped ? '' : ' sp-nostamp') + '"><h2>transcript</h2><div class="sp-chapters' + (peek ? ' sp-peek' : '') + '">' + sections + '</div>' +
       (peek ? '<button type="button" class="sp-tr-more" aria-expanded="false">read the full transcript</button>' : '') + '</div></div>';
   }
