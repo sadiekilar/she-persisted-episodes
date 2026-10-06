@@ -66,11 +66,44 @@
     '#sp-episode .sp-play{position:absolute;left:50%;top:50%;width:72px;height:72px;margin:-36px 0 0 -36px;padding:0;border:0;border-radius:50%;background:var(--cream);cursor:pointer;-webkit-appearance:none;appearance:none;display:flex;align-items:center;justify-content:center}',
     '#sp-episode .sp-play::after{content:"";display:block;width:0;height:0;margin-left:6px;border-left:24px solid var(--red);border-top:14px solid transparent;border-bottom:14px solid transparent}',
     '#sp-episode .sp-player-cap{position:absolute;left:20px;bottom:16px;color:var(--cream);font-size:13px;font-weight:700}',
+    /* audio player card, for episodes without a video (860px column, like the notes) */
+    '#sp-episode .sp-ap{width:100%;max-width:860px;margin:0 auto;display:grid;grid-template-columns:140px minmax(0,1fr);overflow:hidden;border:1px solid var(--red);border-radius:24px;background:var(--cream);color:var(--red)}',
+    '#sp-episode .sp-ap button{margin:0;padding:0;border:0;background:none;color:inherit;font:inherit;letter-spacing:-.44px;cursor:pointer;-webkit-appearance:none;appearance:none;box-shadow:none;text-transform:none}',
+    '#sp-episode .sp-ap button:focus-visible,#sp-episode .sp-ap [role=slider]:focus-visible{outline:2px solid var(--red);outline-offset:3px}',
+    '#sp-episode .sp-ap button:disabled{opacity:.4;cursor:default}',
+    '#sp-episode .sp-ap-cover{width:140px;height:140px;object-fit:cover;object-position:center 40%}',
+    '#sp-episode .sp-ap-body{display:flex;flex-direction:column;justify-content:center;min-width:0;padding:0 28px}',
+    '#sp-episode .sp-ap-row{display:flex;align-items:center;gap:14px;height:56px;min-width:0}',
+    '#sp-episode .sp-ap-ctl{display:contents}',
+    '#sp-episode .sp-ap-skip{position:relative;display:flex;flex:none;align-items:center;justify-content:center;width:44px;height:44px}',
+    '#sp-episode .sp-ap-skip svg{position:absolute;width:28px;height:28px}',
+    '#sp-episode .sp-ap-skip span{position:relative;margin-top:3px;font-size:10px;font-weight:700;letter-spacing:0}',
+    '#sp-episode .sp-ap .sp-ap-play{display:flex;flex:none;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:var(--red);color:var(--cream)}',
+    '#sp-episode .sp-ap-play svg{display:block;width:24px;height:24px}',
+    '#sp-episode .sp-ap-play .sp-ico-pause,#sp-episode .sp-ap.is-playing .sp-ico-play{display:none}#sp-episode .sp-ap.is-playing .sp-ico-pause{display:block}',
+    '#sp-episode .sp-ap-time{flex:none;min-width:44px;font-size:14px;font-weight:700;font-variant-numeric:tabular-nums}',
+    '#sp-episode .sp-ap-cur{margin-left:6px}#sp-episode .sp-ap-dur{text-align:right}#sp-episode .sp-ap.is-loading .sp-ap-cur{min-width:84px}',
+    '#sp-episode .sp-ap-seek{position:relative;display:flex;flex:1;align-items:center;min-width:60px;height:44px;border-radius:999px;cursor:pointer}',
+    '#sp-episode .sp-ap-track{position:relative;width:100%;height:4px;border-radius:2px;background:rgba(116,0,0,.2)}',
+    '#sp-episode .sp-ap-buf,#sp-episode .sp-ap-fill{position:absolute;left:0;top:0;width:0;height:100%;border-radius:2px}',
+    '#sp-episode .sp-ap-buf{background:rgba(116,0,0,.35)}#sp-episode .sp-ap-fill{background:var(--red)}',
+    '#sp-episode .sp-ap-knob{position:absolute;left:0;top:50%;width:14px;height:14px;border-radius:50%;background:var(--red);transform:translate(-50%,-50%)}',
+    '#sp-episode .sp-ap.is-loading .sp-ap-knob{display:none}#sp-episode .sp-ap.is-loading .sp-ap-fill{width:100%;animation:sp-ap-pulse 1.4s ease-in-out infinite}',
+    '@keyframes sp-ap-pulse{0%,100%{opacity:.15}50%{opacity:.5}}',
+    '#sp-episode .sp-ap-speedwrap{position:relative;flex:none}',
+    '#sp-episode .sp-ap .sp-ap-speed{flex:none;height:36px;min-width:52px;padding:0 14px;border:1px solid var(--red);border-radius:999px;font-size:14px;font-weight:700}',
+    '#sp-episode .sp-ap .sp-ap-speed.is-active{background:var(--red);color:var(--cream)}',
+    '#sp-episode .sp-ap-menu{position:absolute;right:0;bottom:calc(100% + 8px);z-index:2;display:none;flex-direction:column;gap:2px;min-width:120px;padding:8px;border:1px solid var(--cream);border-radius:16px;background:var(--red);color:var(--cream)}',
+    '#sp-episode .sp-ap-menu.is-open{display:flex}',
+    '#sp-episode .sp-ap .sp-ap-menu button{width:100%;height:44px;padding:0 14px;border-radius:8px;color:var(--cream);font-size:15px;text-align:left}',
+    '#sp-episode .sp-ap .sp-ap-menu button[aria-checked=true]{background:var(--cream);color:var(--red);font-weight:700}',
+    '#sp-episode .sp-ap-error{display:none;flex:1;font-size:15px;line-height:1.4;color:var(--red)}',
+    '#sp-episode .sp-ap-error a{color:var(--red);text-decoration:underline;text-underline-offset:3px}',
+    '#sp-episode .sp-ap.is-error .sp-ap-error{display:block}',
+    '#sp-episode .sp-ap.is-error .sp-ap-seek,#sp-episode .sp-ap.is-error .sp-ap-time,#sp-episode .sp-ap.is-error .sp-ap-speedwrap{display:none}',
+    '#sp-episode .sp-audio-page h1{font-size:44px;font-size:clamp(26px,3.056cqw,44px);line-height:1.05}',
     '#sp-episode .sp-listen{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:inline-flex;align-items:center;gap:10px;padding:14px 22px;border-radius:999px;background:var(--cream);color:var(--red);font-size:15px;font-weight:700;white-space:nowrap}',
     '#sp-episode .sp-listen .sp-glyph{width:20px;height:20px}',
-    '#sp-episode .sp-spotify{width:100%;height:152px;border:0;border-radius:12px}',
-    '#sp-episode .sp-audio{display:block;width:100%;height:44px}',
-    '#sp-episode .sp-creators{display:block;width:100%;height:102px;border:0;border-radius:12px;overflow:hidden}',
     '#sp-episode .sp-notes{display:flex;flex-direction:column;gap:36px;width:100%;max-width:860px;margin:0 auto}',
     '#sp-episode .sp-desc{display:flex;flex-direction:column;gap:16px;font-size:18px;line-height:1.5;color:var(--ink)}',
     '#sp-episode .sp-desc b.sp-lead{color:var(--red);font-weight:700}',
@@ -136,6 +169,18 @@
     '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}}',
     '@media (prefers-reduced-motion:reduce){#sp-episode .sp-card:hover img{transform:none}}',
     '@media (max-width:900px) and (min-width:601px){#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr}}',
+    '@media (max-width:640px){',
+    '#sp-episode .sp-ap{grid-template-columns:1fr;gap:12px;padding:16px;border-radius:20px}',
+    '#sp-episode .sp-ap-cover{width:100%;height:auto;aspect-ratio:1/1;border-radius:12px}',
+    '#sp-episode .sp-ap-body{padding:0}',
+    '#sp-episode .sp-ap-row{display:grid;grid-template-columns:40px 1fr 40px;grid-template-areas:"cur seek dur" "ctl ctl ctl";height:auto;gap:0 10px}',
+    '#sp-episode .sp-ap-cur{grid-area:cur;margin:0;min-width:0;font-size:13px}#sp-episode .sp-ap-seek{grid-area:seek}#sp-episode .sp-ap-dur{grid-area:dur;min-width:0;font-size:13px}',
+    '#sp-episode .sp-ap-knob{width:16px;height:16px}',
+    '#sp-episode .sp-ap-ctl{grid-area:ctl;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;margin-top:4px}',
+    '#sp-episode .sp-ap-ctl .sp-ap-play{width:60px;height:60px}#sp-episode .sp-ap-ctl .sp-ap-back{justify-self:end;margin-right:20px}#sp-episode .sp-ap-ctl .sp-ap-fwd{justify-self:start;margin-left:20px}',
+    '#sp-episode .sp-ap-speedwrap{grid-area:ctl;justify-self:end;align-self:center;margin-top:4px}#sp-episode .sp-ap .sp-ap-speed{height:44px}',
+    '#sp-episode .sp-ap.is-loading .sp-ap-cur{min-width:0}#sp-episode .sp-ap-error{grid-column:1/-1;margin-top:8px}',
+    '}',
     /* mobile (390 design) */
     '@media (max-width:600px){',
     '#sp-episode .sp-in{--g:20px}',
@@ -146,6 +191,8 @@
     '#sp-episode .sp-player-cap{left:14px;bottom:12px;font-size:12px}',
     '#sp-episode .sp-notes{gap:18px}#sp-episode .sp-desc{gap:14px;font-size:16px}',
     '#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr;gap:10px}',
+    '#sp-episode .sp-audio-page .sp-badges{grid-template-columns:1fr}',
+    '#sp-episode .sp-audio-page h1{font-size:26px;line-height:1.1;letter-spacing:-.6px}',
     '#sp-episode .sp-badge{gap:14px;padding:12px 14px}#sp-episode .sp-badge .sp-glyph{width:22px;height:22px}#sp-episode .sp-badge strong{font-size:15px}',
     '#sp-episode .sp-mentioned h2,#sp-episode .sp-mentioned-body{font-size:16px}',
     '#sp-episode .sp-quote-wrap{padding-top:32px}#sp-episode .sp-quote{padding:40px 24px}#sp-episode .sp-quote blockquote{font-size:28px}',
@@ -165,6 +212,7 @@
   function thumb(url, w) { return /squarespace-cdn\.com/.test(url || '') ? url.split('?')[0] + '?format=' + w : (url || ''); }
   function tagUrl(tag) { return CFG.COLLECTION + '?tag=' + encodeURIComponent(tag); }
   function glyph(url, cls) { return '<span class="sp-glyph' + (cls ? ' ' + cls : '') + '" style="--icon:url(' + url + ')" aria-hidden="true"></span>'; }
+  function fmtDate(iso) { var d = new Date(iso + 'T00:00:00'); return isNaN(d) ? '' : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).toLowerCase(); }
   function titleOf(t) { return String(t || '').replace(/^\s*\d+[.:]\s*/, ''); }
   function stripTags(h) { var d = document.createElement('div'); d.innerHTML = h || ''; return (d.textContent || '').replace(/\s+/g, ' ').trim(); }
   // Trusted markup from the post body (via the index): drop anything executable just in case.
@@ -203,6 +251,104 @@
   function badge(href, icon, top, name, extra) {
     return '<a class="sp-badge" href="' + esc(href) + '" target="_blank" rel="noopener"' + (extra || '') + '>' + glyph(icon) + '<span><small>' + top + '</small><strong>' + name + '</strong></span></a>';
   }
+  var SKIP_BACK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>';
+  var SKIP_FWD = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg>';
+  function audioCard(spotifyUrl) {
+    if (!ep.audio_url) return '';
+    return '<div class="sp-ap" data-src="' + esc(ep.audio_url) + '" data-duration="' + (ep.duration_sec || 0) + '">' +
+      '<img class="sp-ap-cover" src="' + esc(thumb(ep.image, '500w')) + '" alt="">' +
+      '<div class="sp-ap-body"><div class="sp-ap-row" role="group" aria-label="audio player">' +
+        '<div class="sp-ap-ctl">' +
+          '<button type="button" class="sp-ap-skip sp-ap-back" aria-label="back 15 seconds">' + SKIP_BACK + '<span>15</span></button>' +
+          '<button type="button" class="sp-ap-play" aria-label="play"><svg class="sp-ico-play" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.5v15l13-7.5z"/></svg><svg class="sp-ico-pause" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="5" y="3" width="5" height="18" rx="1"/><rect x="14" y="3" width="5" height="18" rx="1"/></svg></button>' +
+          '<button type="button" class="sp-ap-skip sp-ap-fwd" aria-label="forward 15 seconds">' + SKIP_FWD + '<span>15</span></button>' +
+        '</div>' +
+        '<span class="sp-ap-time sp-ap-cur">0:00</span>' +
+        '<div class="sp-ap-seek" role="slider" tabindex="0" aria-label="seek" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0"><div class="sp-ap-track"><div class="sp-ap-buf"></div><div class="sp-ap-fill"></div><div class="sp-ap-knob"></div></div></div>' +
+        '<span class="sp-ap-time sp-ap-dur">0:00</span>' +
+        '<div class="sp-ap-speedwrap"><button type="button" class="sp-ap-speed" aria-label="playback speed, 1x" aria-haspopup="menu" aria-expanded="false">1\u00d7</button>' +
+          '<div class="sp-ap-menu" role="menu">' + [0.8, 1, 1.25, 1.5, 2].map(function (r) { return '<button type="button" role="menuitemradio" data-rate="' + r + '"' + (r === 1 ? ' aria-checked="true"' : ' aria-checked="false"') + '>' + r + '\u00d7</button>'; }).join('') + '</div></div>' +
+        '<p class="sp-ap-error" role="alert">can\u2019t play right now. <a href="#" class="sp-ap-retry">try again</a>' + (spotifyUrl ? ', or listen on <a href="' + esc(spotifyUrl) + '" target="_blank" rel="noopener">spotify</a>' : '') + (ep.apple_episode_url ? (spotifyUrl ? ' or ' : ', or listen on ') + '<a href="' + esc(ep.apple_episode_url) + '" target="_blank" rel="noopener">apple podcasts</a>' : '') + '.</p>' +
+      '</div></div></div>';
+  }
+  // The audio player's behaviour (play/pause, skip, seek, speed, states, lock-screen controls).
+  var audio = null;
+  function initAudio() {
+    var root = inner.querySelector('.sp-ap');
+    if (!root) return;
+    var d = root.dataset, a = new Audio(); a.preload = 'metadata';
+    var $ = function (sel) { return root.querySelector(sel); };
+    var play = $('.sp-ap-play'), back = $('.sp-ap-back'), fwd = $('.sp-ap-fwd'), cur = $('.sp-ap-cur'), durEl = $('.sp-ap-dur'),
+      seekEl = $('.sp-ap-seek'), fill = $('.sp-ap-fill'), buf = $('.sp-ap-buf'), knob = $('.sp-ap-knob'),
+      speed = $('.sp-ap-speed'), menu = $('.sp-ap-menu'), retry = $('.sp-ap-retry');
+    var dur = +d.duration || 0, dragging = false, started = false;
+    var setDur = function (v) { dur = v; durEl.textContent = fmt(v); seekEl.setAttribute('aria-valuemax', Math.round(v)); };
+    setDur(dur);
+    var paint = function (t) {
+      if (root.classList.contains('is-loading')) return;
+      var p = dur ? Math.min(1, t / dur) * 100 : 0;
+      fill.style.width = p + '%'; knob.style.left = p + '%';
+      cur.textContent = fmt(t);
+      seekEl.setAttribute('aria-valuenow', Math.round(t)); seekEl.setAttribute('aria-valuetext', fmt(t) + ' of ' + fmt(dur));
+    };
+    var setState = function (st) {
+      root.classList.remove('is-playing', 'is-loading', 'is-error'); if (st) root.classList.add(st);
+      play.setAttribute('aria-label', st === 'is-playing' || st === 'is-loading' ? 'pause' : 'play');
+      var dis = st === 'is-loading' || st === 'is-error'; back.disabled = fwd.disabled = dis; play.disabled = st === 'is-error';
+      if (st === 'is-loading') cur.textContent = 'loading\u2026';
+    };
+    var load = function () { if (!started) { a.src = d.src; started = true; } };
+    var go = function () { load(); setState('is-loading'); a.play().catch(function () { setState('is-error'); }); };
+    var toggle = function () { if (a.paused) go(); else a.pause(); };
+    play.addEventListener('click', toggle);
+    retry.addEventListener('click', function (e) { e.preventDefault(); started = false; a.load(); go(); });
+    var jump = function (dt) { if (!dur) return; a.currentTime = Math.min(dur, Math.max(0, (a.currentTime || 0) + dt)); };
+    back.addEventListener('click', function () { jump(-15); });
+    fwd.addEventListener('click', function () { jump(15); });
+    a.addEventListener('loadedmetadata', function () { if (isFinite(a.duration)) setDur(a.duration); });
+    a.addEventListener('playing', function () { setState('is-playing'); paint(a.currentTime); });
+    a.addEventListener('waiting', function () { setState('is-loading'); });
+    a.addEventListener('pause', function () { setState(''); paint(a.currentTime); });
+    a.addEventListener('ended', function () { setState(''); paint(0); });
+    a.addEventListener('error', function () { setState('is-error'); });
+    a.addEventListener('timeupdate', function () { if (!dragging) { paint(a.currentTime); window.dispatchEvent(new CustomEvent('sp-timeupdate', { detail: { seconds: a.currentTime } })); } });
+    a.addEventListener('progress', function () { try { var b = a.buffered; if (b.length && dur) buf.style.width = Math.min(100, b.end(b.length - 1) / dur * 100) + '%'; } catch (e) {} });
+    var posToTime = function (e) { var r = seekEl.getBoundingClientRect(); var x = (e.clientX - r.left) / r.width; return Math.min(1, Math.max(0, x)) * dur; };
+    seekEl.addEventListener('pointerdown', function (e) { if (!dur || root.classList.contains('is-error')) return; dragging = true; seekEl.setPointerCapture(e.pointerId); paint(posToTime(e)); });
+    seekEl.addEventListener('pointermove', function (e) { if (dragging) paint(posToTime(e)); });
+    var endDrag = function (e) { if (!dragging) return; dragging = false; var t = posToTime(e); load(); a.currentTime = t; paint(t); };
+    seekEl.addEventListener('pointerup', endDrag); seekEl.addEventListener('pointercancel', endDrag);
+    seekEl.addEventListener('keydown', function (e) {
+      var k = e.key, m = { ArrowLeft: -5, ArrowRight: 5, ArrowDown: -5, ArrowUp: 5 };
+      if (k in m) { jump(m[k]); e.preventDefault(); } else if (k === 'Home') { a.currentTime = 0; e.preventDefault(); } else if (k === 'End') { a.currentTime = dur; e.preventDefault(); } else if (k === ' ' || k === 'Enter') { toggle(); e.preventDefault(); }
+    });
+    document.addEventListener('keydown', function (e) {
+      var t = e.target;
+      if (t.closest && t.closest('input,textarea,[contenteditable]')) return;
+      if (t.closest && t.closest('.sp-ap') && t !== play && !t.classList.contains('sp-ap-seek')) return;
+      if (e.key === ' ' || e.key === 'k') { if (t === document.body || t === play || root.contains(t)) { toggle(); e.preventDefault(); } }
+      else if (e.key === 'j') jump(-15); else if (e.key === 'l') jump(15);
+    });
+    speed.addEventListener('click', function () { var o = !menu.classList.contains('is-open'); menu.classList.toggle('is-open', o); speed.setAttribute('aria-expanded', o); if (o) menu.querySelector('[aria-checked=true]').focus(); });
+    menu.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-rate]'); if (!b) return; var r = +b.dataset.rate; a.playbackRate = r;
+      [].forEach.call(menu.querySelectorAll('[data-rate]'), function (x) { x.setAttribute('aria-checked', x === b); });
+      speed.textContent = b.textContent; speed.setAttribute('aria-label', 'playback speed, ' + r + 'x'); speed.classList.toggle('is-active', r !== 1);
+      menu.classList.remove('is-open'); speed.setAttribute('aria-expanded', 'false'); speed.focus();
+    });
+    document.addEventListener('click', function (e) { if (!e.target.closest('.sp-ap-speedwrap')) { menu.classList.remove('is-open'); speed.setAttribute('aria-expanded', 'false'); } });
+    menu.addEventListener('keydown', function (e) { if (e.key === 'Escape') { menu.classList.remove('is-open'); speed.setAttribute('aria-expanded', 'false'); speed.focus(); } });
+    var seekTo = function (sec) { load(); a.currentTime = sec; paint(sec); if (a.paused) go(); };
+    window.addEventListener('sp-seek', function (e) { if (e.detail && isFinite(e.detail.seconds)) seekTo(e.detail.seconds); });
+    if ('mediaSession' in navigator) {
+      try {
+        navigator.mediaSession.metadata = new MediaMetadata({ title: ep.title, artist: 'sadie sutton', album: CFG.SITE_NAME, artwork: ep.image ? [{ src: thumb(ep.image, '500w'), sizes: '512x512' }] : [] });
+        navigator.mediaSession.setActionHandler('seekbackward', function () { jump(-15); });
+        navigator.mediaSession.setActionHandler('seekforward', function () { jump(15); });
+      } catch (e) {}
+    }
+    audio = { seekTo: seekTo, root: root };
+  }
   function transcriptHtml() {
     var paras = (ep.transcript && ep.transcript.paragraphs) || [];
     if (!paras.length) return '';
@@ -240,17 +386,13 @@
     var others = index.episodes.filter(function (e) { return e.number !== number; }).sort(function (a, b) { return b.number - a.number; }).slice(0, 4);
 
     inner.innerHTML =
-      '<div class="sp-top">' +
+      '<div class="sp-top' + (yt ? '' : ' sp-audio-page') + '">' +
         '<a class="sp-back sp-text" href="' + esc(CFG.COLLECTION) + '"><span>\u2039</span>episodes</a>' +
-        '<header class="sp-head"><div class="sp-meta"><b>episode ' + number + '</b>' + (ep.tags.length ? '<span class="sp-topics">' + ep.tags.map(function (t) { return '<a class="sp-text" href="' + esc(tagUrl(t)) + '" title="all ' + esc(t) + ' episodes">' + esc(t) + '</a>'; }).join('<i>\u00b7</i>') + '</span>' : '') + '</div><h1>' + esc(title) + '</h1></header>' +
+        '<header class="sp-head"><div class="sp-meta"><b>episode ' + number + (!yt && ep.date ? ' \u00b7 ' + esc(fmtDate(ep.date)) : '') + '</b>' + (ep.tags.length ? '<span class="sp-topics">' + ep.tags.map(function (t) { return '<a class="sp-text" href="' + esc(tagUrl(t)) + '" title="all ' + esc(t) + ' episodes">' + esc(t) + '</a>'; }).join('<i>\u00b7</i>') + '</span>' : '') + '</div><h1>' + esc(title) + '</h1></header>' +
         '<div class="sp-player-wrap">' +
           (yt
             ? '<div class="sp-player sp-yt"><img src="https://i.ytimg.com/vi/' + esc(yt) + '/maxresdefault.jpg" alt="" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(yt) + '/hqdefault.jpg\'"><button type="button" class="sp-play" aria-label="play"></button>' + (cap ? '<span class="sp-player-cap">' + cap + '</span>' : '') + '</div>'
-            : '<div class="sp-player"><img src="' + esc(thumb(ep.image, '1500w')) + '" alt="">' + (spotifyUrl ? '<a class="sp-listen" href="' + esc(spotifyUrl) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'spotify.svg') + 'listen on spotify</a>' : ep.apple_episode_url ? '<a class="sp-listen" href="' + esc(ep.apple_episode_url) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'applepodcasts.svg') + 'listen on apple podcasts</a>' : '') + '</div>' +
-              // the player under the photo: the post's Spotify for Creators embed, else a Spotify episode embed, else the plain audio
-              (ep.creators_embed_url ? '<iframe class="sp-creators" src="' + esc(ep.creators_embed_url) + '" loading="lazy" title="spotify player"></iframe>'
-                : ep.spotify_episode_id ? '<iframe class="sp-spotify" src="https://open.spotify.com/embed/episode/' + esc(ep.spotify_episode_id) + '?theme=0" loading="lazy" allow="encrypted-media" title="spotify player"></iframe>'
-                : ep.audio_url ? '<audio class="sp-audio" controls preload="none" src="' + esc(ep.audio_url) + '"></audio>' : '')) +
+            : audioCard(spotifyUrl)) +
         '</div>' +
         '<div class="sp-notes">' +
           (ep.description_html ? '<div class="sp-desc">' + leadBold(safeHtml(ep.description_html)) + '</div><div class="sp-hr"></div>' : '') +
@@ -271,6 +413,7 @@
       }).join('') + '</div></div>' : '');
 
     jsonLd();
+    initAudio();
     wire();
   }
 
@@ -314,6 +457,11 @@
     });
   }
   function seek(t) {
+    if (audio) {
+      audio.seekTo(t);
+      if (mobile.matches) { var top0 = audio.root.getBoundingClientRect().top + window.pageYOffset - 70; window.scrollTo({ top: Math.max(0, top0), behavior: reduced.matches ? 'auto' : 'smooth' }); }
+      return;
+    }
     ensurePlayer(function () {
       player.seekTo(t, true); player.playVideo();
       if (mobile.matches) { var top = inner.querySelector('.sp-player').getBoundingClientRect().top + window.pageYOffset - 70; window.scrollTo({ top: Math.max(0, top), behavior: reduced.matches ? 'auto' : 'smooth' }); }
@@ -337,7 +485,7 @@
         return;
       }
       var s = e.target.closest('[data-seek]');
-      if (s && inner.querySelector('.sp-player.sp-yt')) {
+      if (s && (inner.querySelector('.sp-player.sp-yt') || audio)) {
         e.preventDefault();
         var sec2 = s.closest('.sp-chapter'); if (sec2 && !sec2.classList.contains('sp-open')) { sec2.classList.add('sp-open'); var tg = sec2.querySelector('.sp-toggle'); if (tg) { tg.textContent = '\u2013'; tg.setAttribute('aria-expanded', 'true'); } }
         seek(+s.getAttribute('data-seek'));
