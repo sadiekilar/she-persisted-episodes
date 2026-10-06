@@ -1234,11 +1234,15 @@ sadie talks with dr. maddy ellberger, a clinical social worker and dbt specialis
 
 - date: 2024-01-13
 - tags: emotions, dbt
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep175
 - transcript: episodes/ep-175.md (full)
 
-In this week's solo episode, I discuss why we invalidate our emotions and the power of self-validating! I share what self-validation is and how it's used in DBT, the two most common ways that people self-invalidate, why we self-invalidate and the consequences of doing so, the cycle of self-invalidation, three skills you can use to start validating your emotions, how to make self-validation a habit, goals to set and exercises to practice so you can start self-validating, and your most-asked questions on self-invalidation. If you want to stop judging yourself for your emotions and start accepting your feelings, then this episode is a MUST-LISTEN!
+sadie walks through self-invalidation: what it is, why we do it, and how to stop. she covers the two most common self-invalidation patterns (feeling too much vs. not enough), why judging your emotions creates secondary suffering, and the cycle that keeps it going. she shares three concrete validation skills—mindfulness, radical acceptance, and changing how you respond to yourself—plus scripts and exercises you can start using today. if you beat yourself up for how you feel, this episode gives you a clear path to self-compassion.
+
+> when we don't create space and accept our emotions, we start experiencing secondary emotions about that emotion.
+> emotions are valid. we create space for them. we appreciate them.
+> it makes sense given that blank happened that i feel this way.
 
 ## 174. How to Build Your Emotional Fitness: The 7 Traits You NEED To Succeed feat. Dr. Emily Anhalt
 
@@ -1960,6 +1964,10 @@ sadie talks with nancy diaz, a trauma-informed therapist who specializes in work
 
 in this solo q+a, sadie answers listener questions about managing disordered eating habits (meal planning, honoring hunger cues), using dbt's dear man skill to ask parents about starting therapy, maintaining mental health in college by intentionally building structure around exercise, meals, and community, navigating daylight savings and seasonal affective disorder, and supporting a friend who doesn't believe things will get better. she also shares travel essentials and her favorite binge-worthy shows.
 
+> in college, it's really up to you to create those structures within your routine. in high school, a lot of the things that maintain and improve your mental health are built into your schedule or are required or are already being implemented.
+> you're going to be enveloped in a community that just wants to see you grow and improve and be supported and feel better, which is a really amazing and beautiful opportunity.
+> be a person that is a light in their life, that makes them laugh and is there to support them and is in their corner.
+
 ## 122. Ending Institutionalized Child Abuse feat. Breaking Code Silence - THE TROUBLED TEEN INDUSTRY
 
 - date: 2022-11-15
@@ -2166,6 +2174,10 @@ sadie talks with her abnormal psychology professor, dr. ayelet ruscio, about dep
 
 sadie sits down with dr. michael slepian, columbia professor and author of the secret life of secrets, to explore what happens when we keep things from others. they discuss what counts as a secret (not just hiding information, but also not sharing ambitions or desires), the most common secrets people keep (romantic desire, finances, family issues, ambitions, social discontent), and why secrets hurt us more through rumination than through the stress of hiding them in conversation. michael explains how keeping secrets affects personal wellbeing, relationships, and identity—and why confiding in someone almost always goes better than we expect. the episode offers practical advice on how to be more vulnerable, who to confide in, and when it's okay to keep a secret to protect someone else.
 
+> the moment you intend to hold information back from others is the moment you have a secret well before you ever have the opportunity or the chance to actually hide it in conversation.
+> what really seems to hurt personal well-being is not that we have to hide our secrets, but that we have to live with them alone in our thoughts.
+> opening yourself up to someone is a really—it's a way to deepen a relationship with someone.
+
 ## 107. Working Through Difficult Emotions and Suicidal Thoughts feat. Liz + Mollie
 
 - date: 2022-07-20
@@ -2246,6 +2258,10 @@ sadie sits down with emmalee bierly, lmft, and jennifer chaiken, lmft—co-found
 
 sadie sits down with carmen applegate, host of the girly girl podcast, to answer listener questions about navigating high school, college applications, and young adulthood. they discuss what they wish they'd done differently in high school (caring less about others' opinions, trying new activities), making the most of senior year, and surviving the college application process. the conversation covers practical podcast growth strategies like using tiktok and pinterest, creating varied content, and writing effective pitch emails. they also talk through dating questions—how to get over an ex, whether to be in a relationship, and reading signs someone likes you—emphasizing the importance of prioritizing friendships and doing what feels right for you.
 
+> the biggest thing for me was just realizing like no one really cares.
+> you'll end up where you need to be, even if like the waiting period is really hard.
+> if you're having to choose between someone romantically and then also a friend, pick your friend.
+
 ## 101. Auschwitz Survivor Dr. Edith Eger on Living in the Present, Uncertainty, Suppressed Emotions, and Inner Dialogues
 
 - date: 2022-06-02
@@ -2288,11 +2304,11 @@ in this episode, sadie sits down with clearstem skincare founders danielle groni
 
 - date: 2022-05-04
 - tags: emotions
-- guests: not extracted yet
+- guests: whitney goodman, lmft
 - url: https://shepersistedpodcast.com/episodes/ep98
 - transcript: episodes/ep-098.md (full)
 
-Whitney Goodman, LMFT is the radically honest psychotherapist behind the hugely popular Instagram account @sitwithwhit, the author of Toxic Positivity, and the owner of The Collaborative Counseling Center, a private therapy practice in Miami, FL. She helps people who want to improve their relationships and emotional awareness. (bio via sitwithwhit.com) We discuss Whitney's clinical experience, how she started observing toxic positivity in her practice and community, what exactly toxic positivity is, how it shows up in ourselves and in our relationships, negative impacts of invalidation, situations you shouldn't be positive in, over validation, and the benefits of complaining.
+sadie talks with whitney goodman, lmft—author of toxic positivity and therapist behind @sitwithwhit—about how forced positivity can invalidate real emotions and damage relationships. whitney explains what toxic positivity is, how to spot it (phrases like "everything happens for a reason" or "just be grateful"), and why suppressing emotions makes them more intense. they cover when positivity doesn't fit (grief, trauma, parenting), how to validate yourself and others without overdoing it, and why complaining can actually be useful. listeners learn to use "and" instead of "but," advocate for their emotional needs, and recognize that teen struggles are legitimately hard—even if adults minimize them.
 
 ## 97. truth x She Persisted: A Roundtable Discussion on Vaping, Teen Nicotine Use, and Quitting Substances as a Young Adult
 
@@ -2810,6 +2826,10 @@ sadie sits down with zachery dereniowski (@mdmotivator), a former college dropou
 
 sadie talks with hillary higgins, associate director of college counseling at the nueva school and former usc admissions counselor, about navigating mental health disclosure in college applications. they discuss how to decide whether sharing your mental health journey is right for you, framing your experience in a solution-focused way that highlights growth and resilience, and addressing how mental health may have impacted your academic record. hillary also shares strategies for researching colleges and finding the right fit without visiting campus.
 
+> if a student has the tools to deal with it and knows what to do when they start feeling that, like, you know, pain in their chest or like that, like, whatever their first sign is, if they know what to do when that happens, they are going to be more successful in college, not less.
+> if there are ever outlier grades... you don't want to leave the reader with any questions. you want them to feel like they have a complete picture of your high school experience.
+> that self-awareness... always comes across really strong and really well in a student's application when they're able to communicate it.
+
 ## 58. Maintaining Your Mental Health Throughout The College Application Process (Navigating Rejection, Deferral, and Acceptance)
 
 - date: 2021-03-07
@@ -2819,6 +2839,10 @@ sadie talks with hillary higgins, associate director of college counseling at th
 - transcript: episodes/ep-058.md (full)
 
 sadie sits down with her best friend maya to talk through the emotional rollercoaster of college applications. they cover how to handle rejection, deferral, and acceptance letters without losing your sense of self-worth, plus practical strategies for managing stress and anxiety during the waiting periods. the conversation offers peer perspective on staying grounded when so much feels out of your control, and reminds listeners that your college decision doesn't define your value or future.
+
+> you getting into a school is based on so many factors that are independent of your application that have to do, you know, with the reader and the day of the week. did they have their coffee this morning?
+> if they're only seeing these highlight pieces and that's not good enough... what about me as a whole person?
+> it's not a reflection of you. and it's not a reflection of, you know, your self-worth that you have to determine for yourself.
 
 ## 57. How I Got Into the University of Pennsylvania (My Test Scores, Personal Statement, Supplementals, Activities, Recommendation Advice, Etc)
 
@@ -2844,6 +2868,10 @@ sadie walks through her entire university of pennsylvania application, breaking 
 
 sadie breaks down ocd, anxiety, and exposure therapy in this solo episode. she explains how to tell if your fears are justified versus anxiety-driven, then walks through three evidence-based exposure techniques: imaginative (visualizing feared scenarios), introspective (examining thought patterns), and in vivo (real-life practice). she shares personal stories from her own ocd and anxiety treatment and gives practical tips for applying exposure therapy to everyday life.
 
+> exposure therapy sounds like the most unenjoyable, worst possible thing you could do to someone with anxiety. and i completely agree with that. it's miserable. it's not enjoyable. and it works.
+> i remember one time i talked one of my friends into doing it with me. so she went up with me. i didn't even choose a real song. i chose happy birthday. she was up there singing with me and i was like, okay. i got this. i'm going to go sing happy birthday. and i got to the front and i lip-synced the whole thing.
+> i remember one time i talked about how ashamed i was about how much suffering i'd caused the rest of my family by struggling with depression and anxiety.
+
 ## 55. Mental Health Advice for High School Students
 
 - date: 2021-02-07
@@ -2853,6 +2881,10 @@ sadie breaks down ocd, anxiety, and exposure therapy in this solo episode. she e
 - transcript: episodes/ep-055.md (full)
 
 sadie shares her personal mental health advice for navigating high school. she talks about using 504 plans and accommodations, building genuine relationships with school counselors, finding a passion project outside of academics, and learning to work smarter instead of just harder. the episode focuses on practical strategies she's used to succeed in school while protecting her mental health.
+
+> if we put 110% into every single thing that we're doing in life... we're not going to be passionate about every single one of those things. so we're going to get burnt out.
+> the assignment will still be there tomorrow. you can go to sleep, you can wake up and the assignment will still be there.
+> your parents are never gonna be the parents that you need and want and wish you had. because they don't know what they're doing as much as we don't.
 
 ## 54. RELATIONSHIPS + Attachment Styles feat. Kirstie Taylor
 
@@ -2878,6 +2910,10 @@ sadie sits down with dating and relationship writer kirstie taylor to explore ho
 
 sadie talks with camila vola, a 22-year-old college student from argentina who hosts my point of view podcast. they share practical advice on pitching high-profile guests for your podcast, including exactly what to say in pitch emails and dms. camila and sadie also discuss why she started her show and how to intentionally curate your social media feed to support your confidence, self-esteem, and body image. listeners walk away with concrete strategies for reaching out to influencers and building a healthier relationship with social media.
 
+> i just sent this dm that said, hi, i have a podcast where we talk about different job and career experience and my listeners really love your content. i've interviewed xyz and i would love to have you on.
+> you have to make your content shareable. people throw around names in conversations, but when you actually do the episodes and descriptions, it's so helpful.
+> it's okay not to be okay. you are not gonna be happy 100% all the time. everyone has bad days and it's okay to learn that that bad day is okay.
+
 ## 52. Q+A: Why I started She Persisted, misconceptions about treatment, increasing productivity, podcast growth tips, + more!
 
 - date: 2021-01-08
@@ -2887,6 +2923,10 @@ sadie talks with camila vola, a 22-year-old college student from argentina who h
 - transcript: episodes/ep-052.md (full)
 
 in this solo q+a episode, sadie answers listener questions about starting she persisted and her motivations behind the podcast. she shares practical advice on podcast growth and production, including first steps for beginners and tips for building an audience. sadie also opens up about her treatment journey at 3east mclean hospital, discussing misconceptions she had before treatment and what surprised her most during recovery. she rounds out the episode with personal productivity tips for managing procrastination and maintaining happiness during shelter in place.
+
+> if you're going into anything in life with the belief that it's not going to work, it's not going to work. it's kind of like manifesting. you're setting yourself up for failure.
+> a year later, i loved my life. i felt truly happy. i had relationships i cared about. i had a relationship with my family, which was huge.
+> if every single week you are improving the quality of your podcast and giving the listener something new and improved and better to listen to and have a better experience, that is huge for getting an audience.
 
 ## 51. Woomanhood + Wellness feat. Amanda DiMarco
 
@@ -2898,6 +2938,10 @@ in this solo q+a episode, sadie answers listener questions about starting she pe
 
 sadie talks with amanda dimarco, founder of just mands blog and podcast, about building her platforms around honest conversation and wellness. they cover amanda's journaling practices and tips for getting thoughts out of your head, how social media affects mental health and the importance of being aware of that impact, and navigating a surprise pregnancy at 22 while managing a public presence and family relationships. amanda shares what it means to show up authentically online and how to get started in blogging if you're interested in creating your own space.
 
+> I have to kind of tell yourself this is not for anybody. This journal is solely for your eyes and for yourself.
+> I was noticing that every single time I was on social media, I was thinking about, okay, what blog posts can I write to post out on social media? Or what caption do I need to be doing? What content do I need to be creating? And that's draining.
+> I love when people share their stories and their experiences because I relate more to that than like a doctor telling me like, this is normal.
+
 ## 50. Nutritional Psychiatry: Using Nutrients to Improve Your Mental Health feat. Uma Naidoo MD
 
 - date: 2020-12-12
@@ -2908,6 +2952,10 @@ sadie talks with amanda dimarco, founder of just mands blog and podcast, about b
 
 sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional chef who directs the first hospital-based nutritional psychiatry service in the united states. they explore the gut-brain connection and how what we eat directly impacts our mental health. dr. uma shares specific nutritional recommendations for managing depression, anxiety, and chronic stress, along with foods that support immunity. listeners learn practical ways to use food as a tool for better mental health.
 
+> it became a language and it became a tool as well to offer someone that was within their control compared to a prescription pad.
+> the serotonin receptors themselves, more than 90% are located in the gut.
+> you are not alone and you can reach out to someone.
+
 ## 49. Authenticity + Storytelling with Sage Lally
 
 - date: 2020-12-05
@@ -2917,6 +2965,10 @@ sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional
 - transcript: episodes/ep-049.md (full)
 
 sadie sits down with sage lally, founder of be., to talk about navigating mental health in college and the tools that helped them both. they discuss their experiences in dialectical behavioral therapy (dbt), why maladaptive coping mechanisms are so difficult to unlearn, and the importance of speaking up for your emotional needs in real time. sage also shares how she built be. as a newsletter and community platform that empowers women and non-binary people to tell their stories and find connection in shared experience.
+
+> i finally understood that everyone in my life was trying to help me problem solve when i didn't have the language to communicate that it's impossible to problem solve when you're in a level of distress that allows you not to be able to think.
+> it's so much easier to sit in that discomfort, to sit in that distress, because that's what's comfortable for you. and we get into that point where that distress state serves us. we get validation, we get support.
+> a lot of my treatment was trying to let go of the external validation that people gave me when i showed physical forms of distress and learning that i don't need to do that and finding other ways to meet my emotional needs.
 
 ## 48. How I Recovered From Teenage Depression
 
@@ -2952,6 +3004,10 @@ sadie breaks down dbt's tipp skill—a crisis survival tool that uses temperatur
 
 sadie talks with evonna kuehner, founder and ceo of anové beauty, about building a clean skincare brand from scratch while balancing life as a new mom. evonna shares practical skincare advice, including the correct order to apply products and her top five tips, plus myths she wants to debunk. they also get into leaving corporate life to bootstrap a startup, staying compassionate with yourself during your wellness journey, and finding balance when you're juggling everything at once.
 
+> I never once doubted that I could do it.
+> Do it. Do it. Don't let anyone talk you out of it. Don't talk yourself out of it. Do it no matter what and make that commitment to yourself.
+> I think aging is a privilege. And so, you know, I just like to say that this is a product that will definitely help you live in your best skin, but it's also a product that is going to allow you to age as gracefully as your lifestyle allows.
+
 ## 45. Balancing Your Life feat. Abbie Stasior
 
 - date: 2020-10-02
@@ -2961,6 +3017,10 @@ sadie talks with evonna kuehner, founder and ceo of anové beauty, about buildin
 - transcript: episodes/ep-045.md (full)
 
 sadie sits down with abbie stasior, a health and life coach, columbia grad student, and founder of be about being better. they talk through abbie's approach to juggling school, business, and her own physical health without burning out. abbie shares her journey to becoming a life and fitness coach, plus the morning and night routines that actually help her stay grounded. they also get real about what it means to fall off the wagon versus building true consistency in your life.
+
+> self-care is not selfish. self-care is self-centered.
+> we have to slow down before we can speed up.
+> even if i'm not able to do everything for my health, i still do something.
 
 ## 44. Your Insecurity is Not Unique feat. Kelsey Jones
 
@@ -2972,6 +3032,10 @@ sadie sits down with abbie stasior, a health and life coach, columbia grad stude
 
 sadie sits down with kelsey jones, host of what's stopping you podcast and student at university of texas, austin. they talk about kelsey's experience starting and growing a podcast, balancing full-time school with building a career, and practical strategies for staying productive. the conversation also explores insecurity and body confidence, with both sharing personal experiences about how common these struggles are.
 
+> your insecurity is not unique and it's a good thing because everybody else is going through it too
+> don't stress about things you can't control
+> you can't get anything that you want in life if you don't know what it is
+
 ## 42. Q+A #2: Personal Growth, Applying to College, Radical Acceptance (DBT Education) and more!
 
 - date: 2020-09-11
@@ -2982,6 +3046,10 @@ sadie sits down with kelsey jones, host of what's stopping you podcast and stude
 
 sadie answers listener questions about her personal journey, covering how hearing others' stories has shaped her own recovery, what inspired her to share publicly, and managing school anxiety during quarantine. she discusses her college search process, thoughts on psychology as a career path, and why she chose podcasting. she also opens up about her experiences at mclean and therapeutic boarding school—how involved she was in choosing programs, what she wishes had been different in her transition, and any lasting impacts from treatment. plus thoughts on medication and whether she'll continue the podcast in college.
 
+> I really, really, really did want to speak to all the other teenagers and people struggling that had the same belief as me. Because I wasn't someone who was like, I want this to go away. I want to get better. Of course I did, but I didn't think it was possible.
+> radical acceptance is 125% completely accepting something. And that means that you let it fade away from your brain. You say, I'm accepting that this is the outcome and I'm going to stop feeling attachment towards this.
+> medication is your water wings to help you get off out of that low point and dive into your work therapeutically. If you're just doing medication, you probably won't see the changes you want to in your life because medication is only supposed to help lift you out of that low place.
+
 ## 41. The Traumatic Side of the Adolescent Treatment Industry feat. Daisye Byrd Graham
 
 - date: 2020-09-04
@@ -2991,6 +3059,10 @@ sadie answers listener questions about her personal journey, covering how hearin
 - transcript: episodes/ep-041.md (full)
 
 sadie sits down with her best friend daisye byrd graham to discuss daisye's personal story, including her experiences with trauma and time in a wilderness therapy program. they explore what the adolescent treatment industry can look like from a teen's perspective and how their friendship began through these experiences. the conversation offers insight for parents considering wilderness programs while also touching on healing and resilience. despite the heavy topics, the episode includes moments of genuine laughter and connection between two friends.
+
+> i could always see the light at the end of the tunnel and i never wanted to end it because even at the end of it, i still loved life. i still loved living and i loved everything that the world had to offer and i wanted to be a part of it.
+> we were competing with each other to feel safe while we slept at night.
+> the purpose of mental health treatment is to give you the skills to cope with your environment. worst case scenario, you are so deeply dysfunctional that you have to be removed from that environment to learn those skills.
 
 ## 40. Living Past Crazy feat. J'Anmetra Waddell
 
@@ -3012,6 +3084,10 @@ sadie talks with j'anmetra waddell (jo-jo), a domestic abuse survivor, author, a
 
 this episode is a practical guide to getting better sleep, especially if you struggle with insomnia or just want to improve your sleep quality. sadie shares evidence-based tips and tricks for creating the right conditions for rest, from environmental changes to mental shifts. the episode includes two guided sleep meditation practices you can use to help yourself fall asleep. whether you're a chronic insomniac or just looking to upgrade your sleep routine, this episode gives you actionable strategies to try tonight.
 
+> once I did this sleep routine and I was able to sleep through the night and get up in the morning for literally only a week, that was the first time in two years that I didn't feel depressed when I got up in the morning.
+> when you are lacking sleep, everything else will kind of fall off the wagon.
+> you're optimizing for that 10–15 minutes where you feel sluggish, you feel tired, you want to go to bed.
+
 ## 38. Before You Kill Yourself feat. Leo Flowers
 
 - date: 2020-08-14
@@ -3021,6 +3097,10 @@ this episode is a practical guide to getting better sleep, especially if you str
 - transcript: episodes/ep-038.md (full)
 
 sadie talks with leo flowers, a tedx speaker, stand-up comedian, life coach, and host of the before you kill yourself podcast. they discuss destigmatizing mental health, the intersection of comedy and therapy, and how to actually thrive through hard times. leo shares insights from his counseling background and his work helping people navigate their mental health journeys. listeners walk away with perspective on finding help, reframing struggle, and the tools that support real healing.
+
+> when they look at the research, there's a five to ten minute window of where you really want to end your life.
+> if we start to feel ineffective in any of those areas, it creates that feeling of hopelessness.
+> i started having really severe symptoms of depression when i was like 12 or 13. and so my parents were just as involved in my journey as i was.
 
 ## 37. Brush and Barley's Audrey Bailey on Jesus and Mental Health
 
@@ -3032,6 +3112,10 @@ sadie talks with leo flowers, a tedx speaker, stand-up comedian, life coach, and
 
 sadie talks with audrey bailey, artist and creator of brush and barley, about navigating faith and mental health together. audrey shares her journey with depression and anxiety since her teens, including experiences with toxic relationships and postpartum depression. they discuss the mental health stigma that exists in christian communities, how social media affects your wellbeing, and practical ways to support loved ones who are struggling. listeners come away with perspective on integrating spirituality with mental health care and understanding that faith and therapy can coexist.
 
+> you just think there's no hope. like it's not that you're choosing there's no hope, it's literally ingrained in your brain.
+> having been at such a low, like i would never ever ever wish that on anyone else. and so i want to do whatever i can to help people not feel that.
+> i need to be medicated. and it's not that i don't have faith, but i know right now in this season that god has given me tools.
+
 ## 36. Being Young AND the Best Version of Yourself feat. Sarah Humphrey
 
 - date: 2020-07-31
@@ -3041,6 +3125,10 @@ sadie talks with audrey bailey, artist and creator of brush and barley, about na
 - transcript: episodes/ep-036.md (full)
 
 sadie sits down with sarah humphrey, host of it ain't it sis, to talk about navigating your teens and early twenties while working on yourself. they cover experiences with bullying and body image, what it's like to struggle with mental health when you're young, and practical advice for college. the conversation is about finding your own path and becoming who you want to be, even when you're still figuring it all out.
+
+> maybe everything doesn't happen for a reason, but everything happens for a purpose.
+> if you're not dead, god's not done.
+> be selfish in a way, really sit with yourself and take time to just invest in yourself because at the end of the day, you are the only one you have on this earth.
 
 ## 35. Clean Beauty, Mental Health During Quarantine, Giving Back, Diversity in the Beauty Industry, and Entrepreneurship feat. Cassandra McClure
 
@@ -3052,6 +3140,10 @@ sadie sits down with sarah humphrey, host of it ain't it sis, to talk about navi
 
 sadie sits down with cassandra mcclure, a model-turned-makeup artist and clean beauty entrepreneur, to talk about navigating mental health during quarantine, the importance of diversity and representation in the beauty industry, and what it takes to build a business from the ground up. they discuss cassandra's journey creating lash binder™, her clean beauty podcast, and how she's pivoting to support struggling business owners through clean beauty con's virtual summit. the conversation touches on self-care practices during uncertain times and the power of giving back to your community.
 
+> within 48 hours, I saw a huge difference in my skin, my breathing, in my overall well-being. And in 72 hours, in three days, I saw a massive shift.
+> if you don't aren't allowed to see at the table, you build your own table.
+> this past week has probably been the hardest for me, like just with COVID... there comes a time where you're just like, I cannot work anymore. I'm so over it.
+
 ## 34. The benefits of nature, adventure, and connection feat. Brittany Crane (founder of Get Out There Girl)
 
 - date: 2020-07-10
@@ -3061,6 +3153,10 @@ sadie sits down with cassandra mcclure, a model-turned-makeup artist and clean b
 - transcript: episodes/ep-034.md (full)
 
 sadie talks with brittany crane, founder of get out there girl, about how nature, adventure, and connection can support mental health and self-compassion. brittany shares her approach to helping women escape comparison, guilt, and perfectionism by treating themselves like they would a good friend. they discuss brittany's self-compassion workbook, her high-adventure retreats for women, and the power of vulnerability in building genuine connections. listeners learn practical ways to quiet their inner critic and build inner strength through self-compassion practices.
+
+> my kids are the reason why i prioritize my mental health. i couldn't get past the love that i had for them and how much they deserve that in their life.
+> it just fosters more empowerment because you are the one taking control of your mental health.
+> i've given myself permission to be more compassionate to myself. i've also grown in compassion towards others.
 
 ## 33. Q+A #1: podcasting, supporting a friend that's struggling with mental health, rebuilding relationships, and navigating change!
 
@@ -3072,6 +3168,10 @@ sadie talks with brittany crane, founder of get out there girl, about how nature
 
 in this solo q+a episode, sadie answers listener questions about her podcasting journey, supporting friends with mental health struggles, and navigating major life transitions. she shares practical advice on validation and being present for friends (even ones you're not super close to), discusses how teenage mental health differs from adult experiences, and opens up about rebuilding relationships after treatment at mclean and therapeutic boarding school. she also covers her favorite in-the-moment coping skills and the challenges of transitioning back to regular school after residential treatment.
 
+> i realized that i was living this dream that i'd have for so long, which was to be happy and to wake up every day and want to live my life.
+> treat them as you would treat them normally. don't treat them differently.
+> if you can truly take care of yourself, you will be offering the best version of yourself to other people when they need support.
+
 ## 32. Scout Sobel on her experience with bipolar, Okay Sis, healthy relationships, navigating mental illness, and more!
 
 - date: 2020-06-26
@@ -3081,6 +3181,10 @@ in this solo q+a episode, sadie answers listener questions about her podcasting 
 - transcript: episodes/ep-032.md (full)
 
 sadie talks with scout sobel, host of scout podcast and okay sis, about living with bipolar disorder and what that journey has looked like for her. they discuss scout's work as a mental health advocate, what she's learned about building healthy relationships while managing mental illness, and how she navigates her diagnosis day to day. scout shares her experience as a bipolar survivor and the tools that have helped her along the way.
+
+> my bipolar would never let me work a job that i didn't like because i would get depressed. and then i physically would not be able to show up because it would be so intense.
+> i think that depression feels like home. that's a very strong indicator that it's time to step into the unknown and see what else you can call home.
+> you have power. don't for one second sit there and say that this is it and this is your life's destiny.
 
 ## 31. Full eating disorder recovery, owning your recovery, and working on yourself before helping others feat. Alexis Smith
 
@@ -3092,6 +3196,10 @@ sadie talks with scout sobel, host of scout podcast and okay sis, about living w
 
 sadie sits down with lexie smith from every ounce of strength to talk about her journey to full eating disorder recovery. they discuss what it means to truly own your recovery process, the difference between managing symptoms and fully recovering, and why you need to prioritize your own mental health before you can effectively help others. lexie shares her experience creating the recovery workbook and what she's learned about doing the deep work of healing.
 
+> recovery was harder than having an eating disorder. but it's harder for a shorter amount of time.
+> i am not an ornament to be looked at. i'm not a decoration on a shelf, but my body is an instrument for me to use.
+> full recovery is real. and it is so worth it.
+
 ## 30. GRATITUDE feat. Jill Nowak (LICSW) from 3East, McLean Hospital
 
 - date: 2020-06-12
@@ -3102,6 +3210,10 @@ sadie sits down with lexie smith from every ounce of strength to talk about her 
 
 sadie and jill nowak (licsw) from 3east at mclean hospital talk about sadie's experience in the adolescent treatment program and explore the practice of gratitude. they discuss why gratitude can feel impossible when you're struggling with mental health, how to start small with the practice anyway, and the real benefits it can offer. jill also shares her journey into adolescent mental health treatment work. the episode offers gratitude skills that work for anyone, whether you're in crisis or just want to build the habit.
 
+> your mind goes to the negative. you focus on what's bad and what is so much bigger and overwhelming, and there still are the good things.
+> it involves taking a risk. and i'm gonna do what i can to shift into this mindset of inviting gratitude and moving away from scarcity into abundance and just see what happens.
+> when you take an appreciation for that little beautiful thing, you can really see how much it has to offer.
+
 ## 29. Validation and Empathy: How YOU can support the Black Lives Matter movement
 
 - date: 2020-06-05
@@ -3111,6 +3223,10 @@ sadie and jill nowak (licsw) from 3east at mclean hospital talk about sadie's ex
 - transcript: episodes/ep-029.md (full)
 
 in this episode, sadie applies dbt skills—specifically validation and mindfulness of others—to supporting the black lives matter movement. she explains how to make people feel seen, heard, and respected through empathy and validation, even if you're struggling with your own physical or mental health. the episode offers practical tools for strengthening relationships and showing up for others during a crucial moment. it's a departure from the usual format but focuses on skills anyone can use to be more present and supportive.
+
+> skills like empathy, validation, and relationship building don't discriminate by race, history, or political views.
+> the act of validation doesn't mean you agree. it doesn't mean you share the same opinion. it means that you understand where the other person is coming from.
+> even if you're only able to validate one person, to hear someone genuinely say to you that they see you're suffering, they know you're in pain and that it's not okay, that can go pretty far.
 
 ## 28. Blaise Aguirre M.D. on Dialectical Behavioral Therapy, Emotional Experience, Persistence, and Taking Ownership of Your Life
 
@@ -3136,6 +3252,10 @@ sadie sits down with dr. blaise aguirre, the psychiatrist who treated her at 3ea
 
 sadie sits down with emily lebaron, founder of the living for hope brand, to discuss therapy, medication management, and navigating mental health during the covid-19 pandemic. emily opens up about surviving teenage depression and shares her journey of reducing stigma around mental health treatment. the conversation covers practical approaches to starting therapy, understanding medication options, and finding coping strategies during quarantine and uncertain times.
 
+> COVID-19 will touch you emotionally far before it touches you physically.
+> If someone tells you that about how you are feeling and they do not validate how you are feeling, then you need to find someone else to talk to.
+> We are all swimming across a large body of water, but some of us, for whatever reason, have extra weights on our wrists and ankles. Therapy is learning new strokes and more effective ways to swim. But if the weights are too heavy, you won't be able to learn the strokes without sinking. Medication removes the weights or at least lightens them, freeing you to learn the strokes.
+
 ## 26. Gaining independence, taking control of your mental health, how to maintain your self-respect in your interactions, and the FAST skill (DBT Education)
 
 - date: 2020-05-08
@@ -3145,6 +3265,10 @@ sadie sits down with emily lebaron, founder of the living for hope brand, to dis
 - transcript: episodes/ep-026.md (full)
 
 sadie sits down with her younger sister ivy to talk about building independence, taking control of your mental health, and maintaining self-respect in relationships. the episode teaches the fast skill from dbt—a framework for keeping your self-respect when interacting with others by being fair, not apologizing unnecessarily, sticking to your values, and being truthful. together they explore what these principles look like in real life and how to apply them to everyday interactions.
+
+> When you are successful, you completely owe it to yourself. That is true self-respect and independence that you've done something completely for yourself and completely successfully.
+> You have to want it for yourself and you can't rely on others to want it for you. You need yourself to be driven to reach that goal.
+> No one will change your experience or your depression or your anxiety or whatever it is for you. You have to be the one to decide to change.
 
 ## 25. Gaining Confidence, Navigating Social Media in a Healthy Way, Maintaining Productivity in Quarantine, and the Importance of Vulnerability! feat. the Leeza Rants Podcast
 
@@ -3194,11 +3318,15 @@ sadie sits down with her dad to talk about what it was like parenting a teenager
 
 sadie and maya (a returning guest and high school junior) talk about navigating online school, self-quarantine, and mental health during the early weeks of covid-19 lockdowns. they share their daily routines—maya's zoom classes and workout breaks, sadie's weekly assignments and family time—and discuss what's helping them stay grounded: consistent sleep schedules, getting dressed each day, and leaning on family relationships. they also open up about junior-year anxieties around college applications, canceled sat dates, and uncertain summer plans, plus the fear of being asymptomatic carriers. despite the stress, they notice how communities are coming together through virtual support groups, instagram live therapy sessions, and neighborhood acts of care.
 
+> it's so hard to know. and especially for us being juniors, i feel like this is the time when we're supposed to be doing crucial planning and it's impossible to plan when like, you don't know what's going on.
+> it feels weird. it feels like we're stuck in this moment of time where nothing is changing yet everything's happening.
+> we're all so isolated. we're all so separated as a nation. and yet we're all coming together and trying to support each other because we all know we're going through the same thing.
+
 ## 21. DBT Education: GIVE + THINK skills aka how to improve your relationships... navigating parental conflicts, friendships, and arguments
 
 - date: 2020-03-21
 - tags: dbt, relationships, emotions
-- guests: none (solo)
+- guests: ruby
 - url: https://shepersistedpodcast.com/episodes/ep21
 - transcript: episodes/ep-021.md (full)
 
@@ -3214,6 +3342,10 @@ sadie breaks down two dbt interpersonal effectiveness skills designed to strengt
 
 this episode breaks down the dearman skill from dialectical behavior therapy (dbt), a practical tool for asking for what you want and getting your needs met in relationships. sadie walks through each letter of the acronym—describe the situation, express your feelings, assert what you need, reinforce why it matters, be mindful during the conversation, appear confident, and negotiate if needed. she explains when to use dearman (when your objective matters most) and gives concrete examples of how to apply each step in real conversations.
 
+> you're not going to assume that the other person knows how you feel. you're gonna verbalize it.
+> you're gonna keep your focus on your goals, you're gonna maintain your position, you're not gonna be distracted, and you're not gonna get off the topic.
+> i do find it extremely helpful to write down your describe, express, assert, reinforce, stay mindful, appear confident and negotiate out on paper before you ask someone.
+
 ## 19. DBT Education: Interpersonal Effectiveness Overview... clarifying relational goals and disproving unhealthy beliefs ft. my younger sister
 
 - date: 2020-03-12
@@ -3223,6 +3355,10 @@ this episode breaks down the dearman skill from dialectical behavior therapy (db
 - transcript: episodes/ep-019.md (full)
 
 sadie walks her younger sister through the interpersonal effectiveness module of dbt, covering what interpersonal effectiveness means and why relationships matter for mental health. they discuss common unhealthy beliefs people hold about asking for what they need, setting boundaries, and maintaining self-respect in relationships. the episode teaches listeners how to clarify their goals before entering difficult conversations—whether they want to change a situation, strengthen a relationship, or protect their self-respect.
+
+> I think every human in the world deserves to get what they need necessarily.
+> You're not bothering them. You're just getting what you need and asking for it.
+> No matter what the outcome is, what do you want to think and feel about yourself?
 
 ## 18. DBT Education: Mindfulness continued (the HOW skills: Nonjudgmentally+Effectively+One-Mindfully, Loving Kindness, and Being vs Doing Mind)... skills for combatting depression and anxiety
 
@@ -3254,6 +3390,10 @@ this episode kicks off the mindfulness module of dbt by breaking down what mindf
 
 sadie breaks down the fundamentals of dialectical behavioral therapy (dbt), covering the biosocial model, behavior change strategies, dialectics, and validation. she walks through a real conflict with her sister to show how dbt principles work in practice, specifically focusing on objective effectiveness—getting what you want while maintaining relationships. listeners learn concrete ways to identify behaviors they want to change and how to apply dbt thinking to interpersonal conflicts.
 
+> we're not a suicide prevention program. we're a life worth living program.
+> when you validate, you don't have to agree with what the person's saying... you're just saying you understand.
+> if you bottle things up, they're all going to explode at some point. sit with it.
+
 ## 15. How do you support a friend struggling with depression and anxiety while maintaining your own mental health?
 
 - date: 2020-01-24
@@ -3273,6 +3413,10 @@ sadie sits down with her best friend from home, who shares what it was like to w
 - transcript: episodes/ep-014.md (full)
 
 sadie sits down with her younger sister to talk about how mental health struggles affect the whole family. they discuss what it was like at home while sadie was at mclean hospital for treatment, the changes her sister noticed in sadie and their family dynamics, and the difficult position of wanting to talk about what's happening but feeling like it's not your story to share. her sister also shares dbt skills she learned through the process and offers advice on finding someone to talk to when a loved one is struggling.
+
+> seeing someone you love so much and you've always thought of as like... always feeling really, really happy, and then, like, seeing them, like, in tears, like, really not, like, kind of suffering. it was, i just, at that age, i kind of was like, this isn't how it's supposed to be.
+> i kind of felt like, i know it's not happening to me, but it feels like it's kind of happening to me because it's like one of my family members.
+> there's no question that that's going to happen, for me at least... i don't even think it's possible that it would happen again.
 
 ## 11. Emily Thelen (MA+LCPC+CTRS) on adjusting to change, societal norms, therapeutic boarding school, wilderness, and recovering from depression and anxiety.
 
@@ -3294,6 +3438,10 @@ sadie sits down with emily thelen, one of her therapists from therapeutic boardi
 
 sadie sits down with jacob sparks, lmft, who was her individual and family therapist at the time of recording. they reflect on sadie's therapeutic journey, discussing what's helped her grow and what's held her back. jake shares practical advice on building healthier relationships and developing coping skills. he also turns the conversation around to ask sadie what she thinks therapists should know and what young people should keep in mind when starting therapy.
 
+> I'm a believer that the process works for those that want it to work.
+> You say you want to be in the driver's seat and you park the car and you refuse to get in it.
+> You have to want to change or you'll just get better about talking about your feelings. Nothing will be different.
+
 ## 8. A parent’s guide to adolescent treatment for depression and anxiety: family therapy, what it’s like sending your child away, and how it helped our family… feat. my Dad
 
 - date: 2019-08-21
@@ -3304,25 +3452,37 @@ sadie sits down with jacob sparks, lmft, who was her individual and family thera
 
 sadie sits down with her dad to talk about what it was like parenting a teen through residential treatment and therapeutic boarding school. they discuss the decision to send sadie away for treatment, how it impacted their family dynamics, and what the experience taught them both. the conversation also touches on mental health stigma and their relationship today. listeners get a parent's perspective on navigating adolescent depression and anxiety treatment, including family therapy and the realities of intensive programs.
 
+> the criticality of validation. just as a human, and this goes far beyond being a father, it just really goes back to being a human and interacting with other people, is the importance of validating others.
+> in 2019, the notion of mental fitness is still in some cases a hushed, quiet thing. taboo.
+> i hope you make those kind of decisions where you make the tough decision to be present. you make the tough decision to be vulnerable.
+
 ## 6. Building and maintaining fulfilling, healthy, loving relationships with family members, friends, and peers
 
 - date: 2019-08-07
 - tags: relationships, self-improvement, 20s
-- guests: none (solo)
+- guests: daisy bird graham
 - url: https://shepersistedpodcast.com/episodes/ep6
 - transcript: episodes/ep-006.md (full)
 
 sadie sits down with a friend to talk about navigating different types of relationships. they discuss recognizing codependency in romantic relationships and friendships, how family dynamics shift as you grow up, and the role of gossip in friendships. the conversation explores how two people with different personalities maintain their friendship while staying independent, and reflects on how various relationships have shaped them.
 
+> my relationships in the past have been very performative. like a thing of it wasn't always very genuine.
+> i see everything is transactional a lot of the time. so for me, when i'm entering an interaction, especially in the past, i was getting from you or you were getting something from me and that was why a relationship existed.
+> i need relationships to be happy and thrive like if i have none of them i'll be the most miserable person on the planet which i felt like i was.
+
 ## 5. Teen anxiety: how to cope, using skills, and surviving school
 
 - date: 2019-07-31
 - tags: anxiety, teen mental health, self-improvement
-- guests: none (solo)
+- guests: kayla
 - url: https://shepersistedpodcast.com/episodes/ep5
 - transcript: episodes/ep-005.md (full)
 
 this episode dives into teen anxiety—what it feels like day-to-day, how panic attacks actually happen in your body, and why anxiety makes everyday things like school feel impossible. sadie shares personal experiences to help listeners recognize their own patterns and understand they're not alone. you'll come away with a clearer picture of how anxiety works and why it shows up the way it does.
+
+> i was just in a constant state of numbness and depression. and then after that, i understood what was going on, so it lifted... it immediately reverted to anxiety.
+> it's the difference between anxiety and being nervous, because being nervous is like... i have a test tomorrow... and then it's like, i am legitimately scared of failing, and i don't know how i would react.
+> do not let the anxiety control you... you are a big, strong human, and anxiety is not even this tangible thing. do not let it rule your life.
 
 ## 3. A sister’s perspective: what do depression and anxiety look like? How do you support a sibling struggling? How did therapy help our family?
 
@@ -3334,6 +3494,10 @@ this episode dives into teen anxiety—what it feels like day-to-day, how panic 
 
 sadie sits down with her younger sister to talk about what it was like watching sadie struggle with depression and anxiety from a sibling's perspective. they discuss how mental illness shifted their family dynamics, how their relationship changed during those two years, and what helped them heal together. the conversation offers insight into how family therapy can strengthen relationships and how siblings can support each other through mental health challenges.
 
+> i didn't know who she was. she could have been, like, a neighbor.
+> we actually have one now. yeah, we didn't have one before.
+> my advice would be to give them the benefit of the doubt.
+
 ## 2. A Dad’s perspective on how to support a teen suffering from depression and anxiety
 
 - date: 2019-07-17
@@ -3343,6 +3507,10 @@ sadie sits down with her younger sister to talk about what it was like watching 
 - transcript: episodes/ep-002.md (full)
 
 sadie sits down with her dad to talk about what it was like for him to watch his daughter struggle with depression and anxiety. they discuss the difficult decision to send sadie to treatment, the helplessness parents feel when they don't know how to support their kid, and how their family has changed since then. this episode offers reassurance to parents that they're doing their best, while helping teens understand what their parents experience during these challenging times.
+
+> as a parent, you'd much rather see yourself suffer. you'd much rather see anyone else in the world suffer other than your child.
+> everyone that we've spoken to says that if they had to do over again, they would have taken more aggressive action earlier in their child's life.
+> when i read that phrase, i couldn't help but think of you. and i couldn't help but think of all the things that have been thrown at you as a young girl...and the fact that here you were in boston, persisting in the face of a whole lot of things that you never asked for.
 
 ## 1. A teen’s perspective: depression and anxiety… my core beliefs, the decision I made to work on myself, and my journey through intensive mental health treatment
 
