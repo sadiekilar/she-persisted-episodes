@@ -1885,7 +1885,7 @@ Today I am joined by Dr. Alexandra Solomon a licensed clinical psychologist, aut
 ## 75. Amen Clinic's Dr. Jay Faber on Teenage Substance Use: Brain Impacts, Long-Term Effects, and Quitting Tips
 
 - date: 2021-10-19
-- tags: none
+- tags: teen mental health
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep75
 - transcript: episodes/ep-075.md (full)
@@ -1895,7 +1895,7 @@ This week's guest is Dr. Jay Faber. John A. “Jay” Faber, MD is a clinical an
 ## 74. Sophie Gray (Founder of DiveThru) on Diet Culture, Body Neutrality, Teenage Self-Harm, and Mental Health Education
 
 - date: 2021-10-09
-- tags: none
+- tags: emotions, teen mental health, body image
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep74
 - transcript: episodes/ep-074.md (full)
@@ -1905,7 +1905,7 @@ This week's guest is Sophie Gray. Sophie is the founder and creator of DiveThru,
 ## 73. Victoria Garrick on Student-Athlete Mental Health, Body Image, Intuitive Eating, Vulnerability, and College Lifestyle
 
 - date: 2021-10-03
-- tags: none
+- tags: body image, college
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep73
 - transcript: episodes/ep-073.md (full)
@@ -1915,7 +1915,7 @@ This week's guest is former D1 Athlete, Victoria Garrick. Victoria is known for 
 ## 72. Almost 30's Krista Williams on How Meditation Will Change Your Life, Body Acceptance, Experiencing Your Emotions, and Surviving Depression + Anxiety
 
 - date: 2021-09-26
-- tags: none
+- tags: emotions, body image, trauma
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep72
 - transcript: episodes/ep-072.md (full)
@@ -1925,7 +1925,7 @@ Today I am sitting down with Krista Williams from Almost 30 for one of my all-ti
 ## 71. 1st Month of College DEBRIEF: Tips for Move-In, Socializing, Productivity, Studying, and more!
 
 - date: 2021-09-20
-- tags: none
+- tags: college
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep71
 - transcript: episodes/ep-071.md (full)
@@ -1935,7 +1935,7 @@ So many fun interviews coming in the next few months, I wanted to sit down and g
 ## 69. Navigating Anxiety as a Teenager: Coping Skills, Listener Q+A, Personal Experiences, and More
 
 - date: 2021-08-14
-- tags: none
+- tags: anxiety, teen mental health
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep69
 - transcript: episodes/ep-069.md (full)
@@ -1945,7 +1945,7 @@ Hello from Denmark (though I’m actually editing and releasing this 2 weeks lat
 ## 68. How Our Mental + Physical Health Are Connected feat. Laura Martin
 
 - date: 2021-07-16
-- tags: none
+- tags: depression, anxiety
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep68
 - transcript: episodes/ep-068.md (full)
@@ -1955,7 +1955,7 @@ Today I am joined by the amazing Laura Martin—a Certified IBS Nutrition Consul
 ## 67. High School RECAP
 
 - date: 2021-07-02
-- tags: none
+- tags: teen mental health
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep67
 - transcript: episodes/ep-067.md (full)
@@ -1965,7 +1965,7 @@ This solo episode is all about my high school experience (3 states, 3 schools, t
 ## 66. Alexis Haines on Teenage Addiction, Childhood Trauma, and Taking Radical Accountability Over Your Healing
 
 - date: 2021-06-18
-- tags: none
+- tags: trauma
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep66
 - transcript: episodes/ep-066.md (full)
@@ -1975,7 +1975,7 @@ Alexis Haines—my podcast mom—is finally on She Persisted! This episode can o
 ## 65. Therapy 101: Your Guide to Teen Treatment feat. Lindsay Fleming LPC
 
 - date: 2021-05-22
-- tags: none
+- tags: teen mental health, troubled teen industry, trauma
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep65
 - transcript: episodes/ep-065.md (full)
@@ -1995,7 +1995,7 @@ Today I am joined by Sydney Montana, a TTI survivor who attended Cross Creek (a 
 ## 63. Overcoming Stagefright, Finding Your Voice, and Networking 101 feat. Rae Fung
 
 - date: 2021-04-30
-- tags: none
+- tags: anxiety, career, self-improvement
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep63
 - transcript: episodes/ep-063.md (full)
@@ -2015,7 +2015,7 @@ Today I am joined by Evan Haines. Evan is the co-founder of Alo House, a leader 
 ## 61. Bite Sized Mindfulness for Adolescents feat. Kira Willey
 
 - date: 2021-04-18
-- tags: none
+- tags: self-improvement, teen mental health
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep61
 - transcript: episodes/ep-061.md (full)
@@ -2025,7 +2025,7 @@ Today I am joined by Kira Willey. Kira works to bring music, movement, and mindf
 ## 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 
 - date: 2021-04-10
-- tags: none
+- tags: anxiety, self-improvement
 - guests: not extracted yet
 - url: https://shepersistedpodcast.com/episodes/ep60
 - transcript: episodes/ep-060.md (full)

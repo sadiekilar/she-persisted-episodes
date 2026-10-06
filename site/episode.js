@@ -69,6 +69,7 @@
     '#sp-episode .sp-listen{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:inline-flex;align-items:center;gap:10px;padding:14px 22px;border-radius:999px;background:var(--cream);color:var(--red);font-size:15px;font-weight:700;white-space:nowrap}',
     '#sp-episode .sp-listen .sp-glyph{width:20px;height:20px}',
     '#sp-episode .sp-spotify{width:100%;height:152px;border:0;border-radius:12px}',
+    '#sp-episode .sp-audio{display:block;width:100%;height:44px}',
     '#sp-episode .sp-notes{display:flex;flex-direction:column;gap:36px;width:100%;max-width:860px;margin:0 auto}',
     '#sp-episode .sp-desc{display:flex;flex-direction:column;gap:16px;font-size:18px;line-height:1.5;color:var(--ink)}',
     '#sp-episode .sp-desc b.sp-lead{color:var(--red);font-weight:700}',
@@ -242,7 +243,8 @@
           (yt
             ? '<div class="sp-player sp-yt"><img src="https://i.ytimg.com/vi/' + esc(yt) + '/maxresdefault.jpg" alt="" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(yt) + '/hqdefault.jpg\'"><button type="button" class="sp-play" aria-label="play"></button>' + (cap ? '<span class="sp-player-cap">' + cap + '</span>' : '') + '</div>'
             : '<div class="sp-player"><img src="' + esc(thumb(ep.image, '1500w')) + '" alt="">' + (ep.spotify_episode_id ? '<a class="sp-listen" href="https://open.spotify.com/episode/' + esc(ep.spotify_episode_id) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'spotify.svg') + 'listen on spotify</a>' : ep.apple_episode_url ? '<a class="sp-listen" href="' + esc(ep.apple_episode_url) + '" target="_blank" rel="noopener">' + glyph(ICONS + 'applepodcasts.svg') + 'listen on apple podcasts</a>' : '') + '</div>' +
-              (ep.spotify_episode_id ? '<iframe class="sp-spotify" src="https://open.spotify.com/embed/episode/' + esc(ep.spotify_episode_id) + '?theme=0" loading="lazy" allow="encrypted-media" title="spotify player"></iframe>' : '')) +
+              (ep.spotify_episode_id ? '<iframe class="sp-spotify" src="https://open.spotify.com/embed/episode/' + esc(ep.spotify_episode_id) + '?theme=0" loading="lazy" allow="encrypted-media" title="spotify player"></iframe>'
+                : ep.audio_url ? '<audio class="sp-audio" controls preload="none" src="' + esc(ep.audio_url) + '"></audio>' : '')) +
         '</div>' +
         '<div class="sp-notes">' +
           (ep.description_html ? '<div class="sp-desc">' + leadBold(safeHtml(ep.description_html)) + '</div><div class="sp-hr"></div>' : '') +
