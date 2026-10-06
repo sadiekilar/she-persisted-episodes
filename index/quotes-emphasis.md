@@ -45,7 +45,7 @@
 - 222: emotional fitness isn't about a lack of problems. it's about having an ongoing PRACTICE that bolsters you against the difficult things you're going to face in life.
 - 221: no one knows your application like YOU do.
 - 220: psychology is synonymous with RESEARCH. even if you eventually want to do clinical, you can't avoid it.
-- 219: to belong within the college environment is to belong to that journey, to that process of becoming.
+- 219: to belong within the college environment is to belong to that JOURNEY, to that process of BECOMING.
 - 218: we have not solved the problem if we get rid of the PHONES but everyone walks into the cafeteria with a LAPTOP out.
 - 217: your genes can make you more VULNERABLE, but they don't write your DESTINY.
 - 216: i think there's a lot of JOY that i've found and CONNECTION with people because i struggle.
@@ -114,7 +114,7 @@
 - 152: REST is not lazy. sometimes we have to SLOW DOWN so that we can SPEED UP.
 - 151: i guarantee there is something about you that is EXTRAORDINARY and unique and special. you just need to SEE that.
 - 150: time flies when you're having fun, and it's a really good SIGN if it feels like things are moving quickly.
-- 149: the only constant is change.
+- 149: the only constant is CHANGE.
 - 148: you always have the OPTION to not disclose.
 - 147: the NEEDS that you have in high school don't go away just because you're in college.
 - 146: ACCEPTANCE is the only way out of hell.
@@ -130,7 +130,7 @@
 - 136: your friends are wonderful, but your friends are just that: your FRIENDS.
 - 135: just because your child needs support doesn't mean that YOU don't also need support.
 - 134: finding your IDENTITY comes with a lot of trial and error.
-- 133: eating disorders are emotional disorders.
+- 133: eating disorders are EMOTIONAL disorders.
 - 132: happy people don't just WAIT to be happy. they DO things that make them happy.
 - 131: with emotion we're ALL OR NOTHING: either i'm going to be overwhelmed by this, or i'm going to shut it down and pretend it's not happening.
 - 130: MOTIVATION equals MOMENTUM. it really begins with the very small choices.
@@ -139,7 +139,7 @@
 - 127: anything that hurts your heart is a GRIEVING experience.
 - 126: you cannot SPRINT a MARATHON.
 - 125: you shouldn't base how you view YOURSELF on a decision that you only have so much CONTROL over.
-- 124: we work so hard to get that seat at the table that when we get there, we're too exhausted to know what to do with the microphone.
+- 124: we work so hard to get that SEAT at the table that when we get there, we're too exhausted to know what to do with the MICROPHONE.
 - 123: be a person that is a LIGHT in their life.
 - 122: if every staff member who came in contact with a child had to be QUALIFIED, the industry would effectively SHUT DOWN.
 - 121: your body is not an IMAGE. it's an EXPERIENCE.
@@ -202,13 +202,13 @@
 - 58: it's not a reflection of YOU, and it's not a reflection of your SELF-WORTH.
 - 57: my story is not one typically showcased in a college application. i am so very proud of it.
 - 56: exposure therapy sounds like the worst possible thing you could do to someone with anxiety. it's MISERABLE. and it WORKS.
-- 55: we don't always recognize our needs.
+- 55: we don't always RECOGNIZE our NEEDS.
 - 54: MIXED signals are a CLEAR signal.
 - 53: it's okay NOT to be okay.
 - 52: if you're going into anything in life with the belief that it's not going to work, it's NOT going to work.
-- 51: i don't really think we're meant to be consuming this much content.
+- 51: i don't really think we're meant to be consuming this much CONTENT.
 - 50: you are NOT ALONE and you can reach out to someone.
-- 49: it's so much easier to sit in that distress, because that's what's comfortable for you.
+- 49: it's so much easier to sit in that DISTRESS, because that's what's COMFORTABLE for you.
 - 48: you're not alone and it CAN get better.
 - 46: don't let ANYONE talk you out of it. don't talk YOURSELF out of it.
 - 45: self-care is not SELFISH. self-care is SELF-CENTERED.
@@ -238,8 +238,8 @@
 - 14: i know it's not happening to ME, but it feels like it's happening to me.
 - 10: you have to WANT to change, or you'll just get better at TALKING about your feelings. nothing will be different.
 - 8: make the tough decision to be PRESENT. make the tough decision to be VULNERABLE.
-- 6: once we were able to communicate more and be more vulnerable, everything changed.
+- 6: once we were able to COMMUNICATE more and be more VULNERABLE, everything changed.
 - 5: do not let the anxiety CONTROL you. anxiety is not even a tangible thing. do not let it RULE your life.
-- 3: through struggle, you're going to find love.
+- 3: through STRUGGLE, you're going to find LOVE.
 - 2: as a parent, you'd much rather see anyone else in the world suffer other than your CHILD.
 - 1: if you don't CHOOSE to work on yourself, NOTHING will change.
