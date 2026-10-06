@@ -1,6 +1,16 @@
-# tags for episodes that have none in Squarespace
+# tags kept in this repo
 
-These tags exist only in this repo (the episodes page and archive use them); Squarespace's own tags always win when a post has any. To change one, edit the tags after the arrow and commit; the next refresh applies it. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, relationships, self-improvement, sleep, social media, teen mental health, trauma, troubled teen industry.
+Hidden on the site (still in Squarespace): teen mental health, sleep.
+
+## added tags (on top of the Squarespace tags)
+
+therapy & treatment, parents are site-only tags, proposed per episode from its summary. Edit the tags after the "+" and commit to change one; leave it empty to remove them.
+
+none yet
+
+## tags for episodes that have none in Squarespace
+
+Squarespace's own tags always win when a post has any. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, relationships, self-improvement, social media, trauma, troubled teen industry.
 
 - 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More! → self-improvement, social media, dbt
 - 99. ACNE 101 feat. CLEARSTEM Founders Danielle Gronich + Kayleigh Christin → body image, self-improvement, social media

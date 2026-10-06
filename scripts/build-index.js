@@ -14,8 +14,15 @@ const clip = (s, n) => {
   return cut.slice(0, Math.max(cut.lastIndexOf(' '), n - 40)).replace(/[\s,;:—–-]+$/, '') + '…';
 };
 
-// Squarespace tags win; tags_override (scripts/tags.js) only fills in for posts that have none.
-const episodes = readEpisodes().map((e) => { if (!(e.meta.tags || []).length && (e.meta.tags_override || []).length) e.meta = { ...e.meta, tags: e.meta.tags_override }; return e; });
+// Final tags: Squarespace tags (or the repo override when the post has none) plus site-only
+// additions (tags_extra), minus tags hidden on the site. See scripts/tags.js.
+const HIDDEN_TAGS = ['teen mental health', 'sleep'];
+const episodes = readEpisodes().map((e) => {
+  const base = (e.meta.tags || []).length ? e.meta.tags : (e.meta.tags_override || []);
+  const tags = [...new Set([...base, ...(e.meta.tags_extra || [])])].filter((t) => !HIDDEN_TAGS.includes(t));
+  e.meta = { ...e.meta, tags };
+  return e;
+});
 
 // Tag order comes from the Squarespace collection; fall back to most-used first.
 let tags = [];
