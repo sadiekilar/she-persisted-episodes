@@ -6,13 +6,13 @@
 
 - [ ] I truly believed that I wasn't capable of happiness.
 - [ ] my life worth living doesn't include suicide on the back burner. that is not an escape hatch that I have.
-- [ ] there's no prize for waiting until your mental health becomes an emergency.
+- [ x] there's no prize for waiting until your mental health becomes an emergency.
 - [ ] none
 
 ## 262. your life isn’t going to feel like this forever (feat. dr. blaise aguirre)
 
 - [ ] You can feel miserable right now. That's just information. What are you gonna do with that information? Are you going to take that information and then do the same thing, or take that information and do something different?
-- [ ] Once you know something's a habit, it's a choice.
+- [ x] Once you know something's a habit, it's a choice.
 - [ ] Your present moment is not a destiny. It's not a destination. It's not a blueprint. It doesn't tell you how your life is gonna turn out.
 - [ ] none
 
@@ -20,12 +20,12 @@
 
 - [ ] if there's any hope of finding joy in your life, having a life worth living, it has to be your own life, and it has to be based on the goals that you want for yourself.
 - [ ] every single moment is a moment of seeing the possibility of life or being stuck.
-- [ ] the experiences you have are not a roadmap. they're not a blueprint. the path is of your choosing.
+- [ x] the experiences you have are not a roadmap. they're not a blueprint. the path is of your choosing.
 - [ ] none
 
 ## 259. why you feel LOST after graduation (what actually helps!)
 
-- [ ] just because most people do this path, or just because you thought that was what you were gonna do, doesn't mean you have to do that thing.
+- [ x] just because most people do this path, or just because you thought that was what you were gonna do, doesn't mean you have to do that thing.
 - [ ] a life worth living is a really low bar. it's just one that you wanna stick around for and experience.
 - [ ] what is the least i need to do to get the outcome i want when it comes to my mental health?
 - [ ] none
@@ -34,13 +34,13 @@
 
 - [ ] we can be loved but feel unlovable. we can be successful but feel like a failure.
 - [ ] there's no shame in feeling unworthy. there's no shame in feeling insecure. it's not that you feel that way, it's the shame you attach to it that's keeping you stuck.
-- [ ] worthiness is not just achieved from nothing. it's a practice of turning towards pain in a centered way over and over and over again.
+- [ x] worthiness is not just achieved from nothing. it's a practice of turning towards pain in a centered way over and over and over again.
 - [ ] none
 
 ## 257. why you can be loved and still feel unlovable (feat. dr. marisa franco)
 
 - [ ] memories are the database of self-esteem. if you have memories of harm, neglect, abuse, rejection, those memories don't just record the past, but they predict the future.
-- [ ] it's not that people with low self-esteem don't wanna be loved, it's just that they feel misunderstood, and we need to feel understood to feel loved.
+- [ x] it's not that people with low self-esteem don't wanna be loved, it's just that they feel misunderstood, and we need to feel understood to feel loved.
 - [ ] there's no shoulds. there's only what is. you're gonna keep shoulding yourself, 'i should feel different, i should feel better,' and what's that gonna be? it's just gonna take that emotion and add shame to it.
 - [ ] none
 
@@ -48,26 +48,26 @@
 
 - [ ] you can't change a problem that you're not aware of.
 - [ ] life is impermanent and that impermanence will be on your side.
-- [ ] you can't build a life worth living if you don't plan to live it.
+- [ x] you can't build a life worth living if you don't plan to live it.
 - [ ] none
 
 ## 255. why it’s so hard to ask for help (and how to start!)
 
-- [ ] the problem isn't that you don't want help. it's that being vulnerable and accepting that help or asking for that help feels like too much.
+- [ x] the problem isn't that you don't want help. it's that being vulnerable and accepting that help or asking for that help feels like too much.
 - [ ] when we name an emotion, when we name an experience, it tames it. it becomes less intense.
 - [ ] the goal is not full vulnerability. the goal is being slightly more honest than you were yesterday.
 - [ ] none
 
 ## 253. why therapy didn’t work… until this
 
-- [ ] that is the mindset that built foundation that my mental health sits upon. that forever changed the trajectory of my life and my mental health and for the better. saved my life. changed my life.
+- [ x] that is the mindset that built foundation that my mental health sits upon. that forever changed the trajectory of my life and my mental health and for the better. 
 - [ ] we have seen hundreds, if not thousands of girls that are in your exact position. you're not unique.
 - [ ] maybe when i'm 64 years old, maybe things will be 1% better than they are today. as a 14-year-old who's suicidally depressed about to spend four months living in a mental hospital, it's progress.
 - [ ] none
 
 ## 251. why college feels different for gen z (feat. dr. scott barry kaufman)
 
-- [ ] for young people right now, there is a sense of apathy and, a lack of hope.
+- [x ] for young people right now, there is a sense of apathy and, a lack of hope.
 - [ ] i used to be able to easily just get everyone really inspired and excited just by talking about meaning and purpose and it doesn't do it anymore.
 - [ ] there are so many different paths to greatness. so many different paths to get to where you want to get in your own life.
 - [ ] none
@@ -75,27 +75,27 @@
 ## 250. why high achievers still struggle with mental health
 
 - [ ] without your mental health, you have nothing.
-- [ ] if you're not progressing, you're regressing.
+- [x ] if you're not progressing, you're regressing.
 - [ ] if i just follow the routine and responsibilities of a given week, my mental health stays stable.
 - [ ] none
 
 ## 249. what to do during a panic attack (when nothing else works!!)
 
 - [ ] there is a way to stop a panic attack 100% of the time, when all else fails, this skill will be there and it will work.
-- [ ] You cannot talk your body out of panic. You have to change the physical before you can address the mental.
+- [ x] You cannot talk your body out of panic. You have to change the physical before you can address the mental.
 - [ ] when the vagus nerve detects ice water underneath the eyes, it will lower your heart rate and lower your breathing rate.
 - [ ] none
 
 ## 248. why “look on the bright side” doesn’t work (do THIS instead!)
 
-- [ ] when you're feeling depressed, it's really easy for your brain to bring up all those other times you felt depressed this is why advice like "look on the bright side" doesn't work
+- [ x] when you're feeling depressed, it's really easy for your brain to bring up all those other times you felt depressed; this is why advice like "look on the bright side" doesn't work
 - [ ] i want you to remember that this isn't a motivation problem, it's a memory problem
 - [ ] you can't change what you don't notice
 - [ ] none
 
 ## 247. do i need therapy, or is this just life?
 
-- [ ] mental health isn't so much about what you feel, it's about how much it's costing you.
+- [ x] mental health isn't so much about what you feel, it's about how much it's costing you.
 - [ ] you don't want to wait to learn how to swim until you're drowning
 - [ ] therapy isn't proof that something is wrong. it's proof that you're paying attention.
 - [ ] none
@@ -104,19 +104,19 @@
 
 - [ ] A lot of people have a misunderstanding of when I reach certain goals, then I will be successful.
 - [ ] Find a way to play your own game. Rewrite the rules. That's the key of life.
-- [ ] growth is a direction, not a destination.
+- [ x] growth is a direction, not a destination.
 - [ ] none
 
 ## 245. you’re not bad at friendships! (here’s what’s happening)
 
 - [ ] loneliness prevention is a lot easier than loneliness repair.
-- [ ] i realized that loneliness that i felt came from waiting until i felt disconnected to actually do something about it.
+- [ x] i realized that loneliness that i felt came from waiting until i felt disconnected to actually do something about it.
 - [ ] we don't rise to the level of our goals. we fall to the level of our systems.
 - [ ] none
 
 ## 243. being lonely in your 20s is fixable (featuring dr. jeffrey hall)
 
-- [ ] loneliness is not only a normal and natural feeling, but it means that you have a functional social system. loneliness is actually a sign to ourselves that we are desiring connection, that we want it.
+- [ x] loneliness is not only a normal and natural feeling, but it means that you have a functional social system. loneliness is actually a sign to ourselves that we are desiring connection, that we want it.
 - [ ] if you have a choice between being social and not being social, you should go to the weaker impulse if you don't feel like going. if someone has a party, show up.
 - [ ] use the reminder of the relationship to reach out in another form. use a private channel to communicate something that someone did publicly.
 - [ ] none
@@ -124,13 +124,13 @@
 ## 242. for anyone who thinks they’ll never get better (my mental health story)
 
 - [ ] despair isn't sadness. it's the belief that nothing you will do will matter. and that belief took over my life and it nearly ended it.
-- [ ] i wasn't seeking attention, i was seeking connection, and the tools that i had were not the correct ones.
+- [ x] i wasn't seeking attention, i was seeking connection, and the tools that i had were not the correct ones.
 - [ ] emotions are temporary even when they feel permanent. life is impermanent and that impermanence will be on your side.
 - [ ] none
 
 ## 241. why you feel RESENTFUL (& how to stop)
 
-- [ ] you cannot resent someone for a need that you've never communicated.
+- [ x] you cannot resent someone for a need that you've never communicated.
 - [ ] the root cause of resentment is unspoken expectations.
 - [ ] we operate our daily lives, giving ourselves grace and others blame.
 - [ ] none
@@ -138,14 +138,14 @@
 ## 240. why you keep choosing the wrong people (and how to stop) with dr. molly burrets
 
 - [ ] the number one thing not to do when you're picking a partner is make your choice based on the feeling of falling in love.
-- [ ] there's no such thing as the one. what there is is the one you choose, and you have to continue choosing them over and over and over again.
+- [x ] there's no such thing as the one. what there is is the one you choose, and you have to continue choosing them over and over and over again.
 - [ ] if you're dating someone and you're working so hard to make it work but you're not seeing the other person is doing the same thing, you cannot take on 100% responsibility for the relationship and expect to get the result you want.
 - [ ] none
 
 ## 239. why dbt hits different (it literally saved my life) feat. dr. maddy ellberger
 
 - [ ] you don't come to good treatment to be happy. you come to good treatment to figure out how to deal with your life, because that's what actually builds happiness.
-- [ ] patients don't fail in dbt. there's always another way to get through something. and if you can't change it, then you have to accept it.
+- [ x] patients don't fail in dbt. there's always another way to get through something. and if you can't change it, then you have to accept it.
 - [ ] if something's easy, someone's doing it already. change requires friction, otherwise we'd be doing it already.
 - [ ] none
 
