@@ -219,15 +219,17 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     // Hero rotation, in order. rec = episode number; topic = tag, photo = episode whose
     // thumbnail stands in for it (the newest episode in the tag when left out).
     // image = a file in site/assets/hero/ to use instead of the episode thumbnail.
+    // The "new episode" slide follows the newest post; its image file applies only while that
+    // episode is the newest (imageFor), then it falls back to the episode's blog photo.
     HERO: [
-      { latest: true },
-      { topic: 'depression' },
-      { rec: 261 },
-      { topic: 'anxiety', photo: 249 },
-      { rec: 228, image: '228.webp' },
-      { topic: 'relationships', photo: 257, image: 'relationships.webp' },
-      { rec: 242 },
-      { topic: 'dbt' }
+      { latest: true, image: 'latest-263.jpg', imageFor: 263 },
+      { topic: 'depression', image: 'depression.jpg' },
+      { rec: 261, image: '261.jpg' },
+      { topic: 'anxiety', photo: 249, image: 'anxiety.jpg' },
+      { rec: 228, image: '228.jpg' },
+      { topic: 'relationships', photo: 257, image: 'relationships.jpg' },
+      { rec: 242, image: '242.jpg' },
+      { topic: 'dbt', image: 'dbt.jpg' }
     ],
     // Mobile archive segmented control: tag + short label (keep labels to ~8 characters or the control wraps).
     // Every other tag goes in the "more" sheet.
@@ -398,7 +400,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       var e;
       if (h.latest) {
         e = episodes[0];
-        slides.push({ href: e.url, image: thumb(e.image), kicker: 'new episode', title: e.title });
+        slides.push({ href: e.url, image: h.image && h.imageFor === e.number ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'new episode', title: e.title });
       } else if (h.rec) {
         e = byNumber[h.rec];
         if (e && e !== episodes[0]) slides.push({ href: e.url, image: h.image ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'sadie recommends', title: e.title });
