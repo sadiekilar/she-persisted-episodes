@@ -94,9 +94,15 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-side-kicker{font-size:12px;font-weight:700;letter-spacing:.04em}
 #sp-episodes .sp-side-list{display:flex;flex-direction:column;gap:2px;font-size:15px;line-height:1.1}
 #sp-episodes .sp-side-item{padding:9px 12px;border-radius:10px}
+#sp-episodes .sp-side-item i,.sp-ep-sheet a i{font-style:normal;font-weight:400;opacity:.55}
 #sp-episodes .sp-side-item:hover{opacity:.75}
 #sp-episodes .sp-side-item.sp-on{background:var(--red);color:var(--cream);font-weight:700}
 #sp-episodes .sp-back,#sp-episodes .sp-seg{display:none}
+#sp-episodes .sp-format{display:flex;align-items:center;gap:10px;font-size:14px}
+#sp-episodes .sp-format-btn{margin:0;padding:0 0 1px;border:0;background:none;color:inherit;font:inherit;letter-spacing:inherit;cursor:pointer;-webkit-appearance:none;appearance:none;opacity:.8}
+#sp-episodes .sp-format-btn.sp-on{opacity:1;font-weight:700;box-shadow:inset 0 -1px 0 var(--red)}
+#sp-episodes .sp-format-btn i,#sp-episodes .sp-format-dot{font-style:normal;opacity:.55}
+#sp-episodes .sp-format-btn:hover{opacity:1}
 #sp-episodes .sp-arch-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px}
 #sp-episodes h1{margin:0;padding:0;font-family:inherit;font-size:56px;font-weight:700;line-height:1;letter-spacing:-1px;color:inherit;text-transform:none;white-space:nowrap}
 #sp-episodes .sp-arch-head .sp-count{font-size:14px}
@@ -194,6 +200,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-seg{order:3;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));padding:3px;border-radius:999px;background:rgba(116,0,0,.08)}
   #sp-episodes .sp-seg a,#sp-episodes .sp-seg button{margin:0;padding:10px 4px;border:0;border-radius:999px;background:none;color:inherit;font:inherit;font-size:13px;font-weight:400;line-height:1;letter-spacing:inherit;text-align:center;text-transform:none;white-space:nowrap;box-shadow:none;cursor:pointer;-webkit-appearance:none;appearance:none}
   #sp-episodes .sp-seg .sp-on{background:var(--red);color:var(--cream);font-weight:700}
+  #sp-episodes .sp-format{order:3;font-size:13px}
   #sp-episodes .sp-feed{order:4;margin-top:8px}
   #sp-episodes .sp-more-wrap{order:5;padding-top:16px}
   #sp-episodes button.sp-more{padding:12px 24px;font-size:14px}
@@ -685,12 +692,20 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 
   // ---------- archive: "all episodes" or one tag ----------
   var PAGE = 20;
-  function renderArchive(tag) {
-    var list = tag ? inTag(tag) : episodes;
+  function renderArchive(tag, format) {
+    format = format || 'all';
+    var all = tag ? inTag(tag) : episodes;
+    var isSolo = function (e) { return !(e.guests && e.guests.length); };
+    var list = format === 'solo' ? all.filter(isSolo) : format === 'guest' ? all.filter(function (e) { return !isSolo(e); }) : all;
     var shown = 0;
+    var fmtRow = '<div class="sp-format">' + [['all', 'all'], ['solo', 'solo'], ['guest', 'with a guest']].map(function (f) {
+      var n = f[0] === 'all' ? all.length : f[0] === 'solo' ? all.filter(isSolo).length : all.length - all.filter(isSolo).length;
+      return '<button type="button" class="sp-format-btn' + (f[0] === format ? ' sp-on' : '') + '" data-format="' + f[0] + '" aria-pressed="' + (f[0] === format) + '">' + f[1] + ' <i>(' + n + ')</i></button>';
+    }).join('<span class="sp-format-dot">\u00b7</span>') + '</div>';
     function side(t) {
       var on = (t || null) === (tag || null);
-      return '<a class="sp-side-item' + (on ? ' sp-on' : '') + '" href="' + esc(t ? tagUrl(t) : CFG.COLLECTION + '?view=all') + '"' + (on ? ' aria-current="page"' : '') + '>' + esc(t || 'all episodes') + '</a>';
+      var n = t ? inTag(t).length : episodes.length;
+      return '<a class="sp-side-item' + (on ? ' sp-on' : '') + '" href="' + esc(t ? tagUrl(t) : CFG.COLLECTION + '?view=all') + '"' + (on ? ' aria-current="page"' : '') + '>' + esc(t || 'all episodes') + ' <i>(' + n + ')</i></a>';
     }
     var inSegments = CFG.SEGMENTS.some(function (g) { return (g.tag || null) === (tag || null); });
     function item(e) {
@@ -701,6 +716,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       '<nav class="sp-side" aria-label="browse episodes"><span class="sp-side-kicker">BROWSE</span><div class="sp-side-list">' + side(null) + topicTags().map(side).join('') + '</div></nav>' +
       '<a class="sp-text sp-back" href="' + esc(CFG.COLLECTION) + '"><span>\u2039</span>episodes</a>' +
       '<div class="sp-arch-head"><h1>' + esc(tag || 'all episodes') + '</h1><span class="sp-count">' + countLabel(list.length) + '</span></div>' +
+      fmtRow +
       '<div class="sp-seg">' + CFG.SEGMENTS.map(function (g) {
         return '<a href="' + esc(g.tag ? tagUrl(g.tag) : CFG.COLLECTION + '?view=all') + '"' + ((g.tag || null) === (tag || null) ? ' class="sp-on" aria-current="page"' : '') + '>' + esc(g.label) + '</a>';
       }).join('') + '<button type="button" class="sp-seg-more' + (inSegments ? '' : ' sp-on') + '" aria-haspopup="dialog">more \u25be</button></div>' +
@@ -719,6 +735,10 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     more.querySelector('button').addEventListener('click', add);
     add();
     inner.querySelector('.sp-seg-more').addEventListener('click', function () { openSheet(tag); });
+    inner.querySelector('.sp-format').addEventListener('click', function (e) {
+      var b = e.target.closest('.sp-format-btn');
+      if (b && b.dataset.format !== format) { renderArchive(tag, b.dataset.format); }
+    });
   }
 
   // Bottom sheet listing every tag that isn't a segment (mobile "more").
@@ -740,7 +760,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     sheet.setAttribute('aria-modal', 'true');
     sheet.setAttribute('aria-label', 'more topics');
     sheet.innerHTML = '<div class="sp-sheet-panel"><button type="button" class="sp-sheet-handle" aria-label="close"></button>' + rest.map(function (t) {
-      return '<a href="' + esc(tagUrl(t)) + '"' + (t === tag ? ' class="sp-on" aria-current="page"' : '') + '><span>' + esc(t) + '</span>' + (t === tag ? '<span aria-hidden="true">\u2713</span>' : '') + '</a>';
+      return '<a href="' + esc(tagUrl(t)) + '"' + (t === tag ? ' class="sp-on" aria-current="page"' : '') + '><span>' + esc(t) + ' <i>(' + inTag(t).length + ')</i></span>' + (t === tag ? '<span aria-hidden="true">\u2713</span>' : '') + '</a>';
     }).join('') + '</div>';
     var panel = sheet.firstChild;
     sheet.addEventListener('click', function (e) {
