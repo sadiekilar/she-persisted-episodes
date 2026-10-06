@@ -148,11 +148,15 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 @media (max-width:600px){
   #sp-episodes .sp-in{--g:20px;--card:164px}
   #sp-episodes h2{font-size:22px;letter-spacing:-.44px}
-  #sp-episodes .sp-hero{padding:14px 0 28px 20px}
-  #sp-episodes .sp-track{gap:12px}
-  #sp-episodes .sp-slide{width:300px;aspect-ratio:5/4;max-height:none;gap:6px;padding:20px}
-  #sp-episodes .sp-kicker{padding:4px 10px 6px;font-size:12px}
-  #sp-episodes .sp-slide-title{font-size:20px;line-height:1.1}
+  /* hero: a native paged scroller (one card per flick, snaps to centre); the track's own 20px padding is the gutter */
+  #sp-episodes .sp-hero{padding:14px 0 28px}
+  #sp-episodes .sp-clip{overflow:visible}
+  #sp-episodes .sp-track{gap:10px;padding:0 20px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 20px;-webkit-overflow-scrolling:touch;scrollbar-width:none;transform:none!important;transition:none;touch-action:pan-x pan-y}
+  #sp-episodes .sp-track::-webkit-scrollbar{display:none}
+  #sp-episodes .sp-slide{flex:0 0 calc(100cqw - 40px);width:auto;aspect-ratio:16/10;max-height:none;gap:6px;padding:20px;border-radius:14px;scroll-snap-align:center;scroll-snap-stop:always}
+  #sp-episodes .sp-slide[aria-hidden]{display:none}
+  #sp-episodes .sp-kicker{padding:5px 12px 7px;font-size:12px}
+  #sp-episodes .sp-slide-title{font-size:20px;line-height:1.05}
   #sp-episodes .sp-stack{gap:48px;padding:40px 0 0}
   #sp-episodes .sp-below{gap:48px;margin-top:-8px;padding-bottom:64px}
   #sp-episodes .sp-shelf{gap:14px}
@@ -417,7 +421,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     inner.innerHTML =
       // Three copies of the slides: the middle set is the real one, the outer two let the carousel loop forever.
       '<div class="sp-hero"><div class="sp-hero-box"><div class="sp-clip"><div class="sp-track" data-count="' + slides.length + '">' + [0, 1, 2].map(function (set) {
-        return slides.map(function (s) { return slide(s, true, set !== 1); }).join('');
+        return slides.map(function (s, i) { return slide(s, !mobile.matches || i === 0, set !== 1); }).join('');
       }).join('') + '</div></div>' + (slides.length > 1 ? arrow('prev') + arrow('next') : '') + '</div></div>' +
       '<div class="sp-stack">' +
         shelf({ title: 'latest', chevron: true, href: CFG.COLLECTION + '?view=all', list: episodes.slice(1, 1 + CFG.LATEST_COUNT), eager: 4, right: '<a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">all episodes</a>' }) +
@@ -460,9 +464,44 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 
   // ---------- hero ----------
   var heroApi = null;
+  // Phones: the browser's scroll-snap does the swiping (one card per flick, centred); we only
+  // auto-rotate, keep the index in sync after a swipe, and pause while touched, hidden or off-screen.
+  function heroMobile(box, track) {
+    var cards = [].slice.call(track.children).filter(function (c) { return !c.hasAttribute('aria-hidden'); });
+    var i = 0, timer = null, held = false, visible = true;
+    var PAD = 20;
+    function go(k) {
+      i = (k + cards.length) % cards.length;
+      track.scrollTo({ left: cards[i].offsetLeft - track.offsetLeft - PAD, behavior: reduced.matches ? 'auto' : 'smooth' });
+    }
+    function stop() { clearInterval(timer); timer = null; }
+    function start() {
+      stop();
+      if (reduced.matches || cards.length < 2 || held || document.hidden || !visible) return;
+      timer = setInterval(function () { go(i + 1); }, CFG.HERO_INTERVAL);
+    }
+    function sync() {
+      var x = track.scrollLeft + PAD, best = 0, d = Infinity;
+      cards.forEach(function (c, k) { var dd = Math.abs((c.offsetLeft - track.offsetLeft) - x); if (dd < d) { d = dd; best = k; } });
+      i = best;
+    }
+    track.addEventListener('touchstart', function () { held = true; stop(); }, { passive: true });
+    track.addEventListener('touchend', function () { held = false; sync(); start(); }, { passive: true });
+    track.addEventListener('touchcancel', function () { held = false; start(); }, { passive: true });
+    var settle = null;
+    track.addEventListener('scroll', function () { clearTimeout(settle); settle = setTimeout(sync, 120); }, { passive: true });
+    if ('onscrollend' in window) track.addEventListener('scrollend', sync);
+    document.addEventListener('visibilitychange', function () { if (document.hidden) stop(); else start(); });
+    if (window.IntersectionObserver) {
+      new IntersectionObserver(function (entries) { visible = entries[0].isIntersecting; if (visible) start(); else stop(); }, { threshold: 0.2 }).observe(box);
+    }
+    heroApi = { relayout: function () {}, schedule: start, stop: stop };
+    start();
+  }
   function hero() {
     var box = inner.querySelector('.sp-hero');
     var track = box.querySelector('.sp-track');
+    if (mobile.matches) return heroMobile(box, track);
     var slides = [].slice.call(track.children);
     var n = +track.getAttribute('data-count');
     var index = n, timer = null, settle = null, hover = false, held = false, dragged = false;
@@ -769,6 +808,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       if (wrap && wrap.classList && wrap.classList.contains('sp-row-wrap')) wrap.classList.toggle('sp-at-start', e.target.scrollLeft <= 2);
     }, true);
     if (reduced.addEventListener) reduced.addEventListener('change', function () { if (heroApi) heroApi.schedule(); });
+    if (mobile.addEventListener) mobile.addEventListener('change', function () { var r = parse(location.href) || { view: 'browse' }; show(r); });
     show(parse(location.href) || { view: 'browse' });
   }
 
