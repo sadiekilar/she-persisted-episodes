@@ -14,7 +14,7 @@ function applyTicks(md, byNumber) {
   for (const line of md.split('\n')) {
     const h = /^#+ (\d+)\./.exec(line);
     if (h) { current = byNumber.get(+h[1]) || null; continue; }
-    const tick = /^\s*[-*] \[[xX]\] (.*)$/.exec(line);
+    const tick = /^\s*[-*] \[\s*[xX]\s*\] (.*)$/.exec(line);
     if (!tick || !current) continue;
     const text = tick[1].trim();
     const quote = /^none\b/i.test(text) ? '' : text.replace(/^[\u201c"]|[\u201d"]$/g, '');
