@@ -7,7 +7,7 @@ The website builds each episode page automatically from the Squarespace post, th
 **Title:** starts with the episode number, a period and a space, then the lowercase title.
 `264. why your friends matter more than you think (feat. dr. jane smith)`
 
-**Tags:** choose from the existing tags (anxiety, depression, relationships, dbt, college, 20s, self-improvement, emotions, trauma, body image, career, sleep, adhd, social media, teen mental health, troubled teen industry). Add `sadie recommends` only for episodes Sadie wants featured. Tags drive the topic pages, so every post should have at least one.
+**Tags:** choose from the existing tags (anxiety, depression, relationships, dbt, college, 20s, self-improvement, emotions, trauma, body image, career, adhd, social media, troubled teen industry). Only tag a topic the episode is really *about*: someone who picks that topic and listens should get what they expected, so a passing mention doesn't count. One to three tags is plenty. Add `sadie recommends` only for episodes Sadie wants featured. (`sleep` and `teen mental health` are no longer shown; `therapy & treatment`, `parents` and `high school` are added automatically by the site.) Tags drive the topic pages, so every post should have at least one.
 
 **Thumbnail:** set the post's featured image. It's used everywhere the episode appears on the site.
 

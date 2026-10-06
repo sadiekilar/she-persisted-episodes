@@ -4,7 +4,7 @@ Hidden on the site (still in Squarespace): teen mental health, sleep.
 
 ## added tags (on top of the Squarespace tags)
 
-therapy & treatment, parents are site-only tags, proposed per episode from its summary. Edit the tags after the "+" and commit to change one; leave it empty to remove them.
+therapy & treatment, parents, high school are site-only tags, proposed per episode from its summary. Edit the tags after the "+" and commit to change one; leave it empty to remove them.
 
 none yet
 

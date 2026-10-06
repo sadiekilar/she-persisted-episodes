@@ -15,7 +15,11 @@ const HIDDEN = ['teen mental health', 'sleep'];
 const EXTRA = {
   'therapy & treatment': 'finding or doing therapy, what treatment (inpatient, residential, DBT programs, medication) is like, getting help',
   parents: 'aimed at parents or about the parent/child relationship, supporting a child, family perspectives',
+  'high school': 'aimed at high schoolers or about high school life: school stress, applying to college, friendships and family while still at home (not college itself)',
 };
+// tags_extra_checked records which EXTRA tags an episode was checked against, so adding one re-checks everyone
+const CHECKED = Object.keys(EXTRA).sort();
+const extraChecked = (meta) => JSON.stringify(meta.tags_extra_checked) === JSON.stringify(CHECKED);
 const reviewFile = path.join(INDEX_DIR, 'tags-review.md');
 const shortTitle = (m) => m.title.replace(/^\d+[.:]\s*/, '').slice(0, 70);
 
@@ -28,8 +32,8 @@ function readReview(byNumber) {
       const ep = byNumber.get(+extra[1]);
       const tags = extra[2].split(',').map((t) => t.trim().toLowerCase()).filter((t) => t in EXTRA);
       if (ep && JSON.stringify(tags) !== JSON.stringify(ep.meta.tags_extra || [])) {
-        writeEpisode(ep.file, { ...ep.meta, tags_extra: tags, tags_extra_checked: true }, ep.body);
-        ep.meta.tags_extra = tags; ep.meta.tags_extra_checked = true; applied++;
+        writeEpisode(ep.file, { ...ep.meta, tags_extra: tags, tags_extra_checked: CHECKED }, ep.body);
+        ep.meta.tags_extra = tags; ep.meta.tags_extra_checked = CHECKED; applied++;
       }
       continue;
     }
@@ -61,11 +65,11 @@ async function ask(system, user, key) {
 const describe = (ep) => `title: ${ep.meta.title}\nsummary: ${ep.meta.summary || ep.meta.excerpt || ''}\ntopics: ${(ep.meta.talk_about || []).join('; ')}`;
 
 async function suggest(ep, tagList, key) {
-  const out = await ask(`You tag podcast episodes. Choose 1 to 3 tags from this list only, best fit first: ${tagList.join(', ')}. Return only a JSON array of strings.`, describe(ep), key);
+  const out = await ask(`You tag podcast episodes so listeners can find episodes about a topic. Choose up to 3 tags from this list only, best fit first: ${tagList.join(', ')}. A tag applies only when the episode is substantially about that topic, so that someone who picks the tag and listens gets what they expected; a passing mention or a single example is not enough. Return only a JSON array of strings, empty if nothing fits.`, describe(ep), key);
   return out.filter((t) => tagList.includes(t)).slice(0, 3);
 }
 async function suggestExtra(ep, key) {
-  const out = await ask(`Decide which of these tags apply to a podcast episode. Tags: ${Object.entries(EXTRA).map(([t, d]) => `"${t}" = ${d}`).join('; ')}. Apply a tag only when the episode is substantially about it. Return only a JSON array of the applicable tag names, possibly empty.`, describe(ep), key);
+  const out = await ask(`Decide which of these tags apply to a podcast episode. Tags: ${Object.entries(EXTRA).map(([t, d]) => `"${t}" = ${d}`).join('; ')}. Apply a tag only when the episode is substantially about it, so a listener who picks the tag gets what they expected; a passing mention is not enough. Return only a JSON array of the applicable tag names, possibly empty.`, describe(ep), key);
   return out.filter((t) => t in EXTRA);
 }
 
@@ -114,14 +118,14 @@ async function main() {
     await sleep(200);
   }
 
-  const extraTodo = episodes.filter((e) => e.meta.summary && !e.meta.tags_extra_checked).slice(0, limit);
+  const extraTodo = episodes.filter((e) => e.meta.summary && !extraChecked(e.meta)).slice(0, limit);
   let extraDone = 0;
   if (extraTodo.length && !key) console.log(`tags: ${extraTodo.length} episodes to check for added tags but ANTHROPIC_API_KEY is not set`);
   else for (const ep of extraTodo) {
     try {
       const t = await suggestExtra(ep, key);
-      writeEpisode(ep.file, { ...ep.meta, tags_extra: t, tags_extra_checked: true }, ep.body);
-      ep.meta.tags_extra = t; ep.meta.tags_extra_checked = true; extraDone++;
+      writeEpisode(ep.file, { ...ep.meta, tags_extra: t, tags_extra_checked: CHECKED }, ep.body);
+      ep.meta.tags_extra = t; ep.meta.tags_extra_checked = CHECKED; extraDone++;
     } catch (err) { console.error(`tags extra ${ep.meta.number}: ${err.message}`); }
     await sleep(200);
   }

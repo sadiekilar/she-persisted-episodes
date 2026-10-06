@@ -448,11 +448,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
           '<input type="search" placeholder="search episodes" aria-label="search episodes" autocomplete="off" autocapitalize="none" spellcheck="false" enterkeyhint="search"></label></div>' +
           '<div class="sp-pills">' + pillTags.map(function (t) { return '<a class="sp-pill" href="' + esc(tagUrl(t)) + '" data-tag="' + esc(t) + '">' + esc(t) + '</a>'; }).join('') + '</div>' +
         '</div>' +
-        '<div class="sp-below" hidden><div class="sp-results-slot"></div></div>' +
+        '<div class="sp-below" hidden><div class="sp-topic-slot"></div><div class="sp-results-slot"></div></div>' +
       '</div>';
 
     hero();
     rows();
+    topics();
     search();
   }
 
@@ -647,6 +648,30 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       row.scrollTo({ left: to, behavior: reduced.matches ? 'auto' : 'smooth' });
     });
     updateArrows();
+  }
+
+  // ---------- topic tiles: open the topic as a shelf below, like the featured ones ----------
+  function topics() {
+    var band = inner.querySelector('.sp-topics');
+    var slot = inner.querySelector('.sp-topic-slot');
+    band.addEventListener('click', function (e) {
+      if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      var a = e.target.closest('.sp-tile, .sp-pill');
+      if (!a) return;
+      e.preventDefault();
+      var t = a.dataset.tag;
+      var open = slot.querySelector('.sp-shelf');
+      var same = open && open.dataset.shelf === t;
+      [].forEach.call(band.querySelectorAll('.sp-active'), function (el) { el.classList.remove('sp-active'); });
+      slot.innerHTML = same ? '' : tagShelf(t, 'sp-opened');
+      if (!same) {
+        [].forEach.call(band.querySelectorAll('[data-tag="' + t + '"]'), function (el) { el.classList.add('sp-active'); });
+        below();
+        // only nudge the page when the shelf would otherwise be out of view
+        var r = slot.getBoundingClientRect();
+        if (r.bottom > window.innerHeight) slot.scrollIntoView({ block: 'nearest', behavior: reduced.matches ? 'auto' : 'smooth' });
+      } else below();
+    });
   }
 
   // ---------- search results shelf ----------
