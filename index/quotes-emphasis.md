@@ -6,240 +6,240 @@
 - 262: once you know something's a HABIT, it's a CHOICE.
 - 261: the experiences you have are not a ROADMAP. they're not a BLUEPRINT. the path is of YOUR CHOOSING.
 - 260: the big BARRIER for me from asking for HELP was that i felt like other people needed help MORE.
-- 259: just because most people do this path, or just because you thought that was what you were gonna do, doesn't mean you HAVE to do that thing.
-- 258: WORTHINESS is not just achieved from nothing. it's a PRACTICE of turning towards pain in a centered way over and over and over again.
-- 257: it's not that people with low self-esteem don't wanna be loved, it's just that they feel MISUNDERSTOOD, and we need to feel UNDERSTOOD to feel LOVED.
-- 256: you can't build a life worth living if you don't PLAN to LIVE it.
-- 255: the problem isn't that you don't want help. it's that being VULNERABLE and accepting that help or asking for that help feels like TOO MUCH.
+- 259: just because MOST PEOPLE do this path, or just because you THOUGHT that was what you were gonna do, doesn't mean you HAVE to do that thing.
+- 258: WORTHINESS is not just achieved from nothing. it's a PRACTICE of turning TOWARDS PAIN in a centered way OVER AND OVER and over again.
+- 257: it's not that people with low self-esteem don't wanna be LOVED, it's just that they feel MISUNDERSTOOD, and we need to feel UNDERSTOOD to feel LOVED.
+- 256: you can't build a LIFE WORTH LIVING if you don't PLAN to LIVE it.
+- 255: the problem isn't that you don't WANT help. it's that being VULNERABLE and accepting that help or ASKING for that help feels like TOO MUCH.
 - 254: people don't take ADVICE they don't feel UNDERSTOOD by.
 - 253: that is the MINDSET that built foundation that my mental health sits upon. that forever changed the TRAJECTORY of my life and my mental health and for the better.
-- 251: for young people right now, there is a sense of APATHY and, a lack of HOPE.
+- 251: for YOUNG PEOPLE right now, there is a sense of APATHY and, a lack of HOPE.
 - 250: if you're not PROGRESSING, you're REGRESSING.
-- 249: you cannot talk your body out of PANIC. you have to change the PHYSICAL before you can address the MENTAL.
-- 248: when you're feeling depressed, it's really easy for your brain to bring up all those other times you felt depressed; this is why advice like "LOOK ON THE BRIGHT SIDE" doesn't work
+- 249: you cannot TALK your body out of PANIC. you have to change the PHYSICAL before you can address the MENTAL.
+- 248: when you're feeling DEPRESSED, it's really easy for your brain to bring up ALL THOSE OTHER TIMES you felt depressed; this is why advice like "LOOK ON THE BRIGHT SIDE" doesn't work
 - 247: mental health isn't so much about what you FEEL, it's about how much it's COSTING you.
 - 246: growth is a DIRECTION, not a DESTINATION.
 - 245: i realized that LONELINESS that i felt came from WAITING until i felt disconnected to actually do something about it.
-- 244: the least effective way to do anything in life is to rely on WILLPOWER.
-- 243: loneliness is not only a normal and natural feeling, but it means that you have a functional social system. loneliness is actually a SIGN to ourselves that we are desiring CONNECTION, that we want it.
-- 242: i wasn't seeking ATTENTION, i was seeking CONNECTION, and the tools that i had were not the correct ones.
-- 241: you cannot RESENT someone for a need that you've never COMMUNICATED.
-- 240: there's no such thing as THE ONE. what there is is the one you CHOOSE, and you have to continue choosing them over and over and over again.
-- 239: patients don't FAIL in dbt. there's always another way to get through something. and if you can't CHANGE it, then you have to ACCEPT it.
-- 238: mental health is not the same as being HAPPY.
-- 237: to get stronger, to get to the other side of change, you have to go through a little bit of PAIN. it's part of the PROCESS.
-- 236: you can't DELETE emotions, but you can REWRITE the sequence that they occur in.
-- 235: SELF-LOVE is just a RELATIONSHIP with yourself like you have with anybody else.
+- 244: the LEAST EFFECTIVE way to do anything in life is to rely on WILLPOWER.
+- 243: loneliness is not only a NORMAL and NATURAL feeling, but it means that you have a FUNCTIONAL social system. loneliness is actually a SIGN to ourselves that we are desiring CONNECTION, that we WANT it.
+- 242: i wasn't seeking ATTENTION, i was seeking CONNECTION, and the TOOLS that i had were not the correct ones.
+- 241: you cannot RESENT someone for a NEED that you've never COMMUNICATED.
+- 240: there's no such thing as THE ONE. what there is is the one you CHOOSE, and you have to continue CHOOSING them over and over and OVER again.
+- 239: patients don't FAIL in dbt. there's always ANOTHER WAY to get through something. and if you can't CHANGE it, then you have to ACCEPT it.
+- 238: MENTAL HEALTH is not the same as being HAPPY.
+- 237: to get STRONGER, to get to the OTHER SIDE of change, you have to go through a little bit of PAIN. it's part of the PROCESS.
+- 236: you can't DELETE emotions, but you can REWRITE the SEQUENCE that they occur in.
+- 235: SELF-LOVE is just a RELATIONSHIP with yourself like you have with ANYBODY ELSE.
 - 234: you are not going NOWHERE just because you haven't gotten where you want to go YET.
-- 233: if there's something wrong with the KIDS, that's about the ENVIRONMENT that we've created as adults.
+- 233: if there's something WRONG with the KIDS, that's about the ENVIRONMENT that we've created as ADULTS.
 - 232: choose friends that have similar GOALS and they will help get you there FASTER.
-- 231: if you are sad about things that should create sadness, if you are anxious about things that should create anxiety, then you are MENTALLY HEALTHY.
-- 230: the number one thing in life that predicts good mental health is RELATIONSHIPS.
+- 231: if you are SAD about things that should create sadness, if you are ANXIOUS about things that should create anxiety, then you are MENTALLY HEALTHY.
+- 230: the NUMBER ONE thing in life that predicts good mental health is RELATIONSHIPS.
 - 229: TALKING is different than HELP SEEKING.
-- 228: we should try to REVERSE ENGINEER the life we want.
-- 227: when we're suffering and struggling, it's actually HARDEST to do the things that would HELP us most.
+- 228: we should try to REVERSE ENGINEER the LIFE WE WANT.
+- 227: when we're SUFFERING and struggling, it's actually HARDEST to do the things that would HELP us MOST.
 - 226: we don't rise to our GOALS, we fall to the level of our SYSTEMS.
-- 225: your personality traits are almost like TOOLS that help you achieve your goals in life.
+- 225: your PERSONALITY traits are almost like TOOLS that help you achieve your GOALS in life.
 - 224: GUILT is i did something wrong. SHAME is i am wrong.
-- 223: there's VALUE in the problems that you can help other people solve, and value in having problems that other people can help YOU solve too.
-- 222: emotional fitness isn't about a lack of problems. it's about having an ongoing PRACTICE that bolsters you against the difficult things you're going to face in life.
-- 221: no one knows your application like YOU do.
-- 220: psychology is synonymous with RESEARCH. even if you eventually want to do clinical, you can't avoid it.
-- 219: to belong within the college environment is to belong to that JOURNEY, to that process of BECOMING.
-- 218: we have not solved the problem if we get rid of the PHONES but everyone walks into the cafeteria with a LAPTOP out.
-- 217: your genes can make you more VULNERABLE, but they don't write your DESTINY.
-- 216: i think there's a lot of JOY that i've found and CONNECTION with people because i struggle.
-- 215: you have to make MEANING out of suffering. if you don't, it's just suffering and it was for NOTHING.
-- 214: something has to GIVE. you can't give 100 percent to your academics, your social life, your mental health, and work. that would be 400%.
-- 213: we're best positioned to help the person who we ONCE WERE.
-- 212: success isn't the SCOREBOARD. success is the satisfaction and PEACE OF MIND of knowing that you've done your best.
+- 223: there's VALUE in the problems that you can help OTHER PEOPLE solve, and value in having problems that other people can help YOU solve too.
+- 222: emotional fitness isn't about a LACK of problems. it's about having an ONGOING PRACTICE that BOLSTERS you against the DIFFICULT THINGS you're going to face in life.
+- 221: NO ONE knows your application like YOU do.
+- 220: psychology is synonymous with RESEARCH. even if you eventually want to do CLINICAL, you CAN'T AVOID it.
+- 219: to BELONG within the college environment is to belong to that JOURNEY, to that process of BECOMING.
+- 218: we have NOT solved the problem if we get rid of the PHONES but everyone walks into the cafeteria with a LAPTOP out.
+- 217: your GENES can make you more VULNERABLE, but they don't write your DESTINY.
+- 216: i think there's a lot of JOY that i've found and CONNECTION with people BECAUSE i struggle.
+- 215: you have to make MEANING out of SUFFERING. if you don't, it's just suffering and it was for NOTHING.
+- 214: something has to GIVE. you can't give 100 PERCENT to your academics, your social life, your mental health, and work. that would be 400%.
+- 213: we're BEST POSITIONED to help the person who we ONCE WERE.
+- 212: success isn't the SCOREBOARD. success is the SATISFACTION and PEACE OF MIND of knowing that you've done your BEST.
 - 211: our POTENTIAL is one thing, what we DO with it is another.
-- 210: the goal is to have a PLAN in place so that when you can't think clearly, you can still ACCESS it.
+- 210: the goal is to have a PLAN in place so that when you CAN'T THINK CLEARLY, you can still ACCESS it.
 - 209: healthy behaviors are a result of HABITS, not WILLPOWER.
-- 208: we feel like we need to wait until we have hit ROCK BOTTOM before we say anything about our mental health.
-- 207: depression is a disease of EXPECTATION and RECOLLECTION. it lives in the future and in the past. at the moment, it's not that you can't enjoy; it's that you don't think you WILL.
-- 206: the number one thing with training someone in dbt is helping people have and express COMPASSION from the heart for the person in front of them.
-- 205: AVOIDANCE amplifies your anxiety. every time you avoid something that you're anxious of, you become MORE anxious the next time you encounter it.
-- 204: CYCLE BREAKERS just know that the status quo of how things have been can no longer be maintained and things need to CHANGE.
-- 203: depressed people are not STUPID. they have cycled through all manner of emotion regulation strategies, including all the ones that were suggested to them, and found that they didn't work.
-- 202: everybody's 100 percent RESPONSIBLE for their 50 percent of the relationship.
+- 208: we feel like we need to wait until we have hit ROCK BOTTOM before we SAY ANYTHING about our mental health.
+- 207: depression is a disease of EXPECTATION and RECOLLECTION. it lives in the FUTURE and in the PAST. at the moment, it's not that you can't enjoy; it's that you don't think you WILL.
+- 206: the NUMBER ONE thing with training someone in dbt is helping people have and express COMPASSION from the HEART for the person in front of them.
+- 205: AVOIDANCE amplifies your anxiety. every time you AVOID something that you're anxious of, you become MORE ANXIOUS the next time you encounter it.
+- 204: CYCLE BREAKERS just know that the STATUS QUO of how things have been can no longer be maintained and things need to CHANGE.
+- 203: depressed people are not STUPID. they have cycled through ALL MANNER of emotion regulation strategies, including all the ones that were SUGGESTED to them, and found that they DIDN'T WORK.
+- 202: everybody's 100 PERCENT responsible for their 50 PERCENT of the relationship.
 - 201: he who knows the WHY for his existence can bear almost any HOW.
-- 200: the statistically happiest people spend more time on their RELATIONSHIPS. they have more relationships and they have more fulfilling relationships.
-- 199: becoming a HELPER is probably the best route to mental health that we have.
-- 198: it took me a really long time to be like, that wasn't NORMAL. i don't think this was ETHICAL, and i don't think this was RIGHT.
+- 200: the statistically HAPPIEST people spend MORE TIME on their RELATIONSHIPS. they have more relationships and they have more FULFILLING relationships.
+- 199: becoming a HELPER is probably the BEST ROUTE to mental health that we have.
+- 198: it took me a really LONG TIME to be like, that wasn't NORMAL. i don't think this was ETHICAL, and i don't think this was RIGHT.
 - 197: the ABUSE is the TREATMENT.
-- 196: one of the great virtues of using abuse and neglect as treatment is that they are CHEAP to do.
-- 195: when you're on any kind of trip or in a new environment, you're not able to be on AUTOPILOT and use your same skills and routines, so your support system is going to look DIFFERENT.
+- 196: one of the great VIRTUES of using ABUSE and NEGLECT as treatment is that they are CHEAP to do.
+- 195: when you're on any kind of TRIP or in a NEW environment, you're not able to be on AUTOPILOT and use your same skills and routines, so your SUPPORT SYSTEM is going to look DIFFERENT.
 - 194: with adhd you don't necessarily need IDEAS. what you need is ACCOUNTABILITY and IMPLEMENTATION.
-- 193: GRIEF was the first experience i had where no matter what tools i had, none of them actually MATTERED.
-- 192: my biggest worry is this kind of STEERING and NUDGING of human behavior in ways that rob you of your sense of self without you even realizing it's happening.
-- 191: you didn't CREATE these problems, but you do have to SOLVE them.
-- 190: people who believe that the causes of setbacks in their lives are TEMPORARY, CHANGEABLE, and LOCAL do not become hopeless.
-- 189: you're not a MACHINE with broken parts, you're a HUMAN BEING with unmet needs.
-- 188: i want people to not get their IDENTITY too wrapped around a DISORDER that either they may not have or that they may not have for long.
-- 187: feeling lonely is part of what it means to be a SOCIAL person. you would never feel lonely if you didn't CARE about other people.
-- 186: no amount of SUCCESS or adulation from others is going to mend the hole in your heart that comes from a lack of FRIENDSHIP with yourself.
-- 185: most of the time when we're JUDGING someone else, it's just a REFLECTION of something that's going on for us internally.
-- 184: if you're already thinking, this is going to get my partner mad, that's a RED FLAG.
-- 183: blaming yourself and feeling shame are SYMPTOMS of the trauma. there's NOTHING WRONG with you.
-- 182: when we learn to EMBRACE our anxiety, it is a key to unlocking human POTENTIAL.
-- 181: we don't control our EMOTIONS. but we can control our SECONDARY emotions.
+- 193: GRIEF was the first experience i had where no matter what TOOLS i had, NONE of them actually MATTERED.
+- 192: my BIGGEST WORRY is this kind of STEERING and NUDGING of human behavior in ways that ROB you of your SENSE OF SELF without you even realizing it's happening.
+- 191: you didn't CREATE these problems, but you DO have to SOLVE them.
+- 190: people who believe that the causes of setbacks in their lives are TEMPORARY, CHANGEABLE, and LOCAL do not become HOPELESS.
+- 189: you're not a MACHINE with BROKEN PARTS, you're a HUMAN BEING with UNMET NEEDS.
+- 188: i want people to not get their IDENTITY too wrapped around a DISORDER that either they MAY NOT HAVE or that they may not have for LONG.
+- 187: feeling LONELY is part of what it means to be a SOCIAL person. you would NEVER feel lonely if you didn't CARE about other people.
+- 186: no amount of SUCCESS or ADULATION from others is going to mend the HOLE in your heart that comes from a lack of FRIENDSHIP with YOURSELF.
+- 185: most of the time when we're JUDGING someone else, it's just a REFLECTION of something that's going on for us INTERNALLY.
+- 184: if you're ALREADY thinking, this is going to get my partner MAD, that's a RED FLAG.
+- 183: BLAMING yourself and feeling SHAME are SYMPTOMS of the trauma. there's NOTHING WRONG with you.
+- 182: when we learn to EMBRACE our anxiety, it is a KEY to unlocking human POTENTIAL.
+- 181: we don't CONTROL our emotions. but we CAN control our SECONDARY emotions.
 - 180: an adhd brain would rather be ANXIOUS than BORED.
-- 179: you don't have to be your friend's THERAPIST. it's not healthy for YOU either.
-- 178: removing the DISABLING conditions is not remotely the same as building the ENABLING conditions of life.
+- 179: you don't have to be your friend's THERAPIST. it's NOT HEALTHY for YOU either.
+- 178: removing the DISABLING conditions is not remotely the same as BUILDING the ENABLING conditions of life.
 - 177: CONFIDENCE comes from EXPERIENCE.
 - 176: NOTHING changes if you don't change SOMETHING.
 - 175: emotions are VALID. we create SPACE for them. we APPRECIATE them.
-- 174: everything that you want in life is on the other side of DISCOMFORT.
-- 173: eating disorder recovery is a game of CHUTES and LADDERS.
-- 172: the most important benefit is being ACCURATELY KNOWN.
-- 170: sometimes when people are in distress, they just want someone to LISTEN, not necessarily PROBLEM SOLVE.
-- 169: we have to meet communities WHERE THEY ARE with what they need.
+- 174: EVERYTHING that you want in life is on the OTHER SIDE of DISCOMFORT.
+- 173: eating disorder RECOVERY is a game of CHUTES and LADDERS.
+- 172: the MOST IMPORTANT benefit is being ACCURATELY KNOWN.
+- 170: sometimes when people are in DISTRESS, they just want someone to LISTEN, not necessarily PROBLEM SOLVE.
+- 169: we have to MEET communities WHERE THEY ARE with what they NEED.
 - 168: PAIN is unavoidable, but SUFFERING is preventable.
-- 167: it's okay for YOU to get your own help.
-- 166: the number one most important thing is your RELATIONSHIP with your therapist and whether you feel like you can TRUST them and be HONEST.
+- 167: it's OKAY for YOU to get your OWN help.
+- 166: the NUMBER ONE most important thing is your RELATIONSHIP with your therapist and whether you feel like you can TRUST them and be HONEST.
 - 165: you are trying your BEST and you can do BETTER.
-- 164: the power of our show was in the CONVERSATIONS between each other.
+- 164: the POWER of our show was in the CONVERSATIONS between EACH OTHER.
 - 163: the tendency when we see something that we don't understand is to try to SIMPLIFY it. i wish people would understand: no, it isn't SIMPLE.
-- 162: your thoughts, your emotions, they're NOT YOU. they are things you EXPERIENCE.
-- 161: when you see your child in pain, it is the most PAINFUL human experience anyone can experience.
-- 160: you should be the only person you're in COMPETITION with, ever.
-- 159: be really INTENTIONAL with the kind of content you're consuming and what you're exposing yourself to.
+- 162: your THOUGHTS, your EMOTIONS, they're NOT YOU. they are things you EXPERIENCE.
+- 161: when you see your CHILD in PAIN, it is the most PAINFUL human experience anyone can experience.
+- 160: you should be the ONLY PERSON you're in COMPETITION with, EVER.
+- 159: be really INTENTIONAL with the kind of CONTENT you're consuming and what you're EXPOSING yourself to.
 - 158: HISTORY is not DESTINY.
-- 157: ISOLATION is the crux of all human suffering.
-- 156: without AWARENESS we can't change. you have to know what the problem is before you can work on it.
-- 155: procrastinators are not LAZY. they're some of the busiest people i know. they're just busy on things that are COMFORTABLE.
-- 154: you are your greatest INVESTMENT.
-- 153: the prompting events are not what triggers the emotion, it's the INTERPRETATION of the event.
-- 152: REST is not lazy. sometimes we have to SLOW DOWN so that we can SPEED UP.
-- 151: i guarantee there is something about you that is EXTRAORDINARY and unique and special. you just need to SEE that.
-- 150: time flies when you're having fun, and it's a really good SIGN if it feels like things are moving quickly.
-- 149: the only constant is CHANGE.
-- 148: you always have the OPTION to not disclose.
-- 147: the NEEDS that you have in high school don't go away just because you're in college.
-- 146: ACCEPTANCE is the only way out of hell.
-- 145: it's easier to be HARDER on yourself when you're not SLEEPING.
-- 144: the GIFT on the other side is the ability to be resonant, to be EMPATHETIC, to truly understand what it is to be HUMAN.
-- 143: when we AVOID things that make us anxious, they get EXPONENTIALLY WORSE.
-- 142: adhd is not a disorder of not KNOWING. we know what to do. it's a disorder of not being able to get yourself to DO the thing.
+- 157: ISOLATION is the CRUX of all human SUFFERING.
+- 156: without AWARENESS we can't CHANGE. you have to KNOW what the problem is before you can WORK on it.
+- 155: procrastinators are not LAZY. they're some of the BUSIEST people i know. they're just busy on things that are COMFORTABLE.
+- 154: you are your GREATEST INVESTMENT.
+- 153: the prompting EVENTS are not what triggers the emotion, it's the INTERPRETATION of the event.
+- 152: REST is not LAZY. sometimes we have to SLOW DOWN so that we can SPEED UP.
+- 151: i GUARANTEE there is something about you that is EXTRAORDINARY and UNIQUE and SPECIAL. you just need to SEE that.
+- 150: TIME FLIES when you're having fun, and it's a really GOOD SIGN if it feels like things are moving QUICKLY.
+- 149: the ONLY CONSTANT is CHANGE.
+- 148: you ALWAYS have the OPTION to NOT disclose.
+- 147: the NEEDS that you have in high school DON'T GO AWAY just because you're in college.
+- 146: ACCEPTANCE is the ONLY WAY out of HELL.
+- 145: it's easier to be HARDER on yourself when you're NOT SLEEPING.
+- 144: the GIFT on the other side is the ability to be RESONANT, to be EMPATHETIC, to truly understand what it is to be HUMAN.
+- 143: when we AVOID things that make us ANXIOUS, they get EXPONENTIALLY WORSE.
+- 142: adhd is not a disorder of not KNOWING. we KNOW what to do. it's a disorder of not being able to get yourself to DO the thing.
 - 141: we don't need to be FIXED. we're not BROKEN.
-- 140: the more that you push yourself outside of your COMFORT ZONE, the more you will TRUST yourself.
-- 139: STUCK is only a starting place. it's not your final DESTINATION.
+- 140: the more that you PUSH yourself outside of your COMFORT ZONE, the more you will TRUST YOURSELF.
+- 139: STUCK is only a STARTING PLACE. it's not your final DESTINATION.
 - 138: AVOIDANCE amplifies EMOTIONS.
-- 137: your generation is the most POWERFUL generation ever in our history. you can fight back and you can have a VOICE in this.
-- 136: your friends are wonderful, but your friends are just that: your FRIENDS.
-- 135: just because your child needs support doesn't mean that YOU don't also need support.
-- 134: finding your IDENTITY comes with a lot of trial and error.
-- 133: eating disorders are EMOTIONAL disorders.
-- 132: happy people don't just WAIT to be happy. they DO things that make them happy.
-- 131: with emotion we're ALL OR NOTHING: either i'm going to be overwhelmed by this, or i'm going to shut it down and pretend it's not happening.
-- 130: MOTIVATION equals MOMENTUM. it really begins with the very small choices.
-- 129: pain creates SUFFERING only when you refuse to ACCEPT the pain.
-- 128: don't be afraid to FEEL what you're feeling, and allow yourself sometimes to sit in the STILLNESS.
-- 127: anything that hurts your heart is a GRIEVING experience.
+- 137: your generation is the MOST POWERFUL generation ever in our history. you can FIGHT BACK and you can have a VOICE in this.
+- 136: your friends are WONDERFUL, but your friends are JUST THAT: your FRIENDS.
+- 135: just because your CHILD needs support doesn't mean that YOU don't also need SUPPORT.
+- 134: finding your IDENTITY comes with a lot of TRIAL and ERROR.
+- 133: EATING disorders are EMOTIONAL disorders.
+- 132: happy people don't just WAIT to be happy. they DO THINGS that make them HAPPY.
+- 131: with emotion we're ALL OR NOTHING: either i'm going to be OVERWHELMED by this, or i'm going to SHUT IT DOWN and pretend it's not happening.
+- 130: MOTIVATION equals MOMENTUM. it really begins with the very SMALL CHOICES.
+- 129: pain creates SUFFERING only when you REFUSE to ACCEPT the pain.
+- 128: don't be AFRAID to FEEL what you're feeling, and allow yourself sometimes to sit in the STILLNESS.
+- 127: ANYTHING that hurts your HEART is a GRIEVING experience.
 - 126: you cannot SPRINT a MARATHON.
-- 125: you shouldn't base how you view YOURSELF on a decision that you only have so much CONTROL over.
-- 124: we work so hard to get that SEAT at the table that when we get there, we're too exhausted to know what to do with the MICROPHONE.
-- 123: be a person that is a LIGHT in their life.
-- 122: if every staff member who came in contact with a child had to be QUALIFIED, the industry would effectively SHUT DOWN.
+- 125: you shouldn't base how you VIEW YOURSELF on a DECISION that you only have so much CONTROL over.
+- 124: we work SO HARD to get that SEAT at the table that when we get there, we're too EXHAUSTED to know what to do with the MICROPHONE.
+- 123: be a person that is a LIGHT in their LIFE.
+- 122: if EVERY staff member who came in contact with a child had to be QUALIFIED, the industry would effectively SHUT DOWN.
 - 121: your body is not an IMAGE. it's an EXPERIENCE.
-- 120: habits are the COMPOUND INTEREST of self-improvement.
-- 119: STRESS can look different for everyone, and it doesn't matter the AGE.
-- 118: mental health is a commitment to REALITY at all costs.
-- 117: so much of therapy is not only what you bring to sessions, but what you IMPLEMENT outside of the session.
-- 116: the right relationship should not feel CHAOTIC.
-- 115: sitting in the DARK PLACE with someone is a skill. we're not looking to FIX anyone.
+- 120: HABITS are the COMPOUND INTEREST of self-improvement.
+- 119: STRESS can look DIFFERENT for everyone, and it doesn't matter the AGE.
+- 118: mental health is a COMMITMENT to REALITY at ALL COSTS.
+- 117: so much of therapy is not only what you BRING to sessions, but what you IMPLEMENT OUTSIDE of the session.
+- 116: the RIGHT relationship should not feel CHAOTIC.
+- 115: sitting in the DARK PLACE with someone is a SKILL. we're not looking to FIX anyone.
 - 114: distress tolerance skills help in a CRISIS. emotion regulation is what decreases suicidal ideation LONG TERM.
-- 113: lonely people think they're more likely to be REJECTED than they actually are.
-- 112: INSIGHT is wonderful, but what gives you hope is BEHAVIOR CHANGE.
-- 111: triumphs don't appear out of nowhere. you're in the VALLEY, and then you reach the SUMMIT.
-- 110: be the person that you WISH you had as a teen.
-- 109: you don't have to get to a certain level of SEVERITY to use good coping strategies.
-- 108: what really hurts is not that we have to HIDE our secrets, but that we have to live with them ALONE in our thoughts.
-- 107: sometimes life taps you on the shoulder with a FEATHER, and sometimes it runs you over with a TRUCK. we need to learn to listen when it taps you with a feather.
-- 106: ask yourself this one very simple question: what was i THINKING just before?
-- 105: you have the CAPACITY to build a life at college that supports your mental health. where you go won't determine that.
+- 113: LONELY people think they're MORE LIKELY to be REJECTED than they actually are.
+- 112: INSIGHT is wonderful, but what gives you HOPE is BEHAVIOR CHANGE.
+- 111: triumphs don't appear out of NOWHERE. you're in the VALLEY, and then you reach the SUMMIT.
+- 110: be the PERSON that you WISH you had as a TEEN.
+- 109: you don't have to get to a certain level of SEVERITY to use GOOD coping strategies.
+- 108: what really HURTS is not that we have to HIDE our secrets, but that we have to live with them ALONE in our thoughts.
+- 107: sometimes life taps you on the shoulder with a FEATHER, and sometimes it runs you over with a TRUCK. we need to learn to LISTEN when it taps you with a feather.
+- 106: ask yourself this one very SIMPLE question: what was i THINKING just BEFORE?
+- 105: you have the CAPACITY to build a life at college that SUPPORTS your mental health. WHERE you go won't DETERMINE that.
 - 104: you shouldn't go to bed like you're LANDING A PLANE. you have to come in SLOW.
 - 103: therapy is for EVERYONE, just not every THERAPIST is for everyone.
-- 102: you'll end up where you NEED to be, even if the waiting period is really hard.
-- 101: if you change your THINKING, you may change your whole LIFE.
+- 102: you'll end up where you NEED to be, even if the WAITING period is really HARD.
+- 101: if you change your THINKING, you may change your WHOLE LIFE.
 - 100: the most ISOLATING experiences are often the most UNIVERSAL.
-- 97: you're not going to PUNISH an addiction out of someone.
-- 96: you have to WANT to change. you have to want to improve your life to have a life WORTH LIVING.
-- 95: you are not your EMOTION, so you don't have to ACT on the emotion.
-- 93: just because we have struggles and challenges does not mean that it's not also POSSIBLE for us.
+- 97: you're not going to PUNISH an ADDICTION out of someone.
+- 96: you have to WANT to change. you have to WANT to improve your life to have a LIFE WORTH LIVING.
+- 95: you are NOT your EMOTION, so you don't have to ACT on the emotion.
+- 93: just because we have STRUGGLES and CHALLENGES does not mean that it's not also POSSIBLE for us.
 - 92: we don't heal in ISOLATION. we heal in COMMUNITY.
 - 91: we live in a very STRESSFUL world right now. it's not ONE SIZE FITS ALL.
-- 90: no emotion is CONSTANT. no emotion will last FOREVER.
+- 90: NO emotion is CONSTANT. no emotion will last FOREVER.
 - 89: sometimes you don't want the FEEDBACK. you just need to be SEEN.
-- 88: the CLIMATE of my mind is so different than what it used to be.
-- 87: HURT people hurt people.
-- 86: self-confident people allow themselves the AWKWARDNESS.
+- 88: the CLIMATE of my MIND is so DIFFERENT than what it used to be.
+- 87: HURT people HURT people.
+- 86: SELF-CONFIDENT people allow themselves the AWKWARDNESS.
 - 85: all emotions are VALID, but not necessarily JUSTIFIED.
-- 84: try to avoid making the primary interactions with your loved one about what's WRONG.
+- 84: try to AVOID making the PRIMARY interactions with your loved one about what's WRONG.
 - 83: your body sends you SIGNALS all the time. your body's trying to TELL you something.
-- 82: it's okay to have NEGATIVE thoughts. they're not going away. it just means that you CARE.
+- 82: it's OKAY to have NEGATIVE thoughts. they're not going away. it just means that you CARE.
 - 81: all FEELINGS are welcome. all BEHAVIORS are not.
-- 80: our mental health is constantly CHANGING and FLUCTUATING. it's something we all experience at various times to varying degrees.
+- 80: our mental health is constantly CHANGING and FLUCTUATING. it's something we ALL experience at various times to VARYING DEGREES.
 - 79: it wasn't the ADVERSITY that broke me. it was how i RESPONDED to it.
-- 78: it's okay to be MESSY. everyone's a mess. and messes are great because that's how we can REPAIR and GROW.
-- 77: it's not a CHARACTER FLAW. your child doesn't have adhd because they're a bad child, or because you're a bad parent.
-- 76: we GROW in relationships.
-- 75: if you stop, you better have something to REPLACE it that's just as enjoyable.
-- 74: every single person you meet, their actions are coming from their own PAIN and are more of a reflection of who THEY are than who you are.
-- 73: the most valuable thing in life is VALIDATING other people and using your SUFFERING to understand them.
-- 72: when you're younger, you think that you ARE your emotions. when you get older, you know that it will PASS.
-- 68: no one can make you HEALTHY. no one can make you seek HELP.
+- 78: it's OKAY to be MESSY. everyone's a mess. and messes are GREAT because that's how we can REPAIR and GROW.
+- 77: it's not a CHARACTER FLAW. your child doesn't have adhd because they're a BAD CHILD, or because you're a BAD PARENT.
+- 76: we GROW in RELATIONSHIPS.
+- 75: if you STOP, you better have something to REPLACE it that's just as ENJOYABLE.
+- 74: EVERY single person you meet, their actions are coming from their own PAIN and are more of a REFLECTION of who THEY are than who YOU are.
+- 73: the most VALUABLE thing in life is VALIDATING other people and using your SUFFERING to UNDERSTAND them.
+- 72: when you're YOUNGER, you think that you ARE your emotions. when you get OLDER, you know that it will PASS.
+- 68: NO ONE can make you HEALTHY. no one can make you seek HELP.
 - 67: it's being able to look back on your high school experience and say, i'm PROUD of that. i DID that.
-- 66: there is no greater and more powerful motivator than feeling UNCONDITIONALLY LOVED.
-- 65: i would rather a teen come in and say, sometimes i'm feeling NERVOUS, than wait until CRISIS mode.
-- 64: over 145 CHILDREN have died from PREVENTABLE causes in residential treatment centers.
-- 63: fear and anxiety will be there. it's how you RESPOND to it that matters.
+- 66: there is no GREATER and more POWERFUL motivator than feeling UNCONDITIONALLY LOVED.
+- 65: i would rather a teen come in and say, sometimes i'm feeling NERVOUS, than wait until CRISIS MODE.
+- 64: over 145 CHILDREN have DIED from PREVENTABLE causes in residential treatment centers.
+- 63: FEAR and ANXIETY will be there. it's how you RESPOND to it that MATTERS.
 - 62: addiction and mental health problems don't occur out of a VACUUM. they occur out of a CONTEXT.
-- 61: you can't manage your behavior and emotions unless you're AWARE of them.
+- 61: you can't MANAGE your behavior and emotions unless you're AWARE of them.
 - 60: VULNERABILITY equals RELATABILITY equals EMPOWERMENT.
 - 59: you don't want to leave the reader with any QUESTIONS.
-- 58: it's not a reflection of YOU, and it's not a reflection of your SELF-WORTH.
-- 57: my story is not one typically showcased in a college application. i am so very PROUD of it.
-- 56: exposure therapy sounds like the worst possible thing you could do to someone with anxiety. it's MISERABLE. and it WORKS.
+- 58: it's NOT a reflection of YOU, and it's not a reflection of your SELF-WORTH.
+- 57: my STORY is not one typically showcased in a college application. i am so very PROUD of it.
+- 56: exposure therapy sounds like the WORST possible thing you could do to someone with anxiety. it's MISERABLE. and it WORKS.
 - 55: we don't always RECOGNIZE our NEEDS.
 - 54: MIXED signals are a CLEAR signal.
-- 53: it's okay NOT to be okay.
-- 52: if you're going into anything in life with the belief that it's not going to work, it's NOT going to work.
-- 51: i don't really think we're meant to be consuming this much CONTENT.
-- 50: you are NOT ALONE and you can reach out to someone.
-- 49: it's so much easier to sit in that DISTRESS, because that's what's COMFORTABLE for you.
-- 48: you're not alone and it CAN get better.
+- 53: it's OKAY not to be OKAY.
+- 52: if you're going into anything in life with the BELIEF that it's not going to work, it's NOT going to work.
+- 51: i don't really think we're MEANT to be consuming THIS MUCH content.
+- 50: you are NOT ALONE and you CAN reach out to someone.
+- 49: it's so much EASIER to sit in that DISTRESS, because that's what's COMFORTABLE for you.
+- 48: you're NOT ALONE and it CAN get better.
 - 46: don't let ANYONE talk you out of it. don't talk YOURSELF out of it.
 - 45: self-care is not SELFISH. self-care is SELF-CENTERED.
-- 44: your INSECURITY is not unique, and it's a good thing, because everybody else is going through it too.
-- 42: medication is your WATER WINGS to help you get out of that low point and dive into your work therapeutically.
-- 41: the purpose of mental health treatment is to give you the SKILLS to cope with your ENVIRONMENT.
-- 39: when you are lacking SLEEP, everything else will fall off the wagon.
+- 44: your INSECURITY is NOT UNIQUE, and it's a good thing, because EVERYBODY ELSE is going through it too.
+- 42: MEDICATION is your WATER WINGS to help you get out of that LOW POINT and dive into your work therapeutically.
+- 41: the PURPOSE of mental health treatment is to give you the SKILLS to COPE with your ENVIRONMENT.
+- 39: when you are lacking SLEEP, EVERYTHING ELSE will fall off the wagon.
 - 38: if we start to feel INEFFECTIVE in any of those areas, it creates that feeling of HOPELESSNESS.
-- 37: it's not that you're CHOOSING there's no hope. it's literally ingrained in your BRAIN.
+- 37: it's not that you're CHOOSING there's no hope. it's literally INGRAINED in your BRAIN.
 - 36: maybe everything doesn't happen for a REASON, but everything happens for a PURPOSE.
-- 35: if you aren't allowed a seat at the table, you BUILD YOUR OWN table.
-- 34: it fosters more EMPOWERMENT because you are the one taking CONTROL of your mental health.
-- 33: if you can truly take care of YOURSELF, you will be offering the BEST version of yourself to other people when they need support.
-- 32: when depression feels like HOME, it's time to step into the UNKNOWN and see what else you can call home.
-- 31: full recovery is REAL. and it is so WORTH IT.
-- 30: your mind goes to the NEGATIVE. and there still are the GOOD things.
-- 29: validation doesn't mean you AGREE. it means that you UNDERSTAND where the other person is coming from.
-- 28: you've gotten through the worst moments of your life THOUSANDS of times, and HERE YOU ARE.
+- 35: if you aren't allowed a SEAT at the table, you BUILD YOUR OWN table.
+- 34: it fosters more EMPOWERMENT because YOU are the one taking CONTROL of your mental health.
+- 33: if you can truly take care of YOURSELF, you will be offering the BEST version of yourself to other people when they NEED support.
+- 32: when depression feels like HOME, it's time to step into the UNKNOWN and see what else you can CALL HOME.
+- 31: full RECOVERY is REAL. and it is so WORTH IT.
+- 30: your mind goes to the NEGATIVE. and there STILL are the GOOD things.
+- 29: validation doesn't mean you AGREE. it means that you UNDERSTAND where the other person is COMING FROM.
+- 28: you've gotten through the WORST MOMENTS of your life THOUSANDS of times, and HERE YOU ARE.
 - 27: we are all swimming across a large body of water, but some of us have extra WEIGHTS on our wrists and ankles. therapy is learning NEW STROKES.
-- 26: no one will change your experience for you. YOU have to be the one to decide to CHANGE.
+- 26: NO ONE will change your experience for you. YOU have to be the one to DECIDE to CHANGE.
 - 25: VULNERABILITY is so important because it helps people feel like they're NOT ALONE.
-- 23: when there is behavior that presents itself, don't assume it is without some SUFFERING underneath the surface.
-- 22: it feels like we're stuck in this moment of time where NOTHING is changing yet EVERYTHING'S happening.
-- 20: you're not going to ASSUME that the other person knows how you feel. you're going to VERBALIZE it.
-- 19: you're not BOTHERING them. you're just getting what you NEED and asking for it.
+- 23: when there is BEHAVIOR that presents itself, don't ASSUME it is without some SUFFERING underneath the surface.
+- 22: it feels like we're STUCK in this moment of time where NOTHING is changing yet EVERYTHING'S happening.
+- 20: you're not going to ASSUME that the other person KNOWS how you feel. you're going to VERBALIZE it.
+- 19: you're not BOTHERING them. you're just getting what you NEED and ASKING for it.
 - 16: we're not a SUICIDE PREVENTION program. we're a LIFE WORTH LIVING program.
-- 14: i know it's not happening to ME, but it feels like it's happening to me.
-- 10: you have to WANT to change, or you'll just get better at TALKING about your feelings. nothing will be different.
-- 8: make the tough decision to be PRESENT. make the tough decision to be VULNERABLE.
-- 6: once we were able to COMMUNICATE more and be more VULNERABLE, everything changed.
-- 5: do not let the anxiety CONTROL you. anxiety is not even a tangible thing. do not let it RULE your life.
+- 14: i know it's not happening to ME, but it FEELS like it's happening to me.
+- 10: you have to WANT to change, or you'll just get better at TALKING about your feelings. NOTHING will be different.
+- 8: make the TOUGH decision to be PRESENT. make the tough decision to be VULNERABLE.
+- 6: once we were able to COMMUNICATE more and be more VULNERABLE, EVERYTHING changed.
+- 5: do not let the anxiety CONTROL you. anxiety is not even a TANGIBLE thing. do not let it RULE your life.
 - 3: through STRUGGLE, you're going to find LOVE.
-- 2: as a parent, you'd much rather see anyone else in the world suffer other than your CHILD.
+- 2: as a PARENT, you'd much rather see ANYONE ELSE in the world suffer other than your CHILD.
 - 1: if you don't CHOOSE to work on yourself, NOTHING will change.
