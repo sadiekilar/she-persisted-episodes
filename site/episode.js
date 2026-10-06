@@ -170,7 +170,7 @@
     '#sp-episode .sp-card{display:flex;flex-direction:column}',
     '#sp-episode .sp-thumb{display:block;overflow:hidden;border-radius:16px;background:var(--cream);isolation:isolate}',
     '#sp-episode .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;filter:grayscale(1);transition:transform 300ms ease,filter 300ms ease}',
-    '#sp-episode .sp-card-title{padding:12px 4px 0;font-size:16px;font-weight:700;line-height:1.2;color:var(--ink)}',
+    '#sp-episode .sp-card-title{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:12px 4px 0;font-size:16px;font-weight:700;line-height:1.2;color:var(--ink)}',
     '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}}',
     '@media (prefers-reduced-motion:reduce){#sp-episode .sp-card:hover img{transform:none}}',
     '@media (max-width:900px) and (min-width:601px){#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr}}',
