@@ -63,7 +63,7 @@
     '#sp-episode .sp-meta b{font-weight:700}',
     '#sp-episode .sp-topics{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}',
     '#sp-episode .sp-topics i{font-style:normal;opacity:.5}',
-    '#sp-episode h1{font-size:48px;font-size:clamp(30px,3.333cqw,48px);font-weight:700;line-height:1.02;letter-spacing:-.9px}',
+    '#sp-episode h1{font-size:48px;font-size:clamp(30px,3.333cqw,48px);font-weight:700;line-height:1.02;letter-spacing:-.9px;text-wrap:balance}',
     '#sp-episode .sp-player-wrap{display:flex;flex-direction:column;gap:16px;width:100%;max-width:952px;margin:0 auto}',
     '#sp-episode .sp-player{position:relative;width:100%;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
     '#sp-episode .sp-player img,#sp-episode .sp-player iframe{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border:0}',
@@ -129,7 +129,7 @@
     /* quote band */
     '#sp-episode .sp-quote-wrap{padding-top:56px}',
     '#sp-episode .sp-quote{display:flex;justify-content:center;padding:56px var(--g);background:var(--red);color:var(--cream);text-align:center}',
-    "#sp-episode .sp-quote blockquote{max-width:980px;font-family:'SP Perfectly Nineties','Perfectly Nineties',Georgia,serif;font-size:44px;font-size:clamp(28px,3.056cqw,44px);line-height:1.05;letter-spacing:-.05em;font-style:italic}",
+    "#sp-episode .sp-quote blockquote{max-width:980px;font-family:'SP Perfectly Nineties','Perfectly Nineties',Georgia,serif;font-size:44px;font-size:clamp(28px,3.056cqw,44px);line-height:1.05;letter-spacing:-.05em;font-style:italic;text-wrap:balance}",
     '#sp-episode .sp-quote blockquote b{font-style:normal;font-weight:400;text-transform:uppercase}',
     /* transcript */
     '#sp-episode .sp-transcript{display:flex;flex-direction:column;gap:20px;width:100%;max-width:860px;margin:0 auto;padding:56px 0 0}',
