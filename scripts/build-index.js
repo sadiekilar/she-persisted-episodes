@@ -3,7 +3,7 @@
 // and index/summaries.md (Claude Project knowledge).
 const fs = require('fs');
 const path = require('path');
-const { INDEX_DIR, readEpisodes } = require('./lib');
+const { INDEX_DIR, readEpisodes, htmlToText } = require('./lib');
 const { transcriptParagraphs } = require('./transcript');
 
 const EXCERPT_MAX = 300;
@@ -34,7 +34,8 @@ const index = {
     url: meta.original_url,
     image: meta.image_url || '',
     tags: meta.tags || [],
-    excerpt: clip(meta.excerpt, EXCERPT_MAX),
+    // Squarespace's excerpt field is sometimes a stub ("Today..."); fall back to the description, then the summary.
+    excerpt: clip(String(meta.excerpt || '').length >= 60 ? meta.excerpt : (htmlToText(meta.description_html) || meta.summary || meta.excerpt), EXCERPT_MAX),
     publishOn: Number(meta.publish_on) || Date.parse(meta.date) || 0,
     guests: meta.guests || [],
     summary: meta.summary || '',
