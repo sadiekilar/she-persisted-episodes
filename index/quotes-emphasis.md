@@ -12,14 +12,14 @@
 - 256: you can't build a LIFE WORTH LIVING if you don't PLAN to LIVE it.
 - 255: the problem isn't that you don't WANT help. it's that being VULNERABLE and accepting that help or ASKING for that help feels like TOO MUCH.
 - 254: people don't take ADVICE they don't feel UNDERSTOOD by.
-- 253: that is the MINDSET that built foundation that my mental health sits upon. that forever changed the TRAJECTORY of my life and my mental health and for the better.
+- 253: that is the MINDSET that built foundation that my mental health sits upon. that forever changed the TRAJECTORY of my life and my mental health and for the BETTER.
 - 251: for YOUNG PEOPLE right now, there is a sense of APATHY and, a lack of HOPE.
 - 250: if you're not PROGRESSING, you're REGRESSING.
 - 249: you cannot TALK your body out of PANIC. you have to change the PHYSICAL before you can address the MENTAL.
 - 248: when you're feeling DEPRESSED, it's really easy for your brain to bring up ALL THOSE OTHER TIMES you felt depressed; this is why advice like "LOOK ON THE BRIGHT SIDE" doesn't work
 - 247: mental health isn't so much about what you FEEL, it's about how much it's COSTING you.
 - 246: growth is a DIRECTION, not a DESTINATION.
-- 245: i realized that LONELINESS that i felt came from WAITING until i felt disconnected to actually do something about it.
+- 245: i realized that LONELINESS that i felt came from WAITING until i felt DISCONNECTED to actually DO SOMETHING about it.
 - 244: the LEAST EFFECTIVE way to do anything in life is to rely on WILLPOWER.
 - 243: loneliness is not only a NORMAL and NATURAL feeling, but it means that you have a FUNCTIONAL social system. loneliness is actually a SIGN to ourselves that we are desiring CONNECTION, that we WANT it.
 - 242: i wasn't seeking ATTENTION, i was seeking CONNECTION, and the TOOLS that i had were not the correct ones.
@@ -100,7 +100,7 @@
 - 166: the NUMBER ONE most important thing is your RELATIONSHIP with your therapist and whether you feel like you can TRUST them and be HONEST.
 - 165: you are trying your BEST and you can do BETTER.
 - 164: the POWER of our show was in the CONVERSATIONS between EACH OTHER.
-- 163: the tendency when we see something that we don't understand is to try to SIMPLIFY it. i wish people would understand: no, it isn't SIMPLE.
+- 163: the tendency when we see something that we DON'T UNDERSTAND is to try to SIMPLIFY it. i wish people would understand: no, it ISN'T SIMPLE.
 - 162: your THOUGHTS, your EMOTIONS, they're NOT YOU. they are things you EXPERIENCE.
 - 161: when you see your CHILD in PAIN, it is the most PAINFUL human experience anyone can experience.
 - 160: you should be the ONLY PERSON you're in COMPETITION with, EVER.
