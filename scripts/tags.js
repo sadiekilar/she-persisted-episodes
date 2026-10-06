@@ -70,7 +70,7 @@ async function suggestExtra(ep, key) {
 }
 
 function writeReview(episodes) {
-  const rows = episodes.filter((e) => (e.meta.tags_override || []).length || !(e.meta.tags || []).length);
+  const rows = episodes.filter((e) => (e.meta.tags_override || []).length || !(e.meta.tags || []).filter((t) => !HIDDEN.includes(t) && !NOT_TOPICS.has(t)).length);
   const extras = episodes.filter((e) => (e.meta.tags_extra || []).length);
   const available = [...new Set(episodes.flatMap((e) => e.meta.tags || []))].filter((t) => !NOT_TOPICS.has(t) && !HIDDEN.includes(t)).sort();
   fs.writeFileSync(reviewFile, `# tags kept in this repo
@@ -101,7 +101,9 @@ async function main() {
   const key = process.env.ANTHROPIC_API_KEY;
   const tagList = [...new Set(episodes.flatMap((e) => e.meta.tags || []))].filter((t) => !NOT_TOPICS.has(t) && !HIDDEN.includes(t)).sort();
 
-  const todo = episodes.filter((e) => !(e.meta.tags || []).length && !(e.meta.tags_override || []).length).slice(0, limit);
+  // episodes with no visible Squarespace tag (hidden ones don't count) and no override yet
+  const visible = (e) => (e.meta.tags || []).filter((t) => !HIDDEN.includes(t) && !NOT_TOPICS.has(t));
+  const todo = episodes.filter((e) => !visible(e).length && !(e.meta.tags_override || []).length).slice(0, limit);
   let done = 0;
   if (todo.length && !key) console.log(`tags: ${todo.length} untagged episodes but ANTHROPIC_API_KEY is not set; skipping suggestions`);
   else for (const ep of todo) {

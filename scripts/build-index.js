@@ -18,7 +18,8 @@ const clip = (s, n) => {
 // additions (tags_extra), minus tags hidden on the site. See scripts/tags.js.
 const HIDDEN_TAGS = ['teen mental health', 'sleep'];
 const episodes = readEpisodes().map((e) => {
-  const base = (e.meta.tags || []).length ? e.meta.tags : (e.meta.tags_override || []);
+  const sq = (e.meta.tags || []).filter((t) => !HIDDEN_TAGS.includes(t));
+  const base = sq.length ? sq : (e.meta.tags_override || []);
   const tags = [...new Set([...base, ...(e.meta.tags_extra || [])])].filter((t) => !HIDDEN_TAGS.includes(t));
   e.meta = { ...e.meta, tags };
   return e;

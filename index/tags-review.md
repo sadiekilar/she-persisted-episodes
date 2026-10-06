@@ -12,8 +12,21 @@ none yet
 
 Squarespace's own tags always win when a post has any. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, relationships, self-improvement, social media, trauma, troubled teen industry.
 
+- 260. you don’t have to be in crisis to need help (feat. hailey hardcastle) → 
+- 231. gen z mental health: is it really that bad?? - a pediatrician’s take f → 
+- 208. How to Be a Mental Health ADVOCATE feat. Active Minds → 
+- 199. Growing Pains: Advice for Teens & Parents on Navigating Teenage Years  → 
+- 164. Teenager Therapy's Gael Aitor on Gen Z Mental Health Resources, Starti → 
+- 161. A Parent’s Guide to Teen Mental Health feat. Ann Coleman → 
+- 158. Your TikTok Therapist on Gen Z Mental Health, Staying Optimistic, and  → 
+- 145. 7 Steps for Getting Better Sleep feat. Nicole Shallow → 
 - 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More! → self-improvement, social media, dbt
+- 119. A TEEN'S GUIDE TO THERAPY: Finding a Therapist, Avoiding Red Flags, Un → 
+- 104. Sleep Deprivation, Insomnia, + Night Routine Tips for Teens feat. Gene → 
 - 99. ACNE 101 feat. CLEARSTEM Founders Danielle Gronich + Kayleigh Christin → body image, self-improvement, social media
+- 97. truth x She Persisted: A Roundtable Discussion on Vaping, Teen Nicotin → 
+- 75. Amen Clinic's Dr. Jay Faber on Teenage Substance Use: Brain Impacts, L → 
+- 67. High School RECAP → 
 - 64. Inside the Secret World of the Troubled Teen Industry: Breaking Code S → troubled teen industry, trauma, teen mental health
 - 62. The Evolution of the Treatment Industry, Navigating Adolescent Addicti → troubled teen industry, trauma, teen mental health
 - 59. How to Discuss Your Mental Health in Your College Application Accordin → college, teen mental health, self-improvement
