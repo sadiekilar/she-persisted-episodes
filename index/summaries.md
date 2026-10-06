@@ -268,11 +268,15 @@ sadie shares how she rebuilt her social life after graduating college and moving
 
 - date: 2026-01-06
 - tags: self-improvement, 20s, relationships, sleep
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/244
 - transcript: episodes/ep-244.md (full)
 
-in this episode, we discuss why our generation can feel so lonely– especially after graduating college– and how we can actually start to improve our connections. by the end of this episode, you’ll know how to use psychology to be more connected than ever, even through the chaos of your 20s.
+sadie shares her biggest habit shift from 2025: stop forcing yourself and start designing situations that work with you, not against you. instead of relying on willpower, she talks about confining tasks to specific contexts—staying at work to finish projects, signing up for classes with friends, choosing a job with built-in community. inspired by angela duckworth's research, she reframes goal-setting as a logistics problem, not a character flaw. listeners walk away with a new lens on sleep, relationships, and productivity that feels less like self-discipline and more like self-design.
+
+> the least effective way to do anything in life is to rely on willpower.
+> i stopped asking myself what is wrong with me and started asking what is wrong with this situation.
+> instead of fighting against myself, i'm working with myself.
 
 ## 243. being lonely in your 20s is fixable (featuring dr. jeffrey hall)
 
@@ -404,11 +408,15 @@ sadie sits down with kara loewentheil—feminist coach, author of take back your
 
 - date: 2025-10-06
 - tags: dbt, anxiety, relationships, social media, body image, depression
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/234
 - transcript: episodes/ep-234.md (full)
 
-Today…
+sadie unpacks taylor swift's best mental health wisdom, pulling quotes and lyrics from across all eras. she ties taylor's advice to dbt skills (like accumulating positives and changing the channel in your brain), anxiety treatment (exposure, not avoidance), and her own recovery from depression and suicidal ideation. listeners get tangible takeaways: plan things to look forward to, stop playing stupid games that lead to stupid prizes, choose what you hold vs. let go, and remember you've survived 100% of your worst days. sadie also shares underrated lyrics on body image, relationships, and moving forward when you're not where you want to be yet.
+
+> we have to live bravely in order to truly feel alive. and that means not being ruled by our greatest fears.
+> if somebody hurts you, it's okay to cry a river. just remember to build a bridge and get over it.
+> you are not going nowhere just because you haven't gotten where you want to go yet.
 
 ## 233. wilderness therapy doesn’t work… so why are we still sending our kids??! feat. dr. will dobud
 
@@ -484,11 +492,15 @@ sadie and dr. jessi gold, chief wellness officer for the university of tennessee
 
 - date: 2025-08-17
 - tags: career, 20s, self-improvement, sadie recommends
-- guests: not extracted yet
+- guests: dr. angela duckworth, rosa lee and egbert chang professor at the university of pennsylvania
 - url: https://shepersistedpodcast.com/episodes/228
 - transcript: episodes/ep-228.md (full)
 
-Today…
+sadie sits down with dr. angela duckworth—psychologist, macarthur genius, and author of *grit*—to break down how gen z can actually achieve their goals. they cover the difference between grit (passion + perseverance for long-term goals) and self-control (resisting short-term temptations), why trying harder never works, and the three boxes model for changing behavior: situation → thoughts → response. dr. duckworth shares concrete tips like sitting in the front row, choosing your friends intentionally, and steering like a paramecium toward what gives you energy. they also discuss perfectionism, burnout, how to sample before specializing, and why using ai isn't cheating if you're honest about it.
+
+> we should try to reverse engineer the life we want.
+> self-control is about doing the things that you have to do because it's better for your long-term self.
+> steer like a paramecium. just like don't overthink it. you know, a paramecium doesn't even have a brain. it just is sort of like, oh, it's warm over here.
 
 ## 227. I asked 9 experts how to heal from depression (what you NEED to know)
 
@@ -620,11 +632,15 @@ sadie talks with dr. greg walton, stanford psychology professor, about belonging
 
 - date: 2025-04-27
 - tags: social media, teen mental health
-- guests: not extracted yet
+- guests: dr. emily weinstein, psychologist and co-director of the center for digital thriving at harvard graduate school of education
 - url: https://shepersistedpodcast.com/episodes/ep218
 - transcript: episodes/ep-218.md (full)
 
-Today’s guest is Dr. Emily Weinstein— a psychologist, author, educator, parent, and longtime tech researcher who co-founded the Center for Digital Thriving at Harvard Graduate School of Education. She has spent over a decade researching the ways today’s technologies are shaping and reshaping adolescents’ lives.
+sadie talks with dr. emily weinstein, a psychologist and co-director of the center for digital thriving at harvard, about whether social media is causing gen z's mental health crisis (spoiler: probably not). they discuss how tech affects people differently, cognitive distortions that show up online (like mind reading when you're left on read), grind culture and productivity pressure, social comparison traps, and why it's so hard to regulate phone use when apps are designed to capture attention. dr. weinstein emphasizes listening to teens' actual experiences with tech instead of having broad debates, and why creating boundaries—like phone-free spaces—matters more than relying on willpower alone.
+
+> one of the things that feels really important to me is to create enough space for us to talk about our different experiences with tech and to create enough space for the reality that you might be having some really toxic experiences and it is helpful if we can name them and you have language to talk about them and someone else might be having those same experiences or they might not.
+> i wish that people—i wish that everyone in gen z, but frankly, everyone—had more of a feeling that they could opt out of these different things when they need to and that it would be okay.
+> we have not solved the problem if what happens is we get rid of the phones, but we walk into a cafeteria and everyone has like a chromebook out or a laptop out and they figured out how to just like stream netflix or youtube.
 
 ## 217. mental health book club series: lost connections by johann hari
 
@@ -686,11 +702,15 @@ sadie reacts to mental health posts from reddit, focusing on common college stru
 
 - date: 2025-03-01
 - tags: 20s, self-improvement, career
-- guests: not extracted yet
+- guests: john r. miles
 - url: https://shepersistedpodcast.com/episodes/ep213
 - transcript: episodes/ep-213.md (full)
 
-Today's guest is John R. Miles — a f ormer U.S. Na vy officer, Fortune 50 senior executive, entrepreneur, author, and award-winning podcast host. He is a recognized expert on intentional behavior change, leadership, personal mastery, and the transformative power of "mattering."
+sadie sits down with john r. miles—former navy officer, fortune 50 exec, and host of passion struck—to talk about breaking through self-doubt and finding your authentic self. they dig into self-discrepancy theory (the gap between who you are, who you think you should be, and who you could be), how to identify your "stuck points" and start healing them, and why small, intentional actions matter more than huge leaps. john shares practical tips on lowering activation energy, avoiding the comparison trap, and stopping the negative self-talk that turns you into your own "visionary arsonist." they also touch on mastery, mattering, and what gen z should focus on to build a life that actually feels aligned.
+
+> I think we're best positioned to help the person who we once were.
+> The most incredible person that you are ever gonna meet in your entire life is the person who stares back at you in the mirror when you wake up every morning. But the biggest critic you're ever gonna find in your life is that same person.
+> Saving $8 a day equates to $3,000 a year. Reading 20 pages a day equals 30 books a year. Walking 10,000 steps a day equals 70 marathons.
 
 ## 212. how to be more resilient feat. dr. glenn schiraldi
 
@@ -1060,11 +1080,15 @@ sadie sits down with professor jeffrey hall to unpack friendship, loneliness, an
 
 - date: 2024-04-08
 - tags: emotions, self-improvement
-- guests: not extracted yet
+- guests: dr. emma seppälä, psychologist, yale lecturer, and science director at stanford's center for compassion and altruism research and education
 - url: https://shepersistedpodcast.com/episodes/ep186
 - transcript: episodes/ep-186.md (full)
 
-Today's guest is Emma Seppälä— a best-selling author, Yale lecturer and faculty director of the Yale School of Management’s Women’s Leadership Program, the Science Director of Stanford University’s Center for Compassion and Altruism Research and Education, and international keynote speaker. A psychologist and research scientist by training, her expertise is the science of happiness, emotional intelligence, and social connection.
+sadie talks with dr. emma seppälä—psychologist, yale lecturer, and stanford researcher—about the science of happiness and what it means to live with sovereignty. emma breaks down how cultural beliefs shape our mental health, why so many people feel like they're not good enough, and what happens when we never learn to handle our emotions. they discuss two types of happiness (hedonic vs. eudaimonic), why self-care isn't selfish, and concrete practices like meditation and breathing that help you show up as your best self. emma also shares her personal story of breaking free from an eating disorder through emotional awareness.
+
+> no matter how educated someone is, no matter if they're like a ceo of a company or like a big chef or whatever it is, they have as much training about what to do with their big, bad, negative emotions as a five-year-old.
+> no amount of success or adulation from others is going to mend the hole in your heart that comes from a lack of friendship from yourself.
+> once the awareness is there, you can't fall for it again.
 
 ## 185. "The WORST Year of My Entire Life!!!" - Responding to Reddit Mental Health Posts Pt. 2!
 
@@ -1761,7 +1785,7 @@ sadie sits down with dr. justin mohatt, a double board-certified psychiatrist at
 ## 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More!
 
 - date: 2023-02-16
-- tags: none
+- tags: self-improvement, social media, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep135
 - transcript: episodes/ep-135.md (full)
@@ -1916,11 +1940,15 @@ sadie and zach gottlieb, 16-year-old founder of talk with zach, discuss teen men
 
 - date: 2022-11-29
 - tags: relationships, trauma
-- guests: not extracted yet
+- guests: nancy diaz of global citizen therapy
 - url: https://shepersistedpodcast.com/episodes/ep124
 - transcript: episodes/ep-124.md (full)
 
-Today's guest is Nancy Diaz of Global Citizen Therapy. Nancy provides online therapy and coaching services for multicultural women of color in order to pave the way for generational healing. In this episode, we discuss the identity struggles that daughters of immigrants can face and communicating these struggles with parents, finding the perfect therapists and mental health resources for women of color, the relationships between systematic oppression and mental health struggles, and how generational healing can help treat trauma.
+sadie talks with nancy diaz, a trauma-informed therapist who specializes in working with multicultural women of color and daughters of immigrants. they discuss identity struggles that arise from growing up between two cultures, how systemic oppression and racial trauma show up in mental health, and practical tools for communicating needs with immigrant parents using i-statements. nancy explains how to find culturally competent therapists, respond to microaggressions without self-judgment, and embrace soul care over performative self-care. the conversation emphasizes that individual healing creates a ripple effect of generational healing—you don't have to fix your whole family to break cycles.
+
+> we work so hard to get that seat at the table that when we get there, we're so exhausted, we don't even know what to do now that we have the microphone.
+> it's completely normal to feel as if you are failing, as if you aren't fitting in, and as if you're never going to fit in.
+> whatever your response is, it's a trauma response and it's valid. whether you freeze, whether you decide to fight back, or whether you just run away.
 
 ## 123. Q+A: Staying Healthy in College, Eating Habits, Starting Therapy, & More!
 
@@ -1992,11 +2020,15 @@ in this episode, sadie sits down with shani tran—therapist, author of dope the
 
 - date: 2022-10-20
 - tags: self-improvement
-- guests: not extracted yet
+- guests: dr. sasha heinz, developmental psychologist and life coach
 - url: https://shepersistedpodcast.com/episodes/ep118
 - transcript: episodes/ep-118.md (full)
 
-Today's guest is Sasha Heinz, PhD, MAPP—a developmental psychologist and life coach who is an expert in positive psychology, lasting behavioral change, and the science of getting unstuck. In her private coaching practice, she teaches clients the tools to change their lives for good. Heinz received her BA from Harvard, her PhD in development psychology from Columbia, and her master’s in applied positive psychology from the University of Pennsylvania, where she also served as a faculty member (go Quakers!!). We discuss how attending therapy can help you with 'adulting', how to use coping skills in daily life, the myths around toxic positivity, how to improve your life using positive psychology, and misconceptions about improving your well-being.
+sadie talks with dr. sasha heinz, a developmental psychologist and coach, about how positive psychology and developmental principles can help you actually feel better—not just analyze what's broken. dr. heinz shares her own recovery from bulimia, explains why focusing on strengths (not just wounds) can be more healing, and breaks down brain biases like hedonic adaptation and the availability heuristic that keep you feeling stuck. listeners learn practical ways to build mental fitness, why comparing yourself to your past self (not your peers) matters, and how well-being is about meaning, connection, and engagement—not just happiness.
+
+> it's so much about what you don't do. it's almost like it's more about weeding out and pruning out than it is about adding in.
+> as you become more skillful at something, your peer group also increases its skillset. that's the way it works. so you're never gonna feel like you've arrived.
+> mental health is a commitment to reality at all costs. so we are beginning with the premise that to be well means that we have to live in reality.
 
 ## 117. How I Get the Most Out of Therapy + Feel Seen in Sessions - SOLO EP
 
@@ -2180,11 +2212,15 @@ sadie wraps up her freshman year at upenn by sharing practical advice on maintai
 
 - date: 2022-06-23
 - tags: sleep
-- guests: not extracted yet
+- guests: heather turgeon, psychotherapist and author of generation sleepless, julie wright, psychotherapist and author of generation sleepless
 - url: https://shepersistedpodcast.com/episodes/ep104
 - transcript: episodes/ep-104.md (full)
 
-Today's guests are Heather Turgeon and Julie Wright—the psychotherapists, sleep experts, and the authors of The Happy Sleeper and Generation Sleepless. In this episode, we discuss why teenagers are experiencing more sleep deprivation than any other demographic, the "perfect storm" leading teens to lose sleep, what exactly happens when you sleep + why it's so important that you get enough rest, at-home steps you can take to improve your sleep hygiene, night routine tips, how to combat insomnia, tips to get up in the morning, and so much more! If you are a teen or parent of a teen who struggles with sleep (like most of us do) this episode is for you and will provide so much value!
+sadie sits down with psychotherapists heather turgeon and julie wright, authors of generation sleepless, to talk about why teens are the most sleep-deprived demographic. they break down the 'perfect storm'—biological clock shifts, homework overload, activities, tech, and early school start times—that pushes bedtime later while wake-up stays the same. the conversation covers what happens in your brain when you don't sleep enough (waste buildup, memory problems, double the depression risk), plus real, practical steps you can take at home: wake up at the same time every day (even weekends), get 5–10 minutes of morning sun, cut caffeine by 2 p.m., wind down an hour before bed, and use passive distraction if you can't fall asleep. they also touch on naps, insomnia, waking up, sleep trackers, and why sleep isn't boring—it's the foundation for everything else.
+
+> sleep is natural. our bodies are built to sleep. our bodies want to sleep. the main reasons we don't sleep is that something external is getting in the way and we just need to get that out of the way so our bodies can do what they're already very hardwired to do.
+> kids who sleep six hours a night are twice as likely to have symptoms of depression.
+> you shouldn't go to bed like you're landing a plane... you have to come in slow.
 
 ## 103. How to Optimize Your Therapy Sessions feat. ShrinkChick's Emmalee Bierly + Jennifer Chaiken
 
@@ -2241,7 +2277,7 @@ in episode 100, sadie reflects on her own recovery from severe depression and an
 ## 99. ACNE 101 feat. CLEARSTEM Founders Danielle Gronich + Kayleigh Christina
 
 - date: 2022-05-18
-- tags: none
+- tags: body image, self-improvement, social media
 - guests: danielle gronich, owner of san diego acne clinic and known as the acne guru™, kayleigh christina, holistic nutritionist
 - url: https://shepersistedpodcast.com/episodes/ep99
 - transcript: episodes/ep-099.md (full)
@@ -2697,7 +2733,7 @@ sadie sits down with lindsay fleming lpc, a chicago-based therapist who speciali
 ## 64. Inside the Secret World of the Troubled Teen Industry: Breaking Code Silence
 
 - date: 2021-05-07
-- tags: none
+- tags: troubled teen industry, trauma, teen mental health
 - guests: sydney montana, cross creek survivor
 - url: https://shepersistedpodcast.com/episodes/ep64
 - transcript: episodes/ep-064.md (full)
@@ -2725,7 +2761,7 @@ sadie sits down with rae fung, a speaking coach from singapore, to talk about co
 ## 62. The Evolution of the Treatment Industry, Navigating Adolescent Addiction, and the Compassionate Care Model feat. Evan Haines
 
 - date: 2021-04-24
-- tags: none
+- tags: troubled teen industry, trauma, teen mental health
 - guests: evan haines, co-founder of alo house
 - url: https://shepersistedpodcast.com/episodes/ep62
 - transcript: episodes/ep-062.md (full)
@@ -2767,7 +2803,7 @@ sadie sits down with zachery dereniowski (@mdmotivator), a former college dropou
 ## 59. How to Discuss Your Mental Health in Your College Application According to a Former USC Admissions Counselor
 
 - date: 2021-03-26
-- tags: none
+- tags: college, teen mental health, self-improvement
 - guests: hillary higgins, associate director of college counseling at the nueva school and former usc admissions counselor
 - url: https://shepersistedpodcast.com/episodes/ep59
 - transcript: episodes/ep-059.md (full)
@@ -2777,7 +2813,7 @@ sadie talks with hillary higgins, associate director of college counseling at th
 ## 58. Maintaining Your Mental Health Throughout The College Application Process (Navigating Rejection, Deferral, and Acceptance)
 
 - date: 2021-03-07
-- tags: none
+- tags: college, anxiety, teen mental health
 - guests: maya
 - url: https://shepersistedpodcast.com/episodes/ep58
 - transcript: episodes/ep-058.md (full)
@@ -2787,7 +2823,7 @@ sadie sits down with her best friend maya to talk through the emotional rollerco
 ## 57. How I Got Into the University of Pennsylvania (My Test Scores, Personal Statement, Supplementals, Activities, Recommendation Advice, Etc)
 
 - date: 2021-02-27
-- tags: none
+- tags: college, teen mental health, depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep57
 - transcript: episodes/ep-057.md (full)
@@ -2801,7 +2837,7 @@ sadie walks through her entire university of pennsylvania application, breaking 
 ## 56. OCD + Exposure Therapy
 
 - date: 2021-02-19
-- tags: none
+- tags: anxiety, self-improvement, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep56
 - transcript: episodes/ep-056.md (full)
@@ -2811,7 +2847,7 @@ sadie breaks down ocd, anxiety, and exposure therapy in this solo episode. she e
 ## 55. Mental Health Advice for High School Students
 
 - date: 2021-02-07
-- tags: none
+- tags: teen mental health, self-improvement, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep55
 - transcript: episodes/ep-055.md (full)
@@ -2821,7 +2857,7 @@ sadie shares her personal mental health advice for navigating high school. she t
 ## 54. RELATIONSHIPS + Attachment Styles feat. Kirstie Taylor
 
 - date: 2021-01-23
-- tags: none
+- tags: relationships, trauma, anxiety
 - guests: kirstie taylor, dating and relationship writer
 - url: https://shepersistedpodcast.com/episodes/ep54
 - transcript: episodes/ep-054.md (full)
@@ -2835,7 +2871,7 @@ sadie sits down with dating and relationship writer kirstie taylor to explore ho
 ## 53. How to Write Pitch Emails, Building Influencer Relationships, Using Social Media to Improve Body Confidence, + Podcast Tips feat. Camila Vola
 
 - date: 2021-01-15
-- tags: none
+- tags: social media, body image, self-improvement
 - guests: camila vola, host of my point of view podcast
 - url: https://shepersistedpodcast.com/episodes/ep53
 - transcript: episodes/ep-053.md (full)
@@ -2845,7 +2881,7 @@ sadie talks with camila vola, a 22-year-old college student from argentina who h
 ## 52. Q+A: Why I started She Persisted, misconceptions about treatment, increasing productivity, podcast growth tips, + more!
 
 - date: 2021-01-08
-- tags: none
+- tags: self-improvement, career, teen mental health
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep52
 - transcript: episodes/ep-052.md (full)
@@ -2855,7 +2891,7 @@ in this solo q+a episode, sadie answers listener questions about starting she pe
 ## 51. Woomanhood + Wellness feat. Amanda DiMarco
 
 - date: 2020-12-18
-- tags: none
+- tags: social media, self-improvement, relationships
 - guests: amanda dimarco, founder of just mands blog and podcast
 - url: https://shepersistedpodcast.com/episodes/ep51
 - transcript: episodes/ep-051.md (full)
@@ -2865,7 +2901,7 @@ sadie talks with amanda dimarco, founder of just mands blog and podcast, about b
 ## 50. Nutritional Psychiatry: Using Nutrients to Improve Your Mental Health feat. Uma Naidoo MD
 
 - date: 2020-12-12
-- tags: none
+- tags: anxiety, depression, self-improvement
 - guests: dr. uma naidoo, director of nutritional and lifestyle psychiatry at massachusetts general hospital
 - url: https://shepersistedpodcast.com/episodes/ep50
 - transcript: episodes/ep-050.md (full)
@@ -2875,7 +2911,7 @@ sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional
 ## 49. Authenticity + Storytelling with Sage Lally
 
 - date: 2020-12-05
-- tags: none
+- tags: dbt, college, emotions
 - guests: sage lally, founder of be.
 - url: https://shepersistedpodcast.com/episodes/ep49
 - transcript: episodes/ep-049.md (full)
@@ -2885,7 +2921,7 @@ sadie sits down with sage lally, founder of be., to talk about navigating mental
 ## 48. How I Recovered From Teenage Depression
 
 - date: 2020-10-23
-- tags: none
+- tags: depression, teen mental health, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep48
 - transcript: episodes/ep-048.md (full)
@@ -2899,7 +2935,7 @@ sadie shares what helped her recover from teenage depression, drawing on skills 
 ## 47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distress Tolerance)
 
 - date: 2020-10-16
-- tags: none
+- tags: dbt, emotions, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep47
 - transcript: episodes/ep-047.md (full)
@@ -2909,7 +2945,7 @@ sadie breaks down dbt's tipp skill—a crisis survival tool that uses temperatur
 ## 46. Bootstrapping a Buisiness feat. Evonna Kuehner of ANOVÉ Beauty
 
 - date: 2020-10-09
-- tags: none
+- tags: career, self-improvement
 - guests: evonna kuehner, founder and ceo of anové beauty
 - url: https://shepersistedpodcast.com/episodes/ep46
 - transcript: episodes/ep-046.md (full)
@@ -2919,7 +2955,7 @@ sadie talks with evonna kuehner, founder and ceo of anové beauty, about buildin
 ## 45. Balancing Your Life feat. Abbie Stasior
 
 - date: 2020-10-02
-- tags: none
+- tags: self-improvement, career, anxiety
 - guests: abbie stasior, health and life coach
 - url: https://shepersistedpodcast.com/episodes/ep45
 - transcript: episodes/ep-045.md (full)
@@ -2929,7 +2965,7 @@ sadie sits down with abbie stasior, a health and life coach, columbia grad stude
 ## 44. Your Insecurity is Not Unique feat. Kelsey Jones
 
 - date: 2020-09-25
-- tags: none
+- tags: self-improvement, body image, career
 - guests: kelsey jones, host of what's stopping you podcast
 - url: https://shepersistedpodcast.com/episodes/ep44
 - transcript: episodes/ep-044.md (full)
@@ -2939,7 +2975,7 @@ sadie sits down with kelsey jones, host of what's stopping you podcast and stude
 ## 42. Q+A #2: Personal Growth, Applying to College, Radical Acceptance (DBT Education) and more!
 
 - date: 2020-09-11
-- tags: none
+- tags: dbt, self-improvement, college
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep42
 - transcript: episodes/ep-042.md (full)
@@ -2949,7 +2985,7 @@ sadie answers listener questions about her personal journey, covering how hearin
 ## 41. The Traumatic Side of the Adolescent Treatment Industry feat. Daisye Byrd Graham
 
 - date: 2020-09-04
-- tags: none
+- tags: troubled teen industry, trauma, teen mental health
 - guests: daisye byrd graham
 - url: https://shepersistedpodcast.com/episodes/ep41
 - transcript: episodes/ep-041.md (full)
@@ -2959,7 +2995,7 @@ sadie sits down with her best friend daisye byrd graham to discuss daisye's pers
 ## 40. Living Past Crazy feat. J'Anmetra Waddell
 
 - date: 2020-08-28
-- tags: none
+- tags: trauma, anxiety, depression
 - guests: j'anmetra waddell, author and life past crazy specialist
 - url: https://shepersistedpodcast.com/episodes/ep40
 - transcript: episodes/ep-040.md (full)
@@ -2969,7 +3005,7 @@ sadie talks with j'anmetra waddell (jo-jo), a domestic abuse survivor, author, a
 ## 39. Your Foolproof Guide to a Good Night's Sleep (+ 2 Guided Sleep Meditation Practices)
 
 - date: 2020-08-21
-- tags: none
+- tags: sleep, anxiety, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep39
 - transcript: episodes/ep-039.md (full)
@@ -2979,7 +3015,7 @@ this episode is a practical guide to getting better sleep, especially if you str
 ## 38. Before You Kill Yourself feat. Leo Flowers
 
 - date: 2020-08-14
-- tags: none
+- tags: depression, self-improvement, emotions
 - guests: leo flowers, tedx speaker, stand-up comedian, life coach, and podcast host
 - url: https://shepersistedpodcast.com/episodes/ep38
 - transcript: episodes/ep-038.md (full)
@@ -2989,7 +3025,7 @@ sadie talks with leo flowers, a tedx speaker, stand-up comedian, life coach, and
 ## 37. Brush and Barley's Audrey Bailey on Jesus and Mental Health
 
 - date: 2020-08-07
-- tags: none
+- tags: anxiety, depression, social media
 - guests: audrey bailey, artist and creator of brush and barley
 - url: https://shepersistedpodcast.com/episodes/ep37
 - transcript: episodes/ep-037.md (full)
@@ -2999,7 +3035,7 @@ sadie talks with audrey bailey, artist and creator of brush and barley, about na
 ## 36. Being Young AND the Best Version of Yourself feat. Sarah Humphrey
 
 - date: 2020-07-31
-- tags: none
+- tags: 20s, self-improvement, body image
 - guests: sarah humphrey, host of it ain't it sis
 - url: https://shepersistedpodcast.com/episodes/ep36
 - transcript: episodes/ep-036.md (full)
@@ -3009,7 +3045,7 @@ sadie sits down with sarah humphrey, host of it ain't it sis, to talk about navi
 ## 35. Clean Beauty, Mental Health During Quarantine, Giving Back, Diversity in the Beauty Industry, and Entrepreneurship feat. Cassandra McClure
 
 - date: 2020-07-24
-- tags: none
+- tags: career, anxiety, self-improvement
 - guests: cassandra mcclure, entrepreneur and host of the clean beauty podcast
 - url: https://shepersistedpodcast.com/episodes/ep35
 - transcript: episodes/ep-035.md (full)
@@ -3019,7 +3055,7 @@ sadie sits down with cassandra mcclure, a model-turned-makeup artist and clean b
 ## 34. The benefits of nature, adventure, and connection feat. Brittany Crane (founder of Get Out There Girl)
 
 - date: 2020-07-10
-- tags: none
+- tags: self-improvement, anxiety, relationships
 - guests: brittany crane (founder of get out there girl)
 - url: https://shepersistedpodcast.com/episodes/ep34
 - transcript: episodes/ep-034.md (full)
@@ -3029,7 +3065,7 @@ sadie talks with brittany crane, founder of get out there girl, about how nature
 ## 33. Q+A #1: podcasting, supporting a friend that's struggling with mental health, rebuilding relationships, and navigating change!
 
 - date: 2020-07-04
-- tags: none
+- tags: relationships, teen mental health, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep33
 - transcript: episodes/ep-033.md (full)
@@ -3039,7 +3075,7 @@ in this solo q+a episode, sadie answers listener questions about her podcasting 
 ## 32. Scout Sobel on her experience with bipolar, Okay Sis, healthy relationships, navigating mental illness, and more!
 
 - date: 2020-06-26
-- tags: none
+- tags: relationships, emotions, self-improvement
 - guests: scout sobel, host of scout podcast and okay sis
 - url: https://shepersistedpodcast.com/episodes/ep32
 - transcript: episodes/ep-032.md (full)
@@ -3049,7 +3085,7 @@ sadie talks with scout sobel, host of scout podcast and okay sis, about living w
 ## 31. Full eating disorder recovery, owning your recovery, and working on yourself before helping others feat. Alexis Smith
 
 - date: 2020-06-19
-- tags: none
+- tags: body image, self-improvement, anxiety
 - guests: alexis smith, creator of every ounce of strength
 - url: https://shepersistedpodcast.com/episodes/ep31
 - transcript: episodes/ep-031.md (full)
@@ -3059,7 +3095,7 @@ sadie sits down with lexie smith from every ounce of strength to talk about her 
 ## 30. GRATITUDE feat. Jill Nowak (LICSW) from 3East, McLean Hospital
 
 - date: 2020-06-12
-- tags: none
+- tags: teen mental health, emotions, self-improvement
 - guests: jill nowak (licsw) from 3east, mclean hospital
 - url: https://shepersistedpodcast.com/episodes/ep30
 - transcript: episodes/ep-030.md (full)
@@ -3069,7 +3105,7 @@ sadie and jill nowak (licsw) from 3east at mclean hospital talk about sadie's ex
 ## 29. Validation and Empathy: How YOU can support the Black Lives Matter movement
 
 - date: 2020-06-05
-- tags: none
+- tags: dbt, relationships, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep29
 - transcript: episodes/ep-029.md (full)
@@ -3079,7 +3115,7 @@ in this episode, sadie applies dbt skills—specifically validation and mindfuln
 ## 28. Blaise Aguirre M.D. on Dialectical Behavioral Therapy, Emotional Experience, Persistence, and Taking Ownership of Your Life
 
 - date: 2020-05-22
-- tags: none
+- tags: dbt, emotions, teen mental health
 - guests: dr. blaise aguirre
 - url: https://shepersistedpodcast.com/episodes/ep28
 - transcript: episodes/ep-028.md (full)
@@ -3093,7 +3129,7 @@ sadie sits down with dr. blaise aguirre, the psychiatrist who treated her at 3ea
 ## 27. The Benefits of Therapy, Medication Management and Stigma, and The COVID-19 Mental Health Crisis with Emily LeBaron
 
 - date: 2020-05-15
-- tags: none
+- tags: depression, teen mental health, anxiety
 - guests: emily lebaron, founder of living for hope
 - url: https://shepersistedpodcast.com/episodes/ep27
 - transcript: episodes/ep-027.md (full)
@@ -3103,7 +3139,7 @@ sadie sits down with emily lebaron, founder of the living for hope brand, to dis
 ## 26. Gaining independence, taking control of your mental health, how to maintain your self-respect in your interactions, and the FAST skill (DBT Education)
 
 - date: 2020-05-08
-- tags: none
+- tags: dbt, self-improvement, relationships
 - guests: ivy sutton
 - url: https://shepersistedpodcast.com/episodes/ep26
 - transcript: episodes/ep-026.md (full)
@@ -3113,7 +3149,7 @@ sadie sits down with her younger sister ivy to talk about building independence,
 ## 25. Gaining Confidence, Navigating Social Media in a Healthy Way, Maintaining Productivity in Quarantine, and the Importance of Vulnerability! feat. the Leeza Rants Podcast
 
 - date: 2020-05-01
-- tags: none
+- tags: anxiety, social media, self-improvement
 - guests: leeza from the leeza rants podcast
 - url: https://shepersistedpodcast.com/episodes/ep25
 - transcript: episodes/ep-025.md (full)
@@ -3127,7 +3163,7 @@ sadie talks with leeza from the leeza rants podcast about building confidence, n
 ## 24. Teenage Break-Up Protocol: How to Figure Out if You Need to End a Relationships, the 8-Step Approach to Ending it, and Break-Up Horror Stories!
 
 - date: 2020-04-25
-- tags: none
+- tags: relationships, teen mental health, emotions
 - guests: stephanie
 - url: https://shepersistedpodcast.com/episodes/ep23-yt5bx
 - transcript: episodes/ep-024.md (full)
@@ -3137,7 +3173,7 @@ sadie and her friend stephanie walk through breakup protocol for teen relationsh
 ## 23. A Dad's Perspective: Preconceptions About Adolescent Mental Health, Parenting Tips, and Our Growth as a Family
 
 - date: 2020-04-10
-- tags: none
+- tags: teen mental health, relationships, depression
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep23
 - transcript: episodes/ep-023.md (full)
@@ -3151,7 +3187,7 @@ sadie sits down with her dad to talk about what it was like parenting a teenager
 ## 22. How to maintain your mental health during coronavirus (COVID-19) and self-quarantine
 
 - date: 2020-04-03
-- tags: none
+- tags: anxiety, teen mental health, relationships
 - guests: maya
 - url: https://shepersistedpodcast.com/episodes/ep22
 - transcript: episodes/ep-022.md (full)
@@ -3161,7 +3197,7 @@ sadie and maya (a returning guest and high school junior) talk about navigating 
 ## 21. DBT Education: GIVE + THINK skills aka how to improve your relationships... navigating parental conflicts, friendships, and arguments
 
 - date: 2020-03-21
-- tags: none
+- tags: dbt, relationships, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep21
 - transcript: episodes/ep-021.md (full)
@@ -3171,7 +3207,7 @@ sadie breaks down two dbt interpersonal effectiveness skills designed to strengt
 ## 20. DBT Education: DEARMAN skill (Describe, Express, Assert, Reinforce, be Mindful, Appear confident, Negotiate)... how to get what you want from other people in an effective manner
 
 - date: 2020-03-18
-- tags: none
+- tags: dbt, relationships, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep20
 - transcript: episodes/ep-020.md (full)
@@ -3181,7 +3217,7 @@ this episode breaks down the dearman skill from dialectical behavior therapy (db
 ## 19. DBT Education: Interpersonal Effectiveness Overview... clarifying relational goals and disproving unhealthy beliefs ft. my younger sister
 
 - date: 2020-03-12
-- tags: none
+- tags: dbt, relationships, self-improvement
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep19
 - transcript: episodes/ep-019.md (full)
@@ -3191,7 +3227,7 @@ sadie walks her younger sister through the interpersonal effectiveness module of
 ## 18. DBT Education: Mindfulness continued (the HOW skills: Nonjudgmentally+Effectively+One-Mindfully, Loving Kindness, and Being vs Doing Mind)... skills for combatting depression and anxiety
 
 - date: 2020-03-07
-- tags: none
+- tags: dbt, anxiety, depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep18
 - transcript: episodes/ep-018.md (full)
@@ -3201,7 +3237,7 @@ this episode continues the mindfulness module, focusing on the HOW skills from d
 ## 17. DBT Education: Intro to Mindfulness (the WHAT skills: Participate+Observe+Describe and States of Mind) with guided mindfulness practices!
 
 - date: 2020-02-29
-- tags: none
+- tags: dbt, emotions, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep17
 - transcript: episodes/ep-017.md (full)
@@ -3211,7 +3247,7 @@ this episode kicks off the mindfulness module of dbt by breaking down what mindf
 ## 16. DBT Education: Dialectical Behavioral Therapy (an overview)... changing problem behaviors, validating, key principles to use when combatting teenage depression and anxiety
 
 - date: 2020-02-21
-- tags: none
+- tags: dbt, anxiety, depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep16
 - transcript: episodes/ep-016.md (full)
@@ -3221,7 +3257,7 @@ sadie breaks down the fundamentals of dialectical behavioral therapy (dbt), cove
 ## 15. How do you support a friend struggling with depression and anxiety while maintaining your own mental health?
 
 - date: 2020-01-24
-- tags: none
+- tags: relationships, depression, anxiety
 - guests: sadie's best friend from home
 - url: https://shepersistedpodcast.com/episodes/ep15
 - transcript: episodes/ep-015.md (full)
@@ -3231,7 +3267,7 @@ sadie sits down with her best friend from home, who shares what it was like to w
 ## 14. The effect of depression and anxiety on a family… feat. my younger sister
 
 - date: 2019-10-25
-- tags: none
+- tags: depression, anxiety, relationships
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep14
 - transcript: episodes/ep-014.md (full)
@@ -3241,7 +3277,7 @@ sadie sits down with her younger sister to talk about how mental health struggle
 ## 11. Emily Thelen (MA+LCPC+CTRS) on adjusting to change, societal norms, therapeutic boarding school, wilderness, and recovering from depression and anxiety.
 
 - date: 2019-10-02
-- tags: none
+- tags: teen mental health, anxiety, depression
 - guests: emily thelen (ma, lcpc, ctrs)
 - url: https://shepersistedpodcast.com/episodes/ep11
 - transcript: episodes/ep-011.md (full)
@@ -3251,7 +3287,7 @@ sadie sits down with emily thelen, one of her therapists from therapeutic boardi
 ## 10. Jacob Sparks (LMFT) on therapeutic boarding schools, healthy relationships, coping skills, self-love, and recovering from depression and anxiety.
 
 - date: 2019-09-23
-- tags: none
+- tags: anxiety, depression, relationships
 - guests: jacob sparks, lmft
 - url: https://shepersistedpodcast.com/episodes/ep10
 - transcript: episodes/ep-010.md (full)
@@ -3261,7 +3297,7 @@ sadie sits down with jacob sparks, lmft, who was her individual and family thera
 ## 8. A parent’s guide to adolescent treatment for depression and anxiety: family therapy, what it’s like sending your child away, and how it helped our family… feat. my Dad
 
 - date: 2019-08-21
-- tags: none
+- tags: teen mental health, depression, anxiety
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep8
 - transcript: episodes/ep-008.md (full)
@@ -3271,7 +3307,7 @@ sadie sits down with her dad to talk about what it was like parenting a teen thr
 ## 6. Building and maintaining fulfilling, healthy, loving relationships with family members, friends, and peers
 
 - date: 2019-08-07
-- tags: none
+- tags: relationships, self-improvement, 20s
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep6
 - transcript: episodes/ep-006.md (full)
@@ -3281,7 +3317,7 @@ sadie sits down with a friend to talk about navigating different types of relati
 ## 5. Teen anxiety: how to cope, using skills, and surviving school
 
 - date: 2019-07-31
-- tags: none
+- tags: anxiety, teen mental health, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep5
 - transcript: episodes/ep-005.md (full)
@@ -3291,7 +3327,7 @@ this episode dives into teen anxiety—what it feels like day-to-day, how panic 
 ## 3. A sister’s perspective: what do depression and anxiety look like? How do you support a sibling struggling? How did therapy help our family?
 
 - date: 2019-07-17
-- tags: none
+- tags: depression, anxiety, relationships
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep3
 - transcript: episodes/ep-003.md (full)
@@ -3301,7 +3337,7 @@ sadie sits down with her younger sister to talk about what it was like watching 
 ## 2. A Dad’s perspective on how to support a teen suffering from depression and anxiety
 
 - date: 2019-07-17
-- tags: none
+- tags: anxiety, depression, teen mental health
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep2
 - transcript: episodes/ep-002.md (full)
@@ -3311,7 +3347,7 @@ sadie sits down with her dad to talk about what it was like for him to watch his
 ## 1. A teen’s perspective: depression and anxiety… my core beliefs, the decision I made to work on myself, and my journey through intensive mental health treatment
 
 - date: 2019-07-10
-- tags: none
+- tags: teen mental health, depression, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep1
 - transcript: episodes/ep-001.md (full)
