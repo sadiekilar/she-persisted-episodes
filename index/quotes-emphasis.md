@@ -1,0 +1,245 @@
+# pull quote emphasis
+
+241 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
+
+- 263: there's no prize for waiting until your mental health becomes an emergency.
+- 262: Once you know something's a habit, it's a choice.
+- 261: the experiences you have are not a roadmap. they're not a blueprint. the path is of your choosing.
+- 260: the big barrier for me from asking for help was that i felt like other people needed help more.
+- 259: just because most people do this path, or just because you thought that was what you were gonna do, doesn't mean you have to do that thing.
+- 258: worthiness is not just achieved from nothing. it's a practice of turning towards pain in a centered way over and over and over again.
+- 257: it's not that people with low self-esteem don't wanna be loved, it's just that they feel misunderstood, and we need to feel understood to feel loved.
+- 256: you can't build a life worth living if you don't plan to live it.
+- 255: the problem isn't that you don't want help. it's that being vulnerable and accepting that help or asking for that help feels like too much.
+- 254: people don't take advice they don't feel understood by.
+- 253: that is the mindset that built foundation that my mental health sits upon. that forever changed the trajectory of my life and my mental health and for the better.
+- 251: for young people right now, there is a sense of apathy and, a lack of hope.
+- 250: if you're not progressing, you're regressing.
+- 249: You cannot talk your body out of panic. You have to change the physical before you can address the mental.
+- 248: when you're feeling depressed, it's really easy for your brain to bring up all those other times you felt depressed; this is why advice like "look on the bright side" doesn't work
+- 247: mental health isn't so much about what you feel, it's about how much it's costing you.
+- 246: growth is a direction, not a destination.
+- 245: i realized that loneliness that i felt came from waiting until i felt disconnected to actually do something about it.
+- 244: the least effective way to do anything in life is to rely on willpower.
+- 243: loneliness is not only a normal and natural feeling, but it means that you have a functional social system. loneliness is actually a sign to ourselves that we are desiring connection, that we want it.
+- 242: i wasn't seeking attention, i was seeking connection, and the tools that i had were not the correct ones.
+- 241: you cannot resent someone for a need that you've never communicated.
+- 240: there's no such thing as the one. what there is is the one you choose, and you have to continue choosing them over and over and over again.
+- 239: patients don't fail in dbt. there's always another way to get through something. and if you can't change it, then you have to accept it.
+- 238: mental health is not the same as being happy.
+- 237: to get stronger, to get to the other side of change, you have to go through a little bit of pain. it's part of the process.
+- 236: you can't delete emotions, but you can rewrite the sequence that they occur in.
+- 235: self-love is just a relationship with yourself like you have with anybody else.
+- 234: you are not going nowhere just because you haven't gotten where you want to go yet.
+- 233: if there's something wrong with the kids, that's about the environment that we've created as adults.
+- 232: choose friends that have similar goals and they will help get you there faster.
+- 231: If you are sad about things that should create sadness, if you are anxious about things that should create anxiety, then you are mentally healthy.
+- 230: the number one thing in life that predicts good mental health is relationships.
+- 229: Talking is different than help seeking.
+- 228: we should try to reverse engineer the life we want.
+- 227: When we're suffering and struggling, it's actually hardest to do the things that would help us most.
+- 226: we don't rise to our goals, we fall to the level of our systems.
+- 225: your personality traits are almost like tools that help you achieve your goals in life.
+- 224: guilt is I did something wrong. shame is I am wrong.
+- 223: there's value in the problems that you can help other people solve, and value in having problems that other people can help you solve too.
+- 222: emotional fitness isn't about a lack of problems. it's about having an ongoing practice that bolsters you against the difficult things you're going to face in life.
+- 221: no one knows your application like you do.
+- 220: psychology is synonymous with research. even if you eventually want to do clinical, you can't avoid it.
+- 219: to belong within the college environment is to belong to that journey, to that process of becoming.
+- 218: we have not solved the problem if we get rid of the phones but everyone walks into the cafeteria with a laptop out.
+- 217: your genes can make you more vulnerable, but they don't write your destiny.
+- 216: I think there's a lot of joy that I've found and connection with people because I struggle.
+- 215: you have to make meaning out of suffering. if you don't, it's just suffering and it was for nothing.
+- 214: something has to give. you can't give 100 percent to your academics, your social life, your mental health, and work. that would be 400%.
+- 213: we're best positioned to help the person who we once were.
+- 212: success isn't the scoreboard. success is the satisfaction and peace of mind of knowing that you've done your best.
+- 211: our potential is one thing, what we do with it is another.
+- 210: the goal is to have a plan in place so that when you can't think clearly, you can still access it.
+- 209: healthy behaviors are a result of habits, not willpower.
+- 208: we feel like we need to wait until we have hit rock bottom before we say anything about our mental health.
+- 207: depression is a disease of expectation and recollection. it lives in the future and in the past. at the moment, it's not that you can't enjoy; it's that you don't think you will.
+- 206: the number one thing with training someone in dbt is helping people have and express compassion from the heart for the person in front of them.
+- 205: avoidance amplifies your anxiety. every time you avoid something that you're anxious of, you become more anxious the next time you encounter it.
+- 204: cycle breakers just know that the status quo of how things have been can no longer be maintained and things need to change.
+- 203: depressed people are not stupid. they have cycled through all manner of emotion regulation strategies, including all the ones that were suggested to them, and found that they didn't work.
+- 202: everybody's 100 percent responsible for their 50 percent of the relationship.
+- 201: he who knows the why for his existence can bear almost any how.
+- 200: the statistically happiest people spend more time on their relationships. they have more relationships and they have more fulfilling relationships.
+- 199: becoming a helper is probably the best route to mental health that we have.
+- 198: it took me a really long time to be like, that wasn't normal. i don't think this was ethical, and i don't think this was right.
+- 197: the abuse is the treatment.
+- 196: one of the great virtues of using abuse and neglect as treatment is that they are cheap to do.
+- 195: when you're on any kind of trip or in a new environment, you're not able to be on autopilot and use your same skills and routines, so your support system is going to look different.
+- 194: with adhd you don't necessarily need ideas. what you need is accountability and implementation.
+- 193: grief was the first experience i had where no matter what tools i had, none of them actually mattered.
+- 192: my biggest worry is this kind of steering and nudging of human behavior in ways that rob you of your sense of self without you even realizing it's happening.
+- 191: you didn't create these problems, but you do have to solve them.
+- 190: people who believe that the causes of setbacks in their lives are temporary, changeable, and local do not become hopeless.
+- 189: you're not a machine with broken parts, you're a human being with unmet needs.
+- 188: I want people to not get their identity too wrapped around a disorder that either they may not have or that they may not have for long.
+- 187: feeling lonely is part of what it means to be a social person. you would never feel lonely if you didn't care about other people.
+- 186: no amount of success or adulation from others is going to mend the hole in your heart that comes from a lack of friendship with yourself.
+- 185: most of the time when we're judging someone else, it's just a reflection of something that's going on for us internally.
+- 184: if you're already thinking, this is going to get my partner mad, that's a red flag.
+- 183: blaming yourself and feeling shame are symptoms of the trauma. there's nothing wrong with you.
+- 182: when we learn to embrace our anxiety, it is a key to unlocking human potential.
+- 181: we don't control our emotions. but we can control our secondary emotions.
+- 180: an adhd brain would rather be anxious than bored.
+- 179: you don't have to be your friend's therapist. it's not healthy for you either.
+- 178: removing the disabling conditions is not remotely the same as building the enabling conditions of life.
+- 177: confidence comes from experience.
+- 176: nothing changes if you don't change something.
+- 175: emotions are valid. we create space for them. we appreciate them.
+- 174: everything that you want in life is on the other side of discomfort.
+- 173: eating disorder recovery is a game of chutes and ladders.
+- 172: the most important benefit is being accurately known.
+- 170: sometimes when people are in distress, they just want someone to listen, not necessarily problem solve.
+- 169: we have to meet communities where they are with what they need.
+- 168: pain is unavoidable, but suffering is preventable.
+- 167: it's okay for you to get your own help.
+- 166: the number one most important thing is your relationship with your therapist and whether you feel like you can trust them and be honest.
+- 165: you are trying your best and you can do better.
+- 164: the power of our show was in the conversations between each other.
+- 163: the tendency when we see something that we don't understand is to try to simplify it. i wish people would understand: no, it isn't simple.
+- 162: your thoughts, your emotions, they're not you. they are things you experience.
+- 161: when you see your child in pain, it is the most painful human experience anyone can experience.
+- 160: you should be the only person you're in competition with, ever.
+- 159: be really intentional with the kind of content you're consuming and what you're exposing yourself to.
+- 158: history is not destiny.
+- 157: isolation is the crux of all human suffering.
+- 156: without awareness we can't change. you have to know what the problem is before you can work on it.
+- 155: procrastinators are not lazy. they're some of the busiest people i know. they're just busy on things that are comfortable.
+- 154: you are your greatest investment.
+- 153: the prompting events are not what triggers the emotion, it's the interpretation of the event.
+- 152: rest is not lazy. sometimes we have to slow down so that we can speed up.
+- 151: i guarantee there is something about you that is extraordinary and unique and special. you just need to see that.
+- 150: time flies when you're having fun, and it's a really good sign if it feels like things are moving quickly.
+- 149: the only constant is change.
+- 148: you always have the option to not disclose.
+- 147: the needs that you have in high school don't go away just because you're in college.
+- 146: acceptance is the only way out of hell.
+- 145: it's easier to be harder on yourself when you're not sleeping.
+- 144: the gift on the other side is the ability to be resonant, to be empathetic, to truly understand what it is to be human.
+- 143: when we avoid things that make us anxious, they get exponentially worse.
+- 142: adhd is not a disorder of not knowing. we know what to do. it's a disorder of not being able to get yourself to do the thing.
+- 141: we don't need to be fixed. we're not broken.
+- 140: the more that you push yourself outside of your comfort zone, the more you will trust yourself.
+- 139: stuck is only a starting place. it's not your final destination.
+- 138: avoidance amplifies emotions.
+- 137: your generation is the most powerful generation ever in our history. you can fight back and you can have a voice in this.
+- 136: your friends are wonderful, but your friends are just that: your friends.
+- 135: just because your child needs support doesn't mean that you don't also need support.
+- 134: finding your identity comes with a lot of trial and error.
+- 133: eating disorders are emotional disorders.
+- 132: happy people don't just wait to be happy. they do things that make them happy.
+- 131: with emotion we're all or nothing: either i'm going to be overwhelmed by this, or i'm going to shut it down and pretend it's not happening.
+- 130: motivation equals momentum. it really begins with the very small choices.
+- 129: pain creates suffering only when you refuse to accept the pain.
+- 128: don't be afraid to feel what you're feeling, and allow yourself sometimes to sit in the stillness.
+- 127: anything that hurts your heart is a grieving experience.
+- 126: you cannot sprint a marathon.
+- 125: you shouldn't base how you view yourself on a decision that you only have so much control over.
+- 124: we work so hard to get that seat at the table that when we get there, we're too exhausted to know what to do with the microphone.
+- 123: be a person that is a light in their life.
+- 122: if every staff member who came in contact with a child had to be qualified, the industry would effectively shut down.
+- 121: your body is not an image. it's an experience.
+- 120: habits are the compound interest of self-improvement.
+- 119: stress can look different for everyone, and it doesn't matter the age.
+- 118: mental health is a commitment to reality at all costs.
+- 117: so much of therapy is not only what you bring to sessions, but what you implement outside of the session.
+- 116: the right relationship should not feel chaotic.
+- 115: sitting in the dark place with someone is a skill. we're not looking to fix anyone.
+- 114: distress tolerance skills help in a crisis. emotion regulation is what decreases suicidal ideation long term.
+- 113: lonely people think they're more likely to be rejected than they actually are.
+- 112: insight is wonderful, but what gives you hope is behavior change.
+- 111: triumphs don't appear out of nowhere. you're in the valley, and then you reach the summit.
+- 110: be the person that you wish you had as a teen.
+- 109: you don't have to get to a certain level of severity to use good coping strategies.
+- 108: what really hurts is not that we have to hide our secrets, but that we have to live with them alone in our thoughts.
+- 107: sometimes life taps you on the shoulder with a feather, and sometimes it runs you over with a truck. we need to learn to listen when it taps you with a feather.
+- 106: ask yourself this one very simple question: what was i thinking just before?
+- 105: you have the capacity to build a life at college that supports your mental health. where you go won't determine that.
+- 104: you shouldn't go to bed like you're landing a plane. you have to come in slow.
+- 103: therapy is for everyone, just not every therapist is for everyone.
+- 102: you'll end up where you need to be, even if the waiting period is really hard.
+- 101: if you change your thinking, you may change your whole life.
+- 100: the most isolating experiences are often the most universal.
+- 97: you're not going to punish an addiction out of someone.
+- 96: you have to want to change. you have to want to improve your life to have a life worth living.
+- 95: you are not your emotion, so you don't have to act on the emotion.
+- 93: just because we have struggles and challenges does not mean that it's not also possible for us.
+- 92: we don't heal in isolation. we heal in community.
+- 91: we live in a very stressful world right now. it's not one size fits all.
+- 90: no emotion is constant. no emotion will last forever.
+- 89: sometimes you don't want the feedback. you just need to be seen.
+- 88: the climate of my mind is so different than what it used to be.
+- 87: hurt people hurt people.
+- 86: self-confident people allow themselves the awkwardness.
+- 85: all emotions are valid, but not necessarily justified.
+- 84: try to avoid making the primary interactions with your loved one about what's wrong.
+- 83: your body sends you signals all the time. your body's trying to tell you something.
+- 82: it's okay to have negative thoughts. they're not going away. it just means that you care.
+- 81: all feelings are welcome. all behaviors are not.
+- 80: our mental health is constantly changing and fluctuating. it's something we all experience at various times to varying degrees.
+- 79: it wasn't the adversity that broke me. it was how i responded to it.
+- 78: it's okay to be messy. everyone's a mess. and messes are great because that's how we can repair and grow.
+- 77: it's not a character flaw. your child doesn't have adhd because they're a bad child, or because you're a bad parent.
+- 76: we grow in relationships.
+- 75: if you stop, you better have something to replace it that's just as enjoyable.
+- 74: every single person you meet, their actions are coming from their own pain and are more of a reflection of who they are than who you are.
+- 73: the most valuable thing in life is validating other people and using your suffering to understand them.
+- 72: when you're younger, you think that you are your emotions. when you get older, you know that it will pass.
+- 68: no one can make you healthy. no one can make you seek help.
+- 67: it's being able to look back on your high school experience and say, i'm proud of that. i did that.
+- 66: there is no greater and more powerful motivator than feeling unconditionally loved.
+- 65: i would rather a teen come in and say, sometimes i'm feeling nervous, than wait until crisis mode.
+- 64: over 145 children have died from preventable causes in residential treatment centers.
+- 63: fear and anxiety will be there. it's how you respond to it that matters.
+- 62: addiction and mental health problems don't occur out of a vacuum. they occur out of a context.
+- 61: you can't manage your behavior and emotions unless you're aware of them.
+- 60: vulnerability equals relatability equals empowerment.
+- 59: you don't want to leave the reader with any questions.
+- 58: it's not a reflection of you, and it's not a reflection of your self-worth.
+- 57: my story is not one typically showcased in a college application. i am so very proud of it.
+- 56: exposure therapy sounds like the worst possible thing you could do to someone with anxiety. it's miserable. and it works.
+- 55: we don't always recognize our needs.
+- 54: mixed signals are a clear signal.
+- 53: it's okay not to be okay.
+- 52: if you're going into anything in life with the belief that it's not going to work, it's not going to work.
+- 51: i don't really think we're meant to be consuming this much content.
+- 50: you are not alone and you can reach out to someone.
+- 49: it's so much easier to sit in that distress, because that's what's comfortable for you.
+- 48: you're not alone and it can get better.
+- 46: don't let anyone talk you out of it. don't talk yourself out of it.
+- 45: self-care is not selfish. self-care is self-centered.
+- 44: your insecurity is not unique, and it's a good thing, because everybody else is going through it too.
+- 42: medication is your water wings to help you get out of that low point and dive into your work therapeutically.
+- 41: the purpose of mental health treatment is to give you the skills to cope with your environment.
+- 39: when you are lacking sleep, everything else will fall off the wagon.
+- 38: if we start to feel ineffective in any of those areas, it creates that feeling of hopelessness.
+- 37: it's not that you're choosing there's no hope. it's literally ingrained in your brain.
+- 36: maybe everything doesn't happen for a reason, but everything happens for a purpose.
+- 35: if you aren't allowed a seat at the table, you build your own table.
+- 34: it fosters more empowerment because you are the one taking control of your mental health.
+- 33: if you can truly take care of yourself, you will be offering the best version of yourself to other people when they need support.
+- 32: when depression feels like home, it's time to step into the unknown and see what else you can call home.
+- 31: full recovery is real. and it is so worth it.
+- 30: your mind goes to the negative. and there still are the good things.
+- 29: validation doesn't mean you agree. it means that you understand where the other person is coming from.
+- 28: you've gotten through the worst moments of your life thousands of times, and here you are.
+- 27: we are all swimming across a large body of water, but some of us have extra weights on our wrists and ankles. therapy is learning new strokes.
+- 26: no one will change your experience for you. you have to be the one to decide to change.
+- 25: vulnerability is so important because it helps people feel like they're not alone.
+- 23: when there is behavior that presents itself, don't assume it is without some suffering underneath the surface.
+- 22: it feels like we're stuck in this moment of time where nothing is changing yet everything's happening.
+- 20: you're not going to assume that the other person knows how you feel. you're going to verbalize it.
+- 19: you're not bothering them. you're just getting what you need and asking for it.
+- 16: we're not a suicide prevention program. we're a life worth living program.
+- 14: i know it's not happening to me, but it feels like it's happening to me.
+- 10: you have to want to change, or you'll just get better at talking about your feelings. nothing will be different.
+- 8: make the tough decision to be present. make the tough decision to be vulnerable.
+- 6: once we were able to communicate more and be more vulnerable, everything changed.
+- 5: do not let the anxiety control you. anxiety is not even a tangible thing. do not let it rule your life.
+- 3: through struggle, you're going to find love.
+- 2: as a parent, you'd much rather see anyone else in the world suffer other than your child.
+- 1: if you don't choose to work on yourself, nothing will change.

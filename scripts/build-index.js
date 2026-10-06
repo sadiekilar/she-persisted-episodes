@@ -94,6 +94,15 @@ for (const ep of episodes) {
 }
 for (const f of fs.readdirSync(epDir)) if (!keep.has(f)) fs.unlinkSync(path.join(epDir, f));
 
+// Pull-quote emphasis: every approved quote, lowercase, for the owner to capitalise (apply-emphasis.js reads it back).
+const approvedQuotes = episodes.filter(({ meta }) => meta.quotes_approved && meta.quote);
+fs.writeFileSync(path.join(INDEX_DIR, 'quotes-emphasis.md'), `# pull quote emphasis
+
+${approvedQuotes.length} approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
+
+${approvedQuotes.map(({ meta }) => `- ${meta.number}: ${meta.quote_display || meta.quote}`).join('\n')}
+`);
+
 // Pull-quote review: one checkbox per candidate; approve-quotes.js reads the ticks.
 const pending = episodes.filter(({ meta }) => (meta.key_quotes || []).length && !meta.quotes_approved);
 fs.writeFileSync(path.join(INDEX_DIR, 'quotes-review.md'), `# pull quotes awaiting approval

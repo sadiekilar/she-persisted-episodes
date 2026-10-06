@@ -91,6 +91,8 @@ Each post is rebuilt from `index/episodes/ep-NNN.json`: back link, episode numbe
 
 **Tags** for posts that have none in Squarespace are suggested by `tags.js` from the existing tag list and kept in the repo only (`tags_override`, listed in `index/tags-review.md`, editable). Squarespace tags always win once a post has any.
 
+**Emphasis** in pull quotes is decided by hand: `index/quotes-emphasis.md` lists every approved quote in lowercase; capitalise the words to emphasise and commit. (A `pull quote:` line in a post can carry CAPS directly.)
+
 **Chapters** need "we/i talk about" bullets and a transcript with timestamps (Descript's `[00:27:00]` markers); `chapters.js` then asks Claude where each bullet starts. Timestamps are the usual blocker, see `completeness.md`.
 
 ## Transcript backfill
