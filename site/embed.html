@@ -218,11 +218,12 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     RECOMMENDS_TAG: 'sadie recommends',
     // Hero rotation, in order. rec = episode number; topic = tag, photo = episode whose
     // thumbnail stands in for it (the newest episode in the tag when left out).
+    // image = a file in site/assets/hero/ to use instead of the episode thumbnail.
     HERO: [
       { latest: true },
       { rec: 261 },
       { topic: 'anxiety', photo: 249 },
-      { rec: 228 },
+      { rec: 228, image: '228.webp' },
       { topic: 'relationships', photo: 257 },
       { rec: 242 },
       { topic: 'dbt' }
@@ -399,10 +400,10 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
         slides.push({ href: e.url, image: thumb(e.image), kicker: 'new episode', title: e.title });
       } else if (h.rec) {
         e = byNumber[h.rec];
-        if (e && e !== episodes[0]) slides.push({ href: e.url, image: thumb(e.image), kicker: 'sadie recommends', title: e.title });
+        if (e && e !== episodes[0]) slides.push({ href: e.url, image: h.image ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'sadie recommends', title: e.title });
       } else if (h.topic) {
         e = byNumber[h.photo] || inTag(h.topic)[0];
-        if (e) slides.push({ href: tagUrl(h.topic), image: thumb(e.image), kicker: 'topic', title: h.topic, topic: h.topic });
+        if (e) slides.push({ href: tagUrl(h.topic), image: h.image ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'topic', title: h.topic, topic: h.topic });
       }
     });
 
