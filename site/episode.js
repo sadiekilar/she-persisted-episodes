@@ -143,15 +143,18 @@
     '#sp-episode .sp-toggle{flex:none;margin:0;padding:0 2px;border:0;background:none;color:inherit;font:inherit;font-size:22px;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
     '#sp-episode .sp-chapter-body{display:flex;flex-direction:column;gap:14px;padding:4px 0 22px}',
     '#sp-episode .sp-chapter:not(.sp-open) .sp-chapter-body{display:none}',
-    /* the chapter that starts open is capped to a few lines, fading out, with a button to keep reading */
-    '#sp-episode .sp-clip{display:flex;flex-direction:column;gap:14px}',
-    '#sp-episode .sp-peek .sp-clip{position:relative;max-height:260px;overflow:hidden}',
-    '#sp-episode .sp-peek .sp-clip:after{content:"";position:absolute;left:0;right:0;bottom:0;height:120px;background:linear-gradient(rgba(247,247,239,0),var(--cream) 85%);pointer-events:none}',
-    '#sp-episode .sp-tr-more{align-self:flex-start;margin:0 0 0 60px;padding:10px 18px;border:1px solid var(--red);border-radius:999px;background:none;color:var(--red);font:inherit;font-size:14px;font-weight:700;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
+    /* the chapter that starts open is capped at 300px; the text fades through a mask (no painted gradient) under a bare "keep reading" control */
+    '#sp-episode .sp-clip{display:flex;flex-direction:column}',
+    '#sp-episode .sp-peek .sp-clip{max-height:300px;overflow:hidden;-webkit-mask-image:linear-gradient(180deg,#000 50%,transparent 85%);mask-image:linear-gradient(180deg,#000 50%,transparent 85%)}',
+    '#sp-episode .sp-clip.sp-expanding{overflow:hidden;transition:max-height 300ms ease}',
+    '#sp-episode .sp-tr-more{display:flex;flex-direction:column;align-items:center;gap:4px;align-self:center;margin:4px 0 28px;padding:0;border:0;background:none;color:var(--red);font:inherit;font-size:17px;font-weight:700;line-height:1;letter-spacing:-.44px;text-transform:lowercase;cursor:pointer;-webkit-appearance:none;appearance:none}',
+    '#sp-episode .sp-tr-more svg{width:18px;height:18px}',
+    '#sp-episode .sp-tr-more:hover{opacity:.75}',
     '#sp-episode .sp-chapter-body:not(.sp-peek) .sp-tr-more{display:none}',
-    '#sp-episode .sp-nostamp .sp-tr-more{margin-left:0}',
-    '#sp-episode .sp-tr-more:hover{background:var(--red);color:var(--cream)}',
-    '#sp-episode .sp-para{display:flex;gap:16px}',
+    /* paragraph rows: the one being played is tinted; rows carry their own padding so the tint never shifts the text */
+    '#sp-episode .sp-para{display:flex;gap:16px;margin:0 -16px;padding:7px 16px;border-radius:12px;transition:background 200ms;outline:none}',
+    '#sp-episode .sp-transcript.sp-seekable .sp-para{cursor:pointer}',
+    '#sp-episode .sp-para.sp-now{background:rgba(116,0,0,.06)}',
     '#sp-episode .sp-para p{font-size:17px;line-height:1.6;color:var(--ink)}',
     '#sp-episode .sp-para p b{color:var(--red);font-weight:700}',
     '#sp-episode .sp-transcript.sp-nostamp .sp-stamp{display:none}',
@@ -378,14 +381,14 @@
     var stamped = paras.some(function (p) { return p.t != null; });
     var chapters = stamped && ep.chapters && ep.chapters.length > 1 ? ep.chapters.slice().sort(function (a, b) { return a.t - b.t; }) : [];
     function para(p) {
-      return '<div class="sp-para">' + (p.t != null ? '<a class="sp-stamp" href="#t=' + p.t + '" data-seek="' + p.t + '" title="play from ' + fmt(p.t) + '"><time datetime="' + iso(p.t) + '">' + fmt(p.t) + '</time></a>' : '<span class="sp-stamp"></span>') +
+      return '<div class="sp-para"' + (p.t != null ? ' data-t="' + p.t + '"' : '') + '>' + (p.t != null ? '<a class="sp-stamp" href="#t=' + p.t + '" data-seek="' + p.t + '" title="play from ' + fmt(p.t) + '"><time datetime="' + iso(p.t) + '">' + fmt(p.t) + '</time></a>' : '<span class="sp-stamp"></span>') +
         '<p>' + (p.speaker ? '<b>' + esc(p.speaker) + ':</b> ' : '') + esc(p.text) + '</p></div>';
     }
     // the chapter that starts open shows a few lines and a "keep reading" button when it's long
     function body(list, first) {
-      var peek = first && list.length > 4;
-      return '<div class="sp-chapter-body' + (peek ? ' sp-peek' : '') + '"><div class="sp-clip">' + list.map(para).join('') + '</div>' +
-        (peek ? '<button type="button" class="sp-tr-more">keep reading</button>' : '') + '</div>';
+      // the cap is dropped again in wire() when the chapter turns out to fit under 300px
+      return '<div class="sp-chapter-body' + (first ? ' sp-peek' : '') + '"><div class="sp-clip">' + list.map(para).join('') + '</div>' +
+        (first ? '<button type="button" class="sp-tr-more" aria-expanded="false">keep reading<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>' : '') + '</div>';
     }
     var sections = '';
     if (chapters.length) {
@@ -465,7 +468,7 @@
   }
 
   // ---------- player + interactions ----------
-  var player = null, playerReady = false, pending = null;
+  var player = null, playerReady = false, pending = null, ytTick = null;
   function loadYouTubeApi(cb) {
     if (window.YT && window.YT.Player) return cb();
     var prev = window.onYouTubeIframeAPIReady;
@@ -482,7 +485,13 @@
       var holder = document.createElement('div'); box.appendChild(holder);
       player = new YT.Player(holder, {
         videoId: ep.youtube_id, playerVars: { rel: 0, playsinline: 1, modestbranding: 1 },
-        events: { onReady: function () { playerReady = true; [].forEach.call(box.querySelectorAll('img,.sp-play,.sp-player-cap'), function (n) { n.remove(); }); if (pending) { var f = pending; pending = null; f(); } } }
+        events: {
+          onReady: function () { playerReady = true; [].forEach.call(box.querySelectorAll('img,.sp-play,.sp-player-cap'), function (n) { n.remove(); }); if (pending) { var f = pending; pending = null; f(); } },
+          onStateChange: function (e) {
+            clearInterval(ytTick);
+            if (e.data === YT.PlayerState.PLAYING) ytTick = setInterval(function () { follow.onTime(player.getCurrentTime()); }, 500);
+          }
+        }
       });
     });
   }
@@ -497,6 +506,69 @@
       if (mobile.matches) { var top = inner.querySelector('.sp-player').getBoundingClientRect().top + window.pageYOffset - 70; window.scrollTo({ top: Math.max(0, top), behavior: reduced.matches ? 'auto' : 'smooth' }); }
     });
   }
+  function setChapter(sec, open) {
+    if (!sec || !sec.querySelector('.sp-toggle')) return;
+    if (sec.classList.contains('sp-open') === open) return;
+    sec.classList.toggle('sp-open', open);
+    var tg = sec.querySelector('.sp-toggle');
+    tg.textContent = open ? '\u2013' : '+'; tg.setAttribute('aria-expanded', open); tg.setAttribute('aria-label', open ? 'collapse' : 'expand');
+  }
+  function uncap(body, animate) {
+    if (!body || !body.classList.contains('sp-peek')) return;
+    var clip = body.querySelector('.sp-clip');
+    var ctl = body.querySelector('.sp-tr-more');
+    if (ctl) ctl.setAttribute('aria-expanded', 'true');
+    var firstHidden = null;
+    [].some.call(clip.children, function (r) { if (r.offsetTop + r.offsetHeight > 300) { firstHidden = r; return true; } });
+    var finish = function () { clip.classList.remove('sp-expanding'); clip.style.maxHeight = ''; };
+    if (animate && !reduced.matches) {
+      clip.style.maxHeight = '300px';
+      clip.classList.add('sp-expanding');
+      body.classList.remove('sp-peek');
+      clip.addEventListener('transitionend', function once() { clip.removeEventListener('transitionend', once); finish(); });
+      requestAnimationFrame(function () { clip.style.maxHeight = clip.scrollHeight + 'px'; });
+      setTimeout(finish, 400);
+    } else {
+      body.classList.remove('sp-peek');
+    }
+    if (animate && firstHidden) { firstHidden.setAttribute('tabindex', '-1'); firstHidden.focus({ preventScroll: true }); }
+  }
+  // follow-along: tint the paragraph being played, open its chapter, keep it in view
+  var follow = {
+    rows: [], times: [], at: -1, quietUntil: 0,
+    init: function () {
+      follow.rows = [].slice.call(inner.querySelectorAll('.sp-para[data-t]'));
+      follow.times = follow.rows.map(function (r) { return +r.getAttribute('data-t'); });
+      var pause = function () { follow.quietUntil = Date.now() + 8000; };
+      window.addEventListener('wheel', pause, { passive: true });
+      window.addEventListener('touchmove', pause, { passive: true });
+      window.addEventListener('keydown', function (e) { if (/^(Arrow(Up|Down)|Page(Up|Down)|Home|End| )$/.test(e.key)) pause(); });
+    },
+    onTime: function (s) {
+      var t = follow.times;
+      if (!t.length) return;
+      var lo = 0, hi = t.length - 1, i = -1;
+      while (lo <= hi) { var mid = (lo + hi) >> 1; if (t[mid] <= s) { i = mid; lo = mid + 1; } else hi = mid - 1; }
+      if (i === follow.at) return;
+      if (follow.at > -1) { follow.rows[follow.at].classList.remove('sp-now'); follow.rows[follow.at].removeAttribute('aria-current'); }
+      follow.at = i;
+      if (i < 0) return;
+      var row = follow.rows[i];
+      row.classList.add('sp-now'); row.setAttribute('aria-current', 'true');
+      setChapter(row.closest('.sp-chapter'), true);
+      // the cap drops once playback passes it: a row below the cap, or in a later chapter
+      var body = row.closest('.sp-chapter-body.sp-peek');
+      if (body && row.offsetTop + row.offsetHeight > 300) uncap(body, false);
+      var capped = inner.querySelector('.sp-chapter-body.sp-peek');
+      if (capped && !capped.contains(row) && (capped.compareDocumentPosition(row) & Node.DOCUMENT_POSITION_FOLLOWING)) uncap(capped, false);
+      // keep the row in the middle of the screen, but only when the transcript is already on screen and the visitor isn't scrolling
+      if (Date.now() < follow.quietUntil) return;
+      var tr = inner.querySelector('.sp-transcript').getBoundingClientRect();
+      if (tr.bottom <= 0 || tr.top >= window.innerHeight) return;
+      var r = row.getBoundingClientRect(), h = window.innerHeight;
+      if (r.top < h * 0.2 || r.bottom > h * 0.8) window.scrollTo({ top: r.top + window.pageYOffset - h * 0.4, behavior: reduced.matches ? 'auto' : 'smooth' });
+    }
+  };
   function wire() {
     var play = inner.querySelector('.sp-play');
     if (play) play.addEventListener('click', function () { ensurePlayer(function () { player.playVideo(); }); });
@@ -509,23 +581,34 @@
         return;
       }
       var more = e.target.closest('.sp-tr-more');
-      if (more) { more.closest('.sp-chapter-body').classList.remove('sp-peek'); return; }
-      // using a timestamp inside the capped chapter uncaps it
-      var peeked = e.target.closest('.sp-chapter-body.sp-peek');
-      if (peeked && e.target.closest('[data-seek]')) peeked.classList.remove('sp-peek');
+      if (more) { uncap(more.closest('.sp-chapter-body'), true); return; }
       var toggle = e.target.closest('.sp-toggle');
       if (toggle) {
-        var sec = toggle.closest('.sp-chapter'); var open = !sec.classList.contains('sp-open');
-        sec.classList.toggle('sp-open', open); toggle.textContent = open ? '\u2013' : '+'; toggle.setAttribute('aria-expanded', open); toggle.setAttribute('aria-label', open ? 'collapse' : 'expand');
+        var sec = toggle.closest('.sp-chapter');
+        setChapter(sec, !sec.classList.contains('sp-open'));
         return;
       }
+      var playable = inner.querySelector('.sp-player.sp-yt') || audio;
       var s = e.target.closest('[data-seek]');
-      if (s && (inner.querySelector('.sp-player.sp-yt') || audio)) {
+      if (s && playable) {
         e.preventDefault();
-        var sec2 = s.closest('.sp-chapter'); if (sec2 && !sec2.classList.contains('sp-open')) { sec2.classList.add('sp-open'); var tg = sec2.querySelector('.sp-toggle'); if (tg) { tg.textContent = '\u2013'; tg.setAttribute('aria-expanded', 'true'); } }
+        setChapter(s.closest('.sp-chapter'), true);
+        var pk = s.closest('.sp-chapter-body.sp-peek'); if (pk) uncap(pk, false);
         seek(+s.getAttribute('data-seek'));
+        return;
+      }
+      // the whole paragraph row seeks, unless the visitor is selecting text to copy
+      var row = e.target.closest('.sp-para[data-t]');
+      if (row && playable && !e.target.closest('a') && !(window.getSelection && String(window.getSelection()).length)) {
+        var pk2 = row.closest('.sp-chapter-body.sp-peek'); if (pk2) uncap(pk2, false);
+        seek(+row.getAttribute('data-t'));
       }
     });
+    if (inner.querySelector('.sp-player.sp-yt') || audio) { var tr = inner.querySelector('.sp-transcript'); if (tr) tr.classList.add('sp-seekable'); }
+    // a chapter that fits under the cap needs no cap
+    [].forEach.call(inner.querySelectorAll('.sp-chapter-body.sp-peek'), function (b) { if (b.querySelector('.sp-clip').scrollHeight <= 300) uncap(b, false); });
+    follow.init();
+    window.addEventListener('sp-timeupdate', function (e) { var d = e.detail; var sec = d && typeof d === 'object' ? d.seconds : d; if (isFinite(sec)) follow.onTime(+sec); });
     // #t=123 in the address opens at that point once the visitor presses play
     var tm = /[#&]t=(\d+)/.exec(location.hash);
     if (tm && play) play.addEventListener('click', function once() { play.removeEventListener('click', once); ensurePlayer(function () { player.seekTo(+tm[1], true); }); }, true);
