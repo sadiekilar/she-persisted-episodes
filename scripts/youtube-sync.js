@@ -8,6 +8,8 @@ const { INDEX_DIR, readEpisodes, writeEpisode, decodeEntities } = require('./lib
 const KEY = process.env.YOUTUBE_API_KEY;
 const CHANNEL = process.env.YOUTUBE_CHANNEL_ID || 'UCs1GxrDGrl0TbcPrQWPYfIA';
 const SHORT_MAX_SEC = 180;
+// uploads that are not episodes but whose titles look like one (fuzzy matching would pair them)
+const IGNORE = new Set(['PCJ0R6vAUnw']); // "DBT Mindfulness Skills | MARSHA LINEHAN" (was matched to 17 and 18)
 const API = 'https://www.googleapis.com/youtube/v3/';
 
 async function api(method, params) {
@@ -77,8 +79,18 @@ async function main() {
 
   const unmatched = { longs: [], shorts: [] };
   const match = new Map(); // episode number → video
+  // a youtube_id that is not one of the channel's own uploads came from a clip embedded in the post
+  // (a John Oliver segment, a documentary trailer): drop it so the episode gets its real video or the audio player
+  const uploads = new Set(videos.map((v) => v.id));
+  for (const ep of episodes) {
+    if (ep.meta.youtube_id && !uploads.has(ep.meta.youtube_id)) {
+      console.log(`youtube ${ep.meta.number}: ${ep.meta.youtube_id} is not on the channel; dropped`);
+      ep.meta.youtube_id = null;
+    }
+  }
   const alreadyKnown = new Map(episodes.filter((e) => e.meta.youtube_id).map((e) => [e.meta.youtube_id, e.meta.number]));
   for (const v of longs) {
+    if (IGNORE.has(v.id)) continue;
     let n = alreadyKnown.get(v.id);
     if (n == null) n = numberIn(v.title);
     if (n == null) n = numberIn(v.description);

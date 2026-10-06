@@ -12,11 +12,14 @@ async function lookup(creatorsEmbedUrl) {
   const res = await fetch(pageUrl, { headers: { 'user-agent': UA, accept: 'text/html' } });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const html = await res.text();
-  let from = slugId ? html.indexOf(`"episodeId":"${slugId}"`) : -1;
-  if (from < 0) from = 0; // fall back to the first spotifyUrl on the page
-  const chunk = html.slice(from, from + 20000);
+  // the page lists many episodes, each as one object; the episode's own spotifyUrl sits within a
+  // short distance of its episodeId. Never fall back to "the first spotifyUrl on the page": that is
+  // whichever episode happens to be newest (it gave 245 and 250 the wrong ids).
+  const at = slugId ? html.indexOf(`"episodeId":"${slugId}"`) : -1;
+  if (at < 0) throw new Error(`episode ${slugId || '?'} not on its page`);
+  const chunk = html.slice(Math.max(0, at - 1500), at + 1500);
   const m = /"spotifyUrl":"(https:(?:\\u002F|\/)(?:\\u002F|\/)open\.spotify\.com(?:\\u002F|\/)episode(?:\\u002F|\/)([A-Za-z0-9]{10,}))"/.exec(chunk);
-  if (!m) throw new Error('no spotifyUrl');
+  if (!m) throw new Error('no spotifyUrl next to the episode');
   return m[2];
 }
 

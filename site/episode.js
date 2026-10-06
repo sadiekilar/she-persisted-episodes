@@ -7,6 +7,7 @@
     PAGES_BASE: 'https://sadiekilar.github.io/she-persisted-episodes/',
     COLLECTION: '/episodes',
     SITE_NAME: 'she persisted',
+    APPLE_SHOW: 'https://podcasts.apple.com/us/podcast/she-persisted/id1463051730',
     SOCIAL: {
       instagram: 'https://www.instagram.com/shepersistedpodcast/',
       tiktok: 'https://www.tiktok.com/@shepersistedpodcast',
@@ -250,7 +251,8 @@
     var d = document.createElement('div'); d.innerHTML = h;
     var p = d.querySelector('p'); if (!p) return d.innerHTML;
     var text = p.textContent || '';
-    var i = text.search(/\?!?/); if (i < 0) return d.innerHTML;
+    // the red lead is the opening question; a question that only turns up deep in a long paragraph is not a hook
+    var i = text.search(/\?!?/); if (i < 0 || i > 200) return d.innerHTML;
     var end = i + (text[i + 1] === '!' ? 2 : 1);
     var walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT), seen = 0, node;
     while ((node = walker.nextNode())) {
@@ -415,7 +417,8 @@
     if (yt) badges.push(badge('https://www.youtube.com/watch?v=' + yt, ICONS + 'youtube.svg', 'watch &amp; listen on', 'youtube'));
     var spotifyUrl = ep.spotify_episode_id ? 'https://open.spotify.com/episode/' + ep.spotify_episode_id : ep.creators_embed_url ? ep.creators_embed_url.replace('/embed/', '/') : '';
     if (spotifyUrl) badges.push(badge(spotifyUrl, ICONS + 'spotify.svg', 'watch &amp; listen on', 'spotify'));
-    if (ep.apple_episode_url) badges.push(badge(ep.apple_episode_url, ICONS + 'applepodcasts.svg', 'listen on', 'apple podcasts'));
+    // Apple's lookup only returns the newest 200 episodes; older ones link to the show
+    badges.push(badge(ep.apple_episode_url || CFG.APPLE_SHOW, ICONS + 'applepodcasts.svg', 'listen on', 'apple podcasts'));
     badges.push('<button type="button" class="sp-badge sp-share">' + glyph(SHARE_ICON) + '<span><small>share</small><strong>the episode</strong></span></button>');
     var others = index.episodes.filter(function (e) { return e.number !== number; }).sort(function (a, b) { return b.number - a.number; }).slice(0, 4);
 
