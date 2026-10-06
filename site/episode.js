@@ -143,10 +143,13 @@
     '#sp-episode .sp-toggle{flex:none;margin:0;padding:0 2px;border:0;background:none;color:inherit;font:inherit;font-size:22px;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
     '#sp-episode .sp-chapter-body{display:flex;flex-direction:column;gap:14px;padding:4px 0 22px}',
     '#sp-episode .sp-chapter:not(.sp-open) .sp-chapter-body{display:none}',
-    /* collapsed preview: a few lines, fading out, so what follows stays in reach */
-    '#sp-episode .sp-chapters.sp-peek{position:relative;max-height:300px;overflow:hidden;border-bottom:0}',
-    '#sp-episode .sp-chapters.sp-peek:after{content:"";position:absolute;left:0;right:0;bottom:0;height:140px;background:linear-gradient(rgba(247,247,239,0),var(--cream) 85%);pointer-events:none}',
-    '#sp-episode .sp-tr-more{align-self:flex-start;margin:-8px 0 0;padding:10px 18px;border:1px solid var(--red);border-radius:999px;background:none;color:var(--red);font:inherit;font-size:14px;font-weight:700;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
+    /* the chapter that starts open is capped to a few lines, fading out, with a button to keep reading */
+    '#sp-episode .sp-clip{display:flex;flex-direction:column;gap:14px}',
+    '#sp-episode .sp-peek .sp-clip{position:relative;max-height:260px;overflow:hidden}',
+    '#sp-episode .sp-peek .sp-clip:after{content:"";position:absolute;left:0;right:0;bottom:0;height:120px;background:linear-gradient(rgba(247,247,239,0),var(--cream) 85%);pointer-events:none}',
+    '#sp-episode .sp-tr-more{align-self:flex-start;margin:0 0 0 60px;padding:10px 18px;border:1px solid var(--red);border-radius:999px;background:none;color:var(--red);font:inherit;font-size:14px;font-weight:700;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
+    '#sp-episode .sp-chapter-body:not(.sp-peek) .sp-tr-more{display:none}',
+    '#sp-episode .sp-nostamp .sp-tr-more{margin-left:0}',
     '#sp-episode .sp-tr-more:hover{background:var(--red);color:var(--cream)}',
     '#sp-episode .sp-para{display:flex;gap:16px}',
     '#sp-episode .sp-para p{font-size:17px;line-height:1.6;color:var(--ink)}',
@@ -378,6 +381,12 @@
       return '<div class="sp-para">' + (p.t != null ? '<a class="sp-stamp" href="#t=' + p.t + '" data-seek="' + p.t + '" title="play from ' + fmt(p.t) + '"><time datetime="' + iso(p.t) + '">' + fmt(p.t) + '</time></a>' : '<span class="sp-stamp"></span>') +
         '<p>' + (p.speaker ? '<b>' + esc(p.speaker) + ':</b> ' : '') + esc(p.text) + '</p></div>';
     }
+    // the chapter that starts open shows a few lines and a "keep reading" button when it's long
+    function body(list, first) {
+      var peek = first && list.length > 4;
+      return '<div class="sp-chapter-body' + (peek ? ' sp-peek' : '') + '"><div class="sp-clip">' + list.map(para).join('') + '</div>' +
+        (peek ? '<button type="button" class="sp-tr-more">keep reading</button>' : '') + '</div>';
+    }
     var sections = '';
     if (chapters.length) {
       var last = null;
@@ -385,16 +394,12 @@
         var next = chapters[i + 1] ? chapters[i + 1].t : Infinity;
         var from = i === 0 ? 0 : c.t; // anything before the first chapter mark belongs to the first chapter
         var mine = paras.filter(function (p) { var t = p.t == null ? last : p.t; if (p.t != null) last = p.t; return t != null && t >= from && t < next; });
-        sections += '<section class="sp-chapter"><div class="sp-chapter-head"><h3><a class="sp-stamp" href="#t=' + c.t + '" data-seek="' + c.t + '"><time datetime="' + iso(c.t) + '">' + fmt(c.t) + '</time></a><a href="#t=' + c.t + '" data-seek="' + c.t + '">' + esc(c.title) + '</a></h3><button type="button" class="sp-toggle" aria-expanded="false" aria-label="expand">+</button></div><div class="sp-chapter-body">' + mine.map(para).join('') + '</div></section>';
+        sections += '<section class="sp-chapter' + (i === 0 ? ' sp-open' : '') + '"><div class="sp-chapter-head"><h3><a class="sp-stamp" href="#t=' + c.t + '" data-seek="' + c.t + '"><time datetime="' + iso(c.t) + '">' + fmt(c.t) + '</time></a><a href="#t=' + c.t + '" data-seek="' + c.t + '">' + esc(c.title) + '</a></h3><button type="button" class="sp-toggle" aria-expanded="' + (i === 0) + '" aria-label="' + (i === 0 ? 'collapse' : 'expand') + '">' + (i === 0 ? '\u2013' : '+') + '</button></div>' + body(mine, i === 0) + '</section>';
       });
     } else {
-      sections = '<section class="sp-chapter sp-open"><div class="sp-chapter-body">' + paras.map(para).join('') + '</div></section>';
+      sections = '<section class="sp-chapter sp-open">' + body(paras, true) + '</section>';
     }
-    // chaptered: every chapter starts closed, so the list of topics is the transcript's table of contents.
-    // no chapters: a short fading preview with a button, so what follows stays within reach.
-    var peek = !chapters.length && paras.length > 6;
-    return '<div class="sp-transcript-wrap"><div class="sp-transcript' + (stamped ? '' : ' sp-nostamp') + '"><h2>transcript</h2><div class="sp-chapters' + (peek ? ' sp-peek' : '') + '">' + sections + '</div>' +
-      (peek ? '<button type="button" class="sp-tr-more" aria-expanded="false">read the full transcript</button>' : '') + '</div></div>';
+    return '<div class="sp-transcript-wrap"><div class="sp-transcript' + (stamped ? '' : ' sp-nostamp') + '"><h2>transcript</h2><div class="sp-chapters">' + sections + '</div></div></div>';
   }
   function render() {
     var number = ep.number;
@@ -504,20 +509,10 @@
         return;
       }
       var more = e.target.closest('.sp-tr-more');
-      var chaps = inner.querySelector('.sp-chapters');
-      if (more) {
-        var expand = chaps.classList.contains('sp-peek');
-        chaps.classList.toggle('sp-peek', !expand);
-        more.textContent = expand ? 'show less' : 'read the full transcript';
-        more.setAttribute('aria-expanded', expand);
-        if (!expand) chaps.parentElement.scrollIntoView({ block: 'start', behavior: 'smooth' });
-        return;
-      }
-      // anything used inside the preview opens the full transcript first
-      if (chaps && chaps.classList.contains('sp-peek') && e.target.closest('.sp-chapters') && e.target.closest('.sp-toggle, [data-seek]')) {
-        chaps.classList.remove('sp-peek');
-        var mb = inner.querySelector('.sp-tr-more'); if (mb) { mb.textContent = 'show less'; mb.setAttribute('aria-expanded', 'true'); }
-      }
+      if (more) { more.closest('.sp-chapter-body').classList.remove('sp-peek'); return; }
+      // using a timestamp inside the capped chapter uncaps it
+      var peeked = e.target.closest('.sp-chapter-body.sp-peek');
+      if (peeked && e.target.closest('[data-seek]')) peeked.classList.remove('sp-peek');
       var toggle = e.target.closest('.sp-toggle');
       if (toggle) {
         var sec = toggle.closest('.sp-chapter'); var open = !sec.classList.contains('sp-open');
