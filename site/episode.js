@@ -135,6 +135,7 @@
     '#sp-episode .sp-card-title{padding:12px 4px 0;font-size:16px;font-weight:700;line-height:1.2;color:var(--ink)}',
     '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}}',
     '@media (prefers-reduced-motion:reduce){#sp-episode .sp-card:hover img{transform:none}}',
+    '@media (max-width:900px) and (min-width:601px){#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr}}',
     /* mobile (390 design) */
     '@media (max-width:600px){',
     '#sp-episode .sp-in{--g:20px}',
