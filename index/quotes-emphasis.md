@@ -200,7 +200,7 @@
 - 60: VULNERABILITY equals RELATABILITY equals EMPOWERMENT.
 - 59: you don't want to leave the reader with any QUESTIONS.
 - 58: it's not a reflection of YOU, and it's not a reflection of your SELF-WORTH.
-- 57: my story is not one typically showcased in a college application. i am so very proud of it.
+- 57: my story is not one typically showcased in a college application. i am so very PROUD of it.
 - 56: exposure therapy sounds like the worst possible thing you could do to someone with anxiety. it's MISERABLE. and it WORKS.
 - 55: we don't always RECOGNIZE our NEEDS.
 - 54: MIXED signals are a CLEAR signal.
