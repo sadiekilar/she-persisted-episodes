@@ -160,11 +160,15 @@ sadie shares the pivotal conversation during her intake at residential treatment
 
 - date: 2026-03-02
 - tags: anxiety, relationships, self-improvement, emotions
-- guests: not extracted yet
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/252
 - transcript: episodes/ep-252.md (full)
 
-are you a chronic emotional over-invester?! in this solo episode, i explain how a simple mental health mantra transformed my mentality around emotional boundaries and even lowered my anxiety! by the end of this episode, you’ll know how to stop the emotional over-involvement and start prioritizing your mental health .
+sadie shares a mental health mantra that helps her stop overthinking and set emotional boundaries: "not my circus, not my monkeys." she explains how to tell the difference between problem-solving and anxious spiraling, then walks through three questions to ask yourself when you're stressed—does this outcome impact me directly? do i actually have control? are there eggs in this basket? she covers situations where we tend to over-invest emotionally (other people's reactions, work dynamics, friends' choices) and offers practical ways to redirect your energy where it actually matters.
+
+> for a lot of us, our anxiety comes from trying to control outcomes that we are not even a part of.
+> overthinking is not problem solving. it's just anxiety.
+> awareness does not require emotional ownership.
 
 ## 251. why college feels different for gen z (feat. dr. scott barry kaufman)
 
@@ -2309,6 +2313,10 @@ in this episode, sadie sits down with clearstem skincare founders danielle groni
 - transcript: episodes/ep-098.md (full)
 
 sadie talks with whitney goodman, lmft—author of toxic positivity and therapist behind @sitwithwhit—about how forced positivity can invalidate real emotions and damage relationships. whitney explains what toxic positivity is, how to spot it (phrases like "everything happens for a reason" or "just be grateful"), and why suppressing emotions makes them more intense. they cover when positivity doesn't fit (grief, trauma, parenting), how to validate yourself and others without overdoing it, and why complaining can actually be useful. listeners learn to use "and" instead of "but," advocate for their emotional needs, and recognize that teen struggles are legitimately hard—even if adults minimize them.
+
+> the more you suppress emotions, the more intense they become, the more difficult they become.
+> if you know what your goal is, you know what is the actual problem and you know who can help you meet that need or fix that problem, that complaining can be really useful in creating change.
+> using the word and is so powerful—I am angry about the grade I got on this test and I'm gonna study harder next time.
 
 ## 97. truth x She Persisted: A Roundtable Discussion on Vaping, Teen Nicotine Use, and Quitting Substances as a Young Adult
 
