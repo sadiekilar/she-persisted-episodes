@@ -8,6 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { SITE, COLLECTION, INDEX_DIR, sleep, fetchJson, htmlToText, htmlToMarkdown, wordCount, decodeEntities, episodeFile, readEpisodes, parseEpisode, writeEpisode } = require('./lib');
+const { extract } = require('./sections');
 
 const DELAY_MS = 600;
 const BOILERPLATE = /^(#+\s*)?(listen to this episode|about she persisted|recent episodes|more episodes)\b/i;
@@ -92,6 +93,7 @@ async function main() {
   const lastPublish = Math.max(0, ...[...existing.values()].map((e) => Number(e.meta.publish_on) || 0));
   const counts = { added: 0, updated: 0, unchanged: 0 };
   const skipped = [];
+  const variants = [];
   let collection = null;
   let url = `${SITE}${COLLECTION}?format=json`;
 
@@ -106,7 +108,10 @@ async function main() {
       const prev = existing.get(ep.number);
       const isNew = !prev;
       if (isNew || ep.publishOn > lastPublish) sawNew = true;
-      const meta = {
+      const sections = extract(ep.bodyHtml);
+      if (sections.missing.length) variants.push({ number: ep.number, url: ep.url, missing: sections.missing, headings: sections.headings });
+      // Fields other scripts own (summary, guests, apple/youtube data, chapters, quote approval ...) carry over.
+      const meta = Object.assign({}, prev ? prev.meta : {}, {
         title: ep.title,
         number: ep.number,
         date: new Date(ep.publishOn).toISOString().slice(0, 10),
@@ -122,8 +127,12 @@ async function main() {
         audio_url: audioUrl(ep.bodyHtml) || (prev ? prev.meta.audio_url : '') || '',
         transcript_source: prev ? prev.meta.transcript_source || 'blog' : 'blog',
         transcript_status: prev ? prev.meta.transcript_status || '' : '',
-      };
-      for (const k of ['transcript_words', 'audit_flags']) if (prev && k in prev.meta) meta[k] = prev.meta[k];
+        description_html: sections.description_html,
+        talk_about: sections.talk_about,
+        mentioned_html: sections.mentioned_html,
+        youtube_id: sections.youtube_id || (prev ? prev.meta.youtube_id : '') || '',
+        spotify_episode_id: sections.spotify_episode_id || (prev ? prev.meta.spotify_episode_id : '') || '',
+      });
       // A Descript backfill is hand-placed; never overwrite it with the blog body.
       const body = prev && prev.meta.transcript_source === 'descript' ? prev.body : bodyToMarkdown(ep.bodyHtml);
       const file = episodeFile(ep.number);
@@ -146,6 +155,11 @@ async function main() {
       tags: (collection.tags || []).map((t) => String(t).toLowerCase().trim()),
       itemCount: collection.itemCount ?? null,
     }, null, 1) + '\n');
+  }
+  // Posts whose show-notes markers weren't found, with the headings they do have, for review.
+  if (all) {
+    fs.writeFileSync(path.join(INDEX_DIR, 'section-variants.md'), `# section markers not found\n\n${variants.length} of ${existing.size} posts are missing at least one of the "listen to this episode", "we/i talk about" or "mentioned" markers. Their headings are listed so the patterns in scripts/sections.js can be extended.\n\n` +
+      variants.map((v) => `- [${v.number}](${v.url}) missing: ${v.missing.join(', ')}; headings: ${v.headings.map((h) => `"${h}"`).join(', ') || 'none'}`).join('\n') + '\n');
   }
   console.log(`added ${counts.added}, updated ${counts.updated}, unchanged ${counts.unchanged}; ${existing.size} episodes on disk`);
   if (skipped.length) {

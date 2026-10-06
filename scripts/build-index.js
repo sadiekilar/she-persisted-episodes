@@ -4,6 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 const { INDEX_DIR, readEpisodes } = require('./lib');
+const { transcriptParagraphs } = require('./transcript');
 
 const EXCERPT_MAX = 300;
 const clip = (s, n) => {
@@ -36,6 +37,11 @@ const index = {
     publishOn: Number(meta.publish_on) || Date.parse(meta.date) || 0,
     guests: meta.guests || [],
     summary: meta.summary || '',
+    youtube_id: meta.youtube_id || null,
+    spotify_episode_id: meta.spotify_episode_id || null,
+    apple_episode_url: meta.apple_episode_url || null,
+    duration_sec: meta.duration_sec || null,
+    slug: meta.slug,
   })),
 };
 
@@ -59,5 +65,40 @@ const blocks = episodes.map(({ meta }) => {
   return lines.join('\n');
 });
 fs.writeFileSync(path.join(INDEX_DIR, 'summaries.md'), `# she persisted — episode summaries\n\n${episodes.length} episodes, newest first. Full transcripts live in \`episodes/ep-NNN.md\`.\n\n${blocks.join('\n\n')}\n`);
+
+// One small file per episode for the episode page: notes, links, chapters, transcript.
+const epDir = path.join(INDEX_DIR, 'episodes');
+fs.mkdirSync(epDir, { recursive: true });
+const keep = new Set();
+for (const ep of episodes) {
+  const m = ep.meta;
+  const paragraphs = transcriptParagraphs(ep.body);
+  const name = `ep-${String(m.number).padStart(3, '0')}.json`;
+  keep.add(name);
+  const data = {
+    number: m.number, title: m.title, slug: m.slug, url: m.original_url, date: m.date, tags: m.tags || [], image: m.image_url || '',
+    description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
+    guests: m.guests || [], summary: m.summary || '',
+    youtube_id: m.youtube_id || null, spotify_episode_id: m.spotify_episode_id || null, apple_episode_url: m.apple_episode_url || null,
+    audio_url: m.audio_url || null, duration_sec: m.duration_sec || null,
+    quote: m.quotes_approved ? (m.quote || '') : '',
+    chapters: m.chapters || [], shorts: m.shorts || [],
+    transcript: { source: m.transcript_source || 'blog', status: m.transcript_status || '', paragraphs },
+    completeness: m.completeness || 'partial', missing: m.missing || [],
+  };
+  const file = path.join(epDir, name);
+  const json = JSON.stringify(data);
+  if (!fs.existsSync(file) || fs.readFileSync(file, 'utf8') !== json + '\n') fs.writeFileSync(file, json + '\n');
+}
+for (const f of fs.readdirSync(epDir)) if (!keep.has(f)) fs.unlinkSync(path.join(epDir, f));
+
+// Pull-quote review: one checkbox per candidate; approve-quotes.js reads the ticks.
+const pending = episodes.filter(({ meta }) => (meta.key_quotes || []).length && !meta.quotes_approved);
+fs.writeFileSync(path.join(INDEX_DIR, 'quotes-review.md'), `# pull quotes awaiting approval
+
+${pending.length} episodes. Tick ONE box per episode (change \`[ ]\` to \`[x]\`), commit, and the next refresh puts that quote on the episode page. Tick "none" to approve the episode with no quote. Approved episodes drop off this list.
+
+${pending.map(({ meta }) => `## ${meta.title}\n\n${meta.key_quotes.map((q) => `- [ ] ${q}`).join('\n')}\n- [ ] none`).join('\n\n')}
+`);
 
 console.log(`index: ${episodes.length} episodes, ${tags.length} tags, episodes.json ${(Buffer.byteLength(json) / 1024).toFixed(0)} KB`);

@@ -21,10 +21,18 @@ jobs:
         with:
           node-version: 20
       - run: node scripts/import.js --since-last
-      - run: node scripts/audit.js
+      - run: node scripts/rss-sync.js
+      - run: node scripts/youtube-sync.js
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       - run: node scripts/summarize.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - run: node scripts/chapters.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - run: node scripts/approve-quotes.js
+      - run: node scripts/audit.js
       - run: node scripts/build-index.js
       - name: commit if changed
         run: |

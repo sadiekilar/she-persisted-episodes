@@ -1,0 +1,25 @@
+<!doctype html>
+<!-- Local harness for episode.js: /site/preview-episode.html?slug=263 (with npm run preview).
+     Mimics a Squarespace post page: a .blog-item-wrapper inside a section. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>episode — preview</title>
+<style>
+  body{margin:0;background:#f7f7ef}
+  .nav{height:70px;background:#740000;color:#f7f7ef;display:flex;align-items:center;justify-content:center;font:700 20px 'Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:-.44px}
+  @media (max-width:600px){.nav{height:56px;font-size:16px}}
+  .stock{padding:40px;font-family:Georgia,serif}
+</style>
+</head>
+<body>
+<div class="nav">she persisted</div>
+<section class="page-section"><div class="content-wrapper"><div class="blog-item-wrapper"><div class="stock"><h1>Squarespace's own post would be here</h1><p>If you can read this, episode.js did not render.</p></div></div></div></section>
+<script>
+  window.SP_EPISODE_CONFIG = { PAGES_BASE: location.origin + '/', slug: new URLSearchParams(location.search).get('slug') || '263' };
+  try { localStorage.removeItem('sp:episodes:v1'); } catch (e) {}
+</script>
+<script src="episode.js"></script>
+</body>
+</html>

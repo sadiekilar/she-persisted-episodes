@@ -76,8 +76,8 @@ const wordCount = (s) => (String(s).match(/\S+/g) || []).length;
 
 // Front matter: one `key: value` per line. Values are written as JSON (valid
 // YAML) except bare numbers, dates and URLs, so parsing stays trivial.
-const FIELD_ORDER = ['title', 'number', 'date', 'publish_on', 'slug', 'original_url', 'image_url', 'tags', 'guests', 'summary', 'key_quotes', 'excerpt', 'audio_url', 'transcript_source', 'transcript_status', 'transcript_words', 'audit_flags'];
-const BARE = new Set(['number', 'date', 'publish_on', 'original_url', 'image_url', 'audio_url', 'transcript_source', 'transcript_status', 'transcript_words']);
+const FIELD_ORDER = ['title', 'number', 'date', 'publish_on', 'slug', 'original_url', 'image_url', 'tags', 'guests', 'summary', 'key_quotes', 'quote', 'quotes_approved', 'excerpt', 'youtube_id', 'spotify_episode_id', 'apple_episode_url', 'audio_url', 'duration_sec', 'talk_about', 'chapters', 'shorts', 'description_html', 'mentioned_html', 'transcript_source', 'transcript_status', 'transcript_words', 'audit_flags', 'completeness', 'missing'];
+const BARE = new Set(['number', 'date', 'publish_on', 'original_url', 'image_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'youtube_id', 'spotify_episode_id', 'transcript_source', 'transcript_status', 'transcript_words', 'completeness']);
 
 function parseEpisode(text) {
   const m = /^---\n([\s\S]*?)\n---\n?([\s\S]*)$/.exec(text);

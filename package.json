@@ -9,7 +9,11 @@
     "audit": "node scripts/audit.js",
     "summarize": "node scripts/summarize.js",
     "build": "node scripts/build-index.js",
-    "refresh": "node scripts/import.js --since-last && node scripts/audit.js && node scripts/summarize.js && node scripts/build-index.js",
+    "rss": "node scripts/rss-sync.js",
+    "youtube": "node scripts/youtube-sync.js",
+    "chapters": "node scripts/chapters.js",
+    "approve-quotes": "node scripts/approve-quotes.js",
+    "refresh": "node scripts/import.js --since-last && node scripts/rss-sync.js && node scripts/youtube-sync.js && node scripts/summarize.js && node scripts/chapters.js && node scripts/approve-quotes.js && node scripts/audit.js && node scripts/build-index.js",
     "preview": "python3 -m http.server 4173"
   }
 }

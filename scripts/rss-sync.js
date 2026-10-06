@@ -1,0 +1,73 @@
+#!/usr/bin/env node
+// Show RSS feed (the host's) + Apple's episode lookup → audio_url, duration_sec,
+// apple_episode_url. Matched to episodes by the leading number in the title.
+const { readEpisodes, writeEpisode, decodeEntities, sleep } = require('./lib');
+
+const FEED = process.env.SHOW_RSS || 'https://rss2.flightcast.com/zpjo9decpjwnj5srl30kahnx.xml';
+const APPLE_ID = process.env.APPLE_PODCAST_ID || '1463051730';
+
+const numberOf = (title) => { const m = /^\s*(\d+)[.:]/.exec(decodeEntities(String(title || ''))); return m ? +m[1] : null; };
+function toSeconds(d) {
+  if (d == null) return null;
+  d = String(d).trim();
+  if (/^\d+$/.test(d)) return +d;
+  const parts = d.split(':').map(Number);
+  if (parts.some(isNaN)) return null;
+  return parts.reduce((acc, n) => acc * 60 + n, 0);
+}
+
+async function main() {
+  const episodes = readEpisodes();
+  const byNumber = new Map(episodes.map((e) => [e.meta.number, e]));
+  const found = { rss: 0, apple: 0 };
+
+  const xml = await (await fetch(FEED)).text();
+  const items = xml.split(/<item\b[^>]*>/).slice(1).map((chunk) => chunk.split('</item>')[0]);
+  const rss = new Map();
+  for (const it of items) {
+    const title = (/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/.exec(it) || [])[1];
+    const n = numberOf(title);
+    if (n == null || rss.has(n)) continue;
+    rss.set(n, {
+      audio: (/<enclosure\b[^>]*\burl="([^"]+)"/.exec(it) || [])[1] || '',
+      duration: toSeconds((/<itunes:duration>([^<]*)<\/itunes:duration>/.exec(it) || [])[1]),
+      guid: ((/<guid\b[^>]*>([^<]*)<\/guid>/.exec(it) || [])[1] || '').trim(),
+    });
+  }
+  console.log(`rss: ${items.length} items, ${rss.size} with episode numbers`);
+
+  // Apple lists episodes by show id (newest 200 only); older episodes keep no Apple link.
+  const apple = new Map();
+  try {
+    const data = await (await fetch(`https://itunes.apple.com/lookup?id=${APPLE_ID}&entity=podcastEpisode&limit=300`)).json();
+    for (const r of data.results || []) {
+      if (r.kind !== 'podcast-episode') continue;
+      const n = numberOf(r.trackName);
+      if (n != null && !apple.has(n)) apple.set(n, { url: r.trackViewUrl, duration: r.trackTimeMillis ? Math.round(r.trackTimeMillis / 1000) : null });
+    }
+    console.log(`apple: ${apple.size} episodes with numbers`);
+  } catch (err) {
+    console.error(`apple lookup failed: ${err.message}`);
+  }
+
+  for (const ep of episodes) {
+    const meta = { ...ep.meta };
+    const r = rss.get(meta.number);
+    const a = apple.get(meta.number);
+    if (r) {
+      found.rss++;
+      if (r.audio && (!meta.audio_url || /embedly|spotify\.com\/embed|creators\.spotify/.test(meta.audio_url))) meta.audio_url = r.audio;
+      if (r.duration && !meta.duration_sec) meta.duration_sec = r.duration;
+    }
+    if (a) {
+      found.apple++;
+      meta.apple_episode_url = a.url;
+      if (a.duration && !meta.duration_sec) meta.duration_sec = a.duration;
+    }
+    if (JSON.stringify(meta) !== JSON.stringify(ep.meta)) writeEpisode(ep.file, meta, ep.body);
+  }
+  console.log(`matched ${found.rss} episodes in the feed, ${found.apple} on apple`);
+  await sleep(0);
+}
+
+main().catch((err) => { console.error(err); process.exit(1); });
