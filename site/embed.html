@@ -365,6 +365,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function tagUrl(tag) { return CFG.COLLECTION + '?tag=' + encodeURIComponent(tag); }
   function countLabel(n) { return n + (n === 1 ? ' episode' : ' episodes'); }
   function inTag(tag) { return episodes.filter(function (e) { return e.tags.indexOf(tag) > -1; }); }
+  function topicTags() { return tags.filter(function (t) { return t !== CFG.RECOMMENDS_TAG && inTag(t).length; }).sort(); }
   function img(src, eager, style) {
     return '<img src="' + esc(src) + '" alt=""' + (eager ? '' : ' loading="lazy"') + ' decoding="async" draggable="false"' + (style ? ' style="' + esc(style) + '"' : '') + '>';
   }
@@ -697,7 +698,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
         '<span class="sp-item-text"><span class="sp-item-title">' + esc(e.title) + '</span>' + (e.excerpt ? '<span class="sp-item-excerpt">' + esc(e.excerpt) + '</span>' : '') + '</span></a>';
     }
     inner.innerHTML = '<div class="sp-arch">' +
-      '<nav class="sp-side" aria-label="browse episodes"><span class="sp-side-kicker">BROWSE</span><div class="sp-side-list">' + side(null) + tags.slice().sort().map(side).join('') + '</div></nav>' +
+      '<nav class="sp-side" aria-label="browse episodes"><span class="sp-side-kicker">BROWSE</span><div class="sp-side-list">' + side(null) + topicTags().map(side).join('') + '</div></nav>' +
       '<a class="sp-text sp-back" href="' + esc(CFG.COLLECTION) + '"><span>\u2039</span>episodes</a>' +
       '<div class="sp-arch-head"><h1>' + esc(tag || 'all episodes') + '</h1><span class="sp-count">' + countLabel(list.length) + '</span></div>' +
       '<div class="sp-seg">' + CFG.SEGMENTS.map(function (g) {
@@ -732,7 +733,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   function sheetKey(e) { if (e.key === 'Escape') closeSheet(); }
   function openSheet(tag) {
     closeSheet();
-    var rest = tags.slice().sort().filter(function (t) { return !CFG.SEGMENTS.some(function (g) { return g.tag === t; }); });
+    var rest = topicTags().filter(function (t) { return !CFG.SEGMENTS.some(function (g) { return g.tag === t; }); });
     sheet = document.createElement('div');
     sheet.className = 'sp-ep-sheet';
     sheet.setAttribute('role', 'dialog');
