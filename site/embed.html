@@ -219,10 +219,9 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     // Hero rotation, in order. rec = episode number; topic = tag, photo = episode whose
     // thumbnail stands in for it (the newest episode in the tag when left out).
     // image = a file in site/assets/hero/ to use instead of the episode thumbnail.
-    // The "new episode" slide follows the newest post; its image file applies only while that
-    // episode is the newest (imageFor), then it falls back to the episode's blog photo.
+    // The "new episode" slide always links to the newest post; its image is a fixed brand photo.
     HERO: [
-      { latest: true, image: 'latest-263.jpg', imageFor: 263 },
+      { latest: true, image: 'latest.jpg' },
       { topic: 'depression', image: 'depression.jpg' },
       { rec: 261, image: '261.jpg' },
       { topic: 'anxiety', photo: 249, image: 'anxiety.jpg' },
@@ -400,7 +399,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       var e;
       if (h.latest) {
         e = episodes[0];
-        slides.push({ href: e.url, image: h.image && h.imageFor === e.number ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'new episode', title: e.title });
+        slides.push({ href: e.url, image: h.image ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'new episode', title: e.title });
       } else if (h.rec) {
         e = byNumber[h.rec];
         if (e && e !== episodes[0]) slides.push({ href: e.url, image: h.image ? ASSETS + 'hero/' + h.image : thumb(e.image), kicker: 'sadie recommends', title: e.title });
