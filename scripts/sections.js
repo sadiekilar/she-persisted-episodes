@@ -53,12 +53,21 @@ function flatten(els) {
 
 function isHeading(el) { return /^h[1-6]$/.test(el.tag) || (el.tag === 'p' && /^<p[^>]*>\s*<(strong|b)\b[^>]*>[^<]{1,60}<\/(strong|b)>\s*:?\s*<\/p>$/i.test(el.html)); }
 function markerOf(el) {
-  const t = el.text.replace(/^[\s*:\u2013\u2026-]+|[\s*:\u2013\u2026-]+$/g, '');
+  const raw = el.text.trim();
+  const t = raw.replace(/^[\s*:\u2013\u2026-]+|[\s*:\u2013\u2026-]+$/g, '');
   if (t.length > 160) return null; // markers are headings or short lead-ins, never paragraphs
+  // a plain paragraph only counts as a lead-in when it is short or ends in a colon; a sentence of the
+  // description that happens to say "let's talk about it!" is not a marker
+  if (!isHeading(el) && t.length > 60 && !/(:|\u2026|\.{3})\s*$/.test(raw)) return null;
   for (const k of Object.keys(MARKERS)) if (MARKERS[k].test(t)) return k;
   return null;
 }
-const hasPlatformLinks = (el) => /podcasts\.apple\.com|open\.spotify\.com|youtube\.com|music\.amazon|castbox|iheart|goodpods|stitcher|overcast|pocketcasts/i.test(el.html);
+// the post's own outro and copyright line are never description
+const BOILERPLATE = /^\s*(\u00a9|\(c\))\s?\d{4}|she persisted llc reserves|^if you enjoyed this episode/i;
+const PLATFORM = /podcasts\.apple\.com|open\.spotify\.com|youtube\.com|music\.amazon|castbox|iheart|goodpods|stitcher|overcast|pocketcasts/gi;
+// the "listen on" row: several platform links, or one with hardly any text around it. A description
+// paragraph that links to a guest's podcast on Apple is not it.
+const hasPlatformLinks = (el) => { const n = (el.html.match(PLATFORM) || []).length; const len = el.text.trim().length; return n >= 1 && (len <= 120 || (len <= 300 && len / n <= 60)); };
 
 // Markdown-ish list items from a <ul>/<ol> fragment.
 function listItems(html) {
@@ -124,7 +133,7 @@ function extract(bodyHtml) {
   let state = 'pre';
   const description = [], mentioned = [];
   let quote = '';
-  let talkAbout = [];
+  let talkAbout = [], talkFromList = false;
   for (const el of els) {
     if (el.block === transcriptBlock) continue;
     const marker = markerOf(el);
@@ -146,14 +155,15 @@ function extract(bodyHtml) {
     }
     if (state === 'pre' && el.text) state = 'description';
     if (state === 'description') {
-      if (el.tag === 'ul' || el.tag === 'ol') { if (!talkAbout.length && !seenMarkers.has('talkAbout')) { talkAbout = listItems(el.html); } continue; }
-      if (isHeading(el)) { state = 'other'; continue; }
-      if (el.text) description.push(el);
+      if (el.tag === 'ul' || el.tag === 'ol') { if (!talkAbout.length && !seenMarkers.has('talkAbout')) { talkAbout = listItems(el.html); talkFromList = true; } continue; }
+      // a bold line before any description (a content warning, say) belongs to the description; a heading after it ends it
+      if (isHeading(el) && description.length) { state = 'other'; continue; }
+      if (el.text && !BOILERPLATE.test(el.text)) description.push(el);
     } else if (state === 'talkAbout') {
-      if (el.tag === 'ul' || el.tag === 'ol') { if (!talkAbout.length) talkAbout = listItems(el.html); continue; }
+      if (el.tag === 'ul' || el.tag === 'ol') { if (!talkFromList) { talkAbout = listItems(el.html); talkFromList = true; } continue; }
       if (isHeading(el)) { state = 'other'; continue; }
       // older posts write the list as paragraphs: "+ item", "- item", "\u2192 item"
-      const bullet = /^\s*[+\-\u2022\u2192*\u00b7]\s*(.+)$/.exec(el.text || '');
+      const bullet = /^\s*[+\-\u2022\u2192*\u00b7>]\s*(.+)$/.exec(el.text || '');
       if (bullet) talkAbout.push(bullet[1].trim());
       else if (el.text && !talkAbout.length) talkAbout.push(el.text);
       else if (el.text && talkAbout.length) state = 'other';
@@ -166,7 +176,8 @@ function extract(bodyHtml) {
   const missing = ['listen', 'talkAbout', 'mentioned'].filter((k) => !seenMarkers.has(k));
   return {
     description_html: cleanHtml(description.map((e) => e.html).join('')),
-    talk_about: talkAbout,
+    // "+ so much more!" closes many lists; it is not a topic
+    talk_about: talkAbout.filter((t) => !/^[\s+\-\u2022\u2192*\u00b7>]*(and |\u2026|\.{3})?\s*(so,?\s*)*much more[!.\u2026\s]*$/i.test(t)),
     mentioned_html: cleanHtml(mentioned.map((e) => e.html).join('')),
     quote: quote.replace(/^[\u201c"]|[\u201d"]$/g, ''),
     youtube_id: youtube ? youtube[1] || youtube[2] || youtube[3] : null,
