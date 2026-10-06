@@ -12,7 +12,7 @@ async function main() {
   if (!TOKEN || !REPO) return console.log('quotes-issue: not in GitHub Actions; skipping');
   const file = path.join(INDEX_DIR, 'quotes-review.md');
   const md = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : '';
-  const sections = md.split(/\n(?=## )/).filter((s) => /^## \d+\./.test(s));
+  const sections = md.split(/\n(?=## )/).filter((s) => /^## \d+[.:]/.test(s));
   const shown = sections.slice(0, MAX_EPISODES).map((s) => s.replace(/^## /, '### ').trim());
   const body = sections.length
     ? `Tick **one** box per episode: the quote to show on its page, or **none** for no quote. Ticks are applied by the nightly refresh (or run it from the Actions tab), and approved episodes disappear from this list.\n\n${sections.length} episodes waiting${sections.length > MAX_EPISODES ? ` (showing the first ${MAX_EPISODES})` : ''}.\n\n${shown.join('\n\n')}`

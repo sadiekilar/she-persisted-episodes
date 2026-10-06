@@ -12,7 +12,7 @@ const { findQuotesIssue } = require('./github');
 function applyTicks(md, byNumber) {
   let current = null, applied = 0;
   for (const line of md.split('\n')) {
-    const h = /^#+ (\d+)\./.exec(line);
+    const h = /^#+ (\d+)[.:]/.exec(line);
     if (h) { current = byNumber.get(+h[1]) || null; continue; }
     const tick = /^\s*[-*] \[\s*[xX]\s*\] (.*)$/.exec(line);
     if (!tick || !current) continue;
