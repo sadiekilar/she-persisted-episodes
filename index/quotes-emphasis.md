@@ -2,10 +2,10 @@
 
 241 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
 
-- 263: there's no prize for waiting until your mental health becomes an emergency.
-- 262: Once you know something's a habit, it's a choice.
-- 261: the experiences you have are not a roadmap. they're not a blueprint. the path is of your choosing.
-- 260: the big barrier for me from asking for help was that i felt like other people needed help more.
+- 263: there's no PRIZE for waiting until your mental health becomes an EMERGENCY.
+- 262: once you know something's a HABIT, it's a CHOICE.
+- 261: the experiences you have are not a ROADMAP. they're not a BLUEPRINT. the path is of YOUR CHOOSING.
+- 260: the big BARRIER for me from asking for HELP was that i felt like other people needed help MORE.
 - 259: just because most people do this path, or just because you thought that was what you were gonna do, doesn't mean you have to do that thing.
 - 258: worthiness is not just achieved from nothing. it's a practice of turning towards pain in a centered way over and over and over again.
 - 257: it's not that people with low self-esteem don't wanna be loved, it's just that they feel misunderstood, and we need to feel understood to feel loved.
