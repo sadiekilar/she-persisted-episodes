@@ -55,13 +55,15 @@ The nightly job only looks at the newest page of posts. If you change tags or ti
 3. **Secrets**: Settings → Secrets and variables → Actions → add `ANTHROPIC_API_KEY` and `YOUTUBE_API_KEY`.
 4. **Embed**: in `site/embed.html`, `PAGES_BASE` is set to `https://sadiekilar.github.io/she-persisted-episodes/`; change it if the repo moves. Commit and push.
 5. **Squarespace, episodes page**: edit the `/episodes` page, add a section above the blog list, add a Code Block (mode HTML, "display source" off) and paste in all of `site/embed.html`. Scripts in Code Blocks do not run while you are logged in and editing; check the result in a private window.
-6. **Squarespace, episode posts**: Settings → Developer tools → Code Injection → Footer, paste:
+6. **Squarespace, episode posts**: Settings → Developer tools → Code Injection → **Header**, paste (and remove any older copy from the Footer box):
 
    ```html
+   <script>(function(){if(/^\/episodes\/[^\/?#]+\/?$/.test(location.pathname)){var h=document.documentElement;h.className+=' sp-post-pending';setTimeout(function(){h.classList.remove('sp-post-pending')},6000)}})();</script>
+   <style>html.sp-post-pending .blog-item-wrapper,html.sp-post-pending #itemPagination{visibility:hidden}</style>
    <script defer src="https://sadiekilar.github.io/she-persisted-episodes/site/episode.js"></script>
    ```
 
-   It runs on every page but only acts on `/episodes/<slug>` posts. Squarespace's own post stays in the page, hidden; if the data can't load, the original post shows as before.
+   The first two lines hide Squarespace's own post before it paints, so visitors don't see it flash before the designed page appears; the post is shown again automatically if the script doesn't render within 6 seconds. The script runs on every page but only acts on `/episodes/<slug>` posts.
 
 ### How the embed shares the page with the blog list
 

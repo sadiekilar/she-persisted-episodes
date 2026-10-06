@@ -29,7 +29,10 @@
   var wrapper = document.querySelector('.blog-item-wrapper');
   var m = new RegExp('^' + CFG.COLLECTION.replace(/[/.]/g, '\\$&') + '/([^/?#]+)/?$').exec(location.pathname);
   var slug = CFG.slug || (m && decodeURIComponent(m[1]));
-  if (!wrapper || !slug) return;
+  // The header snippet hides Squarespace's post before first paint (class sp-post-pending);
+  // hand it back whenever this script decides not to render.
+  var giveBack = function () { document.documentElement.classList.remove('sp-post-pending'); };
+  if (!wrapper || !slug) { giveBack(); return; }
 
   var html = document.documentElement;
   var mobile = window.matchMedia('(max-width:600px)');
@@ -535,7 +538,8 @@
     mount.insertBefore(root, mount.firstChild);
     render();
     html.classList.add('sp-post-custom');
+    giveBack();
     fullBleed();
     window.addEventListener('resize', fullBleed);
-  }).catch(function () { /* leave Squarespace's own post showing */ });
+  }).catch(function () { giveBack(); /* leave Squarespace's own post showing */ });
 })();
