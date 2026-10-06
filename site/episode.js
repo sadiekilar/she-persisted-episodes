@@ -213,6 +213,8 @@
     '#sp-episode .sp-mentioned h2,#sp-episode .sp-mentioned-body{font-size:16px}',
     '#sp-episode .sp-quote-wrap{padding-top:32px}#sp-episode .sp-quote{padding:40px 24px}#sp-episode .sp-quote blockquote{font-size:28px}',
     '#sp-episode .sp-transcript{padding-top:32px;gap:16px}',
+    '#sp-episode .sp-para{margin:0 -10px;padding:7px 10px;border-radius:10px}',
+    '#sp-episode .sp-tr-more{margin:0 0 20px}',
     '#sp-episode .sp-chapter-head h3{gap:12px;font-size:15px}#sp-episode .sp-stamp{width:40px}#sp-episode .sp-para{gap:12px}#sp-episode .sp-para p{font-size:15px}',
     '#sp-episode .sp-copy{padding:20px 0 40px}',
     '#sp-episode .sp-moments{padding:36px 20px}#sp-episode .sp-poster{width:150px}',
@@ -519,7 +521,7 @@
     var ctl = body.querySelector('.sp-tr-more');
     if (ctl) ctl.setAttribute('aria-expanded', 'true');
     var firstHidden = null;
-    [].some.call(clip.children, function (r) { if (r.offsetTop + r.offsetHeight > 300) { firstHidden = r; return true; } });
+    [].some.call(clip.children, function (r) { if (r.offsetTop - clip.offsetTop + r.offsetHeight > 300) { firstHidden = r; return true; } });
     var finish = function () { clip.classList.remove('sp-expanding'); clip.style.maxHeight = ''; };
     if (animate && !reduced.matches) {
       clip.style.maxHeight = '300px';
@@ -558,7 +560,7 @@
       setChapter(row.closest('.sp-chapter'), true);
       // the cap drops once playback passes it: a row below the cap, or in a later chapter
       var body = row.closest('.sp-chapter-body.sp-peek');
-      if (body && row.offsetTop + row.offsetHeight > 300) uncap(body, false);
+      if (body) { var clip = body.querySelector('.sp-clip'); if (row.offsetTop - clip.offsetTop + row.offsetHeight > 300) uncap(body, false); }
       var capped = inner.querySelector('.sp-chapter-body.sp-peek');
       if (capped && !capped.contains(row) && (capped.compareDocumentPosition(row) & Node.DOCUMENT_POSITION_FOLLOWING)) uncap(capped, false);
       // keep the row in the middle of the screen, but only when the transcript is already on screen and the visitor isn't scrolling
