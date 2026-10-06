@@ -143,6 +143,11 @@
     '#sp-episode .sp-toggle{flex:none;margin:0;padding:0 2px;border:0;background:none;color:inherit;font:inherit;font-size:22px;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
     '#sp-episode .sp-chapter-body{display:flex;flex-direction:column;gap:14px;padding:4px 0 22px}',
     '#sp-episode .sp-chapter:not(.sp-open) .sp-chapter-body{display:none}',
+    /* collapsed preview: a few lines, fading out, so what follows stays in reach */
+    '#sp-episode .sp-chapters.sp-peek{position:relative;max-height:300px;overflow:hidden;border-bottom:0}',
+    '#sp-episode .sp-chapters.sp-peek:after{content:"";position:absolute;left:0;right:0;bottom:0;height:140px;background:linear-gradient(rgba(247,247,239,0),var(--cream) 85%);pointer-events:none}',
+    '#sp-episode .sp-tr-more{align-self:flex-start;margin:-8px 0 0;padding:10px 18px;border:1px solid var(--red);border-radius:999px;background:none;color:var(--red);font:inherit;font-size:14px;font-weight:700;line-height:1;cursor:pointer;-webkit-appearance:none;appearance:none}',
+    '#sp-episode .sp-tr-more:hover{background:var(--red);color:var(--cream)}',
     '#sp-episode .sp-para{display:flex;gap:16px}',
     '#sp-episode .sp-para p{font-size:17px;line-height:1.6;color:var(--ink)}',
     '#sp-episode .sp-para p b{color:var(--red);font-weight:700}',
@@ -385,7 +390,9 @@
     } else {
       sections = '<section class="sp-chapter sp-open"><div class="sp-chapter-body">' + paras.map(para).join('') + '</div></section>';
     }
-    return '<div class="sp-transcript-wrap"><div class="sp-transcript' + (stamped ? '' : ' sp-nostamp') + '"><h2>transcript</h2><div class="sp-chapters">' + sections + '</div></div></div>';
+    var peek = paras.length > 6;
+    return '<div class="sp-transcript-wrap"><div class="sp-transcript' + (stamped ? '' : ' sp-nostamp') + '"><h2>transcript</h2><div class="sp-chapters' + (peek ? ' sp-peek' : '') + '">' + sections + '</div>' +
+      (peek ? '<button type="button" class="sp-tr-more" aria-expanded="false">read the full transcript</button>' : '') + '</div></div>';
   }
   function render() {
     var number = ep.number;
@@ -493,6 +500,21 @@
         if (navigator.share) navigator.share(data).catch(function () {});
         else if (navigator.clipboard) navigator.clipboard.writeText(ep.url).then(function () { var s = share.querySelector('strong'); var was = s.textContent; s.textContent = 'link copied'; setTimeout(function () { s.textContent = was; }, 1600); });
         return;
+      }
+      var more = e.target.closest('.sp-tr-more');
+      var chaps = inner.querySelector('.sp-chapters');
+      if (more) {
+        var expand = chaps.classList.contains('sp-peek');
+        chaps.classList.toggle('sp-peek', !expand);
+        more.textContent = expand ? 'show less' : 'read the full transcript';
+        more.setAttribute('aria-expanded', expand);
+        if (!expand) chaps.parentElement.scrollIntoView({ block: 'start', behavior: 'smooth' });
+        return;
+      }
+      // anything used inside the preview opens the full transcript first
+      if (chaps && chaps.classList.contains('sp-peek') && e.target.closest('.sp-chapters') && e.target.closest('.sp-toggle, [data-seek]')) {
+        chaps.classList.remove('sp-peek');
+        var mb = inner.querySelector('.sp-tr-more'); if (mb) { mb.textContent = 'show less'; mb.setAttribute('aria-expanded', 'true'); }
       }
       var toggle = e.target.closest('.sp-toggle');
       if (toggle) {
