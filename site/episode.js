@@ -60,7 +60,7 @@
     '#sp-episode .sp-topics{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}',
     '#sp-episode .sp-topics i{font-style:normal;opacity:.5}',
     '#sp-episode h1{font-size:48px;font-size:clamp(30px,3.333cqw,48px);font-weight:700;line-height:1.02;letter-spacing:-.9px}',
-    '#sp-episode .sp-player-wrap{display:flex;flex-direction:column;gap:16px;width:100%;max-width:1120px;margin:0 auto}',
+    '#sp-episode .sp-player-wrap{display:flex;flex-direction:column;gap:16px;width:100%;max-width:952px;margin:0 auto}',
     '#sp-episode .sp-player{position:relative;width:100%;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
     '#sp-episode .sp-player img,#sp-episode .sp-player iframe{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border:0}',
     '#sp-episode .sp-play{position:absolute;left:50%;top:50%;width:72px;height:72px;margin:-36px 0 0 -36px;padding:0;border:0;border-radius:50%;background:var(--cream);cursor:pointer;-webkit-appearance:none;appearance:none;display:flex;align-items:center;justify-content:center}',
