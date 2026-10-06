@@ -157,8 +157,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-slide[aria-hidden]{display:none}
   #sp-episodes .sp-kicker{padding:5px 12px 7px;font-size:12px}
   #sp-episodes .sp-slide-title{font-size:20px;line-height:1.05}
-  #sp-episodes .sp-stack{gap:48px;padding:40px 0 0}
-  #sp-episodes .sp-below{gap:48px;margin-top:-8px;padding-bottom:64px}
+  #sp-episodes .sp-stack{gap:32px;padding:28px 0 0}
+  #sp-episodes .sp-below{gap:32px;margin-top:-8px;padding-bottom:40px}
   #sp-episodes .sp-shelf{gap:14px}
   #sp-episodes .sp-head>.sp-text,#sp-episodes .sp-count{font-size:12px;opacity:.8}
   #sp-episodes .sp-row{gap:12px;scroll-snap-type:x mandatory;scroll-padding-left:20px;-webkit-mask-image:linear-gradient(90deg,#000 94%,transparent);mask-image:linear-gradient(90deg,#000 94%,transparent)}
@@ -167,11 +167,11 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-thumb{border-radius:14px}
   #sp-episodes .sp-card-title{padding:8px 2px 0;font-size:14px}
   #sp-episodes .sp-desktop-only,#sp-episodes button.sp-arrow{display:none!important}
-  #sp-episodes .sp-recs{gap:14px;padding:36px 0 40px}
+  #sp-episodes .sp-recs{gap:14px;padding:28px 0 32px}
   #sp-episodes .sp-recs-grid{grid-template-columns:minmax(0,1fr);gap:16px}
   #sp-episodes .sp-frame{border-radius:14px}
   #sp-episodes .sp-rec-title{padding:8px 2px 0;font-size:14px}
-  #sp-episodes .sp-topics{gap:14px;padding:36px 20px 44px}
+  #sp-episodes .sp-topics{gap:14px;padding:28px 20px 36px}
   #sp-episodes .sp-topics h2{padding:0}
   #sp-episodes .sp-tiles{display:none}
   #sp-episodes .sp-search-wrap{order:1;padding:0}
@@ -182,7 +182,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-pills{order:2;display:flex;flex-wrap:wrap;gap:8px;padding-top:6px}
   #sp-episodes .sp-pill{padding:10px 14px;border:1px solid var(--cream);border-radius:999px;font-size:14px;line-height:1;white-space:nowrap}
   #sp-episodes .sp-pill.sp-active{background:var(--cream);color:var(--red)}
-  #sp-episodes .sp-arch{grid-template-columns:minmax(0,1fr);gap:16px;padding:24px 20px 64px}
+  #sp-episodes .sp-arch{grid-template-columns:minmax(0,1fr);gap:16px;padding:24px 20px 40px}
   #sp-episodes .sp-arch>*{grid-column:1}
   #sp-episodes .sp-side{display:none}
   #sp-episodes .sp-back{display:inline-flex;align-items:center;gap:6px;order:1;justify-self:start;font-size:14px}
@@ -470,9 +470,15 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     var cards = [].slice.call(track.children).filter(function (c) { return !c.hasAttribute('aria-hidden'); });
     var i = 0, timer = null, held = false, visible = true;
     var PAD = 20;
+    var settling = null;
     function go(k) {
       i = (k + cards.length) % cards.length;
-      track.scrollTo({ left: cards[i].offsetLeft - track.offsetLeft - PAD, behavior: reduced.matches ? 'auto' : 'smooth' });
+      var left = cards[i].offsetLeft - track.offsetLeft - PAD;
+      clearTimeout(settling);
+      if (reduced.matches) { track.scrollLeft = left; return; }
+      try { track.scrollTo({ left: left, behavior: 'smooth' }); } catch (e) { track.scrollLeft = left; }
+      // some phone browsers ignore a smooth programmatic scroll inside a snap container; jump if nothing moved
+      settling = setTimeout(function () { if (Math.abs(track.scrollLeft - left) > 4) track.scrollLeft = left; settling = null; }, 900);
     }
     function stop() { clearInterval(timer); timer = null; }
     function start() {
@@ -489,7 +495,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
     track.addEventListener('touchend', function () { held = false; sync(); start(); }, { passive: true });
     track.addEventListener('touchcancel', function () { held = false; start(); }, { passive: true });
     var settle = null;
-    track.addEventListener('scroll', function () { clearTimeout(settle); settle = setTimeout(sync, 120); }, { passive: true });
+    track.addEventListener('scroll', function () { clearTimeout(settle); settle = setTimeout(function () { if (!settling) sync(); }, 120); }, { passive: true });
     if ('onscrollend' in window) track.addEventListener('scrollend', sync);
     document.addEventListener('visibilitychange', function () { if (document.hidden) stop(); else start(); });
     if (window.IntersectionObserver) {
