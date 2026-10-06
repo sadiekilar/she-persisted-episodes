@@ -2,6 +2,8 @@
 // Summaries, guests and key quotes via the Claude API, written back into front matter.
 // Runs only on episodes that have no `summary` yet.
 //   ANTHROPIC_API_KEY=… node scripts/summarize.js [--limit N]
+// Episodes summarized before their Flightcast transcript existed got no quotes; those are
+// re-asked for quotes only (once, marked quotes_checked) now that the transcript is there.
 const { readEpisodes, writeEpisode, sleep } = require('./lib');
 
 const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
@@ -40,10 +42,25 @@ async function summarize(ep, key) {
 async function main() {
   const li = process.argv.indexOf('--limit');
   const limit = li > -1 ? parseInt(process.argv[li + 1], 10) : Infinity;
-  const todo = readEpisodes().filter((e) => !e.meta.summary).slice(0, limit);
-  if (!todo.length) return console.log('summarize: nothing to do');
-  const key = process.env.ANTHROPIC_API_KEY;
-  if (!key) return console.log(`summarize: ${todo.length} episodes need summaries but ANTHROPIC_API_KEY is not set; skipping`);
+  const all = readEpisodes();
+  const todo = all.filter((e) => !e.meta.summary).slice(0, limit);
+  const requote = all.filter((e) => e.meta.summary && !(e.meta.key_quotes || []).length && !e.meta.quotes_checked && !e.meta.quotes_approved && /^(flightcast|descript)$/.test(e.meta.transcript_source || ''));
+  if (!todo.length && !requote.length) return console.log('summarize: nothing to do');
+  const key0 = process.env.ANTHROPIC_API_KEY;
+  if (!key0) return console.log(`summarize: ${todo.length} episodes need summaries and ${requote.length} need quotes but ANTHROPIC_API_KEY is not set; skipping`);
+  let requoted = 0;
+  for (const ep of requote) {
+    try {
+      const out = await summarize(ep, key0);
+      writeEpisode(ep.file, { ...ep.meta, key_quotes: out.key_quotes, guests: ep.meta.guests && ep.meta.guests.length ? ep.meta.guests : out.guests, quotes_checked: true }, ep.body);
+      requoted++;
+      console.log(`quotes ${ep.meta.number}: ${out.key_quotes.length}`);
+    } catch (err) { console.error(`quotes failed ${ep.meta.number}: ${err.message}`); }
+    await sleep(300);
+  }
+  if (requote.length) console.log(`re-asked ${requoted} of ${requote.length} episodes for quotes`);
+  if (!todo.length) return;
+  const key = key0;
 
   const done = [];
   let failed = 0;
