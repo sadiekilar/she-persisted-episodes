@@ -76,7 +76,7 @@ const wordCount = (s) => (String(s).match(/\S+/g) || []).length;
 
 // Front matter: one `key: value` per line. Values are written as JSON (valid
 // YAML) except bare numbers, dates and URLs, so parsing stays trivial.
-const FIELD_ORDER = ['title', 'number', 'date', 'publish_on', 'slug', 'original_url', 'image_url', 'tags', 'guests', 'summary', 'key_quotes', 'quote', 'quote_display', 'quotes_approved', 'quotes_checked', 'excerpt', 'tags_override', 'tags_source', 'youtube_id', 'spotify_episode_id', 'creators_embed_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'talk_about', 'chapters', 'shorts', 'description_html', 'mentioned_html', 'transcript_source', 'transcript_url', 'chapters_source', 'transcript_status', 'transcript_words', 'audit_flags', 'completeness', 'missing'];
+const FIELD_ORDER = ['title', 'number', 'date', 'publish_on', 'slug', 'original_url', 'image_url', 'tags', 'guests', 'summary', 'key_quotes', 'quote', 'quote_display', 'quote_source', 'quotes_approved', 'quotes_checked', 'excerpt', 'tags_override', 'tags_source', 'youtube_id', 'spotify_episode_id', 'creators_embed_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'talk_about', 'chapters', 'shorts', 'description_html', 'mentioned_html', 'transcript_source', 'transcript_url', 'chapters_source', 'transcript_status', 'transcript_words', 'audit_flags', 'completeness', 'missing'];
 const BARE = new Set(['number', 'date', 'publish_on', 'original_url', 'image_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'youtube_id', 'spotify_episode_id', 'creators_embed_url', 'transcript_source', 'transcript_url', 'chapters_source', 'tags_source', 'transcript_status', 'transcript_words', 'completeness']);
 
 function parseEpisode(text) {

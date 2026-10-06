@@ -135,6 +135,10 @@ async function main() {
         spotify_episode_id: sections.spotify_episode_id || (prev ? prev.meta.spotify_episode_id : '') || '',
         creators_embed_url: sections.creators_embed_url || (prev ? prev.meta.creators_embed_url : '') || '',
       });
+      // A "pull quote:" written in the post is the approved quote; it wins over the review list.
+      if (sections.quote && sections.quote !== prev?.meta.quote) {
+        meta.quote = sections.quote; meta.quotes_approved = true; meta.quote_source = 'post'; meta.quote_display = '';
+      }
       // A Descript backfill is hand-placed; never overwrite it with the blog body.
       // Flightcast / Descript transcripts are the source of truth; re-import only refreshes the notes above them.
       const fresh = bodyToMarkdown(ep.bodyHtml);

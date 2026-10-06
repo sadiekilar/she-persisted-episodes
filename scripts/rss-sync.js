@@ -12,6 +12,9 @@ const FEED = process.env.SHOW_RSS || 'https://rss2.flightcast.com/zpjo9decpjwnj5
 const APPLE_ID = process.env.APPLE_PODCAST_ID || '1463051730';
 
 const numberOf = (title) => { const m = /^\s*(\d+)[.:]/.exec(decodeEntities(String(title || ''))); return m ? +m[1] : null; };
+// Newer feed items carry the number in the description ("ep. 264") rather than the title.
+const numberIn = (s) => { const m = /\b(?:ep|episode)\.?\s*#?\s*(\d{1,3})\b/i.exec(decodeEntities(String(s || ''))) || /(?:^|\n)\s*#?(\d{1,3})\s*(?:\n|$)/.exec(String(s || '')); return m ? +m[1] : null; };
+const norm = (s) => decodeEntities(String(s || '')).toLowerCase().replace(/^\s*\d+[.:]\s*/, '').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
 function toSeconds(d) {
   if (d == null) return null;
   d = String(d).trim();
@@ -31,9 +34,15 @@ async function main() {
   const rss = new Map();
   for (const it of items) {
     const title = (/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/.exec(it) || [])[1];
-    const n = numberOf(title);
-    if (n == null || rss.has(n)) continue;
     const notes = (/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/.exec(it) || [])[1] || (/<itunes:summary>([\s\S]*?)<\/itunes:summary>/.exec(it) || [])[1] || '';
+    let n = numberOf(title);
+    if (n == null) n = numberIn(notes.replace(/<[^>]+>/g, '\n'));
+    if (n == null) { // last resort: the episode whose title matches best
+      const t = norm(title); let best = null, score = 0;
+      for (const e of episodes) { const et = norm(e.meta.title); if (!t || !et) continue; const sc = t === et ? 1 : (et.includes(t) || t.includes(et)) ? 0.8 : 0; if (sc > score) { score = sc; best = e; } }
+      if (best && score >= 0.8) n = best.meta.number;
+    }
+    if (n == null || rss.has(n)) continue;
     rss.set(n, {
       audio: (/<enclosure\b[^>]*\burl="([^"]+)"/.exec(it) || [])[1] || '',
       duration: toSeconds((/<itunes:duration>([^<]*)<\/itunes:duration>/.exec(it) || [])[1]),

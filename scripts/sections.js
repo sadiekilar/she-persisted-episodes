@@ -10,6 +10,7 @@ const MARKERS = {
   about: /^about\s+(\*\*)?(nevertheless, )?she persisted/i,
   transcript: /automated transcri|^(episode |full )?transcript\b/i,
   recent: /^(recent|more|related|other) episodes/i,
+  quote: /^(pull ?quote|quote)\b/i,
 };
 
 // Top-level elements of an HTML fragment (p, h*, ul, ol, div, blockquote ...), in order.
@@ -122,6 +123,7 @@ function extract(bodyHtml) {
 
   let state = 'pre';
   const description = [], mentioned = [];
+  let quote = '';
   let talkAbout = [];
   for (const el of els) {
     if (el.block === transcriptBlock) continue;
@@ -130,6 +132,13 @@ function extract(bodyHtml) {
     if (marker === 'listen' || (state === 'pre' && hasPlatformLinks(el))) { state = 'listen'; continue; }
     if (marker === 'talkAbout') { state = 'talkAbout'; continue; }
     if (marker === 'mentioned') { state = 'mentioned'; continue; }
+    // "pull quote:" either on its own line (quote on the next) or inline: "pull quote: ..."
+    if (marker === 'quote') {
+      const inline = el.text.replace(/^[\s*:\u2013\u2026-]*(pull ?quote|quote)\s*[:\u2013-]?\s*/i, '').trim();
+      if (inline) quote = inline; else state = 'quote';
+      continue;
+    }
+    if (state === 'quote') { if (el.text) { quote = el.text.trim(); state = 'other'; } continue; }
     if (marker === 'about' || marker === 'recent' || marker === 'transcript') { state = 'done'; continue; }
     if (state === 'listen') {
       if (hasPlatformLinks(el) || !el.text) continue;
@@ -155,6 +164,7 @@ function extract(bodyHtml) {
     description_html: cleanHtml(description.map((e) => e.html).join('')),
     talk_about: talkAbout,
     mentioned_html: cleanHtml(mentioned.map((e) => e.html).join('')),
+    quote: quote.replace(/^[\u201c"]|[\u201d"]$/g, ''),
     youtube_id: youtube ? youtube[1] || youtube[2] || youtube[3] : null,
     spotify_episode_id: spotify ? spotify[1] : null,
     creators_embed_url: creators ? creators[0] : null,

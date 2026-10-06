@@ -22,8 +22,9 @@ function isoToSeconds(iso) {
   return m ? (+m[1] || 0) * 3600 + (+m[2] || 0) * 60 + (+m[3] || 0) : null;
 }
 const norm = (s) => decodeEntities(String(s || '')).toLowerCase().replace(/^\s*\d+[.:]\s*/, '').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
+// "264. title", "ep. 264", "episode 264", "#264", or a line that is just the number.
 const numberIn = (s) => {
-  const m = /^\s*(\d{1,3})[.:]\s/.exec(s || '') || /\b(?:ep|episode)\.?\s*#?(\d{1,3})\b/i.exec(s || '');
+  const m = /^\s*(\d{1,3})[.:]\s/.exec(s || '') || /\b(?:ep|episode)\.?\s*#?\s*(\d{1,3})\b/i.exec(s || '') || /(?:^|\n)\s*#?(\d{1,3})\s*(?:\n|$)/.exec(s || '');
   return m ? +m[1] : null;
 };
 // Dice coefficient on word bigrams: good enough to pair a video title with an episode title.
@@ -80,6 +81,7 @@ async function main() {
   for (const v of longs) {
     let n = alreadyKnown.get(v.id);
     if (n == null) n = numberIn(v.title);
+    if (n == null) n = numberIn(v.description);
     if (n == null || !byNumber.has(n)) {
       // fuzzy: best title similarity across the archive
       let best = null, score = 0;
