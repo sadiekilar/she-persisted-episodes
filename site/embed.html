@@ -87,7 +87,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 .sp-ep-sheet a.sp-on{font-weight:700}
 
 /* archive page: "all episodes" or one tag */
-#sp-episodes .sp-arch{display:grid;grid-template-columns:220px minmax(0,900px);gap:20px 40px;align-items:start;padding:48px var(--g) 96px}
+/* sidebar + list are centred as a block, so wide windows get even margins instead of a gap on the right */
+#sp-episodes .sp-arch{display:grid;grid-template-columns:220px minmax(0,900px);justify-content:center;gap:20px 40px;align-items:start;padding:48px var(--g) 96px}
 #sp-episodes .sp-arch>*{grid-column:2}
 #sp-episodes .sp-side{grid-column:1;grid-row:1/span 4;position:sticky;top:calc(var(--sp-top,0px) + 24px);display:flex;flex-direction:column;gap:20px}
 #sp-episodes .sp-side-kicker{font-size:12px;font-weight:700;letter-spacing:.04em}
