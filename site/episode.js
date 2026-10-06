@@ -497,16 +497,25 @@
       });
     });
   }
+  function fixedHeader() {
+    var header = document.querySelector('#header, header.header');
+    return header && /fixed|sticky/.test(getComputedStyle(header).position) ? Math.max(0, header.getBoundingClientRect().bottom) : 0;
+  }
+  // seeking from the transcript brings the player back into view; follow-along stays quiet until the visitor scrolls again
+  function showPlayer(el) {
+    if (!el) return;
+    var top = el.getBoundingClientRect().top + window.pageYOffset - (fixedHeader() + 16);
+    window.scrollTo({ top: Math.max(0, top), behavior: reduced.matches ? 'auto' : 'smooth' });
+    follow.quietUntil = Infinity;
+  }
   function seek(t) {
     if (audio) {
       audio.seekTo(t);
-      if (mobile.matches) { var top0 = audio.root.getBoundingClientRect().top + window.pageYOffset - 70; window.scrollTo({ top: Math.max(0, top0), behavior: reduced.matches ? 'auto' : 'smooth' }); }
+      showPlayer(audio.root);
       return;
     }
-    ensurePlayer(function () {
-      player.seekTo(t, true); player.playVideo();
-      if (mobile.matches) { var top = inner.querySelector('.sp-player').getBoundingClientRect().top + window.pageYOffset - 70; window.scrollTo({ top: Math.max(0, top), behavior: reduced.matches ? 'auto' : 'smooth' }); }
-    });
+    showPlayer(inner.querySelector('.sp-player'));
+    ensurePlayer(function () { player.seekTo(t, true); player.playVideo(); });
   }
   function setChapter(sec, open) {
     if (!sec || !sec.querySelector('.sp-toggle')) return;
