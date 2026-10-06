@@ -14,7 +14,8 @@
     "chapters": "node scripts/chapters.js",
     "tags": "node scripts/tags.js",
     "approve-quotes": "node scripts/approve-quotes.js",
-    "refresh": "node scripts/import.js --since-last && node scripts/rss-sync.js && node scripts/youtube-sync.js && node scripts/summarize.js && node scripts/tags.js && node scripts/chapters.js && node scripts/approve-quotes.js && node scripts/audit.js && node scripts/build-index.js",
+    "emphasize": "node scripts/emphasize.js",
+    "refresh": "node scripts/import.js --since-last && node scripts/rss-sync.js && node scripts/youtube-sync.js && node scripts/summarize.js && node scripts/tags.js && node scripts/chapters.js && node scripts/approve-quotes.js && node scripts/emphasize.js && node scripts/audit.js && node scripts/build-index.js",
     "preview": "python3 -m http.server 4173"
   }
 }

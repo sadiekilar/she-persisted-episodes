@@ -38,6 +38,7 @@
   // ---------- styles ----------
   var css = [
     "@font-face{font-family:'SP Perfectly Nineties';src:url(" + CFG.PAGES_BASE + "site/assets/fonts/perfectly-nineties.otf) format('opentype');font-weight:400;font-style:normal;font-display:swap}",
+    "@font-face{font-family:'SP Perfectly Nineties';src:url(" + CFG.PAGES_BASE + "site/assets/fonts/perfectly-nineties-italic.otf) format('opentype');font-weight:400;font-style:italic;font-display:swap}",
     'html.sp-post-custom .blog-item-wrapper,html.sp-post-custom #itemPagination{display:none!important}',
     'section.sp-post-section{padding-right:0!important;padding-bottom:0!important;padding-left:0!important;min-height:0!important}',
     'section.sp-post-section>.content-wrapper{padding:0!important;max-width:none!important;width:100%!important}',
@@ -125,7 +126,8 @@
     /* quote band */
     '#sp-episode .sp-quote-wrap{padding-top:56px}',
     '#sp-episode .sp-quote{display:flex;justify-content:center;padding:56px var(--g);background:var(--red);color:var(--cream);text-align:center}',
-    "#sp-episode .sp-quote blockquote{max-width:980px;font-family:'SP Perfectly Nineties','Perfectly Nineties',Georgia,serif;font-size:44px;font-size:clamp(28px,3.056cqw,44px);line-height:1.05;letter-spacing:-.05em}",
+    "#sp-episode .sp-quote blockquote{max-width:980px;font-family:'SP Perfectly Nineties','Perfectly Nineties',Georgia,serif;font-size:44px;font-size:clamp(28px,3.056cqw,44px);line-height:1.05;letter-spacing:-.05em;font-style:italic}",
+    '#sp-episode .sp-quote blockquote b{font-style:normal;font-weight:400;text-transform:uppercase}',
     /* transcript */
     '#sp-episode .sp-transcript{display:flex;flex-direction:column;gap:20px;width:100%;max-width:860px;margin:0 auto;padding:56px 0 0}',
     '#sp-episode .sp-transcript-wrap{padding:0 var(--g)}',
@@ -154,7 +156,7 @@
     '#sp-episode .sp-poster{position:relative;display:block;flex:none;width:173px;aspect-ratio:9/16;border-radius:12px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
     '#sp-episode .sp-poster img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}',
     '#sp-episode .sp-poster i{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.8) 0%,rgba(0,0,0,0) 50%)}',
-    '#sp-episode .sp-poster b{position:absolute;left:12px;right:12px;bottom:12px;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
+    '#sp-episode .sp-poster b{position:absolute;left:12px;right:12px;bottom:12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
     '#sp-episode .sp-poster small{position:absolute;right:10px;top:10px;color:var(--cream);font-size:12px;font-weight:700}',
     /* new episodes */
     '#sp-episode .sp-new{display:flex;flex-direction:column;gap:18px;padding:72px var(--g) 96px}',
@@ -213,6 +215,16 @@
   function tagUrl(tag) { return CFG.COLLECTION + '?tag=' + encodeURIComponent(tag); }
   function glyph(url, cls) { return '<span class="sp-glyph' + (cls ? ' ' + cls : '') + '" style="--icon:url(' + url + ')" aria-hidden="true"></span>'; }
   function fmtDate(iso) { var d = new Date(iso + 'T00:00:00'); return isNaN(d) ? '' : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).toLowerCase(); }
+  // Quote markup: words written in CAPS are the emphasis (upright, uppercase); the rest is lowercase italic.
+  function quoteHtml(q) {
+    var out = '', re = /\b[A-Z][A-Z0-9'\u2019-]*(?:\s+[A-Z][A-Z0-9'\u2019-]*)*\b/g, last = 0, m;
+    while ((m = re.exec(q))) {
+      if (m[0].replace(/[^A-Z]/g, '').length < 2) continue; // a lone "I" isn't emphasis
+      out += esc(q.slice(last, m.index).toLowerCase()) + '<b>' + esc(m[0]) + '</b>';
+      last = m.index + m[0].length;
+    }
+    return out + esc(q.slice(last).toLowerCase());
+  }
   function titleOf(t) { return String(t || '').replace(/^\s*\d+[.:]\s*/, ''); }
   function stripTags(h) { var d = document.createElement('div'); d.innerHTML = h || ''; return (d.textContent || '').replace(/\s+/g, ' ').trim(); }
   // Trusted markup from the post body (via the index): drop anything executable just in case.
@@ -400,13 +412,14 @@
           (ep.mentioned_html ? '<div class="sp-hr"></div><div class="sp-mentioned"><h2>mentioned:</h2><div class="sp-mentioned-body">' + safeHtml(ep.mentioned_html) + '</div></div>' : '') +
         '</div>' +
       '</div>' +
-      (ep.quote ? '<div class="sp-quote-wrap"><div class="sp-quote"><blockquote>' + esc(ep.quote) + '</blockquote></div></div>' : '') +
+      (ep.quote ? '<div class="sp-quote-wrap"><div class="sp-quote"><blockquote>' + quoteHtml(ep.quote_display || ep.quote) + '</blockquote></div></div>' : '') +
       transcriptHtml() +
       '<div class="sp-copy-wrap"><p class="sp-copy">\u00a9 ' + new Date().getFullYear() + ' ' + esc(CFG.LLC) + '. This podcast is copyrighted subject matter owned by ' + esc(CFG.LLC) + ' and ' + esc(CFG.LLC) + ' reserves all rights in and to the podcast. Any use without ' + esc(CFG.LLC) + '\u2019s express prior written consent is prohibited.</p></div>' +
       (ep.shorts && ep.shorts.length ? '<div class="sp-moments"><div class="sp-moments-in"><div class="sp-moments-head"><h2>top moments</h2><div class="sp-social">' +
         ['instagram', 'tiktok', 'youtube'].map(function (s) { return CFG.SOCIAL[s] ? '<a href="' + esc(CFG.SOCIAL[s]) + '" target="_blank" rel="noopener" title="' + s + '">' + glyph(ICONS + s + '.svg') + '</a>' : ''; }).join('') +
         '</div></div><div class="sp-posters">' + ep.shorts.map(function (s) {
-          return '<a class="sp-poster" href="https://www.youtube.com/shorts/' + esc(s.youtube_id) + '" target="_blank" rel="noopener"><img src="' + esc(s.thumbnail_url) + '" alt="" loading="lazy"><i></i><b>' + esc(s.title) + '</b>' + (s.duration_sec ? '<small>' + fmt(s.duration_sec) + '</small>' : '') + '</a>';
+          var label = String(s.title || '').replace(/#[\w\u00c0-\uffff]+/g, '').replace(/\s+/g, ' ').replace(/^[\s|\-\u2013\u2014:]+|[\s|\-\u2013\u2014:]+$/g, '').trim();
+          return '<a class="sp-poster" href="https://www.youtube.com/shorts/' + esc(s.youtube_id) + '" target="_blank" rel="noopener"><img src="' + esc(s.thumbnail_url) + '" alt="" loading="lazy"><i></i><b>' + esc(label) + '</b>' + (s.duration_sec ? '<small>' + fmt(s.duration_sec) + '</small>' : '') + '</a>';
         }).join('') + '</div></div></div>' : '') +
       (others.length ? '<div class="sp-new"><div class="sp-new-head"><h2><a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">new episodes <span>\u203a</span></a></h2><a class="sp-text" href="' + esc(CFG.COLLECTION) + '?view=all">see all</a></div><div class="sp-new-grid">' + others.map(function (e) {
         return '<a class="sp-card" href="' + esc(e.url) + '"><span class="sp-thumb"><img src="' + esc(thumb(e.image, mobile.matches ? '750w' : '1000w')) + '" alt="" loading="lazy"></span><span class="sp-card-title">' + esc(e.title) + '</span></a>';

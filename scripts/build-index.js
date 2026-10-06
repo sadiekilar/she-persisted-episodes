@@ -83,6 +83,7 @@ for (const ep of episodes) {
     youtube_id: m.youtube_id || null, spotify_episode_id: m.spotify_episode_id || null, creators_embed_url: m.creators_embed_url || null, apple_episode_url: m.apple_episode_url || null,
     audio_url: m.audio_url || null, duration_sec: m.duration_sec || null,
     quote: m.quotes_approved ? (m.quote || '') : '',
+    quote_display: m.quotes_approved ? (m.quote_display || '') : '',
     chapters: m.chapters || [], shorts: m.shorts || [],
     transcript: { source: m.transcript_source || 'blog', status: m.transcript_status || '', paragraphs },
     completeness: m.completeness || 'partial', missing: m.missing || [],
