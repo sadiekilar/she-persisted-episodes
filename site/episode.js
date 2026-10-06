@@ -216,7 +216,8 @@
       var last = null;
       chapters.forEach(function (c, i) {
         var next = chapters[i + 1] ? chapters[i + 1].t : Infinity;
-        var mine = paras.filter(function (p) { var t = p.t == null ? last : p.t; if (p.t != null) last = p.t; return t != null && t >= c.t && t < next; });
+        var from = i === 0 ? 0 : c.t; // anything before the first chapter mark belongs to the first chapter
+        var mine = paras.filter(function (p) { var t = p.t == null ? last : p.t; if (p.t != null) last = p.t; return t != null && t >= from && t < next; });
         sections += '<section class="sp-chapter' + (i === 0 ? ' sp-open' : '') + '"><div class="sp-chapter-head"><h3><a class="sp-stamp" href="#t=' + c.t + '" data-seek="' + c.t + '"><time datetime="' + iso(c.t) + '">' + fmt(c.t) + '</time></a><a href="#t=' + c.t + '" data-seek="' + c.t + '">' + esc(c.title) + '</a></h3><button type="button" class="sp-toggle" aria-expanded="' + (i === 0) + '" aria-label="' + (i === 0 ? 'collapse' : 'expand') + '">' + (i === 0 ? '\u2013' : '+') + '</button></div><div class="sp-chapter-body">' + mine.map(para).join('') + '</div></section>';
       });
     } else {
