@@ -87,6 +87,8 @@ Each post is rebuilt from `index/episodes/ep-NNN.json`: back link, episode numbe
 
 **Pull quotes** go live only after approval. The refresh job keeps a GitHub issue, "pull quotes awaiting approval", listing every pending episode with a clickable checkbox per candidate quote (and "none"). Tick one per episode; the next refresh applies the ticks and removes those episodes from the issue. `index/quotes-review.md` is the same list as a file, for editing by hand.
 
+**Tags** for posts that have none in Squarespace are suggested by `tags.js` from the existing tag list and kept in the repo only (`tags_override`, listed in `index/tags-review.md`, editable). Squarespace tags always win once a post has any.
+
 **Chapters** need "we/i talk about" bullets and a transcript with timestamps (Descript's `[00:27:00]` markers); `chapters.js` then asks Claude where each bullet starts. Timestamps are the usual blocker, see `completeness.md`.
 
 ## Transcript backfill

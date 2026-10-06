@@ -1,0 +1,61 @@
+# tags for episodes that have none in Squarespace
+
+These tags exist only in this repo (the episodes page and archive use them); Squarespace's own tags always win when a post has any. To change one, edit the tags after the arrow and commit; the next refresh applies it. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, relationships, self-improvement, sleep, social media, teen mental health, trauma, troubled teen industry.
+
+- 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More! → 
+- 99. ACNE 101 feat. CLEARSTEM Founders Danielle Gronich + Kayleigh Christin → 
+- 64. Inside the Secret World of the Troubled Teen Industry: Breaking Code S → 
+- 62. The Evolution of the Treatment Industry, Navigating Adolescent Addicti → 
+- 59. How to Discuss Your Mental Health in Your College Application Accordin → 
+- 58. Maintaining Your Mental Health Throughout The College Application Proc → 
+- 57. How I Got Into the University of Pennsylvania (My Test Scores, Persona → 
+- 56. OCD + Exposure Therapy → 
+- 55. Mental Health Advice for High School Students → 
+- 54. RELATIONSHIPS + Attachment Styles feat. Kirstie Taylor → 
+- 53. How to Write Pitch Emails, Building Influencer Relationships, Using So → 
+- 52. Q+A: Why I started She Persisted, misconceptions about treatment, incr → 
+- 51. Woomanhood + Wellness feat. Amanda DiMarco → 
+- 50. Nutritional Psychiatry: Using Nutrients to Improve Your Mental Health  → 
+- 49. Authenticity + Storytelling with Sage Lally → 
+- 48. How I Recovered From Teenage Depression → 
+- 47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distre → 
+- 46. Bootstrapping a Buisiness feat. Evonna Kuehner of ANOVÉ Beauty → 
+- 45. Balancing Your Life feat. Abbie Stasior → 
+- 44. Your Insecurity is Not Unique feat. Kelsey Jones → 
+- 42. Q+A #2: Personal Growth, Applying to College, Radical Acceptance (DBT  → 
+- 41. The Traumatic Side of the Adolescent Treatment Industry feat. Daisye B → 
+- 40. Living Past Crazy feat. J'Anmetra Waddell → 
+- 39. Your Foolproof Guide to a Good Night's Sleep (+ 2 Guided Sleep Meditat → 
+- 38. Before You Kill Yourself feat. Leo Flowers → 
+- 37. Brush and Barley's Audrey Bailey on Jesus and Mental Health → 
+- 36. Being Young AND the Best Version of Yourself feat. Sarah Humphrey → 
+- 35. Clean Beauty, Mental Health During Quarantine, Giving Back, Diversity  → 
+- 34. The benefits of nature, adventure, and connection feat. Brittany Crane → 
+- 33. Q+A #1: podcasting, supporting a friend that's struggling with mental  → 
+- 32. Scout Sobel on her experience with bipolar, Okay Sis, healthy relation → 
+- 31. Full eating disorder recovery, owning your recovery, and working on yo → 
+- 30. GRATITUDE feat. Jill Nowak (LICSW) from 3East, McLean Hospital → 
+- 29. Validation and Empathy: How YOU can support the Black Lives Matter mov → 
+- 28. Blaise Aguirre M.D. on Dialectical Behavioral Therapy, Emotional Exper → 
+- 27. The Benefits of Therapy, Medication Management and Stigma, and The COV → 
+- 26. Gaining independence, taking control of your mental health, how to mai → 
+- 25. Gaining Confidence, Navigating Social Media in a Healthy Way, Maintain → 
+- 24. Teenage Break-Up Protocol: How to Figure Out if You Need to End a Rela → 
+- 23. A Dad's Perspective: Preconceptions About Adolescent Mental Health, Pa → 
+- 22. How to maintain your mental health during coronavirus (COVID-19) and s → 
+- 21. DBT Education: GIVE + THINK skills aka how to improve your relationshi → 
+- 20. DBT Education: DEARMAN skill (Describe, Express, Assert, Reinforce, be → 
+- 19. DBT Education: Interpersonal Effectiveness Overview... clarifying rela → 
+- 18. DBT Education: Mindfulness continued (the HOW skills: Nonjudgmentally+ → 
+- 17. DBT Education: Intro to Mindfulness (the WHAT skills: Participate+Obse → 
+- 16. DBT Education: Dialectical Behavioral Therapy (an overview)... changin → 
+- 15. How do you support a friend struggling with depression and anxiety whi → 
+- 14. The effect of depression and anxiety on a family… feat. my younger sis → 
+- 11. Emily Thelen (MA+LCPC+CTRS) on adjusting to change, societal norms, th → 
+- 10. Jacob Sparks (LMFT) on therapeutic boarding schools, healthy relations → 
+- 8. A parent’s guide to adolescent treatment for depression and anxiety: f → 
+- 6. Building and maintaining fulfilling, healthy, loving relationships wit → 
+- 5. Teen anxiety: how to cope, using skills, and surviving school → 
+- 3. A sister’s perspective: what do depression and anxiety look like? How  → 
+- 2. A Dad’s perspective on how to support a teen suffering from depression → 
+- 1. A teen’s perspective: depression and anxiety… my core beliefs, the dec → 

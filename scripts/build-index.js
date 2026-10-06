@@ -14,7 +14,8 @@ const clip = (s, n) => {
   return cut.slice(0, Math.max(cut.lastIndexOf(' '), n - 40)).replace(/[\s,;:—–-]+$/, '') + '…';
 };
 
-const episodes = readEpisodes();
+// Squarespace tags win; tags_override (scripts/tags.js) only fills in for posts that have none.
+const episodes = readEpisodes().map((e) => { if (!(e.meta.tags || []).length && (e.meta.tags_override || []).length) e.meta = { ...e.meta, tags: e.meta.tags_override }; return e; });
 
 // Tag order comes from the Squarespace collection; fall back to most-used first.
 let tags = [];
