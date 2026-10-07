@@ -16,7 +16,6 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 254. how to help someone who doesn’t want help (without making it worse) + therapy & treatment, parents
 - 253. why therapy didn’t work… until this + therapy & treatment
 - 250. why high achievers still struggle with mental health + high school
-- 249. what to do during a panic attack (when nothing else works!!) + therapy & treatment
 - 248. why “look on the bright side” doesn’t work (do THIS instead!) + therapy & treatment
 - 247. do i need therapy, or is this just life? + therapy & treatment
 - 246. why external validation keeps you stuck! (feat. dr. scott barry kaufma + high school
@@ -35,11 +34,15 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 229. why you’re struggling in college (& what to do) feat. dr. jessi gold + therapy & treatment
 - 227. I asked 9 experts how to heal from depression (what you NEED to know) + therapy & treatment
 - 226. summertime sadness?! answering your most asked mental health q’s + high school
+- 224. stop ‘shoulding’ + shaming yourself + therapy & treatment
 - 222. building your dream life is possible: here’s how feat. dr. emily anhal + therapy & treatment
 - 219. feeling like you don’t belong in school is the norm… let’s change it f + high school
 - 218. is social media causing the mental health crisis?! (probably not) feat + parents, high school
 - 217. mental health book club series: lost connections by johann hari + therapy & treatment
 - 216. your 20s are for healing childhood wounds feat. kelly u + therapy & treatment, parents
+- 215. i interviewed my THERAPIST?!! validation, dbt, stigma + more feat. dr. + therapy & treatment
+- 212. how to be more resilient feat. dr. glenn schiraldi + therapy & treatment
+- 210. why you’re feeling suicidal + a therapist’s advice on how to cope feat + therapy & treatment
 - 209. How to Set Habits You'll ACTUALLY Use [Solo] + therapy & treatment
 - 208. How to Be a Mental Health ADVOCATE feat. Active Minds + therapy & treatment, parents
 - 207. What Research Says About DEPRESSION feat. Dr. Steven Hollon + therapy & treatment
@@ -49,7 +52,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 203. 5 Things You Didn't Know About Depression feat. Jonathan Rottenberg + therapy & treatment
 - 202. 5 Ways to Form a Secure Attachment Style feat. Thais Gibson + therapy & treatment, parents
 - 200. Back to School Advice (DBT Edition) + therapy & treatment, high school
-- 199. Growing Pains: Advice for Teens & Parents on Navigating Teenage Years  + parents
+- 199. Growing Pains: Advice for Teens & Parents on Navigating Teenage Years  + parents, high school
 - 198. Chrysalis School Montana: My Troubled Teen Industry Experience + therapy & treatment, parents
 - 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine + therapy & treatment, parents
 - 196. EXPOSING the Troubled Teen Industry: How it Scams Parents & Harms Teen + therapy & treatment, parents
@@ -64,7 +67,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 182. Anxiety 101: What We Do Wrong, How to Cope, and Facing Our Fears feat. + therapy & treatment, parents
 - 181. "Is there something wrong with me?!!" - Responding to Reddit Mental He + therapy & treatment, high school
 - 180. All About ADHD: Symptoms, Misconceptions, Diagnosis, & More feat. Dr.  + therapy & treatment
-- 179. Gen Z Mental Health: The Role of Families, Friends, Schools, ACEs, & M + parents
+- 179. Gen Z Mental Health: The Role of Families, Friends, Schools, ACEs, & M + parents, high school
 - 178. MENTAL HEALTH HOT TAKES: Teen Mental Health, Therapeutic Boarding Scho + therapy & treatment, parents
 - 176. The Power of DBT: How to Change Your Behaviors & Cultivate Hope feat.  + therapy & treatment, parents
 - 175. SELF-INVALIDATION: Why We Judge Ourselves & How To Accept Your Emotion + therapy & treatment
@@ -81,6 +84,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 163. Treating Eating Disorders: How to Get Help & Get Better feat. David Al + therapy & treatment
 - 162. 10 Psychology Facts You Should Know: How to Improve Your Outlook and B + therapy & treatment
 - 161. A Parent’s Guide to Teen Mental Health feat. Ann Coleman + parents, therapy & treatment
+- 159. Back to School Advice, Creating School/Life Balance, & My Junior Year  + high school
 - 158. Your TikTok Therapist on Gen Z Mental Health, Staying Optimistic, and  + therapy & treatment, parents
 - 157. Overcoming Loneliness & Isolation as a Teen feat. Dr. Caroline Fenkel + therapy & treatment, parents
 - 156. Tracking Your Mental Health: Diary Cards, Bullet Journaling, Apps, & M + therapy & treatment, high school
@@ -89,6 +93,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 152. Healing Your Relationship with Health: Diet Culture, Exercise, Eating  + therapy & treatment
 - 151. YOUR COLLEGE APPLICATION GUIDE: How to Write Your Essays, Build Your R + high school
 - 149. How to THRIVE as a College Student aka YOUR ULTIMATE COLLEGE TOOLKIT f + therapy & treatment
+- 148. Should You Discuss Mental Health When Applying to College? feat. Emi N + high school, parents
 - 147. What Every College Student Should Know: Mental Health Do’s and Don’ts  + therapy & treatment
 - 146. How to Stop Rejecting Reality & Avoiding Improvement: Skills You NEED  + therapy & treatment
 - 144. Dr. Nicole LePera on Intergenerational Trauma, Anxiety, Ego States, &  + therapy & treatment, high school
@@ -100,11 +105,9 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 137. The Hidden Dangers of Social Media Use: Mental Health Risks for Teens  + parents, therapy & treatment
 - 136. TEEN TREATMENT PROGRAMS: Tips for Parents & Teens on Finding the Right + therapy & treatment, parents
 - 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More! + therapy & treatment, parents, high school
-- 134. ELLIE ZEILER’s Advice for Teens: Mental Health, Relationships, Confide + high school
 - 133. EATING DISORDERS: Signs, Symptoms, Social Media, & Support Systems fea + therapy & treatment, parents
 - 132. 10 Coping Skills You NEED to Know - DBT Education + therapy & treatment
 - 131. Why We Struggle with Our Emotions & Ways to Build Emotional Intelligen + therapy & treatment
-- 130. Making Goals and Getting Motivated: Easy Ways to Increase Productivity + high school
 - 129. New Years Resolutions For Your Mental Health: SMART Goals, My 2023 Int + therapy & treatment
 - 128. Ally Petitti on Anxiety, Health and Childhood Struggles, & Advice for  + therapy & treatment
 - 127. Getting Through Grief: Tips for Processing Grief and Healing Your Hear + therapy & treatment, high school
@@ -115,21 +118,30 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 121. Mary's Cup of Tea on Healing Your Body Image through Journaling, Socia + therapy & treatment
 - 120. Mental Health Habits to Decrease Emotional Vulnerability & Sustain Rec + therapy & treatment
 - 119. A TEEN'S GUIDE TO THERAPY: Finding a Therapist, Avoiding Red Flags, Un + therapy & treatment
+- 117. How I Get the Most Out of Therapy + Feel Seen in Sessions - SOLO EP + therapy & treatment
 - 116. Lindsey Simcik on Being Okay with Being Single, Using Discipline to Fi + therapy & treatment
+- 115. SUICIDE PREVENTION: What to Expect When Calling 988 + Reasons to Have  + therapy & treatment
+- 114. SUICIDE PREVENTION: My Experience, Crisis Survival Skills, + Long-Term + therapy & treatment
 - 112. Struggling with Depression as a Perfectionist: Dr. Margaret Rutherford + therapy & treatment
 - 111. What Does Therapy Mean to You? feat. Ashley Blaine Featherson-Jenkins + therapy & treatment
+- 105. Mental Health Advice for College Students: Tips to Master Your Routine + high school
+- 104. Sleep Deprivation, Insomnia, + Night Routine Tips for Teens feat. Gene + high school
 - 103. How to Optimize Your Therapy Sessions feat. ShrinkChick's Emmalee Bier + therapy & treatment
+- 102. High School, College Apps, Dating, Podcast Growth, + More feat. The Gi + high school
 - 101. Auschwitz Survivor Dr. Edith Eger on Living in the Present, Uncertaint + therapy & treatment
-- 98. Whitney Goodman, LMFT on Toxic Positivity, Invalidation, + What Happen + parents
 - 97. truth x She Persisted: A Roundtable Discussion on Vaping, Teen Nicotin + therapy & treatment
-- 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-D + parents
 - 95. 5 Skills to Regulate Your Emotions, Decrease Emotional Vulnerability,  + therapy & treatment
 - 93. Manifesting Your Mental Health feat. Efia Sulter + therapy & treatment
+- 92. Reclaiming Your Life and Identity After Trauma + PTSD feat. Michele Ro + therapy & treatment
+- 90. Crisis Survival 101: Coping Skills, SUDs Scores, + My Recommendations + therapy & treatment
+- 89. Bailey Stanworth on Social Media + Mental Health: Societal Influence,  + therapy & treatment
 - 88. The Neuroscience of PTSD, Traumatic Experiences, and Emotion Regulatio + therapy & treatment
-- 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Se + high school
+- 87. Being the CEO of Your Life: Developing Leadership Skills, Taking Owner + high school
 - 85. The Emotion Education you Should Have Gotten: Evolutionary Causes, Cor + therapy & treatment
 - 84. Andrea Arlington on Reparenting, Healing Generational Trauma, and Fami + therapy & treatment, parents
+- 82. How to Let Go of Expectations + Improve Your Self-Talk feat. Paige Ton + high school
 - 81. Dr. Aliza Pressman on Parenting Styles, Improving Parent-Child Relatio + parents
+- 80. Surviving Teenage Depression + Anxiety: FAQs, Intensive Treatment, DBT + therapy & treatment
 - 78. Dr. Caroline Leaf on Neuroplasticity, the Brain vs. the Mind, and Cogn + therapy & treatment
 - 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatme + therapy & treatment, parents
 - 76. Dr. Alexandra Solomon on Building Healthy Relationships as a Teen, Exp + therapy & treatment, high school
@@ -139,24 +151,30 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 72. Almost 30's Krista Williams on How Meditation Will Change Your Life, B + therapy & treatment
 - 71. 1st Month of College DEBRIEF: Tips for Move-In, Socializing, Productiv + parents
 - 69. Navigating Anxiety as a Teenager: Coping Skills, Listener Q+A, Persona + therapy & treatment, high school
+- 68. How Our Mental + Physical Health Are Connected feat. Laura Martin + therapy & treatment
 - 67. High School RECAP + therapy & treatment, high school
 - 66. Alexis Haines on Teenage Addiction, Childhood Trauma, and Taking Radic + therapy & treatment, parents
 - 65. Therapy 101: Your Guide to Teen Treatment feat. Lindsay Fleming LPC + therapy & treatment
 - 64. Inside the Secret World of the Troubled Teen Industry: Breaking Code S + therapy & treatment, parents
 - 62. The Evolution of the Treatment Industry, Navigating Adolescent Addicti + therapy & treatment, parents
+- 61. Bite Sized Mindfulness for Adolescents feat. Kira Willey + high school
 - 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski + therapy & treatment
 - 59. How to Discuss Your Mental Health in Your College Application Accordin + high school
 - 58. Maintaining Your Mental Health Throughout The College Application Proc + high school, therapy & treatment
 - 57. How I Got Into the University of Pennsylvania (My Test Scores, Persona + high school, therapy & treatment
+- 56. OCD + Exposure Therapy + therapy & treatment
 - 55. Mental Health Advice for High School Students + high school
 - 52. Q+A: Why I started She Persisted, misconceptions about treatment, incr + therapy & treatment
 - 50. Nutritional Psychiatry: Using Nutrients to Improve Your Mental Health  + therapy & treatment
+- 49. Authenticity + Storytelling with Sage Lally + therapy & treatment
 - 48. How I Recovered From Teenage Depression + therapy & treatment
+- 47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distre + therapy & treatment
 - 42. Q+A #2: Personal Growth, Applying to College, Radical Acceptance (DBT  + high school, therapy & treatment
 - 41. The Traumatic Side of the Adolescent Treatment Industry feat. Daisye B + therapy & treatment, parents
 - 40. Living Past Crazy feat. J'Anmetra Waddell + therapy & treatment
 - 38. Before You Kill Yourself feat. Leo Flowers + therapy & treatment
 - 37. Brush and Barley's Audrey Bailey on Jesus and Mental Health + therapy & treatment
+- 36. Being Young AND the Best Version of Yourself feat. Sarah Humphrey + high school
 - 33. Q+A #1: podcasting, supporting a friend that's struggling with mental  + therapy & treatment, high school
 - 32. Scout Sobel on her experience with bipolar, Okay Sis, healthy relation + therapy & treatment
 - 31. Full eating disorder recovery, owning your recovery, and working on yo + therapy & treatment
@@ -165,9 +183,11 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 28. Blaise Aguirre M.D. on Dialectical Behavioral Therapy, Emotional Exper + therapy & treatment, parents
 - 27. The Benefits of Therapy, Medication Management and Stigma, and The COV + therapy & treatment
 - 26. Gaining independence, taking control of your mental health, how to mai + therapy & treatment
+- 25. Gaining Confidence, Navigating Social Media in a Healthy Way, Maintain + therapy & treatment
 - 24. Teenage Break-Up Protocol: How to Figure Out if You Need to End a Rela + high school
 - 23. A Dad's Perspective: Preconceptions About Adolescent Mental Health, Pa + parents, therapy & treatment
 - 22. How to maintain your mental health during coronavirus (COVID-19) and s + high school
+- 21. DBT Education: GIVE + THINK skills aka how to improve your relationshi + therapy & treatment
 - 20. DBT Education: DEARMAN skill (Describe, Express, Assert, Reinforce, be + therapy & treatment
 - 19. DBT Education: Interpersonal Effectiveness Overview... clarifying rela + therapy & treatment
 - 18. DBT Education: Mindfulness continued (the HOW skills: Nonjudgmentally+ + therapy & treatment
@@ -176,6 +196,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 - 15. How do you support a friend struggling with depression and anxiety whi + therapy & treatment
 - 14. The effect of depression and anxiety on a family… feat. my younger sis + therapy & treatment, parents
 - 11. Emily Thelen (MA+LCPC+CTRS) on adjusting to change, societal norms, th + therapy & treatment, parents
+- 10. Jacob Sparks (LMFT) on therapeutic boarding schools, healthy relations + therapy & treatment
 - 8. A parent’s guide to adolescent treatment for depression and anxiety: f + therapy & treatment, parents
 - 5. Teen anxiety: how to cope, using skills, and surviving school + high school
 - 3. A sister’s perspective: what do depression and anxiety look like? How  + therapy & treatment, parents
