@@ -65,6 +65,8 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-rec-title{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:14px 4px 0;font-size:18px;font-weight:700;line-height:1.2}
 #sp-episodes .sp-topics{gap:28px;padding:56px 0 72px}
 #sp-episodes .sp-tiles{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:24px 20px;padding:0 var(--g)}
+/* 13 or 14 topics: two rows of seven rather than a lone tile on a third row */
+#sp-episodes .sp-tiles.sp-7{grid-template-columns:repeat(7,minmax(0,1fr))}
 #sp-episodes .sp-tile{display:flex;flex-direction:column;align-items:flex-start;gap:10px}
 #sp-episodes .sp-tile .sp-frame{width:100%}
 #sp-episodes .sp-tile-label{padding-bottom:1px;font-size:16px;font-weight:700;line-height:1.1}
@@ -436,7 +438,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
         }).join('') + '</div></div>' : '') +
         tagShelf(F[1]) + tagShelf(F[2], 'sp-desktop-only') + tagShelf(F[3], 'sp-desktop-only') +
         '<div class="sp-band sp-topics"><h2>looking for something specific?</h2>' +
-          '<div class="sp-tiles">' + topicTags.map(function (t) {
+          '<div class="sp-tiles' + (topicTags.length === 13 || topicTags.length === 14 ? ' sp-7' : '') + '">' + topicTags.map(function (t) {
             var p = TOPIC_PHOTOS[t];
             var src = p ? ASSETS + 'topic-photos/' + p[0] : thumb(inTag(t)[0].image);
             return '<a class="sp-tile" href="' + esc(tagUrl(t)) + '" data-tag="' + esc(t) + '"><span class="sp-frame">' + img(src, false, 'object-position:' + (p ? p[1] : 'center 30%')) + '</span><span class="sp-tile-label">' + esc(t) + '</span></a>';
