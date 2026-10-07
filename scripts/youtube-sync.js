@@ -83,7 +83,7 @@ async function main() {
   // (a John Oliver segment, a documentary trailer): drop it so the episode gets its real video or the audio player
   const uploads = new Set(videos.map((v) => v.id));
   for (const ep of episodes) {
-    if (ep.meta.youtube_id && !uploads.has(ep.meta.youtube_id)) {
+    if (ep.meta.youtube_id && (!uploads.has(ep.meta.youtube_id) || IGNORE.has(ep.meta.youtube_id))) {
       console.log(`youtube ${ep.meta.number}: ${ep.meta.youtube_id} is not on the channel; dropped`);
       ep.meta.youtube_id = null;
     }
@@ -91,6 +91,8 @@ async function main() {
   const alreadyKnown = new Map(episodes.filter((e) => e.meta.youtube_id).map((e) => [e.meta.youtube_id, e.meta.number]));
   for (const v of longs) {
     if (IGNORE.has(v.id)) continue;
+    // a "MINI:" upload is a cut-down of an episode, never the episode itself (202 was matched to one)
+    if (/^\s*mini\b/i.test(v.title)) { unmatched.longs.push({ v, best: null, score: 0 }); continue; }
     let n = alreadyKnown.get(v.id);
     if (n == null) n = numberIn(v.title);
     if (n == null) n = numberIn(v.description);

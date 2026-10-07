@@ -13,12 +13,12 @@ const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
 const NOT_TOPICS = new Set(['sadie recommends']);
 const HIDDEN = ['teen mental health', 'sleep'];
 const EXTRA = {
-  'therapy & treatment': 'finding or doing therapy, what treatment (inpatient, residential, DBT programs, medication) is like, getting help',
+  'therapy & treatment': 'the episode is specifically about getting or being in treatment: deciding whether you need therapy, finding a therapist, what therapy, inpatient, residential or wilderness programs, or medication are actually like. NOT an episode that merely recommends therapy, mentions the host\'s treatment history in passing, or is about mental health in general',
   parents: 'aimed at parents or about the parent/child relationship, supporting a child, family perspectives',
   'high school': 'aimed at high schoolers or about high school life: school stress, applying to college, friendships and family while still at home (not college itself)',
 };
 // tags_extra_checked records which EXTRA tags an episode was checked against, so adding one re-checks everyone
-const CHECKED = Object.keys(EXTRA).sort();
+const CHECKED = [...Object.keys(EXTRA).sort(), 'v2']; // bump the version to re-check every episode after a definition change
 const extraChecked = (meta) => JSON.stringify(meta.tags_extra_checked) === JSON.stringify(CHECKED);
 const reviewFile = path.join(INDEX_DIR, 'tags-review.md');
 const shortTitle = (m) => m.title.replace(/^\d+[.:]\s*/, '').slice(0, 70);

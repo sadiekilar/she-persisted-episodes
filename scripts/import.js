@@ -131,7 +131,9 @@ async function main() {
         description_html: sections.description_html,
         talk_about: sections.talk_about,
         mentioned_html: sections.mentioned_html,
-        youtube_id: sections.youtube_id || (prev ? prev.meta.youtube_id : '') || '',
+        // the post's embed is only trusted for a new episode: youtube-sync corrects ids against the channel's uploads,
+        // and a post sometimes embeds a clip from the notes (a John Oliver segment) rather than the episode
+        youtube_id: (prev && prev.meta.youtube_id) || sections.youtube_id || '',
         spotify_episode_id: sections.spotify_episode_id || (prev ? prev.meta.spotify_episode_id : '') || '',
         creators_embed_url: sections.creators_embed_url || (prev ? prev.meta.creators_embed_url : '') || '',
       });
