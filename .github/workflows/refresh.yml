@@ -45,6 +45,7 @@ jobs:
       - run: node scripts/apply-emphasis.js
       - run: node scripts/audit.js
       - run: node scripts/build-index.js
+      - run: node scripts/catalogue.js
       - run: node scripts/quotes-issue.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
