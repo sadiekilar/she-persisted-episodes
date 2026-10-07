@@ -2,7 +2,7 @@
 
 256 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
 
-tags: depression (42), self-improvement (37), relationships (36), dbt (30), anxiety (29), college (29), emotions (23), trauma (17), 20s (13), social media (12), body image (12), career (11), troubled teen industry (11), adhd (4), sadie recommends (3)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (56), therapy & treatment (53), dbt (44), emotions (38), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
 
 ## 263. what i wish i knew when i didn’t want to be alive
 date: 2026-09-26 | https://shepersistedpodcast.com/episodes/263 | 26 min | video
