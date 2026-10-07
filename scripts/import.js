@@ -125,7 +125,8 @@ async function main() {
         summary: prev ? prev.meta.summary ?? '' : '',
         key_quotes: prev ? prev.meta.key_quotes ?? [] : [],
         excerpt: ep.excerpt,
-        audio_url: audioUrl(ep.bodyHtml) || (prev ? prev.meta.audio_url : '') || '',
+        // rss-sync sets the feed's mp3; the post's player embed only seeds a brand-new episode
+        audio_url: prev ? (prev.meta.audio_url || audioUrl(ep.bodyHtml) || '') : (audioUrl(ep.bodyHtml) || ''),
         transcript_source: prev ? prev.meta.transcript_source || 'blog' : 'blog',
         transcript_status: prev ? prev.meta.transcript_status || '' : '',
         description_html: sections.description_html || (prev && prev.meta.description_html) || '', // a description kept in the repo stays until the post has one
@@ -133,7 +134,7 @@ async function main() {
         mentioned_html: sections.mentioned_html,
         // the post's embed is only trusted for a new episode: youtube-sync corrects ids against the channel's uploads,
         // and a post sometimes embeds a clip from the notes (a John Oliver segment) rather than the episode
-        youtube_id: (prev && prev.meta.youtube_id) || sections.youtube_id || '',
+        youtube_id: prev ? (prev.meta.youtube_id || '') : (sections.youtube_id || ''),
         spotify_episode_id: sections.spotify_episode_id || (prev ? prev.meta.spotify_episode_id : '') || '',
         creators_embed_url: sections.creators_embed_url || (prev ? prev.meta.creators_embed_url : '') || '',
       });
