@@ -85,6 +85,8 @@ for (const ep of episodes) {
   const paragraphs = transcriptParagraphs(ep.body);
   const name = `ep-${String(m.number).padStart(3, '0')}.json`;
   keep.add(name);
+  // chapter titles come from bullet lists and AI: drop a leading "and"/ellipsis, lowercase the first letter on the lowercase-era posts
+  const tidy = (c) => ({ ...c, title: String(c.title || '').replace(/^[\s….]+/, '').replace(/^(and|&|\+)\s+/i, '').replace(/^\w/, (ch) => m.number >= 222 ? ch.toLowerCase() : ch).trim() });
   const data = {
     number: m.number, title: m.title, slug: m.slug, url: m.original_url, date: m.date, tags: m.tags || [], image: m.image_url || '',
     description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
@@ -93,7 +95,7 @@ for (const ep of episodes) {
     audio_url: m.audio_url || null, duration_sec: m.duration_sec || null,
     quote: m.quotes_approved ? (m.quote || '') : '',
     quote_display: m.quotes_approved ? (m.quote_display || '') : '',
-    chapters: m.chapters || [], shorts: m.shorts || [],
+    chapters: (m.chapters || []).map(tidy), shorts: m.shorts || [],
     transcript: { source: m.transcript_source || 'blog', status: m.transcript_status || '', paragraphs },
     completeness: m.completeness || 'partial', missing: m.missing || [],
   };
