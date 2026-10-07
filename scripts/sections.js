@@ -76,6 +76,9 @@ function listItems(html) {
 
 function cleanHtml(html) {
   return html
+    // links: the blog moved from /podcast-episodes/ to /episodes/; invisible characters (word joiners,
+    // zero-width spaces, nbsp) pasted onto the end of a URL make it 404
+    .replace(/href="([^"]*)"/gi, (m, u) => 'href="' + u.replace(/(?:\u2060|\u200b|\u200c|\ufeff|&nbsp;|\u00a0|%E2%81%A0|\s)+$/g, '').replace(/^(https?:\/\/(?:www\.)?shepersistedpodcast\.com)\/podcast-episodes\//i, '$1/episodes/') + '"')
     .replace(/\s(style|class|id|data-[\w-]+|dir|aria-[\w-]+)="[^"]*"/gi, '')
     .replace(/<(\/?)(span|div|section)\b[^>]*>/gi, '')
     .replace(/<p[^>]*>\s*(&nbsp;|\s)*<\/p>/gi, '')
