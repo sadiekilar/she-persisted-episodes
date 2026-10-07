@@ -19,6 +19,12 @@ const EXTRA = {
 };
 // tags_extra_checked records which EXTRA tags an episode was checked against, so adding one re-checks everyone
 const CHECKED = [...Object.keys(EXTRA).sort(), 'v2']; // bump the version to re-check every episode after a definition change
+// The model says yes to "therapy & treatment" for almost any episode that mentions therapy (170 of 256 twice over),
+// so that tag also needs the title, or two topic bullets, to name treatment outright.
+const GATES = {
+  'therapy & treatment': /\b(therap(y|ist|ists)|treatment|inpatient|residential|hospital|mclean|3east|medication|psychiatr\w*|wilderness|troubled teen|tti|program|rehab|get(ting)? help|ask(ing)? for help|need help|crisis text|988|exposure)\b/i,
+};
+const passesGate = (meta, tag) => !GATES[tag] || GATES[tag].test(meta.title) || (meta.talk_about || []).filter((t) => GATES[tag].test(t)).length >= 2;
 const extraChecked = (meta) => JSON.stringify(meta.tags_extra_checked) === JSON.stringify(CHECKED);
 const reviewFile = path.join(INDEX_DIR, 'tags-review.md');
 const shortTitle = (m) => m.title.replace(/^\d+[.:]\s*/, '').slice(0, 70);
@@ -70,7 +76,7 @@ async function suggest(ep, tagList, key) {
 }
 async function suggestExtra(ep, key) {
   const out = await ask(`Decide which of these tags apply to a podcast episode. Tags: ${Object.entries(EXTRA).map(([t, d]) => `"${t}" = ${d}`).join('; ')}. Apply a tag only when the episode is substantially about it, so a listener who picks the tag gets what they expected; a passing mention is not enough. Return only a JSON array of the applicable tag names, possibly empty.`, describe(ep), key);
-  return out.filter((t) => t in EXTRA);
+  return out.filter((t) => t in EXTRA && passesGate(ep.meta, t));
 }
 
 function writeReview(episodes) {

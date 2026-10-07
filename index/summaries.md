@@ -33,7 +33,7 @@ in part two of a conversation with dr. blaise aguirre, a child and adolescent ps
 ## 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
 
 - date: 2026-08-22
-- tags: depression, sadie recommends, therapy & treatment, parents
+- tags: depression, sadie recommends, parents
 - guests: dr. blaise aguirre
 - url: https://shepersistedpodcast.com/episodes/261
 - transcript: episodes/ep-261.md (full)
@@ -75,7 +75,7 @@ sadie shares her recent career shift: leaving her post-bac research position in 
 ## 258. why you never feel good enough (even when you're doing everything right) feat. dr. marisa g franco
 
 - date: 2026-07-16
-- tags: relationships, depression, therapy & treatment
+- tags: relationships, depression
 - guests: dr. marisa g. franco
 - url: https://shepersistedpodcast.com/episodes/258
 - transcript: episodes/ep-258.md (full)
@@ -131,7 +131,7 @@ in this solo episode, sadie explains why asking for help feels so overwhelming�
 ## 254. how to help someone who doesn’t want help (without making it worse)
 
 - date: 2026-04-04
-- tags: depression, relationships, therapy & treatment, parents
+- tags: depression, relationships, parents
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/254
 - transcript: episodes/ep-254.md (full)
@@ -206,7 +206,7 @@ sadie answers a listener question about maintaining mental health while pursuing
 - url: https://shepersistedpodcast.com/episodes/249
 - transcript: episodes/ep-249.md (full)
 
-sadie shares a psychology-backed dbt skill called the ice dive that stops panic attacks by activating your mammalian diving reflex. she explains why panic attacks make your body feel out of control (your sympathetic nervous system takes over), how the ice dive physically lowers your heart rate and breathing rate by signaling to your brain that you're drowning, and practical ways to use it—from a bowl of ice water at home to cool paper towels in a public bathroom. this skill works 100% of the time because it taps into a physiological response, making it reliable even when other coping strategies lose effectiveness.
+sadie shares a psychology-backed dbt skill called the ice dive that stops panic attacks by activating your mammalian diving reflex. she explains why panic attacks make your body feel out of control (your sympathetic nervous system takes over), how the ice dive physically lowers your heart rate and breathing rate by signaling to your brain that you're drowning, and practical ways to use it—from a bowl of ice water at home to cool paper towels in a public bathroom. because it taps into a physiological response rather than willpower, it stays reliable even when other coping strategies lose effectiveness.
 
 > there is a way to stop a panic attack 100% of the time, when all else fails, this skill will be there and it will work.
 > You cannot talk your body out of panic. You have to change the physical before you can address the mental.
@@ -215,7 +215,7 @@ sadie shares a psychology-backed dbt skill called the ice dive that stops panic 
 ## 248. why “look on the bright side” doesn’t work (do THIS instead!)
 
 - date: 2026-02-03
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/248
 - transcript: episodes/ep-248.md (full)
@@ -299,7 +299,7 @@ this episode explores why gen z feels so lonely even when surrounded by friends 
 ## 242. for anyone who thinks they’ll never get better (my mental health story)
 
 - date: 2025-12-12
-- tags: depression, dbt, troubled teen industry, sadie recommends, therapy & treatment
+- tags: depression, dbt, troubled teen industry, sadie recommends
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/242
 - transcript: episodes/ep-242.md (full)
@@ -313,7 +313,7 @@ sadie shares her full mental health story, from severe depression and anxiety at
 ## 241. why you feel RESENTFUL (& how to stop)
 
 - date: 2025-12-05
-- tags: relationships, dbt, therapy & treatment
+- tags: relationships, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/241
 - transcript: episodes/ep-241.md (full)
@@ -327,7 +327,7 @@ sadie breaks down why we feel resentful in relationships and how to stop the cyc
 ## 240. why you keep choosing the wrong people (and how to stop) with dr. molly burrets
 
 - date: 2025-11-27
-- tags: relationships, 20s, therapy & treatment
+- tags: relationships, 20s
 - guests: dr. molly burrets, clinical psychologist and adjunct professor in the department of marriage and family therapy at usc
 - url: https://shepersistedpodcast.com/episodes/240
 - transcript: episodes/ep-240.md (full)
@@ -355,7 +355,7 @@ sadie and dr. maddy ellberger, founder of downtown behavioral wellness, break do
 ## 238. i asked 9 experts how to heal from anxiety (what you NEED to know)
 
 - date: 2025-11-14
-- tags: anxiety, therapy & treatment
+- tags: anxiety
 - guests: dr. david rosmarin, tara quinn-cirillo, ken ginsburg, judy ho, madeline lucas, nicole lepera, beth kurland, laura frontiero, meg jay
 - url: https://shepersistedpodcast.com/episodes/238
 - transcript: episodes/ep-238.md (full)
@@ -383,7 +383,7 @@ sadie talks with amanda litman, co-founder of run for something, about how gen z
 ## 236. the 🦋 BUTTERFLY EFFECT of mental health?!
 
 - date: 2025-10-24
-- tags: emotions, dbt, self-improvement, therapy & treatment
+- tags: emotions, dbt, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/236
 - transcript: episodes/ep-236.md (full)
@@ -397,7 +397,7 @@ sadie breaks down the psychology behind why we repeat patterns that hurt us, usi
 ## 235. society is shaping women’s core beliefs… so let’s rewire them feat. kara loewentheil
 
 - date: 2025-10-12
-- tags: relationships, anxiety, therapy & treatment
+- tags: relationships, anxiety
 - guests: kara loewentheil, feminist coach and host of unf*ck your brain
 - url: https://shepersistedpodcast.com/episodes/235
 - transcript: episodes/ep-235.md (full)
@@ -411,7 +411,7 @@ sadie sits down with kara loewentheil—feminist coach, author of take back your
 ## 234. what taylor swift says about mental health (a psych grad UNPACKS her best lyrics, quotes, + more!)
 
 - date: 2025-10-06
-- tags: dbt, anxiety, relationships, social media, body image, depression, therapy & treatment
+- tags: dbt, anxiety, relationships, social media, body image, depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/234
 - transcript: episodes/ep-234.md (full)
@@ -453,7 +453,7 @@ in this solo episode, sadie breaks down why school friendships matter far more t
 ## 231. gen z mental health: is it really that bad?? - a pediatrician’s take feat. dr. ken ginsburg
 
 - date: 2025-09-15
-- tags: anxiety, depression, relationships, parents, therapy & treatment
+- tags: anxiety, depression, relationships, parents
 - guests: dr. ken ginsburg, pediatrician specializing in adolescent medicine at children's hospital of philadelphia
 - url: https://shepersistedpodcast.com/episodes/231
 - transcript: episodes/ep-231.md (full)
@@ -509,7 +509,7 @@ sadie sits down with dr. angela duckworth—psychologist, macarthur genius, and 
 ## 227. I asked 9 experts how to heal from depression (what you NEED to know)
 
 - date: 2025-08-07
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: hans schroeder, clinical assistant professor of psychiatry at the university of michigan medical school, dr. ayelet ruscio, professor at penn, dr. caroline fleck, licensed psychologist and author of validation, dr. judith joseph, board certified psychiatrist and researcher at columbia university, kathryn gordon, licensed clinical psychologist and author, dr. margaret rutherford, psychologist and author, dr. jonathan rottenberg, cornell professor and depression researcher, dr. steven hollon, professor at vanderbilt, liz fosslien, author, mollie west duffy, author
 - url: https://shepersistedpodcast.com/episodes/227
 - transcript: episodes/ep-227.md (full)
@@ -551,7 +551,7 @@ sadie talks with olga khazan, a staff writer at the atlantic and author of me, b
 ## 224. stop ‘shoulding’ + shaming yourself
 
 - date: 2025-06-26
-- tags: dbt, emotions, self-improvement, therapy & treatment
+- tags: dbt, emotions, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/224
 - transcript: episodes/ep-224.md (full)
@@ -579,7 +579,7 @@ sadie sits down with dr. rosalind chow, an organizational behavior professor at 
 ## 222. building your dream life is possible: here’s how feat. dr. emily anhalt
 
 - date: 2025-05-31
-- tags: career, 20s, self-improvement, emotions, therapy & treatment
+- tags: career, 20s, self-improvement, emotions
 - guests: dr. emily anhalt, clinical psychologist and co-founder of coa
 - url: https://shepersistedpodcast.com/episodes/222
 - transcript: episodes/ep-222.md (full)
@@ -649,7 +649,7 @@ sadie talks with dr. emily weinstein, a psychologist and co-director of the cent
 ## 217. mental health book club series: lost connections by johann hari
 
 - date: 2025-04-10
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep217
 - transcript: episodes/ep-217.md (full)
@@ -663,7 +663,7 @@ sadie breaks down lost connections by johann hari, a book exploring why we get d
 ## 216. your 20s are for healing childhood wounds feat. kelly u
 
 - date: 2025-03-30
-- tags: 20s, self-improvement, therapy & treatment, parents
+- tags: 20s, self-improvement, parents
 - guests: kelly uchima, asian american mental health advocate and wellness content creator
 - url: https://shepersistedpodcast.com/episodes/ep216
 - transcript: episodes/ep-216.md (full)
@@ -677,7 +677,7 @@ sadie talks with kelly uchima, an asian american mental health advocate, about h
 ## 215. i interviewed my THERAPIST?!! validation, dbt, stigma + more feat. dr. caroline fleck
 
 - date: 2025-03-25
-- tags: dbt, depression, therapy & treatment
+- tags: dbt, depression
 - guests: dr. caroline fleck
 - url: https://shepersistedpodcast.com/episodes/ep215
 - transcript: episodes/ep-215.md (full)
@@ -719,7 +719,7 @@ sadie sits down with john r. miles—former navy officer, fortune 50 exec, and h
 ## 212. how to be more resilient feat. dr. glenn schiraldi
 
 - date: 2025-02-17
-- tags: anxiety, trauma, therapy & treatment
+- tags: anxiety, trauma
 - guests: dr. glenn schiraldi, founder of resilience training international
 - url: https://shepersistedpodcast.com/episodes/ep212
 - transcript: episodes/ep-212.md (full)
@@ -747,7 +747,7 @@ sadie shares everything she learned in dr. angela duckworth's grit lab course at
 ## 210. why you’re feeling suicidal + a therapist’s advice on how to cope feat. kathryn gordon
 
 - date: 2025-01-31
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: dr. kathryn gordon, licensed clinical psychologist and author
 - url: https://shepersistedpodcast.com/episodes/ep210
 - transcript: episodes/ep-210.md (full)
@@ -761,7 +761,7 @@ sadie talks with dr. kathryn gordon, a clinical psychologist specializing in cbt
 ## 209. How to Set Habits You'll ACTUALLY Use [Solo]
 
 - date: 2025-01-17
-- tags: self-improvement, therapy & treatment
+- tags: self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep209
 - transcript: episodes/ep-209.md (full)
@@ -775,7 +775,7 @@ sadie breaks down the psychology of habit formation and goal setting for the new
 ## 208. How to Be a Mental Health ADVOCATE feat. Active Minds
 
 - date: 2025-01-17
-- tags: college, self-improvement, therapy & treatment, parents
+- tags: college, self-improvement, parents
 - guests: alison malmon, founder and executive director of active minds, lauren cikara, vp of school mental health at active minds
 - url: https://shepersistedpodcast.com/episodes/ep208
 - transcript: episodes/ep-208.md (full)
@@ -789,7 +789,7 @@ sadie sits down with alison malmon and lauren cikara of active minds to talk abo
 ## 207. What Research Says About DEPRESSION feat. Dr. Steven Hollon
 
 - date: 2024-12-12
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: dr. steven hollon, professor of psychology at vanderbilt university
 - url: https://shepersistedpodcast.com/episodes/ep207
 - transcript: episodes/ep-207.md (full)
@@ -803,7 +803,7 @@ sadie sits down with dr. steven hollon, a leading depression researcher at vande
 ## 206. EMOTION REGULATION: Misophonia, DBT, Reactivity, & More feat. Dr. Mark Zachary Rosenthal
 
 - date: 2024-12-03
-- tags: emotions, dbt, therapy & treatment
+- tags: emotions, dbt
 - guests: dr. mark zachary rosenthal, clinical psychologist and director of the duke center for misophonia and emotion regulation, grace heppes, outreach and education coordinator at the duke center for misophonia and emotion regulation
 - url: https://shepersistedpodcast.com/episodes/ep206
 - transcript: episodes/ep-206.md (full)
@@ -831,7 +831,7 @@ in this solo episode, sadie shares what she wishes she'd known when struggling w
 ## 204. Your Guide to Generational Trauma feat. Dr. Mariel Buqué
 
 - date: 2024-11-12
-- tags: trauma, relationships, therapy & treatment, parents
+- tags: trauma, relationships, parents
 - guests: dr. mariel buqué, psychologist and author of break the cycle: a guide to healing intergenerational trauma
 - url: https://shepersistedpodcast.com/episodes/ep204
 - transcript: episodes/ep-204.md (full)
@@ -845,7 +845,7 @@ sadie talks with dr. mariel buqué about generational trauma—what it is, how i
 ## 203. 5 Things You Didn't Know About Depression feat. Jonathan Rottenberg
 
 - date: 2024-10-19
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: jonathan rottenberg, director of the better outcomes laboratory at cornell university
 - url: https://shepersistedpodcast.com/episodes/ep203
 - transcript: episodes/ep-203.md (full)
@@ -859,7 +859,7 @@ sadie talks with jonathan rottenberg, a professor at cornell who studies depress
 ## 202. 5 Ways to Form a Secure Attachment Style feat. Thais Gibson
 
 - date: 2024-09-27
-- tags: relationships, therapy & treatment, parents
+- tags: relationships, parents
 - guests: thais gibson, founder of the personal development school
 - url: https://shepersistedpodcast.com/episodes/ep202
 - transcript: episodes/ep-202.md (full)
@@ -887,7 +887,7 @@ in this episode, sadie talks with dr. david yeager, a psychology professor at ut
 ## 200. Back to School Advice (DBT Edition)
 
 - date: 2024-09-14
-- tags: college, dbt, therapy & treatment, high school
+- tags: college, dbt, high school
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep200
 - transcript: episodes/ep-200.md (full)
@@ -985,7 +985,7 @@ dr. nick nissen, a harvard-trained psychiatrist, breaks down adhd—what it actu
 ## 193. Gaining Wisdom & Weathering Grief in Your Twenties feat. Yasmine Cheyenne
 
 - date: 2024-06-29
-- tags: 20s, trauma, relationships, therapy & treatment
+- tags: 20s, trauma, relationships
 - guests: yasmine cheyenne, author and self-healing workshop leader
 - url: https://shepersistedpodcast.com/episodes/ep193
 - transcript: episodes/ep-193.md (full)
@@ -1013,7 +1013,7 @@ sadie sits down with nita farahany, a law professor and expert on emerging tech 
 ## 191. How Should We Talk About Depression? feat. Hans Schroder
 
 - date: 2024-05-25
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: dr. hans schroder, clinical assistant professor of psychiatry at the university of michigan
 - url: https://shepersistedpodcast.com/episodes/ep191
 - transcript: episodes/ep-191.md (full)
@@ -1055,7 +1055,7 @@ sadie sits down with johann hari to unpack his new book magic pill and discuss t
 ## 188. A Psychologist's Guide to Your 20s: How to Handle Mental Health, Breakups, & Growing Up feat. Meg Jay
 
 - date: 2024-04-24
-- tags: 20s, therapy & treatment
+- tags: 20s
 - guests: dr. meg jay, developmental clinical psychologist and author
 - url: https://shepersistedpodcast.com/episodes/ep188
 - transcript: episodes/ep-188.md (full)
@@ -1083,7 +1083,7 @@ sadie sits down with professor jeffrey hall to unpack friendship, loneliness, an
 ## 186. THE SCIENCE OF HAPPINESS: How to Improve Your Mood & Increase Your Freedom feat. Emma Seppälä
 
 - date: 2024-04-08
-- tags: emotions, self-improvement, therapy & treatment
+- tags: emotions, self-improvement
 - guests: dr. emma seppälä, psychologist, yale lecturer, and science director at stanford's center for compassion and altruism research and education
 - url: https://shepersistedpodcast.com/episodes/ep186
 - transcript: episodes/ep-186.md (full)
@@ -1097,7 +1097,7 @@ sadie talks with dr. emma seppälä—psychologist, yale lecturer, and stanford 
 ## 185. "The WORST Year of My Entire Life!!!" - Responding to Reddit Mental Health Posts Pt. 2!
 
 - date: 2024-04-02
-- tags: depression, troubled teen industry, therapy & treatment
+- tags: depression, troubled teen industry
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep185
 - transcript: episodes/ep-185.md (full)
@@ -1111,7 +1111,7 @@ sadie responds to mental health questions from reddit and listeners, covering de
 ## 184. UNHEALTHY RELATIONSHIPS: Red Flags & Risk Factors in Teen Relationships feat. Eden Garcia-Balis
 
 - date: 2024-03-25
-- tags: relationships, therapy & treatment, parents
+- tags: relationships, parents
 - guests: eden garcia-balis, licensed marriage and family therapist and ceo of airport marina counseling service
 - url: https://shepersistedpodcast.com/episodes/ep184
 - transcript: episodes/ep-184.md (full)
@@ -1125,7 +1125,7 @@ sadie talks with eden garcia-balis, a therapist and ceo of a nonprofit mental he
 ## 183. High-Functioning Depression & Trauma in College Students feat. Judith Joseph, M.D., M.B.A.
 
 - date: 2024-03-16
-- tags: depression, college, trauma, therapy & treatment
+- tags: depression, college, trauma
 - guests: dr. judith joseph, m.d., m.b.a.
 - url: https://shepersistedpodcast.com/episodes/ep183
 - transcript: episodes/ep-183.md (full)
@@ -1139,7 +1139,7 @@ sadie talks with dr. judith joseph, a psychiatrist and researcher who founded th
 ## 182. Anxiety 101: What We Do Wrong, How to Cope, and Facing Our Fears feat. Dr. David Rosmarin
 
 - date: 2024-03-08
-- tags: anxiety, therapy & treatment, parents
+- tags: anxiety, parents
 - guests: dr. david rosmarin, associate professor at harvard medical school and founder of center for anxiety
 - url: https://shepersistedpodcast.com/episodes/ep182
 - transcript: episodes/ep-182.md (full)
@@ -1153,7 +1153,7 @@ dr. david rosmarin, a harvard medical school professor and founder of center for
 ## 181. "Is there something wrong with me?!!" - Responding to Reddit Mental Health Posts
 
 - date: 2024-03-01
-- tags: depression, therapy & treatment, high school
+- tags: depression, high school
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep181
 - transcript: episodes/ep-181.md (full)
@@ -1167,7 +1167,7 @@ sadie responds to anonymous reddit mental health posts, covering feelings of hop
 ## 180. All About ADHD: Symptoms, Misconceptions, Diagnosis, & More feat. Dr. Roberto Olivardia
 
 - date: 2024-02-18
-- tags: adhd, therapy & treatment
+- tags: adhd
 - guests: dr. roberto olivardia, clinical psychologist and lecturer at harvard medical school
 - url: https://shepersistedpodcast.com/episodes/ep180
 - transcript: episodes/ep-180.md (full)
@@ -1223,7 +1223,7 @@ in this episode, sadie talks with life coach jeff kallil about building healthie
 ## 176. The Power of DBT: How to Change Your Behaviors & Cultivate Hope feat. Dr. Maddy Ellberger
 
 - date: 2024-01-20
-- tags: dbt, therapy & treatment, parents
+- tags: dbt, parents
 - guests: dr. maddy ellberger, phd, lcsw
 - url: https://shepersistedpodcast.com/episodes/ep176
 - transcript: episodes/ep-176.md (full)
@@ -1237,7 +1237,7 @@ sadie talks with dr. maddy ellberger, a clinical social worker and dbt specialis
 ## 175. SELF-INVALIDATION: Why We Judge Ourselves & How To Accept Your Emotions
 
 - date: 2024-01-13
-- tags: emotions, dbt, therapy & treatment
+- tags: emotions, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep175
 - transcript: episodes/ep-175.md (full)
@@ -1279,7 +1279,7 @@ sadie talks with registered dietitian amy dahl about the role nutrition plays in
 ## 172. BOUNDARIES: How to Set Them and What To Do If Others Reject Them feat. Terri Cole
 
 - date: 2023-12-15
-- tags: relationships, therapy & treatment, parents
+- tags: relationships, parents
 - guests: terri cole, licensed psychotherapist and author of boundary boss
 - url: https://shepersistedpodcast.com/episodes/ep172
 - transcript: episodes/ep-172.md (full)
@@ -1293,7 +1293,7 @@ this episode is all about boundaries—what they actually are, why they matter, 
 ## 171. Relationship Advice That Will Change Your Life: Improve Your Interpersonal Effectiveness This Holiday Season
 
 - date: 2023-12-10
-- tags: relationships, dbt, therapy & treatment, parents
+- tags: relationships, dbt, parents
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep171
 - transcript: episodes/ep-171.md (full)
@@ -1335,7 +1335,7 @@ sadie talks with dr. shairi turner, chief health officer at crisis text line, ab
 ## 168. DBT Crash Course: Key DBT Skills & Dialectics That CHANGED My Life!
 
 - date: 2023-11-17
-- tags: dbt, therapy & treatment
+- tags: dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep168
 - transcript: episodes/ep-168.md (full)
@@ -1377,7 +1377,7 @@ sadie talks with amanda e. white, a licensed therapist and founder of therapy fo
 ## 165. Changing Your Behaviors 101: How to Decrease Problem Behaviors & Increase Wanted Behaviors
 
 - date: 2023-10-23
-- tags: dbt, self-improvement, therapy & treatment
+- tags: dbt, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep165
 - transcript: episodes/ep-165.md (full)
@@ -1419,7 +1419,7 @@ this episode dives into eating disorder treatment with david alperovitz, program
 ## 162. 10 Psychology Facts You Should Know: How to Improve Your Outlook and Boost Your Well-Being
 
 - date: 2023-09-29
-- tags: self-improvement, therapy & treatment
+- tags: self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep162
 - transcript: episodes/ep-162.md (full)
@@ -1433,7 +1433,7 @@ sadie shares ten psychology facts that can improve your mental health and outloo
 ## 161. A Parent’s Guide to Teen Mental Health feat. Ann Coleman
 
 - date: 2023-09-23
-- tags: adhd, anxiety, emotions, parents, therapy & treatment
+- tags: adhd, anxiety, emotions, parents
 - guests: ann coleman, mom, attorney, educator, podcaster, and advocate for parenting teens
 - url: https://shepersistedpodcast.com/episodes/ep161
 - transcript: episodes/ep-161.md (full)
@@ -1489,7 +1489,7 @@ sadie sits down with leandro olszanski, a board-certified psychotherapist with o
 ## 157. Overcoming Loneliness & Isolation as a Teen feat. Dr. Caroline Fenkel
 
 - date: 2023-08-25
-- tags: depression, therapy & treatment, parents
+- tags: depression, parents
 - guests: dr. caroline fenkel, leader in adolescent mental healthcare at charlie health
 - url: https://shepersistedpodcast.com/episodes/ep157
 - transcript: episodes/ep-157.md (full)
@@ -1503,7 +1503,7 @@ sadie talks with dr. caroline fenkel, who oversees clinical programming at charl
 ## 156. Tracking Your Mental Health: Diary Cards, Bullet Journaling, Apps, & More - SOLO EP
 
 - date: 2023-08-22
-- tags: dbt, therapy & treatment, high school
+- tags: dbt, high school
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep156
 - transcript: episodes/ep-156.md (full)
@@ -1531,7 +1531,7 @@ sadie talks with nicole baker, a life coach specializing in perfectionism, about
 ## 154. Erin Treloar on Overcoming Anorexia, Silencing off the Eating Disorder "Voice," and Stepping into Self Love
 
 - date: 2023-07-22
-- tags: body image, therapy & treatment, parents
+- tags: body image, parents
 - guests: erin treloar, celebrity health & life coach, meditation teacher, and host of the raw beauty talks podcast
 - url: https://shepersistedpodcast.com/episodes/ep154
 - transcript: episodes/ep-154.md (full)
@@ -1545,7 +1545,7 @@ erin treloar, celebrity health & life coach, meditation teacher, and host of the
 ## 153. EMOTIONAL VULNERABILITY: How Teenagers Can Understand & Regulate their Emotions!
 
 - date: 2023-07-01
-- tags: dbt, emotions, therapy & treatment
+- tags: dbt, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep153
 - transcript: episodes/ep-153.md (full)
@@ -1559,7 +1559,7 @@ this solo episode breaks down emotional vulnerability in teens using the dbt mod
 ## 152. Healing Your Relationship with Health: Diet Culture, Exercise, Eating Disorders, & More feat Abbie Stasior
 
 - date: 2023-06-25
-- tags: body image, therapy & treatment
+- tags: body image
 - guests: abbie stasior, soon-to-be registered dietitian and founder of be about being better
 - url: https://shepersistedpodcast.com/episodes/ep152
 - transcript: episodes/ep-152.md (full)
@@ -1601,7 +1601,7 @@ sadie answers listener questions about navigating mental health in college and d
 ## 149. How to THRIVE as a College Student aka YOUR ULTIMATE COLLEGE TOOLKIT feat Dr. Olivo & Dr. Seidler
 
 - date: 2023-05-29
-- tags: college, dbt, therapy & treatment
+- tags: college, dbt
 - guests: dr. sarah olivo, dr. liz seidler
 - url: https://shepersistedpodcast.com/episodes/ep149
 - transcript: episodes/ep-149.md (full)
@@ -1643,7 +1643,7 @@ sadie talks with dr. bianca busch, a psychiatrist who specializes in college stu
 ## 146. How to Stop Rejecting Reality & Avoiding Improvement: Skills You NEED if You’re Struggling
 
 - date: 2023-05-05
-- tags: dbt, depression, anxiety, therapy & treatment
+- tags: dbt, depression, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep146
 - transcript: episodes/ep-146.md (full)
@@ -1671,7 +1671,7 @@ sadie and nicole shallow discuss the relationship between sleep and mental healt
 ## 144. Dr. Nicole LePera on Intergenerational Trauma, Anxiety, Ego States, & Advice for Teens
 
 - date: 2023-04-20
-- tags: trauma, anxiety, relationships, therapy & treatment, high school
+- tags: trauma, anxiety, relationships, high school
 - guests: dr. nicole lepera, clinical psychologist and creator of the holistic psychologist
 - url: https://shepersistedpodcast.com/episodes/ep144
 - transcript: episodes/ep-144.md (full)
@@ -1713,7 +1713,7 @@ sadie talks with kristen carder, an adhd coach and podcast host, about how adhd 
 ## 141. Losing a Loved One to Suicide: What Alexandra Wyman Wants You to Know
 
 - date: 2023-03-30
-- tags: depression, therapy & treatment, parents
+- tags: depression, parents
 - guests: alexandra wyman, author, podcaster, speaker, and grief navigator
 - url: https://shepersistedpodcast.com/episodes/ep141
 - transcript: episodes/ep-141.md (full)
@@ -1727,7 +1727,7 @@ sadie sits down with alexandra wyman, author and grief navigator, who lost her h
 ## 140. Q+A: Trusting Yourself, Willfulness, Advocating for Your Needs, & Building Healthy Relationships
 
 - date: 2023-03-23
-- tags: relationships, self-improvement, therapy & treatment
+- tags: relationships, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep140
 - transcript: episodes/ep-140.md (full)
@@ -1755,7 +1755,7 @@ in this episode, sadie sits down with britt frank, a licensed psychotherapist an
 ## 138. How to Survive a Panic Attack - SOLO EP
 
 - date: 2023-03-09
-- tags: dbt, anxiety, therapy & treatment
+- tags: dbt, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep138
 - transcript: episodes/ep-138.md (full)
@@ -1769,7 +1769,7 @@ sadie breaks down three dbt distress tolerance skills to stop a panic attack in 
 ## 137. The Hidden Dangers of Social Media Use: Mental Health Risks for Teens Online & How Parents Can Help feat. Dr. Lisa Strohman
 
 - date: 2023-03-02
-- tags: social media, parents, therapy & treatment
+- tags: social media, parents
 - guests: dr. lisa strohman, clinical psychologist, attorney, and founder of digital citizen academy
 - url: https://shepersistedpodcast.com/episodes/ep137
 - transcript: episodes/ep-137.md (full)
@@ -1797,7 +1797,7 @@ sadie sits down with dr. justin mohatt, a double board-certified psychiatrist at
 ## 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More!
 
 - date: 2023-02-16
-- tags: self-improvement, social media, dbt, therapy & treatment, parents, high school
+- tags: self-improvement, social media, dbt, parents, high school
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep135
 - transcript: episodes/ep-135.md (full)
@@ -1825,7 +1825,7 @@ sadie talks with ellie zeiler, an 18-year-old creator with nearly 11 million tik
 ## 133. EATING DISORDERS: Signs, Symptoms, Social Media, & Support Systems feat. Dr. Sam DeCaro
 
 - date: 2023-02-02
-- tags: body image, therapy & treatment, parents
+- tags: body image, parents
 - guests: dr. sam decaro, director of clinical outreach and education at the renfrew center for eating disorders
 - url: https://shepersistedpodcast.com/episodes/ep133
 - transcript: episodes/ep-133.md (full)
@@ -1839,7 +1839,7 @@ sadie talks with dr. sam decaro, a licensed psychologist and clinical director a
 ## 132. 10 Coping Skills You NEED to Know - DBT Education
 
 - date: 2023-01-26
-- tags: dbt, emotions, therapy & treatment
+- tags: dbt, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep132
 - transcript: episodes/ep-132.md (full)
@@ -1853,7 +1853,7 @@ sadie walks through her go-to dbt coping skills for distress and emotion regulat
 ## 131. Why We Struggle with Our Emotions & Ways to Build Emotional Intelligence feat. Jay Fields
 
 - date: 2023-01-19
-- tags: emotions, self-improvement, therapy & treatment
+- tags: emotions, self-improvement
 - guests: jay fields, educator, coach and author specializing in embodied social and emotional intelligence
 - url: https://shepersistedpodcast.com/episodes/ep131
 - transcript: episodes/ep-131.md (full)
@@ -1881,7 +1881,7 @@ in this episode, sadie talks with kate stone—actress, founder of heartspeak em
 ## 129. New Years Resolutions For Your Mental Health: SMART Goals, My 2023 Intentions, + More
 
 - date: 2023-01-05
-- tags: self-improvement, therapy & treatment
+- tags: self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep129
 - transcript: episodes/ep-129.md (full)
@@ -1895,7 +1895,7 @@ sadie breaks down how to set mental health goals that actually work for 2023. sh
 ## 128. Ally Petitti on Anxiety, Health and Childhood Struggles, & Advice for Teens
 
 - date: 2022-12-27
-- tags: relationships, anxiety, therapy & treatment
+- tags: relationships, anxiety
 - guests: ally petitti, host of trying to figure it out podcast
 - url: https://shepersistedpodcast.com/episodes/ep128
 - transcript: episodes/ep-128.md (full)
@@ -1909,7 +1909,7 @@ sadie sits down with ally petitti, host of trying to figure it out, to talk abou
 ## 127. Getting Through Grief: Tips for Processing Grief and Healing Your Heart feat. Sharon Brubaker
 
 - date: 2022-12-20
-- tags: emotions, depression, therapy & treatment, high school
+- tags: emotions, depression, high school
 - guests: sharon brubaker, certified life coach and grief specialist
 - url: https://shepersistedpodcast.com/episodes/ep127
 - transcript: episodes/ep-127.md (full)
@@ -1951,7 +1951,7 @@ sadie and zach gottlieb, 16-year-old founder of talk with zach, discuss teen men
 ## 124. Generational Healing: Nancy Diaz on Identity Struggles & Trauma for Multicultural Women of Color
 
 - date: 2022-11-29
-- tags: relationships, trauma, therapy & treatment, parents
+- tags: relationships, trauma, parents
 - guests: nancy diaz of global citizen therapy
 - url: https://shepersistedpodcast.com/episodes/ep124
 - transcript: episodes/ep-124.md (full)
@@ -1993,7 +1993,7 @@ sadie and bobby cook from breaking code silence discuss the troubled teen indust
 ## 121. Mary's Cup of Tea on Healing Your Body Image through Journaling, Social Media, College, & More!
 
 - date: 2022-11-08
-- tags: body image, therapy & treatment
+- tags: body image
 - guests: mary jelkovsky, host of mary's cup of tea and author of the gift of self-love
 - url: https://shepersistedpodcast.com/episodes/ep121
 - transcript: episodes/ep-121.md (full)
@@ -2007,7 +2007,7 @@ sadie talks with mary jelkovsky—host of mary's cup of tea, author of the gift 
 ## 120. Mental Health Habits to Decrease Emotional Vulnerability & Sustain Recovery
 
 - date: 2022-11-05
-- tags: emotions, self-improvement, therapy & treatment
+- tags: emotions, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep120
 - transcript: episodes/ep-120.md (full)
@@ -2049,7 +2049,7 @@ sadie talks with dr. sasha heinz, a developmental psychologist and coach, about 
 ## 117. How I Get the Most Out of Therapy + Feel Seen in Sessions - SOLO EP
 
 - date: 2022-10-17
-- tags: dbt, therapy & treatment
+- tags: dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep117
 - transcript: episodes/ep-117.md (full)
@@ -2063,7 +2063,7 @@ sadie shares seven years of therapy experience to help listeners optimize their 
 ## 116. Lindsey Simcik on Being Okay with Being Single, Using Discipline to Find Freedom, Thriving in the Chaos of College
 
 - date: 2022-10-06
-- tags: anxiety, college, relationships, therapy & treatment
+- tags: anxiety, college, relationships
 - guests: lindsey simcik, co-host of almost 30 and morning microdose
 - url: https://shepersistedpodcast.com/episodes/ep116
 - transcript: episodes/ep-116.md (full)
@@ -2077,7 +2077,7 @@ sadie sits down with lindsey simcik, co-host of the almost 30 podcast, to talk a
 ## 115. SUICIDE PREVENTION: What to Expect When Calling 988 + Reasons to Have Hope feat. Adia Fadaei
 
 - date: 2022-09-25
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: adia fadaei, crisis counselor at 988 crisis & suicide lifeline
 - url: https://shepersistedpodcast.com/episodes/ep115
 - transcript: episodes/ep-115.md (full)
@@ -2091,7 +2091,7 @@ in this episode, sadie sits down with adia fadaei, a 19-year-old crisis counselo
 ## 114. SUICIDE PREVENTION: My Experience, Crisis Survival Skills, + Long-Term Recovery
 
 - date: 2022-09-18
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep114
 - transcript: episodes/ep-114.md (full)
@@ -2119,7 +2119,7 @@ in this episode, sadie sits down with dr. marisa franco—a psychologist, author
 ## 112. Struggling with Depression as a Perfectionist: Dr. Margaret Rutherford on Perfectly Hidden Depression
 
 - date: 2022-08-31
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: dr. margaret rutherford, psychologist, author, and host of the self-work podcast
 - url: https://shepersistedpodcast.com/episodes/ep112
 - transcript: episodes/ep-112.md (full)
@@ -2231,7 +2231,7 @@ sadie wraps up her freshman year at upenn by sharing practical advice on maintai
 ## 104. Sleep Deprivation, Insomnia, + Night Routine Tips for Teens feat. Generation Sleepless Authors Heather Turgeon + Julie Wright
 
 - date: 2022-06-23
-- tags: self-improvement, anxiety, depression, high school
+- tags: self-improvement, anxiety, depression
 - guests: heather turgeon, psychotherapist and author of generation sleepless, julie wright, psychotherapist and author of generation sleepless
 - url: https://shepersistedpodcast.com/episodes/ep104
 - transcript: episodes/ep-104.md (full)
@@ -2259,7 +2259,7 @@ sadie sits down with emmalee bierly, lmft, and jennifer chaiken, lmft—co-found
 ## 102. High School, College Apps, Dating, Podcast Growth, + More feat. The Girly Girl Podcast's Carmen Applegate
 
 - date: 2022-06-09
-- tags: college, high school
+- tags: college
 - guests: carmen applegate, host of the girly girl podcast
 - url: https://shepersistedpodcast.com/episodes/ep102
 - transcript: episodes/ep-102.md (full)
@@ -2273,7 +2273,7 @@ sadie sits down with carmen applegate, host of the girly girl podcast, to answer
 ## 101. Auschwitz Survivor Dr. Edith Eger on Living in the Present, Uncertainty, Suppressed Emotions, and Inner Dialogues
 
 - date: 2022-06-02
-- tags: emotions, trauma, therapy & treatment
+- tags: emotions, trauma
 - guests: dr. edith eger, psychologist and holocaust survivor
 - url: https://shepersistedpodcast.com/episodes/ep101
 - transcript: episodes/ep-101.md (full)
@@ -2325,7 +2325,7 @@ sadie talks with whitney goodman, lmft—author of toxic positivity and therapis
 ## 97. truth x She Persisted: A Roundtable Discussion on Vaping, Teen Nicotine Use, and Quitting Substances as a Young Adult
 
 - date: 2022-04-26
-- tags: self-improvement, adhd, anxiety, therapy & treatment
+- tags: self-improvement, adhd, anxiety
 - guests: megan jacobs, managing director of products at truth initiative, jake warn, college student and truth impact scholarship recipient
 - url: https://shepersistedpodcast.com/episodes/ep97
 - transcript: episodes/ep-097.md (full)
@@ -2353,7 +2353,7 @@ sadie sits down with eileen kelly, host of going mental and founder of KAAST, to
 ## 95. 5 Skills to Regulate Your Emotions, Decrease Emotional Vulnerability, + Build Your Life Worth Living
 
 - date: 2022-04-14
-- tags: dbt, emotions, therapy & treatment
+- tags: dbt, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep95
 - transcript: episodes/ep-095.md (full)
@@ -2377,7 +2377,7 @@ sadie sits down with jill and dave henry, high school coaches and authors of the
 ## 93. Manifesting Your Mental Health feat. Efia Sulter
 
 - date: 2022-03-31
-- tags: self-improvement, trauma, therapy & treatment
+- tags: self-improvement, trauma
 - guests: efia sulter, mindset and manifestation coach and host of the manifest edit
 - url: https://shepersistedpodcast.com/episodes/ep93
 - transcript: episodes/ep-093.md (full)
@@ -2391,7 +2391,7 @@ in this episode, sadie sits down with efia sulter—a mindset and manifestation 
 ## 92. Reclaiming Your Life and Identity After Trauma + PTSD feat. Michele Rosenthal
 
 - date: 2022-03-25
-- tags: trauma, therapy & treatment
+- tags: trauma
 - guests: michele rosenthal, certified professional coach, board certified trauma and ptsd hypnotist, licensed master practitioner of neuro-linguistic programming, and trauma recovery specialist
 - url: https://shepersistedpodcast.com/episodes/ep92
 - transcript: episodes/ep-092.md (full)
@@ -2419,7 +2419,7 @@ sadie sits down with tara bixby, a therapist, anxiety coach, and host of the cou
 ## 90. Crisis Survival 101: Coping Skills, SUDs Scores, + My Recommendations
 
 - date: 2022-03-08
-- tags: anxiety, depression, dbt, therapy & treatment
+- tags: anxiety, depression, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep90
 - transcript: episodes/ep-090.md (full)
@@ -2433,7 +2433,7 @@ sadie breaks down how to survive a mental health crisis—whether it's extreme a
 ## 89. Bailey Stanworth on Social Media + Mental Health: Societal Influence, Creating Boundaries, & Virtual Vulnerability
 
 - date: 2022-03-02
-- tags: body image, social media, relationships, therapy & treatment
+- tags: body image, social media, relationships
 - guests: bailey stanworth, founder of play digital and co-host of what day is it?
 - url: https://shepersistedpodcast.com/episodes/ep89
 - transcript: episodes/ep-089.md (full)
@@ -2447,7 +2447,7 @@ sadie sits down with bailey stanworth—founder of play digital, podcast host, a
 ## 88. The Neuroscience of PTSD, Traumatic Experiences, and Emotion Regulation feat. Madeline Bailey
 
 - date: 2022-02-22
-- tags: trauma, therapy & treatment
+- tags: trauma
 - guests: madeline bailey, m.s. in neuroscience
 - url: https://shepersistedpodcast.com/episodes/ep88
 - transcript: episodes/ep-088.md (full)
@@ -2489,7 +2489,7 @@ sadie and sami halvorsen, founder of knowing up and host of the teen life coach 
 ## 85. The Emotion Education you Should Have Gotten: Evolutionary Causes, Core Emotions, Primary vs. Secondary, and How to Cope
 
 - date: 2022-02-01
-- tags: emotions, therapy & treatment
+- tags: emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep85
 - transcript: episodes/ep-085.md (full)
@@ -2503,7 +2503,7 @@ sadie breaks down everything she learned about emotions from treatment at mclean
 ## 84. Andrea Arlington on Reparenting, Healing Generational Trauma, and Family Recovery
 
 - date: 2022-01-25
-- tags: trauma, therapy & treatment, parents
+- tags: trauma, parents
 - guests: andrea arlington, icf pcc life coach specializing in family recovery and relationships
 - url: https://shepersistedpodcast.com/episodes/ep84
 - transcript: episodes/ep-084.md (full)
@@ -2531,7 +2531,7 @@ sadie sits down with beth segaloff—licensed clinical social worker, life coach
 ## 82. How to Let Go of Expectations + Improve Your Self-Talk feat. Paige Tonz
 
 - date: 2022-01-12
-- tags: self-improvement, high school
+- tags: self-improvement
 - guests: paige tonz, girl athlete mindset mentor and former d1 softball player at northwestern
 - url: https://shepersistedpodcast.com/episodes/ep82
 - transcript: episodes/ep-082.md (full)
@@ -2559,7 +2559,7 @@ sadie talks with dr. aliza pressman, a developmental psychologist, about how par
 ## 80. Surviving Teenage Depression + Anxiety: FAQs, Intensive Treatment, DBT, Coping Skills, + More
 
 - date: 2021-12-27
-- tags: depression, anxiety, dbt, therapy & treatment
+- tags: depression, anxiety, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep80
 - transcript: episodes/ep-080.md (full)
@@ -2587,7 +2587,7 @@ sadie sits down with doug bopst, a personal trainer, author, and speaker who tra
 ## 78. Dr. Caroline Leaf on Neuroplasticity, the Brain vs. the Mind, and Cognitive Detoxing
 
 - date: 2021-11-23
-- tags: trauma, anxiety, depression, therapy & treatment
+- tags: trauma, anxiety, depression
 - guests: dr. caroline leaf, communication pathologist and cognitive neuroscientist
 - url: https://shepersistedpodcast.com/episodes/ep78
 - transcript: episodes/ep-078.md (full)
@@ -2615,7 +2615,7 @@ sadie sits down with dr. kojo sarfo, a mental health nurse practitioner and soci
 ## 76. Dr. Alexandra Solomon on Building Healthy Relationships as a Teen, Exploring Sexuality, Soulmates, and Sex Education
 
 - date: 2021-10-27
-- tags: relationships, therapy & treatment, high school
+- tags: relationships, high school
 - guests: dr. alexandra solomon, licensed clinical psychologist, author, and professor at northwestern university
 - url: https://shepersistedpodcast.com/episodes/ep76
 - transcript: episodes/ep-076.md (full)
@@ -2629,7 +2629,7 @@ sadie sits down with dr. alexandra solomon, a licensed clinical psychologist and
 ## 75. Amen Clinic's Dr. Jay Faber on Teenage Substance Use: Brain Impacts, Long-Term Effects, and Quitting Tips
 
 - date: 2021-10-19
-- tags: self-improvement, therapy & treatment, parents
+- tags: self-improvement, parents
 - guests: dr. jay faber, child psychiatrist at amen clinics
 - url: https://shepersistedpodcast.com/episodes/ep75
 - transcript: episodes/ep-075.md (full)
@@ -2643,7 +2643,7 @@ sadie sits down with dr. jay faber, a child psychiatrist at amen clinics, to tal
 ## 74. Sophie Gray (Founder of DiveThru) on Diet Culture, Body Neutrality, Teenage Self-Harm, and Mental Health Education
 
 - date: 2021-10-09
-- tags: emotions, body image, therapy & treatment
+- tags: emotions, body image
 - guests: sophie gray (founder of divethru)
 - url: https://shepersistedpodcast.com/episodes/ep74
 - transcript: episodes/ep-074.md (full)
@@ -2657,7 +2657,7 @@ sadie talks with sophie gray, founder of the mental health app divethru. sophie 
 ## 73. Victoria Garrick on Student-Athlete Mental Health, Body Image, Intuitive Eating, Vulnerability, and College Lifestyle
 
 - date: 2021-10-03
-- tags: body image, college, therapy & treatment
+- tags: body image, college
 - guests: victoria garrick, former d1 athlete and mental health advocate
 - url: https://shepersistedpodcast.com/episodes/ep73
 - transcript: episodes/ep-073.md (full)
@@ -2671,7 +2671,7 @@ sadie talks with victoria garrick, a former d1 volleyball player at usc, about h
 ## 72. Almost 30's Krista Williams on How Meditation Will Change Your Life, Body Acceptance, Experiencing Your Emotions, and Surviving Depression + Anxiety
 
 - date: 2021-09-26
-- tags: emotions, body image, trauma, therapy & treatment
+- tags: emotions, body image, trauma
 - guests: krista williams from almost 30
 - url: https://shepersistedpodcast.com/episodes/ep72
 - transcript: episodes/ep-072.md (full)
@@ -2695,7 +2695,7 @@ sadie recaps her first month at the university of pennsylvania, covering move-in
 ## 69. Navigating Anxiety as a Teenager: Coping Skills, Listener Q+A, Personal Experiences, and More
 
 - date: 2021-08-14
-- tags: anxiety, therapy & treatment, high school
+- tags: anxiety, high school
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep69
 - transcript: episodes/ep-069.md (full)
@@ -2705,7 +2705,7 @@ sadie covers navigating anxiety as a teenager, starting with insights from denma
 ## 68. How Our Mental + Physical Health Are Connected feat. Laura Martin
 
 - date: 2021-07-16
-- tags: depression, anxiety, therapy & treatment
+- tags: depression, anxiety
 - guests: laura martin, certified ibs nutrition consultant and founder of healing to happy
 - url: https://shepersistedpodcast.com/episodes/ep68
 - transcript: episodes/ep-068.md (full)
@@ -2733,7 +2733,7 @@ sadie recaps her entire high school experience across three states and three sch
 ## 66. Alexis Haines on Teenage Addiction, Childhood Trauma, and Taking Radical Accountability Over Your Healing
 
 - date: 2021-06-18
-- tags: trauma, therapy & treatment, parents
+- tags: trauma, parents
 - guests: alexis haines, addiction center owner, doula, podcast host, and author
 - url: https://shepersistedpodcast.com/episodes/ep66
 - transcript: episodes/ep-066.md (full)
@@ -2817,7 +2817,7 @@ sadie talks with kira willey, a mindfulness educator who works with kids and ado
 ## 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 
 - date: 2021-04-10
-- tags: anxiety, self-improvement, therapy & treatment
+- tags: anxiety, self-improvement
 - guests: zachery dereniowski, medical student and mental health advocate
 - url: https://shepersistedpodcast.com/episodes/ep60
 - transcript: episodes/ep-060.md (full)
@@ -2845,7 +2845,7 @@ sadie talks with hillary higgins, associate director of college counseling at th
 ## 58. Maintaining Your Mental Health Throughout The College Application Process (Navigating Rejection, Deferral, and Acceptance)
 
 - date: 2021-03-07
-- tags: college, anxiety, high school, therapy & treatment
+- tags: college, anxiety, high school
 - guests: maya
 - url: https://shepersistedpodcast.com/episodes/ep58
 - transcript: episodes/ep-058.md (full)
@@ -2859,7 +2859,7 @@ sadie sits down with her best friend maya to talk through the emotional rollerco
 ## 57. How I Got Into the University of Pennsylvania (My Test Scores, Personal Statement, Supplementals, Activities, Recommendation Advice, Etc)
 
 - date: 2021-02-27
-- tags: college, depression, high school, therapy & treatment
+- tags: college, depression, high school
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep57
 - transcript: episodes/ep-057.md (full)
@@ -2873,7 +2873,7 @@ sadie walks through her entire university of pennsylvania application, breaking 
 ## 56. OCD + Exposure Therapy
 
 - date: 2021-02-19
-- tags: anxiety, self-improvement, emotions, therapy & treatment
+- tags: anxiety, self-improvement, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep56
 - transcript: episodes/ep-056.md (full)
@@ -2971,7 +2971,7 @@ sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional
 ## 49. Authenticity + Storytelling with Sage Lally
 
 - date: 2020-12-05
-- tags: dbt, college, emotions, therapy & treatment
+- tags: dbt, college, emotions
 - guests: sage lally, founder of be.
 - url: https://shepersistedpodcast.com/episodes/ep49
 - transcript: episodes/ep-049.md (full)
@@ -2985,7 +2985,7 @@ sadie sits down with sage lally, founder of be., to talk about navigating mental
 ## 48. How I Recovered From Teenage Depression
 
 - date: 2020-10-23
-- tags: depression, dbt, therapy & treatment
+- tags: depression, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep48
 - transcript: episodes/ep-048.md (full)
@@ -2999,7 +2999,7 @@ sadie shares what helped her recover from teenage depression, drawing on skills 
 ## 47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distress Tolerance)
 
 - date: 2020-10-16
-- tags: dbt, emotions, anxiety, therapy & treatment
+- tags: dbt, emotions, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep47
 - transcript: episodes/ep-047.md (full)
@@ -3083,7 +3083,7 @@ sadie sits down with her best friend daisye byrd graham to discuss daisye's pers
 ## 40. Living Past Crazy feat. J'Anmetra Waddell
 
 - date: 2020-08-28
-- tags: trauma, anxiety, depression, therapy & treatment
+- tags: trauma, anxiety, depression
 - guests: j'anmetra waddell, author and life past crazy specialist
 - url: https://shepersistedpodcast.com/episodes/ep40
 - transcript: episodes/ep-040.md (full)
@@ -3111,7 +3111,7 @@ this episode is a practical guide to getting better sleep, especially if you str
 ## 38. Before You Kill Yourself feat. Leo Flowers
 
 - date: 2020-08-14
-- tags: depression, self-improvement, emotions, therapy & treatment
+- tags: depression, self-improvement, emotions
 - guests: leo flowers, tedx speaker, stand-up comedian, life coach, and podcast host
 - url: https://shepersistedpodcast.com/episodes/ep38
 - transcript: episodes/ep-038.md (full)
@@ -3125,7 +3125,7 @@ sadie talks with leo flowers, a tedx speaker, stand-up comedian, life coach, and
 ## 37. Brush and Barley's Audrey Bailey on Jesus and Mental Health
 
 - date: 2020-08-07
-- tags: anxiety, depression, social media, therapy & treatment
+- tags: anxiety, depression, social media
 - guests: audrey bailey, artist and creator of brush and barley
 - url: https://shepersistedpodcast.com/episodes/ep37
 - transcript: episodes/ep-037.md (full)
@@ -3195,7 +3195,7 @@ in this solo q+a episode, sadie answers listener questions about her podcasting 
 ## 32. Scout Sobel on her experience with bipolar, Okay Sis, healthy relationships, navigating mental illness, and more!
 
 - date: 2020-06-26
-- tags: relationships, emotions, self-improvement, therapy & treatment
+- tags: relationships, emotions, self-improvement
 - guests: scout sobel, host of scout podcast and okay sis
 - url: https://shepersistedpodcast.com/episodes/ep32
 - transcript: episodes/ep-032.md (full)
@@ -3209,7 +3209,7 @@ sadie talks with scout sobel, host of scout podcast and okay sis, about living w
 ## 31. Full eating disorder recovery, owning your recovery, and working on yourself before helping others feat. Alexis Smith
 
 - date: 2020-06-19
-- tags: body image, self-improvement, anxiety, therapy & treatment
+- tags: body image, self-improvement, anxiety
 - guests: alexis smith, creator of every ounce of strength
 - url: https://shepersistedpodcast.com/episodes/ep31
 - transcript: episodes/ep-031.md (full)
@@ -3237,7 +3237,7 @@ sadie and jill nowak (licsw) from 3east at mclean hospital talk about sadie's ex
 ## 29. Validation and Empathy: How YOU can support the Black Lives Matter movement
 
 - date: 2020-06-05
-- tags: dbt, relationships, emotions, therapy & treatment
+- tags: dbt, relationships, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep29
 - transcript: episodes/ep-029.md (full)
@@ -3279,7 +3279,7 @@ sadie sits down with emily lebaron, founder of the living for hope brand, to dis
 ## 26. Gaining independence, taking control of your mental health, how to maintain your self-respect in your interactions, and the FAST skill (DBT Education)
 
 - date: 2020-05-08
-- tags: dbt, self-improvement, relationships, therapy & treatment
+- tags: dbt, self-improvement, relationships
 - guests: ivy sutton
 - url: https://shepersistedpodcast.com/episodes/ep26
 - transcript: episodes/ep-026.md (full)
@@ -3293,7 +3293,7 @@ sadie sits down with her younger sister ivy to talk about building independence,
 ## 25. Gaining Confidence, Navigating Social Media in a Healthy Way, Maintaining Productivity in Quarantine, and the Importance of Vulnerability! feat. the Leeza Rants Podcast
 
 - date: 2020-05-01
-- tags: anxiety, social media, self-improvement, therapy & treatment
+- tags: anxiety, social media, self-improvement
 - guests: leeza from the leeza rants podcast
 - url: https://shepersistedpodcast.com/episodes/ep25
 - transcript: episodes/ep-025.md (full)
@@ -3317,7 +3317,7 @@ sadie and her friend stephanie walk through breakup protocol for teen relationsh
 ## 23. A Dad's Perspective: Preconceptions About Adolescent Mental Health, Parenting Tips, and Our Growth as a Family
 
 - date: 2020-04-10
-- tags: relationships, depression, parents, therapy & treatment
+- tags: relationships, depression, parents
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep23
 - transcript: episodes/ep-023.md (full)
@@ -3345,7 +3345,7 @@ sadie and maya (a returning guest and high school junior) talk about navigating 
 ## 21. DBT Education: GIVE + THINK skills aka how to improve your relationships... navigating parental conflicts, friendships, and arguments
 
 - date: 2020-03-21
-- tags: dbt, relationships, emotions, therapy & treatment
+- tags: dbt, relationships, emotions
 - guests: ruby
 - url: https://shepersistedpodcast.com/episodes/ep21
 - transcript: episodes/ep-021.md (full)
@@ -3359,7 +3359,7 @@ sadie breaks down two dbt interpersonal effectiveness skills designed to strengt
 ## 20. DBT Education: DEARMAN skill (Describe, Express, Assert, Reinforce, be Mindful, Appear confident, Negotiate)... how to get what you want from other people in an effective manner
 
 - date: 2020-03-18
-- tags: dbt, relationships, self-improvement, therapy & treatment
+- tags: dbt, relationships, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep20
 - transcript: episodes/ep-020.md (full)
@@ -3373,7 +3373,7 @@ this episode breaks down the dearman skill from dialectical behavior therapy (db
 ## 19. DBT Education: Interpersonal Effectiveness Overview... clarifying relational goals and disproving unhealthy beliefs ft. my younger sister
 
 - date: 2020-03-12
-- tags: dbt, relationships, self-improvement, therapy & treatment
+- tags: dbt, relationships, self-improvement
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep19
 - transcript: episodes/ep-019.md (full)
@@ -3387,7 +3387,7 @@ sadie walks her younger sister through the interpersonal effectiveness module of
 ## 18. DBT Education: Mindfulness continued (the HOW skills: Nonjudgmentally+Effectively+One-Mindfully, Loving Kindness, and Being vs Doing Mind)... skills for combatting depression and anxiety
 
 - date: 2020-03-07
-- tags: dbt, anxiety, depression, therapy & treatment
+- tags: dbt, anxiety, depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep18
 - transcript: episodes/ep-018.md (full)
@@ -3401,7 +3401,7 @@ this episode continues the mindfulness module, focusing on the HOW skills from d
 ## 17. DBT Education: Intro to Mindfulness (the WHAT skills: Participate+Observe+Describe and States of Mind) with guided mindfulness practices!
 
 - date: 2020-02-29
-- tags: dbt, emotions, self-improvement, therapy & treatment
+- tags: dbt, emotions, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep17
 - transcript: episodes/ep-017.md (full)
@@ -3425,7 +3425,7 @@ sadie breaks down the fundamentals of dialectical behavioral therapy (dbt), cove
 ## 15. How do you support a friend struggling with depression and anxiety while maintaining your own mental health?
 
 - date: 2020-01-24
-- tags: relationships, depression, anxiety, therapy & treatment
+- tags: relationships, depression, anxiety
 - guests: sadie's best friend from home
 - url: https://shepersistedpodcast.com/episodes/ep15
 - transcript: episodes/ep-015.md (full)
@@ -3439,7 +3439,7 @@ sadie sits down with her best friend from home, who shares what it was like to w
 ## 14. The effect of depression and anxiety on a family… feat. my younger sister
 
 - date: 2019-10-25
-- tags: depression, anxiety, relationships, therapy & treatment, parents
+- tags: depression, anxiety, relationships, parents
 - guests: sadie's younger sister
 - url: https://shepersistedpodcast.com/episodes/ep14
 - transcript: episodes/ep-014.md (full)
@@ -3537,7 +3537,7 @@ sadie sits down with her younger sister to talk about what it was like watching 
 ## 2. A Dad’s perspective on how to support a teen suffering from depression and anxiety
 
 - date: 2019-07-17
-- tags: anxiety, depression, therapy & treatment, parents
+- tags: anxiety, depression, parents
 - guests: sadie's dad
 - url: https://shepersistedpodcast.com/episodes/ep2
 - transcript: episodes/ep-002.md (full)
