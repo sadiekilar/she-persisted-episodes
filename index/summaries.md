@@ -551,7 +551,7 @@ sadie talks with olga khazan, a staff writer at the atlantic and author of me, b
 ## 224. stop ‘shoulding’ + shaming yourself
 
 - date: 2025-06-26
-- tags: dbt, emotions, self-improvement, therapy & treatment
+- tags: dbt, emotions, self-improvement
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/224
 - transcript: episodes/ep-224.md (full)
@@ -677,7 +677,7 @@ sadie talks with kelly uchima, an asian american mental health advocate, about h
 ## 215. i interviewed my THERAPIST?!! validation, dbt, stigma + more feat. dr. caroline fleck
 
 - date: 2025-03-25
-- tags: dbt, depression, therapy & treatment
+- tags: dbt, depression
 - guests: dr. caroline fleck
 - url: https://shepersistedpodcast.com/episodes/ep215
 - transcript: episodes/ep-215.md (full)
@@ -747,7 +747,7 @@ sadie shares everything she learned in dr. angela duckworth's grit lab course at
 ## 210. why you’re feeling suicidal + a therapist’s advice on how to cope feat. kathryn gordon
 
 - date: 2025-01-31
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: dr. kathryn gordon, licensed clinical psychologist and author
 - url: https://shepersistedpodcast.com/episodes/ep210
 - transcript: episodes/ep-210.md (full)
@@ -761,7 +761,7 @@ sadie talks with dr. kathryn gordon, a clinical psychologist specializing in cbt
 ## 209. How to Set Habits You'll ACTUALLY Use [Solo]
 
 - date: 2025-01-17
-- tags: self-improvement
+- tags: self-improvement, therapy & treatment
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep209
 - transcript: episodes/ep-209.md (full)
@@ -2035,7 +2035,7 @@ in this episode, sadie sits down with shani tran—therapist, author of dope the
 ## 118. Dr. Sasha Heinz on Improving Your Life with Developmental + Positive Psychology Principles
 
 - date: 2022-10-20
-- tags: self-improvement, therapy & treatment
+- tags: self-improvement
 - guests: dr. sasha heinz, developmental psychologist and life coach
 - url: https://shepersistedpodcast.com/episodes/ep118
 - transcript: episodes/ep-118.md (full)
@@ -2049,7 +2049,7 @@ sadie talks with dr. sasha heinz, a developmental psychologist and coach, about 
 ## 117. How I Get the Most Out of Therapy + Feel Seen in Sessions - SOLO EP
 
 - date: 2022-10-17
-- tags: dbt, therapy & treatment
+- tags: dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep117
 - transcript: episodes/ep-117.md (full)
@@ -2077,7 +2077,7 @@ sadie sits down with lindsey simcik, co-host of the almost 30 podcast, to talk a
 ## 115. SUICIDE PREVENTION: What to Expect When Calling 988 + Reasons to Have Hope feat. Adia Fadaei
 
 - date: 2022-09-25
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: adia fadaei, crisis counselor at 988 crisis & suicide lifeline
 - url: https://shepersistedpodcast.com/episodes/ep115
 - transcript: episodes/ep-115.md (full)
@@ -2161,7 +2161,7 @@ in this solo q&a episode, sadie answers listener questions about advocating to p
 ## 109. Understanding Depression: Causes, Cognitions, Comorbidity, + Coping Featuring UPenn Professor Ayelet Ruscio PhD
 
 - date: 2022-08-05
-- tags: depression, therapy & treatment
+- tags: depression
 - guests: dr. ayelet ruscio, abnormal psychology professor at the university of pennsylvania
 - url: https://shepersistedpodcast.com/episodes/ep109
 - transcript: episodes/ep-109.md (full)
@@ -2189,7 +2189,7 @@ sadie sits down with dr. michael slepian, columbia professor and author of the s
 ## 107. Working Through Difficult Emotions and Suicidal Thoughts feat. Liz + Mollie
 
 - date: 2022-07-20
-- tags: emotions, depression, therapy & treatment
+- tags: emotions, depression
 - guests: liz fosslien, co-author of big feelings and illustrator, mollie west duffy, co-author of big feelings
 - url: https://shepersistedpodcast.com/episodes/ep107
 - transcript: episodes/ep-107.md (full)
@@ -2259,7 +2259,7 @@ sadie sits down with emmalee bierly, lmft, and jennifer chaiken, lmft—co-found
 ## 102. High School, College Apps, Dating, Podcast Growth, + More feat. The Girly Girl Podcast's Carmen Applegate
 
 - date: 2022-06-09
-- tags: college, high school
+- tags: college
 - guests: carmen applegate, host of the girly girl podcast
 - url: https://shepersistedpodcast.com/episodes/ep102
 - transcript: episodes/ep-102.md (full)
@@ -2287,7 +2287,7 @@ sadie sits down with dr. edith eger, a 94-year-old psychologist and auschwitz su
 ## 100. My Top 10 Mental Health Tips from 100 Episodes + 4 Years of Depression Recovery
 
 - date: 2022-05-27
-- tags: dbt, anxiety, depression, therapy & treatment
+- tags: dbt, anxiety, depression
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep100
 - transcript: episodes/ep-100.md (full)
@@ -2311,7 +2311,7 @@ in this episode, sadie sits down with clearstem skincare founders danielle groni
 ## 98. Whitney Goodman, LMFT on Toxic Positivity, Invalidation, + What Happens When We Suppress Emotions
 
 - date: 2022-05-04
-- tags: emotions, therapy & treatment, parents
+- tags: emotions, parents
 - guests: whitney goodman, lmft
 - url: https://shepersistedpodcast.com/episodes/ep98
 - transcript: episodes/ep-098.md (full)
@@ -2325,7 +2325,7 @@ sadie talks with whitney goodman, lmft—author of toxic positivity and therapis
 ## 97. truth x She Persisted: A Roundtable Discussion on Vaping, Teen Nicotine Use, and Quitting Substances as a Young Adult
 
 - date: 2022-04-26
-- tags: therapy & treatment
+- tags: self-improvement, adhd, anxiety, therapy & treatment
 - guests: megan jacobs, managing director of products at truth initiative, jake warn, college student and truth impact scholarship recipient
 - url: https://shepersistedpodcast.com/episodes/ep97
 - transcript: episodes/ep-097.md (full)
@@ -2339,7 +2339,7 @@ sadie sits down with truth initiative's megan jacobs and college student jake wa
 ## 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
 
 - date: 2022-04-21
-- tags: dbt, depression, therapy & treatment, parents
+- tags: dbt, depression, parents
 - guests: eileen kelly, host of going mental and founder of kaast
 - url: https://shepersistedpodcast.com/episodes/ep96
 - transcript: episodes/ep-096.md (full)
@@ -2391,7 +2391,7 @@ in this episode, sadie sits down with efia sulter—a mindset and manifestation 
 ## 92. Reclaiming Your Life and Identity After Trauma + PTSD feat. Michele Rosenthal
 
 - date: 2022-03-25
-- tags: trauma, therapy & treatment
+- tags: trauma
 - guests: michele rosenthal, certified professional coach, board certified trauma and ptsd hypnotist, licensed master practitioner of neuro-linguistic programming, and trauma recovery specialist
 - url: https://shepersistedpodcast.com/episodes/ep92
 - transcript: episodes/ep-092.md (full)
@@ -2405,7 +2405,7 @@ michele rosenthal, a certified trauma recovery specialist and ptsd survivor, sha
 ## 91. Why You're Experiencing Anxiety + A Therapist's Advice on How to Cope feat. Tara Bixby
 
 - date: 2022-03-16
-- tags: anxiety, therapy & treatment
+- tags: anxiety
 - guests: tara bixby, therapist, anxiety coach, and host of the courageously.u podcast
 - url: https://shepersistedpodcast.com/episodes/ep91
 - transcript: episodes/ep-091.md (full)
@@ -2419,7 +2419,7 @@ sadie sits down with tara bixby, a therapist, anxiety coach, and host of the cou
 ## 90. Crisis Survival 101: Coping Skills, SUDs Scores, + My Recommendations
 
 - date: 2022-03-08
-- tags: anxiety, depression, dbt, therapy & treatment
+- tags: anxiety, depression, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep90
 - transcript: episodes/ep-090.md (full)
@@ -2433,7 +2433,7 @@ sadie breaks down how to survive a mental health crisis—whether it's extreme a
 ## 89. Bailey Stanworth on Social Media + Mental Health: Societal Influence, Creating Boundaries, & Virtual Vulnerability
 
 - date: 2022-03-02
-- tags: body image, social media, relationships, therapy & treatment
+- tags: body image, social media, relationships
 - guests: bailey stanworth, founder of play digital and co-host of what day is it?
 - url: https://shepersistedpodcast.com/episodes/ep89
 - transcript: episodes/ep-089.md (full)
@@ -2559,7 +2559,7 @@ sadie talks with dr. aliza pressman, a developmental psychologist, about how par
 ## 80. Surviving Teenage Depression + Anxiety: FAQs, Intensive Treatment, DBT, Coping Skills, + More
 
 - date: 2021-12-27
-- tags: depression, anxiety, dbt, therapy & treatment
+- tags: depression, anxiety, dbt
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep80
 - transcript: episodes/ep-080.md (full)
@@ -2873,7 +2873,7 @@ sadie walks through her entire university of pennsylvania application, breaking 
 ## 56. OCD + Exposure Therapy
 
 - date: 2021-02-19
-- tags: anxiety, self-improvement, emotions, therapy & treatment
+- tags: anxiety, self-improvement, emotions
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep56
 - transcript: episodes/ep-056.md (full)
@@ -2971,7 +2971,7 @@ sadie talks with dr. uma naidoo, a harvard-trained psychiatrist and professional
 ## 49. Authenticity + Storytelling with Sage Lally
 
 - date: 2020-12-05
-- tags: dbt, college, emotions, therapy & treatment
+- tags: dbt, college, emotions
 - guests: sage lally, founder of be.
 - url: https://shepersistedpodcast.com/episodes/ep49
 - transcript: episodes/ep-049.md (full)
@@ -2999,7 +2999,7 @@ sadie shares what helped her recover from teenage depression, drawing on skills 
 ## 47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distress Tolerance)
 
 - date: 2020-10-16
-- tags: dbt, emotions, anxiety, therapy & treatment
+- tags: dbt, emotions, anxiety
 - guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/ep47
 - transcript: episodes/ep-047.md (full)
@@ -3341,7 +3341,7 @@ sadie and maya (a returning guest and high school junior) talk about navigating 
 ## 21. DBT Education: GIVE + THINK skills aka how to improve your relationships... navigating parental conflicts, friendships, and arguments
 
 - date: 2020-03-21
-- tags: dbt, relationships, emotions, therapy & treatment
+- tags: dbt, relationships, emotions
 - guests: ruby
 - url: https://shepersistedpodcast.com/episodes/ep21
 - transcript: episodes/ep-021.md (full)
@@ -3390,6 +3390,10 @@ sadie walks her younger sister through the interpersonal effectiveness module of
 
 this episode continues the mindfulness module, focusing on the HOW skills from dialectical behavior therapy (dbt). sadie breaks down three core practices: being nonjudgmental (observing without labeling things as good or bad), being effective (doing what works in the situation rather than what feels fair), and one-mindfully (giving full attention to one thing at a time). she also introduces loving-kindness meditation and explains the difference between being mind (present-focused awareness) and doing mind (task-oriented thinking). these skills help manage depression and anxiety by changing how you relate to your thoughts and experiences.
 
+> you want to do what is needed in this situation, what's asked of you, and not what you wish the situation was, not what would happen if things were fair, and not what's most comfortable for you.
+> for me, that was one of the hardest things to do was to experience that love and that kindness towards myself.
+> i focus a lot on trying to hone in on the effectiveness skill and really do my best with this, especially with my parents.
+
 ## 17. DBT Education: Intro to Mindfulness (the WHAT skills: Participate+Observe+Describe and States of Mind) with guided mindfulness practices!
 
 - date: 2020-02-29
@@ -3424,6 +3428,10 @@ sadie breaks down the fundamentals of dialectical behavioral therapy (dbt), cove
 
 sadie sits down with her best friend from home, who shares what it was like to watch sadie struggle with mental health challenges, go to treatment, and return home. they talk through the stigma around mental illness that makes it hard to support friends openly, and explore how to be there for someone who's struggling. the episode emphasizes a key lesson: you need to maintain your own mental health and support system first before you can show up for someone else.
 
+> there's definitely a difference between people saying that because they hear other people say it and they think it's just normal. and people that are saying that because they genuinely believe it and they're just trying to somehow express the emotions they're feeling.
+> you were excited about things... there was literally a point i remember when you didn't seem excited about anything.
+> if you begin to see this as a burden, then it would be, like, if it becomes something that you feel is a burden, you won't want to spend time with this person anymore.
+
 ## 14. The effect of depression and anxiety on a family… feat. my younger sister
 
 - date: 2019-10-25
@@ -3447,6 +3455,10 @@ sadie sits down with her younger sister to talk about how mental health struggle
 - transcript: episodes/ep-011.md (full)
 
 sadie sits down with emily thelen, one of her therapists from therapeutic boarding school, for a conversation about sadie's own journey through treatment. they discuss how emily witnessed sadie's changes over time, why emotional growth is hard to measure in the moment, and how society pushes us to avoid negative feelings instead of processing them. emily also turns the tables and asks sadie what she thinks makes therapy actually work.
+
+> a lot of what you're speaking to is how hard it is to measure emotional stuff.
+> i think our culture and our society gives us a lot of messaging about what's okay and what's not, as far as feeling and different negative emotions.
+> everything else was smaller than that first step.
 
 ## 10. Jacob Sparks (LMFT) on therapeutic boarding schools, healthy relationships, coping skills, self-love, and recovering from depression and anxiety.
 
