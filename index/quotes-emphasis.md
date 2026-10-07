@@ -1,6 +1,6 @@
 # pull quote emphasis
 
-248 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
+249 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
 
 - 263: there's no PRIZE for waiting until your mental health becomes an EMERGENCY.
 - 262: once you know something's a HABIT, it's a CHOICE.
@@ -241,6 +241,7 @@
 - 19: you're not BOTHERING them. you're just getting what you NEED and ASKING for it.
 - 18: for me, that was one of the hardest things to do was to experience that love and that KINDNESS towards MYSELF.
 - 16: we're not a SUICIDE PREVENTION program. we're a LIFE WORTH LIVING program.
+- 15: it's important to not INTERNALIZE other people's feelings.
 - 14: i know it's not happening to ME, but it FEELS like it's happening to me.
 - 11: everything else was SMALLER than that FIRST STEP.
 - 10: you have to WANT to change, or you'll just get better at TALKING about your feelings. NOTHING will be different.
