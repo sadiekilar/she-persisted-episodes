@@ -63,7 +63,7 @@ function markerOf(el) {
   return null;
 }
 // the post's own outro and copyright line are never description
-const BOILERPLATE = /^\s*(\u00a9|\(c\))\s?\d{4}|she persisted llc reserves|^if you enjoyed this episode/i;
+const BOILERPLATE = /^\s*(\u00a9|\(c\))\s?\d{4}|she persisted llc reserves|^if you enjoyed this episode|^\s*ps:/i; // a "PS:" line is a promo, not description
 const PLATFORM = /podcasts\.apple\.com|open\.spotify\.com|youtube\.com|music\.amazon|castbox|iheart|goodpods|stitcher|overcast|pocketcasts/gi;
 // the "listen on" row: several platform links, or one with hardly any text around it. A description
 // paragraph that links to a guest's podcast on Apple is not it.
