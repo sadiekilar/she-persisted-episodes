@@ -129,7 +129,7 @@ async function main() {
         transcript_source: prev ? prev.meta.transcript_source || 'blog' : 'blog',
         transcript_status: prev ? prev.meta.transcript_status || '' : '',
         description_html: sections.description_html,
-        talk_about: sections.talk_about,
+        talk_about: sections.talk_about.length ? sections.talk_about : (prev && prev.meta.talk_about) || [], // keeps topics.js's list when the post has none
         mentioned_html: sections.mentioned_html,
         // the post's embed is only trusted for a new episode: youtube-sync corrects ids against the channel's uploads,
         // and a post sometimes embeds a clip from the notes (a John Oliver segment) rather than the episode

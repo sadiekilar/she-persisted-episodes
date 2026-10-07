@@ -1,6 +1,6 @@
 # pull quote emphasis
 
-241 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
+248 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
 
 - 263: there's no PRIZE for waiting until your mental health becomes an EMERGENCY.
 - 262: once you know something's a HABIT, it's a CHOICE.
@@ -13,6 +13,7 @@
 - 255: the problem isn't that you don't WANT help. it's that being VULNERABLE and accepting that help or ASKING for that help feels like TOO MUCH.
 - 254: people don't take ADVICE they don't feel UNDERSTOOD by.
 - 253: that is the MINDSET that built foundation that my mental health sits upon. that forever changed the TRAJECTORY of my life and my mental health and for the BETTER.
+- 252: overthinking is not PROBLEM SOLVING. it's just ANXIETY.
 - 251: for YOUNG PEOPLE right now, there is a sense of APATHY and, a lack of HOPE.
 - 250: if you're not PROGRESSING, you're REGRESSING.
 - 249: you cannot TALK your body out of PANIC. you have to change the PHYSICAL before you can address the MENTAL.
@@ -93,6 +94,7 @@
 - 174: EVERYTHING that you want in life is on the OTHER SIDE of DISCOMFORT.
 - 173: eating disorder RECOVERY is a game of CHUTES and LADDERS.
 - 172: the MOST IMPORTANT benefit is being ACCURATELY KNOWN.
+- 171: you are ALLOWED to have an opinion. you're allowed to make the request. you are allowed to DISAGREE.
 - 170: sometimes when people are in DISTRESS, they just want someone to LISTEN, not necessarily PROBLEM SOLVE.
 - 169: we have to MEET communities WHERE THEY ARE with what they NEED.
 - 168: PAIN is unavoidable, but SUFFERING is preventable.
@@ -164,6 +166,7 @@
 - 102: you'll end up where you NEED to be, even if the WAITING period is really HARD.
 - 101: if you change your THINKING, you may change your WHOLE LIFE.
 - 100: the most ISOLATING experiences are often the most UNIVERSAL.
+- 98: the more you SUPPRESS emotions, the more INTENSE they become, the more difficult they become.
 - 97: you're not going to PUNISH an ADDICTION out of someone.
 - 96: you have to WANT to change. you have to WANT to improve your life to have a LIFE WORTH LIVING.
 - 95: you are NOT your EMOTION, so you don't have to ACT on the emotion.
@@ -215,6 +218,7 @@
 - 44: your INSECURITY is NOT UNIQUE, and it's a good thing, because EVERYBODY ELSE is going through it too.
 - 42: MEDICATION is your WATER WINGS to help you get out of that LOW POINT and dive into your work therapeutically.
 - 41: the PURPOSE of mental health treatment is to give you the SKILLS to COPE with your ENVIRONMENT.
+- 40: don't let what you CANNOT do interfere with what you CAN do.
 - 39: when you are lacking SLEEP, EVERYTHING ELSE will fall off the wagon.
 - 38: if we start to feel INEFFECTIVE in any of those areas, it creates that feeling of HOPELESSNESS.
 - 37: it's not that you're CHOOSING there's no hope. it's literally INGRAINED in your BRAIN.
@@ -232,10 +236,13 @@
 - 25: VULNERABILITY is so important because it helps people feel like they're NOT ALONE.
 - 23: when there is BEHAVIOR that presents itself, don't ASSUME it is without some SUFFERING underneath the surface.
 - 22: it feels like we're STUCK in this moment of time where NOTHING is changing yet EVERYTHING'S happening.
+- 21: validating doesn't necessarily mean that you have to AGREE. you're just acknowledging and understanding their point of view.
 - 20: you're not going to ASSUME that the other person KNOWS how you feel. you're going to VERBALIZE it.
 - 19: you're not BOTHERING them. you're just getting what you NEED and ASKING for it.
+- 18: for me, that was one of the hardest things to do was to experience that love and that KINDNESS towards MYSELF.
 - 16: we're not a SUICIDE PREVENTION program. we're a LIFE WORTH LIVING program.
 - 14: i know it's not happening to ME, but it FEELS like it's happening to me.
+- 11: everything else was SMALLER than that FIRST STEP.
 - 10: you have to WANT to change, or you'll just get better at TALKING about your feelings. NOTHING will be different.
 - 8: make the TOUGH decision to be PRESENT. make the tough decision to be VULNERABLE.
 - 6: once we were able to COMMUNICATE more and be more VULNERABLE, EVERYTHING changed.
