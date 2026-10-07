@@ -25,7 +25,7 @@ The website builds each episode page automatically from the Squarespace post, th
 6. The YouTube video block (the full episode).
 7. The usual "About She Persisted" and "Recent Episodes" blocks.
 
-Keep the headings spelled as shown (the colon matters). The transcript does **not** need to be pasted into the post anymore; it comes from the podcast feed.
+Keep the headings spelled as shown (the colon matters). **Keep pasting the transcript into the post** under a "transcript" heading as before: the site itself uses the timestamped transcript from the podcast feed, but the pasted copy is what search engines and AI crawlers that don't run scripts can read.
 
 ## 2. Podcast host (Flightcast)
 
