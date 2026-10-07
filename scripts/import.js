@@ -128,7 +128,7 @@ async function main() {
         audio_url: audioUrl(ep.bodyHtml) || (prev ? prev.meta.audio_url : '') || '',
         transcript_source: prev ? prev.meta.transcript_source || 'blog' : 'blog',
         transcript_status: prev ? prev.meta.transcript_status || '' : '',
-        description_html: sections.description_html,
+        description_html: sections.description_html || (prev && prev.meta.description_html) || '', // a description kept in the repo stays until the post has one
         talk_about: sections.talk_about.length ? sections.talk_about : (prev && prev.meta.talk_about) || [], // keeps topics.js's list when the post has none
         mentioned_html: sections.mentioned_html,
         // the post's embed is only trusted for a new episode: youtube-sync corrects ids against the channel's uploads,
