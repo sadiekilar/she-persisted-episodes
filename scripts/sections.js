@@ -5,8 +5,8 @@ const { decodeEntities, htmlToText } = require('./lib');
 
 const MARKERS = {
   listen: /^(listen|tune in)\b.*(episode|here)|^(apple podcasts|spotify)\b/i,
-  talkAbout: /\b(talk|chat|discuss|cover|dive|touch|share)\w*\b.*\b(about|topics?|following|including|into)\b|^(in (this|today'?s) episode|topics?( covered| discussed)?|what we|key takeaways|talking points|timestamps?|here,? (i|we)('|\u2019)?ll)/i,
-  mentioned: /^(mentioned|resources?|links?|references?|books? mentioned|shop|episode resources?)\b|\bmentioned in\b/i,
+  talkAbout: /\b(talk|chat|discuss|cover|dive|touch|share)\w*\b.*\b(about|topics?|following|including|into)\b|^(in (this|today'?s) episode|topics?( covered| discussed)?|what we|key takeaways|talking points|timestamps?|here,? (i|we)('|\u2019)?ll)|^(i|we|sadie|[\w.' ]{1,30} and i)\s+(explain|discuss|respond|answer|break down|walk through|go over|unpack|outline|cover|get into|sit down)\b|^(questions (i|we) answered|the \d+ steps)/i,
+  mentioned: /^(mentioned|resources?|links?|references?|books? mentioned|shop|episode resources?|more (information|resources|info)|previous .*episodes|worksheets?)\b|\bmentioned in\b|\bcan be found here/i,
   about: /^about\s+(\*\*)?(nevertheless, )?she persisted/i,
   transcript: /automated transcri|^(episode |full )?transcript\b/i,
   recent: /^(recent|more|related|other) episodes/i,
@@ -134,9 +134,20 @@ function extract(bodyHtml) {
   const description = [], mentioned = [];
   let quote = '';
   let talkAbout = [], talkFromList = false;
-  for (const el of els) {
+  const isBullet = (el) => el && el.tag === 'p' && /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)])\s/.test(el.text || '');
+  const isLinkLine = (el) => el && (/https?:\/\/|\bwww\.|\d{3}[-.]\d{3}[-.]\d{4}|\bhotline\b|\btext \w+ to \d{3,6}/i.test(el.text || '') || /<a\b/i.test(el.html || ''));
+  for (let ei = 0; ei < els.length; ei++) {
+    const el = els[ei];
     if (el.block === transcriptBlock) continue;
-    const marker = markerOf(el);
+    let marker = markerOf(el);
+    // any short heading that is immediately followed by a bullet list is the topics list, whatever it says
+    // ("I explain:", "Questions I answered:"), as long as no topics heading has been seen yet
+    if (!marker && isHeading(el) && !seenMarkers.has('talkAbout') && !talkAbout.length && (state === 'description' || state === 'listen' || state === 'pre')) {
+      const n1 = els[ei + 1], n2 = els[ei + 2];
+      // a list of links under a heading is resources, not topics
+      const linkList = (n1 && /^(ul|ol)$/.test(n1.tag) && (n1.html.match(/<a\b/gi) || []).length >= 2) || (isLinkLine(n1) && isLinkLine(n2));
+      if (!linkList && ((n1 && (n1.tag === 'ul' || n1.tag === 'ol')) || (isBullet(n1) && isBullet(n2)))) marker = 'talkAbout';
+    }
     if (marker) seenMarkers.add(marker);
     if (marker === 'listen' || (state === 'pre' && hasPlatformLinks(el))) { state = 'listen'; continue; }
     if (marker === 'talkAbout') { state = 'talkAbout'; continue; }
@@ -156,6 +167,10 @@ function extract(bodyHtml) {
     if (state === 'pre' && el.text) state = 'description';
     if (state === 'description') {
       if (el.tag === 'ul' || el.tag === 'ol') { if (!talkAbout.length && !seenMarkers.has('talkAbout')) { talkAbout = listItems(el.html); talkFromList = true; } continue; }
+      // "+ item" lines straight after the intro paragraph, with no heading at all, are the topics list
+      if (isBullet(el) && isBullet(els[ei + 1]) && !isLinkLine(el) && !isLinkLine(els[ei + 1]) && !talkAbout.length && !seenMarkers.has('talkAbout')) {
+        seenMarkers.add('talkAbout'); state = 'talkAbout'; ei--; continue;
+      }
       // a bold line before any description (a content warning, say) belongs to the description; a heading after it ends it
       if (isHeading(el) && description.length) { state = 'other'; continue; }
       if (el.text && !BOILERPLATE.test(el.text)) description.push(el);
@@ -163,7 +178,7 @@ function extract(bodyHtml) {
       if (el.tag === 'ul' || el.tag === 'ol') { if (!talkFromList) { talkAbout = listItems(el.html); talkFromList = true; } continue; }
       if (isHeading(el)) { state = 'other'; continue; }
       // older posts write the list as paragraphs: "+ item", "- item", "\u2192 item"
-      const bullet = /^\s*[+\-\u2022\u2192*\u00b7>]\s*(.+)$/.exec(el.text || '');
+      const bullet = /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)])\s*(.+)$/.exec(el.text || '');
       if (bullet) talkAbout.push(bullet[1].trim());
       else if (el.text && !talkAbout.length) talkAbout.push(el.text);
       else if (el.text && talkAbout.length) state = 'other';
@@ -177,7 +192,7 @@ function extract(bodyHtml) {
   return {
     description_html: cleanHtml(description.map((e) => e.html).join('')),
     // "+ so much more!" closes many lists; it is not a topic
-    talk_about: talkAbout.filter((t) => !/^[\s+\-\u2022\u2192*\u00b7>]*(and |\u2026|\.{3})?\s*(so,?\s*)*much more[!.\u2026\s]*$/i.test(t)),
+    talk_about: talkAbout.filter((t) => !/^[\s+\-\u2022\u2192*\u00b7>]*(and |\u2026|\.{3})?\s*(so,?\s*)*much more[!.\u2026\s]*$/i.test(t) && !/https?:\/\/|\bwww\./i.test(t)),
     mentioned_html: cleanHtml(mentioned.map((e) => e.html).join('')),
     quote: quote.replace(/^[\u201c"]|[\u201d"]$/g, ''),
     youtube_id: youtube ? youtube[1] || youtube[2] || youtube[3] : null,

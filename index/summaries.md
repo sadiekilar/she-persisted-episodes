@@ -1756,7 +1756,7 @@ in this episode, sadie sits down with britt frank, a licensed psychotherapist an
 - url: https://shepersistedpodcast.com/episodes/ep138
 - transcript: episodes/ep-138.md (full)
 
-sadie breaks down three dbt distress tolerance skills to stop a panic attack in its tracks: the stop skill (pause, step back, observe, proceed mindfully), the tipp skill (temperature change with ice water to trigger your mammalian diving reflex and lower heart rate—works 100% of the time), and the accepts/improve skills for distraction and improving the moment. she emphasizes these are crisis tools, not long-term fixes, and that avoidance amplifies anxiety over time. listeners walk away with concrete, step-by-step actions they can take the next time panic hits.
+sadie breaks down three dbt distress tolerance skills to stop a panic attack in its tracks: the stop skill (pause, step back, observe, proceed mindfully), the tipp skill (temperature change with ice water to trigger your mammalian diving reflex and lower your heart rate), and the accepts/improve skills for distraction and improving the moment. she emphasizes these are crisis tools, not long-term fixes, and that avoidance amplifies anxiety over time. listeners walk away with concrete, step-by-step actions they can take the next time panic hits.
 
 > avoidance amplifies emotions. so whenever you feel an emotion rise, do your best to ride it out, to feel it, to be like, what thought am i having? what caused this? just sit with it.
 > this skill, the tea part, the temperature part will work a hundred percent of the time... it's not a mental thought process... it's a physiological response that 100% of the time will help get rid of that physiological arousal associated with anxiety.
