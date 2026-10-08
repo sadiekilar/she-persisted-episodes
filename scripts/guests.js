@@ -84,8 +84,10 @@ for (const e of eps) {
       else if (!/youtube|spotify|apple\.com|amazon|tiktok|linkedin|twitter|x\.com|facebook|shepersistedpodcast|anchor\.fm/i.test(href) && !rec.website) rec.website = href;
     }
     if (!rec.episodes.includes(m.number)) rec.episodes.push(m.number);
-    if (found.length === 1 && !rec.headshot && m.image_url) rec.headshot = m.image_url; // newest solo-guest episode first
-    if (found.length > 1 && !rec.sharedThumb && m.image_url) rec.sharedThumb = m.image_url;
+    // the thumbnail of a guest's own episode is their headshot; a duo's photo shows both, so it counts too.
+    // only mashups (three or more people) are skipped
+    if (found.length <= 2 && !mashup && !rec.headshot && m.image_url) rec.headshot = m.image_url; // newest episode first
+    if ((found.length > 2 || mashup) && !rec.sharedThumb && m.image_url) rec.sharedThumb = m.image_url;
     guests.set(id, rec);
   }
 }
@@ -138,7 +140,7 @@ ${list.map((g) => `- ${g.id}: ${g.name} | ${g.credentials} | ${g.website} | ${g.
 
 ## to check by hand
 
-Guests with no headshot of their own (they only appear alongside other guests, so the episode thumbnail is shared — add one by hand in the headshot column): ${list.filter((g) => !g.headshot).map((g) => `${g.name} (${g.episodes.join(', ')})`).join('; ') || 'none'}.
+Guests with no headshot (they only appear in a mashup — add one by hand in the headshot column): ${list.filter((g) => !g.headshot).map((g) => `${g.name} (${g.episodes.join(', ')})`).join('; ') || 'none'}.
 
 Guests whose headshot is the same image as another guest's: ${sharedHeadshots.length ? sharedHeadshots.map((a) => a.join(' / ')).join('; ') : 'none'}.
 
