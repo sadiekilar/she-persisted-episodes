@@ -180,7 +180,7 @@
     '#sp-episode .sp-mini{display:flex;flex-direction:column;gap:10px;flex:none;width:calc(173px * 16 / 9 * 16 / 9)}',
     '#sp-episode .sp-mini-frame{position:relative;display:block;height:calc(173px * 16 / 9);aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
     '#sp-episode .sp-mini img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 200ms ease}',
-    '#sp-episode .sp-mini small{position:absolute;right:8px;bottom:8px;padding:3px 5px;border-radius:4px;background:rgba(0,0,0,.8);color:#fff;font-size:12px;font-weight:700;line-height:1}',
+    '#sp-episode .sp-mini small{position:absolute;right:10px;top:10px;color:var(--cream);font-size:12px;font-weight:700}',
     '#sp-episode .sp-mini b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
     '#sp-episode .sp-posters{align-items:flex-start}',
     /* new episodes */
