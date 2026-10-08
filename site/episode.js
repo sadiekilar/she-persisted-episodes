@@ -180,6 +180,7 @@
     '#sp-episode .sp-mini{display:flex;flex-direction:column;gap:10px;flex:none;width:calc(173px * 16 / 9 * 16 / 9)}',
     '#sp-episode .sp-mini-frame{position:relative;display:block;height:calc(173px * 16 / 9);aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
     '#sp-episode .sp-mini img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 200ms ease}',
+    '#sp-episode .sp-mini small{position:absolute;right:8px;bottom:8px;padding:3px 5px;border-radius:4px;background:rgba(0,0,0,.8);color:#fff;font-size:12px;font-weight:700;line-height:1}',
     '#sp-episode .sp-mini b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
     '#sp-episode .sp-posters{align-items:flex-start}',
     /* new episodes */
@@ -455,7 +456,7 @@
       ((ep.shorts && ep.shorts.length) || minis.length ? '<div class="sp-moments"><div class="sp-moments-in"><div class="sp-moments-head"><h2>top moments</h2><div class="sp-social">' +
         ['instagram', 'tiktok', 'youtube'].map(function (s) { return CFG.SOCIAL[s] ? '<a href="' + esc(CFG.SOCIAL[s]) + '" target="_blank" rel="noopener" title="' + s + '">' + glyph(ICONS + s + '.svg') + '</a>' : ''; }).join('') +
         '</div></div><div class="sp-posters">' + minis.map(function (x) {
-          return '<a class="sp-mini" href="https://www.youtube.com/watch?v=' + esc(x.youtube_id) + '" target="_blank" rel="noopener"><span class="sp-mini-frame"><img src="https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/mqdefault.jpg\'"></span><b>' + esc(x.title) + '</b></a>';
+          return '<a class="sp-mini" href="https://www.youtube.com/watch?v=' + esc(x.youtube_id) + '" target="_blank" rel="noopener"><span class="sp-mini-frame"><img src="https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/mqdefault.jpg\'">' + (x.duration_sec ? '<small>' + fmt(x.duration_sec) + '</small>' : '') + '</span><b>MINI: ' + esc(x.title) + '</b></a>';
         }).join('') + (ep.shorts || []).map(function (s) {
           var label = String(s.title || '').replace(/#[\w\u00c0-\uffff]+/g, '').replace(/\s+/g, ' ').replace(/^[\s|\-\u2013\u2014:]+|[\s|\-\u2013\u2014:]+$/g, '').trim();
           return '<a class="sp-poster" href="https://www.youtube.com/shorts/' + esc(s.youtube_id) + '" target="_blank" rel="noopener"><img src="' + esc(s.thumbnail_url) + '" alt="" loading="lazy"><i></i><b>' + esc(label) + '</b>' + (s.duration_sec ? '<small>' + fmt(s.duration_sec) + '</small>' : '') + '</a>';
