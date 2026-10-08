@@ -177,12 +177,11 @@
     '#sp-episode .sp-poster b{position:absolute;left:12px;right:12px;bottom:12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
     '#sp-episode .sp-poster small{position:absolute;right:10px;top:10px;color:var(--cream);font-size:12px;font-weight:700}',
     /* a 5-minute mini cut from this episode: same height as the clips, landscape, thumbnail only */
-    '#sp-episode .sp-mini{display:flex;flex-direction:column;gap:10px;flex:none;width:calc(173px * 16 / 9 * 16 / 9)}',
-    '#sp-episode .sp-mini-frame{position:relative;display:block;height:calc(173px * 16 / 9);aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
+    '#sp-episode .sp-mini{position:relative;display:block;flex:none;height:calc(173px * 16 / 9);aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
+    '#sp-episode .sp-mini i{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.8) 0%,rgba(0,0,0,0) 50%)}',
     '#sp-episode .sp-mini img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 200ms ease}',
     '#sp-episode .sp-mini small{position:absolute;right:10px;top:10px;color:var(--cream);font-size:12px;font-weight:700}',
-    '#sp-episode .sp-mini b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
-    '#sp-episode .sp-posters{align-items:flex-start}',
+    '#sp-episode .sp-mini b{position:absolute;left:12px;right:12px;bottom:12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
     /* new episodes */
     '#sp-episode .sp-new{display:flex;flex-direction:column;gap:18px;padding:72px var(--g) 96px}',
     '#sp-episode .sp-new-head{display:flex;justify-content:space-between;align-items:baseline}',
@@ -193,7 +192,7 @@
     '#sp-episode .sp-thumb{display:block;overflow:hidden;border-radius:16px;background:var(--cream);isolation:isolate}',
     '#sp-episode .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;filter:grayscale(1);transition:transform 300ms ease,filter 300ms ease}',
     '#sp-episode .sp-card-title{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:12px 4px 0;font-size:16px;font-weight:700;line-height:1.2;color:var(--ink)}',
-    '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}#sp-episode .sp-poster img{transition:transform 200ms ease}#sp-episode .sp-poster:hover img,#sp-episode .sp-mini:hover img{transform:scale(1.05)}#sp-episode .sp-mini:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}#sp-episode .sp-poster:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}}',
+    '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}#sp-episode .sp-poster img{transition:transform 200ms ease}#sp-episode .sp-poster:hover img,#sp-episode .sp-mini:hover img{transform:scale(1.05)}#sp-episode .sp-poster:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}}',
     '@media (prefers-reduced-motion:reduce){#sp-episode .sp-card:hover img{transform:none}}',
     '@media (max-width:900px) and (min-width:601px){#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr}}',
     '@media (max-width:640px){',
@@ -228,7 +227,7 @@
     '#sp-episode .sp-tr-more{margin:0 0 20px}',
     '#sp-episode .sp-chapter-head h3{gap:12px;font-size:15px}#sp-episode .sp-stamp{width:40px}#sp-episode .sp-para{gap:12px}#sp-episode .sp-para p{font-size:15px}',
     '#sp-episode .sp-copy{padding:20px 0 40px}',
-    '#sp-episode .sp-moments{padding:36px 20px}#sp-episode .sp-poster{width:150px}#sp-episode .sp-mini{width:calc(150px * 16 / 9 * 16 / 9)}#sp-episode .sp-mini-frame{height:calc(150px * 16 / 9)}',
+    '#sp-episode .sp-moments{padding:36px 20px}#sp-episode .sp-poster{width:150px}#sp-episode .sp-mini{height:calc(150px * 16 / 9)}',
     '#sp-episode .sp-new{gap:14px;padding:40px 20px 64px}#sp-episode .sp-new h2{font-size:22px;letter-spacing:-.44px}#sp-episode .sp-new-head>.sp-text{font-size:12px}',
     '#sp-episode .sp-new-grid{grid-template-columns:1fr 1fr;gap:12px}#sp-episode .sp-thumb{border-radius:14px}#sp-episode .sp-card-title{padding:8px 2px 0;font-size:14px}',
     '}'
@@ -456,7 +455,7 @@
       ((ep.shorts && ep.shorts.length) || minis.length ? '<div class="sp-moments"><div class="sp-moments-in"><div class="sp-moments-head"><h2>top moments</h2><div class="sp-social">' +
         ['instagram', 'tiktok', 'youtube'].map(function (s) { return CFG.SOCIAL[s] ? '<a href="' + esc(CFG.SOCIAL[s]) + '" target="_blank" rel="noopener" title="' + s + '">' + glyph(ICONS + s + '.svg') + '</a>' : ''; }).join('') +
         '</div></div><div class="sp-posters">' + minis.map(function (x) {
-          return '<a class="sp-mini" href="https://www.youtube.com/watch?v=' + esc(x.youtube_id) + '" target="_blank" rel="noopener"><span class="sp-mini-frame"><img src="https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/mqdefault.jpg\'">' + (x.duration_sec ? '<small>' + fmt(x.duration_sec) + '</small>' : '') + '</span><b>MINI: ' + esc(x.title) + '</b></a>';
+          return '<a class="sp-mini" href="https://www.youtube.com/watch?v=' + esc(x.youtube_id) + '" target="_blank" rel="noopener"><img src="https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/mqdefault.jpg\'"><i></i><b>MINI: ' + esc(x.title) + '</b>' + (x.duration_sec ? '<small>' + fmt(x.duration_sec) + '</small>' : '') + '</a>';
         }).join('') + (ep.shorts || []).map(function (s) {
           var label = String(s.title || '').replace(/#[\w\u00c0-\uffff]+/g, '').replace(/\s+/g, ' ').replace(/^[\s|\-\u2013\u2014:]+|[\s|\-\u2013\u2014:]+$/g, '').trim();
           return '<a class="sp-poster" href="https://www.youtube.com/shorts/' + esc(s.youtube_id) + '" target="_blank" rel="noopener"><img src="' + esc(s.thumbnail_url) + '" alt="" loading="lazy"><i></i><b>' + esc(label) + '</b>' + (s.duration_sec ? '<small>' + fmt(s.duration_sec) + '</small>' : '') + '</a>';
