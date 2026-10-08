@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const { INDEX_DIR, readEpisodes, htmlToText } = require('./lib');
+const { formatOf, seriesOf } = require('./format');
 
 const HIDDEN_TAGS = ['teen mental health', 'sleep'];
 const eps = readEpisodes().sort((a, b) => b.meta.number - a.meta.number);
@@ -17,7 +18,7 @@ const blocks = eps.map((e) => {
     `## ${m.number}. ${m.title.replace(/^\d+[.:]\s*/, '')}`,
     `date: ${String(m.date || '').slice(0, 10)} | ${m.original_url} | ${m.duration_sec ? Math.round(m.duration_sec / 60) + ' min' : ''}${m.youtube_id ? ' | video' : ' | audio'}`,
     `tags: ${tags.join(', ') || '-'}`,
-    (m.guests || []).length ? `guests: ${m.guests.join(', ')}` : 'solo',
+    `format: ${formatOf(m)}${seriesOf(m) ? ' | series: ' + seriesOf(m) : ''}${(m.guests || []).length ? ' | guests: ' + m.guests.join(', ') : ''}`,
     `summary: ${m.summary || desc || '-'}`,
   ];
   if (m.quote && m.quotes_approved) lines.push(`quote: ${m.quote}`);

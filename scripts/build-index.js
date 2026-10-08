@@ -3,6 +3,7 @@
 // and index/summaries.md (Claude Project knowledge).
 const fs = require('fs');
 const path = require('path');
+const { formatOf, seriesOf } = require('./format');
 const { INDEX_DIR, readEpisodes, htmlToText } = require('./lib');
 const { transcriptParagraphs } = require('./transcript');
 
@@ -43,6 +44,7 @@ const index = {
     image: meta.image_url || '',
     tags: meta.tags || [],
     // Squarespace's excerpt field is sometimes a stub ("Today..."); fall back to the description, then the summary.
+    format: formatOf(meta), series: seriesOf(meta) || null,
     excerpt: clip(String(meta.excerpt || '').length >= 60 ? meta.excerpt : (htmlToText(meta.description_html) || meta.summary || meta.excerpt), EXCERPT_MAX),
     publishOn: Number(meta.publish_on) || Date.parse(meta.date) || 0,
     guests: meta.guests || [],
@@ -89,6 +91,7 @@ for (const ep of episodes) {
   const tidy = (c) => ({ ...c, title: String(c.title || '').replace(/^[\s….]+/, '').replace(/^(and|&|\+)\s+/i, '').replace(/^\w/, (ch) => m.number >= 222 ? ch.toLowerCase() : ch).trim() });
   const data = {
     number: m.number, title: m.title, slug: m.slug, url: m.original_url, date: m.date, tags: m.tags || [], image: m.image_url || '',
+    format: formatOf(m), series: seriesOf(m) || null,
     youtube_thumbnail: m.youtube_id ? 'https://i.ytimg.com/vi/' + m.youtube_id + '/maxresdefault.jpg' : null,
     description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
     guests: m.guests || [], summary: m.summary || '',

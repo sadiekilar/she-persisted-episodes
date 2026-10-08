@@ -4,9 +4,9 @@
 const { decodeEntities, htmlToText } = require('./lib');
 
 const MARKERS = {
-  listen: /^(listen|tune in)\b.*(episode|here)|^(apple podcasts|spotify)\b/i,
+  listen: /^(listen|tune in)\b(?!.*(full|related|previous|other|these) episodes).*(episode|here)|^(apple podcasts|spotify)\b/i,
   talkAbout: /\b(talk|chat|discuss|cover|dive|touch|share)\w*\b.*\b(about|topics?|following|including|into)\b|^(in (this|today'?s) episode|topics?( covered| discussed)?|what we|key takeaways|talking points|timestamps?|here,? (i|we)('|\u2019)?ll)|^(i|we|sadie|[\w.' ]{1,30} and i)\s+(explain|discuss|respond|answer|break down|walk through|go over|unpack|outline|cover|get into|sit down)\b|^(questions (i|we) answered|the \d+ steps)/i,
-  mentioned: /^(mentioned|resources?|links?|references?|books? mentioned|shop|episode resources?|more (information|resources|info)|previous .*episodes|worksheets?)\b|\bmentioned in\b|\bcan be found here/i,
+  mentioned: /^(mentioned|resources?|links?|references?|books? mentioned|shop|episode resources?|more (information|resources|info)|previous .*episodes|worksheets?|listen to the full episodes|full episodes|related episodes|episodes mentioned)\b|\bmentioned in\b|\bcan be found here/i,
   about: /^about\s+(\*\*)?(nevertheless, )?she persisted/i,
   transcript: /automated transcri|^(episode |full )?transcript\b/i,
   recent: /^(recent|more|related|other) episodes/i,
