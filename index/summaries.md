@@ -356,7 +356,7 @@ sadie and dr. maddy ellberger, founder of downtown behavioral wellness, break do
 
 - date: 2025-11-14
 - tags: anxiety
-- guests: dr. david rosmarin, tara quinn-cirillo, ken ginsburg, judy ho, madeline lucas, nicole lepera, beth kurland, laura frontiero, meg jay
+- guests: dr. nicole lepera, clinical psychologist and creator of the holistic psychologist, tara bixby, therapist, anxiety coach, and host of the courageously.u podcast, dr. david rosmarin, associate professor at harvard medical school and founder of center for anxiety, dr. ken ginsburg, pediatrician specializing in adolescent medicine at children's hospital of philadelphia, dr. meg jay, developmental clinical psychologist and author, madeline bailey, m.s. in neuroscience, laura martin, certified ibs nutrition consultant and founder of healing to happy, beth segaloff, licensed clinical social worker, life coach, reiki master, registered yoga teacher, certified firewalk instructor, dr. judy ho, licensed and triple board-certified clinical and forensic neuropsychologist
 - url: https://shepersistedpodcast.com/episodes/238
 - transcript: episodes/ep-238.md (full)
 

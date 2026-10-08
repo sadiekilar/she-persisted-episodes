@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-08T18:36:21.980Z",
- "count": 172,
+ "generatedAt": "2026-10-08T18:42:29.341Z",
+ "count": 168,
  "guests": [
   {
    "id": "blaise-aguirre",
@@ -15,7 +15,9 @@
     262,
     261,
     28
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "hailey-hardcastle",
@@ -28,7 +30,9 @@
    "headshot_note": "",
    "episodes": [
     260
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "marisa-g-franco",
@@ -43,6 +47,14 @@
     258,
     257,
     113
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "a08ad6e46e4c751e",
+     "title": "Friendship Guide for SOCIAL ANXIETY!",
+     "parent": 113
+    }
    ]
   },
   {
@@ -57,7 +69,9 @@
    "episodes": [
     251,
     246
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "mental-health",
@@ -70,7 +84,9 @@
    "headshot_note": "",
    "episodes": [
     250
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jeffrey-hall",
@@ -84,6 +100,14 @@
    "episodes": [
     243,
     187
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "9b1b9dfa805052b2",
+     "title": "why your 20s can be so lonely",
+     "parent": 187
+    }
    ]
   },
   {
@@ -97,7 +121,9 @@
    "headshot_note": "",
    "episodes": [
     240
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "maddy-ellberger",
@@ -111,129 +137,9 @@
    "episodes": [
     239,
     176
-   ]
-  },
-  {
-   "id": "david-rosmarin",
-   "name": "dr. david rosmarin",
-   "credentials": "",
-   "bio": "David Rosmarin— an associate professor at Harvard Medical School, a program director at McLean Hospital, and founder of Center for Anxiety—a practice that services over 1,000 patients per year in multiple states.",
-   "website": "https://api.leadconnectorhq.com/widget/form/SL9mr1P9F8GIxRWHLmUE",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1709926619357-N3WVUCZ14F4YLG9BEF5W/2020_DHR_Headshot-scaled.jpg",
-   "headshot_note": "",
-   "episodes": [
-    238,
-    182
-   ]
-  },
-  {
-   "id": "tara-quinn-cirillo",
-   "name": "tara quinn-cirillo",
-   "credentials": "",
-   "bio": "",
-   "website": "",
-   "instagram": "",
-   "headshot": "",
-   "headshot_note": "only appears with other guests; thumbnail is shared",
-   "episodes": [
-    238
-   ]
-  },
-  {
-   "id": "ken-ginsburg",
-   "name": "ken ginsburg",
-   "credentials": "",
-   "bio": "a pediatrician specializing in adolescent medicine at the children’s hospital of philadelphia and a professor of pediatrics at the university of pennsylvania school of medicine.",
-   "website": "https://www.fosteringresilience.com/parents/books",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/9ab54b16-8622-4e02-a7d9-aed5797e8435/67d88cf316beda9e2fbfcd4d_Dr+Ken+Ginsburg+Headshot+-+small+%281%29.jpg",
-   "headshot_note": "",
-   "episodes": [
-    238,
-    231
-   ]
-  },
-  {
-   "id": "judy-ho",
-   "name": "judy ho",
-   "credentials": "",
-   "bio": "",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1657425779484-406FAQ8H3EVXQD7JIAG0/Screen%2BShot%2B2022-07-09%2Bat%2B8.59.53%2BPM.jpg",
-   "headshot_note": "",
-   "episodes": [
-    238,
-    106
-   ]
-  },
-  {
-   "id": "madeline-lucas",
-   "name": "madeline lucas",
-   "credentials": "",
-   "bio": "",
-   "website": "",
-   "instagram": "",
-   "headshot": "",
-   "headshot_note": "only appears with other guests; thumbnail is shared",
-   "episodes": [
-    238
-   ]
-  },
-  {
-   "id": "nicole-lepera",
-   "name": "nicole lepera",
-   "credentials": "",
-   "bio": "Nicole LePera, a clinical psychologist, author, podcaster, and creator of the \"Holistic Psychologist\" platform that has amassed over 6.5 million followers on Instagram.",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1681962979598-JYXTJF3UBM5OK2Z3JQOB/option1-scaled.jpg",
-   "headshot_note": "",
-   "episodes": [
-    238,
-    144
-   ]
-  },
-  {
-   "id": "beth-kurland",
-   "name": "beth kurland",
-   "credentials": "",
-   "bio": "",
-   "website": "",
-   "instagram": "",
-   "headshot": "",
-   "headshot_note": "only appears with other guests; thumbnail is shared",
-   "episodes": [
-    238
-   ]
-  },
-  {
-   "id": "laura-frontiero",
-   "name": "laura frontiero",
-   "credentials": "",
-   "bio": "",
-   "website": "",
-   "instagram": "",
-   "headshot": "",
-   "headshot_note": "only appears with other guests; thumbnail is shared",
-   "episodes": [
-    238
-   ]
-  },
-  {
-   "id": "meg-jay",
-   "name": "meg jay",
-   "credentials": "",
-   "bio": "a developmental clinical psychologist, associate professor of education at the University of Virginia, and published author with over 25 years of experience studying the psychology of twentysomethings.A recent New York Times profile called Dr.",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1713934563471-KTDORA1S4ZOPIZ9JTNIS/Meg%2BJay%2B2024%2BFeb.jpg",
-   "headshot_note": "",
-   "episodes": [
-    238,
-    188
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "amanda-litman",
@@ -246,7 +152,9 @@
    "headshot_note": "",
    "episodes": [
     237
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kara-loewentheil",
@@ -259,7 +167,9 @@
    "headshot_note": "",
    "episodes": [
     235
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "will-dobud",
@@ -272,7 +182,26 @@
    "headshot_note": "",
    "episodes": [
     233
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "ken-ginsburg",
+   "name": "dr. ken ginsburg",
+   "credentials": "",
+   "bio": "a pediatrician specializing in adolescent medicine at the children’s hospital of philadelphia and a professor of pediatrics at the university of pennsylvania school of medicine.",
+   "website": "https://www.fosteringresilience.com/parents/books",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/9ab54b16-8622-4e02-a7d9-aed5797e8435/67d88cf316beda9e2fbfcd4d_Dr+Ken+Ginsburg+Headshot+-+small+%281%29.jpg",
+   "headshot_note": "",
+   "episodes": [
+    231
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "jessi-gold",
@@ -285,7 +214,9 @@
    "headshot_note": "",
    "episodes": [
     229
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "angela-duckworth",
@@ -298,146 +229,14 @@
    "headshot_note": "",
    "episodes": [
     228
-   ]
-  },
-  {
-   "id": "hans-schroeder",
-   "name": "hans schroeder",
-   "credentials": "",
-   "bio": "a Clinical Assistant Professor of Psychiatry at the University of Michigan Medical School and Adjunct Assistant Professor of Psychology at the University of Michigan who currently researches beliefs and messages about mental health and their impacts.",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1716664611987-5Z9W563BNLNNGP1NPGQH/image.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    191
-   ]
-  },
-  {
-   "id": "ayelet-ruscio",
-   "name": "dr. ayelet ruscio",
-   "credentials": "PHD",
-   "bio": "Today we are going \"into the classroom\" with my Abnormal Psychology professor, Ayelet Ruscio!",
-   "website": "https://psychology.sas.upenn.edu/people/ayelet-meron-ruscio",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1659731125211-MU5ATBV0JVX3PA3UFCL7/ruscio_auto_x2.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    109
-   ]
-  },
-  {
-   "id": "caroline-fleck",
-   "name": "dr. caroline fleck",
-   "credentials": "",
-   "bio": "Caroline Fleck—a licensed psychologist, corporate consultant, author, and an Adjunct Clinical Instructor at Stanford University.",
-   "website": "https://drcarolinefleck.com/",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1742921809171-ANLH27W0D2YJWLRLFSYE/option-5.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    215
-   ]
-  },
-  {
-   "id": "judith-joseph",
-   "name": "dr. judith joseph",
-   "credentials": "MD",
-   "bio": "M.D., M.B.A.— a board-certified psychiatrist and researcher, Chair of Women in Medicine at Columbia University Vagelos College of Physicians and Surgeons, Clinical Assistant Professor at NYU Langone Medical Center, and founder of the first research lab to study high-functioning mental health conditions.",
-   "website": "https://www.drjudithjoseph.com/",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1710632297352-OWPPGQWLP4R9A69XTQP0/Dr.Joseph_014.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    183
-   ]
-  },
-  {
-   "id": "kathryn-gordon",
-   "name": "kathryn gordon",
-   "credentials": "",
-   "bio": "a licensed clinical psychologist, speaker, and author.",
-   "website": "https://kathrynhgordon.com/",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1738354133832-STU3L049CSD2Y5NT3Y34/Screen-Shot-2021-08-23-at-2.26.44-PM-sm-680x1024.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    210
-   ]
-  },
-  {
-   "id": "margaret-rutherford",
-   "name": "dr. margaret rutherford",
-   "credentials": "",
-   "bio": "a psychologist, author, podcast host, and writer!",
-   "website": "https://drmargaretrutherford.com/",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1661908186480-TBBZS9POUMNS04SL1O76/Screen%2BShot%2B2022-08-30%2Bat%2B9.07.31%2BPM.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    112
-   ]
-  },
-  {
-   "id": "jonathan-rottenberg",
-   "name": "dr. jonathan rottenberg",
-   "credentials": "",
-   "bio": "the director of the Better Outcomes Laboratory at Cornell University, which explores long-term functioning and well-being after depression and related conditions.",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1728928166443-8286WL42G2I3VUG4TVV0/thumbnail__9050035-2%252Bcopy%252B2%252B%25281%2529.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    203
-   ]
-  },
-  {
-   "id": "steven-hollon",
-   "name": "dr. steven hollon",
-   "credentials": "",
-   "bio": "Hollon— the Gertrude Conaway Vanderbilt Professor of Psychology at Vanderbilt University.",
-   "website": "https://www.vanderbilt.edu/psychological_sciences/bio/steven-hollon",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1733976320204-IK8YSZJ72MWC4D6RVU18/zvaswmfavn4qfvq2buen.jpg",
-   "headshot_note": "",
-   "episodes": [
-    227,
-    207
-   ]
-  },
-  {
-   "id": "liz-fosslien",
-   "name": "liz fosslien",
-   "credentials": "",
-   "bio": "TW for suicidal thoughts ~42 minutes into this episode Today's guests are Liz Fosslien and Mollie West Duffy, the co-authors of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay.",
-   "website": "",
-   "instagram": "",
-   "headshot": "",
-   "headshot_note": "only appears with other guests; thumbnail is shared",
-   "episodes": [
-    227,
-    107
-   ]
-  },
-  {
-   "id": "mollie-west-duffy",
-   "name": "mollie west duffy",
-   "credentials": "",
-   "bio": "TW for suicidal thoughts ~42 minutes into this episode Today's guests are Liz Fosslien and Mollie West Duffy, the co-authors of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay.",
-   "website": "",
-   "instagram": "",
-   "headshot": "",
-   "headshot_note": "only appears with other guests; thumbnail is shared",
-   "episodes": [
-    227,
-    107
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "b1bc88880dea7d8c",
+     "title": "reverse engineer your life for SUCCESS in just 5 mins!",
+     "parent": 228
+    }
    ]
   },
   {
@@ -451,7 +250,9 @@
    "headshot_note": "",
    "episodes": [
     225
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "rosalind-chow",
@@ -464,7 +265,9 @@
    "headshot_note": "",
    "episodes": [
     223
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "emily-anhalt",
@@ -478,7 +281,9 @@
    "episodes": [
     222,
     174
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "olivia-nicastro",
@@ -492,7 +297,9 @@
    "episodes": [
     221,
     220
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "greg-walton",
@@ -505,7 +312,9 @@
    "headshot_note": "",
    "episodes": [
     219
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "emily-weinstein",
@@ -518,6 +327,14 @@
    "headshot_note": "",
    "episodes": [
     218
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "83990e7c1859646a",
+     "title": "stop comparing yourself on social media",
+     "parent": 218
+    }
    ]
   },
   {
@@ -531,7 +348,26 @@
    "headshot_note": "",
    "episodes": [
     216
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "caroline-fleck",
+   "name": "dr. caroline fleck",
+   "credentials": "",
+   "bio": "Caroline Fleck—a licensed psychologist, corporate consultant, author, and an Adjunct Clinical Instructor at Stanford University.",
+   "website": "https://drcarolinefleck.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1742921809171-ANLH27W0D2YJWLRLFSYE/option-5.jpg",
+   "headshot_note": "",
+   "episodes": [
+    215
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
   },
   {
    "id": "john-r-miles",
@@ -544,7 +380,9 @@
    "headshot_note": "",
    "episodes": [
     213
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "glenn-schiraldi",
@@ -557,7 +395,26 @@
    "headshot_note": "",
    "episodes": [
     212
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "kathryn-gordon",
+   "name": "kathryn gordon",
+   "credentials": "",
+   "bio": "a licensed clinical psychologist, speaker, and author.",
+   "website": "https://kathrynhgordon.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1738354133832-STU3L049CSD2Y5NT3Y34/Screen-Shot-2021-08-23-at-2.26.44-PM-sm-680x1024.jpg",
+   "headshot_note": "",
+   "episodes": [
+    210
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
   },
   {
    "id": "alison-malmon",
@@ -570,7 +427,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     208
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "lauren-cikara",
@@ -583,7 +442,26 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     208
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "steven-hollon",
+   "name": "dr. steven hollon",
+   "credentials": "",
+   "bio": "Hollon— the Gertrude Conaway Vanderbilt Professor of Psychology at Vanderbilt University.",
+   "website": "https://www.vanderbilt.edu/psychological_sciences/bio/steven-hollon",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1733976320204-IK8YSZJ72MWC4D6RVU18/zvaswmfavn4qfvq2buen.jpg",
+   "headshot_note": "",
+   "episodes": [
+    207
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
   },
   {
    "id": "mark-zachary-rosenthal",
@@ -596,7 +474,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     206
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "grace-heppes",
@@ -609,7 +489,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     206
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "mariel-buqu",
@@ -622,7 +504,26 @@
    "headshot_note": "",
    "episodes": [
     204
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "jonathan-rottenberg",
+   "name": "dr. jonathan rottenberg",
+   "credentials": "",
+   "bio": "the director of the Better Outcomes Laboratory at Cornell University, which explores long-term functioning and well-being after depression and related conditions.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1728928166443-8286WL42G2I3VUG4TVV0/thumbnail__9050035-2%252Bcopy%252B2%252B%25281%2529.jpg",
+   "headshot_note": "",
+   "episodes": [
+    203
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
   },
   {
    "id": "thais-gibson",
@@ -635,6 +536,14 @@
    "headshot_note": "",
    "episodes": [
     202
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "9db58decead84cfc",
+     "title": "5 Ways to Form a SECURE ATTACHMENT in 5 Mins!",
+     "parent": 202
+    }
    ]
   },
   {
@@ -648,7 +557,9 @@
    "headshot_note": "",
    "episodes": [
     201
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "ellen-galinsky",
@@ -661,7 +572,9 @@
    "headshot_note": "",
    "episodes": [
     199
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "katherine-kubler",
@@ -674,7 +587,9 @@
    "headshot_note": "",
    "episodes": [
     197
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "maia-szalavitz",
@@ -687,7 +602,9 @@
    "headshot_note": "",
    "episodes": [
     196
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "nick-nissen",
@@ -700,7 +617,9 @@
    "headshot_note": "",
    "episodes": [
     194
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "yasmine-cheyenne",
@@ -713,7 +632,9 @@
    "headshot_note": "",
    "episodes": [
     193
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "nita-farahany",
@@ -726,7 +647,26 @@
    "headshot_note": "",
    "episodes": [
     192
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "hans-schroeder",
+   "name": "hans schroeder",
+   "credentials": "",
+   "bio": "a Clinical Assistant Professor of Psychiatry at the University of Michigan Medical School and Adjunct Assistant Professor of Psychology at the University of Michigan who currently researches beliefs and messages about mental health and their impacts.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1716664611987-5Z9W563BNLNNGP1NPGQH/image.jpg",
+   "headshot_note": "",
+   "episodes": [
+    191
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
   },
   {
    "id": "johann-hari",
@@ -739,7 +679,26 @@
    "headshot_note": "",
    "episodes": [
     189
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "meg-jay",
+   "name": "dr. meg jay",
+   "credentials": "",
+   "bio": "a developmental clinical psychologist, associate professor of education at the University of Virginia, and published author with over 25 years of experience studying the psychology of twentysomethings.A recent New York Times profile called Dr.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1713934563471-KTDORA1S4ZOPIZ9JTNIS/Meg%2BJay%2B2024%2BFeb.jpg",
+   "headshot_note": "",
+   "episodes": [
+    188
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "emma-sepp-l",
@@ -752,7 +711,9 @@
    "headshot_note": "",
    "episodes": [
     186
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "eden-garcia-balis",
@@ -765,7 +726,43 @@
    "headshot_note": "",
    "episodes": [
     184
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "judith-joseph",
+   "name": "dr. judith joseph",
+   "credentials": "MD",
+   "bio": "M.D., M.B.A.— a board-certified psychiatrist and researcher, Chair of Women in Medicine at Columbia University Vagelos College of Physicians and Surgeons, Clinical Assistant Professor at NYU Langone Medical Center, and founder of the first research lab to study high-functioning mental health conditions.",
+   "website": "https://www.drjudithjoseph.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1710632297352-OWPPGQWLP4R9A69XTQP0/Dr.Joseph_014.jpg",
+   "headshot_note": "",
+   "episodes": [
+    183
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
+  },
+  {
+   "id": "david-rosmarin",
+   "name": "dr. david rosmarin",
+   "credentials": "",
+   "bio": "David Rosmarin— an associate professor at Harvard Medical School, a program director at McLean Hospital, and founder of Center for Anxiety—a practice that services over 1,000 patients per year in multiple states.",
+   "website": "https://api.leadconnectorhq.com/widget/form/SL9mr1P9F8GIxRWHLmUE",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1709926619357-N3WVUCZ14F4YLG9BEF5W/2020_DHR_Headshot-scaled.jpg",
+   "headshot_note": "",
+   "episodes": [
+    182
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "roberto-olivardia",
@@ -778,7 +775,9 @@
    "headshot_note": "",
    "episodes": [
     180
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jessica-gomez",
@@ -791,7 +790,9 @@
    "headshot_note": "",
    "episodes": [
     179
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jeff-kallil",
@@ -804,7 +805,9 @@
    "headshot_note": "",
    "episodes": [
     177
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "amy-dahl",
@@ -817,7 +820,9 @@
    "headshot_note": "",
    "episodes": [
     173
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "terri-cole",
@@ -830,6 +835,14 @@
    "headshot_note": "",
    "episodes": [
     172
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "8b31d46bea74473e",
+     "title": "How do I set boundaries?",
+     "parent": 172
+    }
    ]
   },
   {
@@ -843,7 +856,9 @@
    "headshot_note": "",
    "episodes": [
     170
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "shairi-turner",
@@ -856,7 +871,9 @@
    "headshot_note": "",
    "episodes": [
     169
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "justin-puder",
@@ -869,6 +886,14 @@
    "headshot_note": "",
    "episodes": [
     167
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "9fa9bf6996e7bf18",
+     "title": "how to find a therapist + start therapy",
+     "parent": 167
+    }
    ]
   },
   {
@@ -882,6 +907,14 @@
    "headshot_note": "",
    "episodes": [
     166
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "b2be5f5a78840296",
+     "title": "what your fav taylor swift song says about you (mental health edition)",
+     "parent": 166
+    }
    ]
   },
   {
@@ -895,7 +928,9 @@
    "headshot_note": "",
    "episodes": [
     164
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "david-alperovitz",
@@ -908,7 +943,9 @@
    "headshot_note": "",
    "episodes": [
     163
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "ann-coleman",
@@ -921,7 +958,9 @@
    "headshot_note": "",
    "episodes": [
     161
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "gigi-robinson",
@@ -934,7 +973,9 @@
    "headshot_note": "",
    "episodes": [
     160
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "leandro-olszanski",
@@ -947,7 +988,9 @@
    "headshot_note": "",
    "episodes": [
     158
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "caroline-fenkel",
@@ -960,7 +1003,9 @@
    "headshot_note": "",
    "episodes": [
     157
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "nicole-baker",
@@ -973,7 +1018,9 @@
    "headshot_note": "",
    "episodes": [
     155
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "erin-treloar",
@@ -986,7 +1033,9 @@
    "headshot_note": "",
    "episodes": [
     154
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "abbie-stasior",
@@ -1000,7 +1049,9 @@
    "episodes": [
     152,
     45
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kate-stone",
@@ -1014,7 +1065,9 @@
    "episodes": [
     151,
     130
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sarah-olivo",
@@ -1027,6 +1080,14 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     149
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "89fdf6158eeb2744",
+     "title": "Thrive in Your College Social Life Through DBT!",
+     "parent": 149
+    }
    ]
   },
   {
@@ -1040,6 +1101,14 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     149
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "89fdf6158eeb2744",
+     "title": "Thrive in Your College Social Life Through DBT!",
+     "parent": 149
+    }
    ]
   },
   {
@@ -1053,7 +1122,9 @@
    "headshot_note": "",
    "episodes": [
     148
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "bianca-busch",
@@ -1066,7 +1137,9 @@
    "headshot_note": "",
    "episodes": [
     147
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "nicole-shallow",
@@ -1079,7 +1152,26 @@
    "headshot_note": "",
    "episodes": [
     145
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "nicole-lepera",
+   "name": "dr. nicole lepera",
+   "credentials": "",
+   "bio": "Nicole LePera, a clinical psychologist, author, podcaster, and creator of the \"Holistic Psychologist\" platform that has amassed over 6.5 million followers on Instagram.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1681962979598-JYXTJF3UBM5OK2Z3JQOB/option1-scaled.jpg",
+   "headshot_note": "",
+   "episodes": [
+    144
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "kristen-carder",
@@ -1092,6 +1184,14 @@
    "headshot_note": "",
    "episodes": [
     142
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "b49c8e9ef3166a56",
+     "title": "What you need to know about ADHD...",
+     "parent": 142
+    }
    ]
   },
   {
@@ -1105,7 +1205,9 @@
    "headshot_note": "",
    "episodes": [
     141
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "britt-frank",
@@ -1118,7 +1220,9 @@
    "headshot_note": "",
    "episodes": [
     139
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "lisa-strohman",
@@ -1131,7 +1235,9 @@
    "headshot_note": "",
    "episodes": [
     137
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "justin-mohatt",
@@ -1144,6 +1250,14 @@
    "headshot_note": "",
    "episodes": [
     136
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "bb084f52cecfb849",
+     "title": "How to Find a Teen Treatment Program & What to Expect",
+     "parent": 136
+    }
    ]
   },
   {
@@ -1157,7 +1271,9 @@
    "headshot_note": "",
    "episodes": [
     134
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sam-decaro",
@@ -1170,7 +1286,9 @@
    "headshot_note": "",
    "episodes": [
     133
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jay-fields",
@@ -1183,6 +1301,14 @@
    "headshot_note": "",
    "episodes": [
     131
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "a32f47212c57a4a8",
+     "title": "How to STOP People Pleasing & START Trusting Yourself",
+     "parent": 131
+    }
    ]
   },
   {
@@ -1196,7 +1322,9 @@
    "headshot_note": "",
    "episodes": [
     128
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sharon-brubaker",
@@ -1209,7 +1337,9 @@
    "headshot_note": "",
    "episodes": [
     127
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "zach-gottlieb",
@@ -1222,7 +1352,9 @@
    "headshot_note": "",
    "episodes": [
     125
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "nancy-diaz",
@@ -1235,7 +1367,9 @@
    "headshot_note": "",
    "episodes": [
     124
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "bobby-cook",
@@ -1248,7 +1382,9 @@
    "headshot_note": "",
    "episodes": [
     122
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "mary-jelkovsky",
@@ -1261,7 +1397,9 @@
    "headshot_note": "",
    "episodes": [
     121
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "shani-tran",
@@ -1274,7 +1412,9 @@
    "headshot_note": "",
    "episodes": [
     119
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sasha-heinz",
@@ -1287,7 +1427,9 @@
    "headshot_note": "",
    "episodes": [
     118
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "lindsey-simcik",
@@ -1300,7 +1442,9 @@
    "headshot_note": "",
    "episodes": [
     116
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "adia-fadaei",
@@ -1313,6 +1457,31 @@
    "headshot_note": "",
    "episodes": [
     115
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "margaret-rutherford",
+   "name": "dr. margaret rutherford",
+   "credentials": "",
+   "bio": "a psychologist, author, podcast host, and writer!",
+   "website": "https://drmargaretrutherford.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1661908186480-TBBZS9POUMNS04SL1O76/Screen%2BShot%2B2022-08-30%2Bat%2B9.07.31%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    112
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": [
+    {
+     "id": "979e1a49e27f91fb",
+     "title": "5 Steps for Healing Your Hidden Depression in 5 Mins!",
+     "parent": 112
+    }
    ]
   },
   {
@@ -1326,6 +1495,31 @@
    "headshot_note": "",
    "episodes": [
     111
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "ayelet-ruscio",
+   "name": "dr. ayelet ruscio",
+   "credentials": "PHD",
+   "bio": "Today we are going \"into the classroom\" with my Abnormal Psychology professor, Ayelet Ruscio!",
+   "website": "https://psychology.sas.upenn.edu/people/ayelet-meron-ruscio",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1659731125211-MU5ATBV0JVX3PA3UFCL7/ruscio_auto_x2.jpg",
+   "headshot_note": "",
+   "episodes": [
+    109
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": [
+    {
+     "id": "9bc6f5b3575509c6",
+     "title": "Is STRESS Causing Your Depression?!",
+     "parent": 109
+    }
    ]
   },
   {
@@ -1339,7 +1533,60 @@
    "headshot_note": "",
    "episodes": [
     108
-   ]
+   ],
+   "mashups": [],
+   "minis": []
+  },
+  {
+   "id": "liz-fosslien",
+   "name": "liz fosslien",
+   "credentials": "",
+   "bio": "TW for suicidal thoughts ~42 minutes into this episode Today's guests are Liz Fosslien and Mollie West Duffy, the co-authors of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    107
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
+  },
+  {
+   "id": "mollie-west-duffy",
+   "name": "mollie west duffy",
+   "credentials": "",
+   "bio": "TW for suicidal thoughts ~42 minutes into this episode Today's guests are Liz Fosslien and Mollie West Duffy, the co-authors of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    107
+   ],
+   "mashups": [
+    227
+   ],
+   "minis": []
+  },
+  {
+   "id": "judy-ho",
+   "name": "dr. judy ho",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1657425779484-406FAQ8H3EVXQD7JIAG0/Screen%2BShot%2B2022-07-09%2Bat%2B8.59.53%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    106
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "heather-turgeon",
@@ -1352,6 +1599,14 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     104
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "9f0965bf4ecd0a17",
+     "title": "gen z is sleep deprived: here's why",
+     "parent": 104
+    }
    ]
   },
   {
@@ -1365,6 +1620,14 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     104
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "9f0965bf4ecd0a17",
+     "title": "gen z is sleep deprived: here's why",
+     "parent": 104
+    }
    ]
   },
   {
@@ -1378,7 +1641,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     103
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jennifer-chaiken",
@@ -1391,7 +1656,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     103
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "carmen-applegate",
@@ -1404,7 +1671,9 @@
    "headshot_note": "",
    "episodes": [
     102
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "edith-eger",
@@ -1417,7 +1686,9 @@
    "headshot_note": "",
    "episodes": [
     101
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "danielle-gronich",
@@ -1430,7 +1701,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     99
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kayleigh-christina",
@@ -1443,7 +1716,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     99
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "whitney-goodman",
@@ -1456,7 +1731,9 @@
    "headshot_note": "",
    "episodes": [
     98
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "megan-jacobs",
@@ -1469,7 +1746,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     97
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jake-warn",
@@ -1482,7 +1761,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     97
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "eileen-kelly",
@@ -1495,6 +1776,14 @@
    "headshot_note": "",
    "episodes": [
     96
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "b7f69616b21adb27",
+     "title": "a day in the life in mental health residential treatment?!!",
+     "parent": 96
+    }
    ]
   },
   {
@@ -1508,7 +1797,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     94
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "dave-henry",
@@ -1521,7 +1812,9 @@
    "headshot_note": "only appears with other guests; thumbnail is shared",
    "episodes": [
     94
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "efia-sulter",
@@ -1534,7 +1827,9 @@
    "headshot_note": "",
    "episodes": [
     93
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "michele-rosenthal",
@@ -1547,6 +1842,14 @@
    "headshot_note": "",
    "episodes": [
     92
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "929427b6b8347cc9",
+     "title": "four steps for healing TRAUMA",
+     "parent": 92
+    }
    ]
   },
   {
@@ -1560,6 +1863,16 @@
    "headshot_note": "",
    "episodes": [
     91
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": [
+    {
+     "id": "ae35e31893da9ccb",
+     "title": "5 Ways to Fix Your ANXIETY",
+     "parent": 91
+    }
    ]
   },
   {
@@ -1573,7 +1886,9 @@
    "headshot_note": "",
    "episodes": [
     89
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "madeline-bailey",
@@ -1586,7 +1901,11 @@
    "headshot_note": "",
    "episodes": [
     88
-   ]
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "sarah-hernholm",
@@ -1599,7 +1918,9 @@
    "headshot_note": "",
    "episodes": [
     87
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sami-halvorsen",
@@ -1612,6 +1933,14 @@
    "headshot_note": "",
    "episodes": [
     86
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "88f7430b273f7a9e",
+     "title": "Fix Your Self-Confidence in Five Minutes!",
+     "parent": 86
+    }
    ]
   },
   {
@@ -1625,7 +1954,9 @@
    "headshot_note": "",
    "episodes": [
     84
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "beth-segaloff",
@@ -1638,7 +1969,11 @@
    "headshot_note": "",
    "episodes": [
     83
-   ]
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "paige-tonz",
@@ -1651,7 +1986,9 @@
    "headshot_note": "",
    "episodes": [
     82
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "aliza-pressman",
@@ -1664,7 +2001,9 @@
    "headshot_note": "",
    "episodes": [
     81
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "doug-bopst",
@@ -1677,7 +2016,9 @@
    "headshot_note": "",
    "episodes": [
     79
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "caroline-leaf",
@@ -1690,7 +2031,9 @@
    "headshot_note": "",
    "episodes": [
     78
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kojo-sarfo",
@@ -1703,7 +2046,9 @@
    "headshot_note": "",
    "episodes": [
     77
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "alexandra-solomon",
@@ -1716,7 +2061,9 @@
    "headshot_note": "",
    "episodes": [
     76
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jay-faber",
@@ -1729,7 +2076,9 @@
    "headshot_note": "",
    "episodes": [
     75
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sophie-gray",
@@ -1742,7 +2091,9 @@
    "headshot_note": "",
    "episodes": [
     74
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "victoria-garrick",
@@ -1755,7 +2106,9 @@
    "headshot_note": "",
    "episodes": [
     73
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "krista-williams",
@@ -1768,7 +2121,9 @@
    "headshot_note": "",
    "episodes": [
     72
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "laura-martin",
@@ -1781,7 +2136,11 @@
    "headshot_note": "",
    "episodes": [
     68
-   ]
+   ],
+   "mashups": [
+    238
+   ],
+   "minis": []
   },
   {
    "id": "alexis-haines",
@@ -1794,6 +2153,14 @@
    "headshot_note": "",
    "episodes": [
     66
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "b7e6e1cacffcf8dd",
+     "title": "How to Heal from Addiction",
+     "parent": 66
+    }
    ]
   },
   {
@@ -1807,7 +2174,9 @@
    "headshot_note": "",
    "episodes": [
     65
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sydney-montana",
@@ -1820,7 +2189,9 @@
    "headshot_note": "",
    "episodes": [
     64
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "rae-fung",
@@ -1833,7 +2204,9 @@
    "headshot_note": "",
    "episodes": [
     63
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "evan-haines",
@@ -1846,7 +2219,9 @@
    "headshot_note": "",
    "episodes": [
     62
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kira-willey",
@@ -1859,7 +2234,9 @@
    "headshot_note": "",
    "episodes": [
     61
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "zachery-dereniowski",
@@ -1872,7 +2249,9 @@
    "headshot_note": "",
    "episodes": [
     60
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "hillary-higgins",
@@ -1885,7 +2264,9 @@
    "headshot_note": "",
    "episodes": [
     59
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "maya",
@@ -1899,7 +2280,9 @@
    "episodes": [
     58,
     22
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kirstie-taylor",
@@ -1912,7 +2295,9 @@
    "headshot_note": "",
    "episodes": [
     54
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "camila-vola",
@@ -1925,7 +2310,9 @@
    "headshot_note": "",
    "episodes": [
     53
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "amanda-dimarco",
@@ -1938,7 +2325,9 @@
    "headshot_note": "",
    "episodes": [
     51
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "uma-naidoo",
@@ -1951,7 +2340,9 @@
    "headshot_note": "",
    "episodes": [
     50
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sage-lally",
@@ -1964,7 +2355,9 @@
    "headshot_note": "",
    "episodes": [
     49
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "evonna-kuehner",
@@ -1977,7 +2370,9 @@
    "headshot_note": "",
    "episodes": [
     46
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kelsey-jones",
@@ -1990,7 +2385,9 @@
    "headshot_note": "",
    "episodes": [
     44
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "daisye-byrd-graham",
@@ -2004,7 +2401,9 @@
    "episodes": [
     41,
     6
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "j-anmetra-waddell",
@@ -2017,7 +2416,9 @@
    "headshot_note": "",
    "episodes": [
     40
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "leo-flowers",
@@ -2030,7 +2431,9 @@
    "headshot_note": "",
    "episodes": [
     38
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "audrey-bailey",
@@ -2043,7 +2446,9 @@
    "headshot_note": "",
    "episodes": [
     37
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sarah-humphrey",
@@ -2056,7 +2461,9 @@
    "headshot_note": "",
    "episodes": [
     36
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "cassandra-mcclure",
@@ -2069,7 +2476,9 @@
    "headshot_note": "",
    "episodes": [
     35
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "brittany-crane",
@@ -2082,7 +2491,9 @@
    "headshot_note": "",
    "episodes": [
     34
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "scout-sobel",
@@ -2095,7 +2506,9 @@
    "headshot_note": "",
    "episodes": [
     32
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "alexis-smith",
@@ -2108,7 +2521,9 @@
    "headshot_note": "",
    "episodes": [
     31
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jill-nowak",
@@ -2121,7 +2536,9 @@
    "headshot_note": "",
    "episodes": [
     30
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "emily-lebaron",
@@ -2134,7 +2551,9 @@
    "headshot_note": "",
    "episodes": [
     27
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "ivy-sutton",
@@ -2147,7 +2566,9 @@
    "headshot_note": "",
    "episodes": [
     26
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "leeza",
@@ -2160,7 +2581,9 @@
    "headshot_note": "",
    "episodes": [
     25
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "stephanie",
@@ -2173,7 +2596,9 @@
    "headshot_note": "",
    "episodes": [
     24
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sadie-s-dad",
@@ -2188,7 +2613,9 @@
     23,
     8,
     2
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "ruby",
@@ -2201,7 +2628,9 @@
    "headshot_note": "",
    "episodes": [
     21
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sadie-s-younger-sister",
@@ -2216,7 +2645,9 @@
     19,
     14,
     3
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "sadie-s-best-friend",
@@ -2229,7 +2660,9 @@
    "headshot_note": "",
    "episodes": [
     15
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "emily-thelen",
@@ -2242,7 +2675,9 @@
    "headshot_note": "",
    "episodes": [
     11
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "jacob-sparks",
@@ -2255,7 +2690,9 @@
    "headshot_note": "",
    "episodes": [
     10
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   },
   {
    "id": "kayla",
@@ -2268,7 +2705,9 @@
    "headshot_note": "",
    "episodes": [
     5
-   ]
+   ],
+   "mashups": [],
+   "minis": []
   }
  ]
 }

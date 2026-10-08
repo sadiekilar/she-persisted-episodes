@@ -7,6 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 const { INDEX_DIR, readEpisodes, htmlToText } = require('./lib');
+const { formatOf } = require('./format');
 
 const reviewFile = path.join(INDEX_DIR, 'guests-review.md');
 const TITLES = /\b(dr\.?|md|m\.d\.|phd|ph\.d\.?|psyd|psy\.d\.?|lcsw|licsw|lmft|lpc|lpcc|ma|m\.a\.|mph|ms|m\.s\.|rd|rdn|ctrs|icf|pcc|ncc|mba|esq|jd|rn|np|do)\b/gi;
@@ -45,11 +46,18 @@ function readReview() {
 }
 
 const eps = readEpisodes().sort((a, b) => b.meta.number - a.meta.number);
+const epByNumber = new Map(eps.map((e) => [e.meta.number, e]));
+const bySlug = new Map(eps.map((e) => [String(e.meta.slug).toLowerCase(), e.meta.number]));
+const linkedEpisodes = (m) => [...(m.mentioned_html || '').matchAll(/shepersistedpodcast\.com\/(?:podcast-)?episodes\/([\w-]+)/gi)].map((x) => x[1].toLowerCase()).map((sl) => bySlug.get(sl) || (/^ep(\d+)$/.test(sl) && epByNumber.has(+RegExp.$1) ? +RegExp.$1 : null)).filter(Boolean);
+const minisFile = path.join(INDEX_DIR, 'minis.json');
+const minis = fs.existsSync(minisFile) ? JSON.parse(fs.readFileSync(minisFile, 'utf8')).minis : [];
 const guests = new Map(); // slug → record
 const noGuest = [];
 for (const e of eps) {
   const m = e.meta;
+  const mashup = formatOf(m) === 'mashup';
   let found = (m.guests || []).map(splitGuest);
+  if (mashup) { const linked = linkedEpisodes(m).flatMap((n) => (epByNumber.get(n)?.meta.guests || []).map(splitGuest)); if (linked.length) found = linked; }
   if (!found.length) found = fromTitle(m.title).map((name) => ({ name, role: '' }));
   if (!found.length) { if (/feat\.?|\bwith\b|\bft\./i.test(m.title)) noGuest.push(m); continue; }
   const text = htmlToText(m.description_html || '').replace(/\s+/g, ' ');
@@ -57,7 +65,8 @@ for (const e of eps) {
   for (const g of found) {
     const id = slug(g.name);
     if (!id || id.length < 3) continue;
-    const rec = guests.get(id) || { id, names: {}, credentials: new Set(), roles: [], bio: '', website: '', instagram: '', episodes: [], headshot: '' };
+    const rec = guests.get(id) || { id, names: {}, credentials: new Set(), roles: [], bio: '', website: '', instagram: '', episodes: [], mashups: [], minis: [], headshot: '' };
+    if (mashup) { rec.names[g.name] = (rec.names[g.name] || 0) + 1; if (!rec.mashups.includes(m.number)) rec.mashups.push(m.number); guests.set(id, rec); continue; }
     rec.names[g.name] = (rec.names[g.name] || 0) + 1;
     credsOf(g.name + ' ' + g.role + ' ' + m.title).forEach((c) => rec.credentials.add(c));
     if (g.role) rec.roles.push(g.role);
@@ -91,6 +100,7 @@ for (const [id, r] of [...guests.entries()]) {
   for (const [n, c] of Object.entries(r.names)) target.names[n] = (target.names[n] || 0) + c;
   r.credentials.forEach((c) => target.credentials.add(c));
   target.episodes.push(...r.episodes.filter((n) => !target.episodes.includes(n)));
+  target.mashups.push(...r.mashups.filter((n) => !target.mashups.includes(n)));
   target.bio = target.bio || r.bio; target.website = target.website || r.website; target.instagram = target.instagram || r.instagram; target.headshot = target.headshot || r.headshot;
   guests.delete(id);
 }
@@ -108,8 +118,10 @@ const list = [...guests.values()].map((r) => {
     headshot: rv.headshot || r.headshot || '',
     headshot_note: rv.headshot || r.headshot ? '' : (r.sharedThumb ? 'only appears with other guests; thumbnail is shared' : 'no thumbnail'),
     episodes: r.episodes.sort((a, b) => b - a),
+    mashups: r.mashups.sort((a, b) => b - a),
+    minis: minis.filter((x) => r.episodes.includes(x.parent)).map((x) => ({ id: x.id, title: x.title, parent: x.parent })),
   };
-}).sort((a, b) => b.episodes[0] - a.episodes[0]);
+}).filter((g) => g.episodes.length || g.mashups.length).sort((a, b) => (b.episodes[0] || b.mashups[0]) - (a.episodes[0] || a.mashups[0]));
 
 fs.writeFileSync(path.join(INDEX_DIR, 'guests.json'), JSON.stringify({ generatedAt: new Date().toISOString(), count: list.length, guests: list }, null, 1));
 const shared = {}; list.forEach((g) => { if (g.headshot) (shared[g.headshot] = shared[g.headshot] || []).push(g.name); });
@@ -131,6 +143,10 @@ Guests with no headshot of their own (they only appear alongside other guests, s
 Guests whose headshot is the same image as another guest's: ${sharedHeadshots.length ? sharedHeadshots.map((a) => a.join(' / ')).join('; ') : 'none'}.
 
 Episodes whose title says feat./with but no guest could be read (${noGuest.length}): ${noGuest.map((m) => m.number).join(', ') || 'none'}.
+
+Mashup appearances (clips of a past episode, not a new appearance): ${list.filter((g) => g.mashups.length).map((g) => `${g.name} (${g.mashups.join(', ')})`).join('; ') || 'none'}.
+
+Minis cut from a guest's episode: ${list.reduce((a, g) => a + g.minis.length, 0)} across ${list.filter((g) => g.minis.length).length} guests.
 
 Guests with no bio sentence found: ${list.filter((g) => !g.bio).map((g) => g.name).join(', ') || 'none'}.
 `);
