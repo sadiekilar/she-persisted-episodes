@@ -1,12 +1,11 @@
 # episode page completeness
 
-166 of 256 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
+169 of 256 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
 
 ## what would unblock the most pages
 
 - **86 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
 - **50 episodes** need `youtube_id`: no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)
-- **18 episodes** need `chapters`: no chapters yet (needs "we talk about" bullets plus a timestamped transcript, then chapters.js)
 
 ## every episode
 
@@ -144,9 +143,9 @@
 | [134](https://shepersistedpodcast.com/episodes/ep134) | complete |
 | [133](https://shepersistedpodcast.com/episodes/ep133) | complete |
 | [132](https://shepersistedpodcast.com/episodes/ep132) | complete |
-| [131](https://shepersistedpodcast.com/episodes/ep131) | chapters |
+| [131](https://shepersistedpodcast.com/episodes/ep131) | complete |
 | [130](https://shepersistedpodcast.com/episodes/ep130) | complete |
-| [129](https://shepersistedpodcast.com/episodes/ep129) | chapters |
+| [129](https://shepersistedpodcast.com/episodes/ep129) | complete |
 | [128](https://shepersistedpodcast.com/episodes/ep128) | complete |
 | [127](https://shepersistedpodcast.com/episodes/ep127) | complete |
 | [126](https://shepersistedpodcast.com/episodes/ep126) | complete |
@@ -179,10 +178,10 @@
 | [99](https://shepersistedpodcast.com/episodes/ep99) | complete |
 | [98](https://shepersistedpodcast.com/episodes/ep98) | complete |
 | [97](https://shepersistedpodcast.com/episodes/ep97) | complete |
-| [96](https://shepersistedpodcast.com/episodes/ep96) | chapters |
+| [96](https://shepersistedpodcast.com/episodes/ep96) | complete |
 | [95](https://shepersistedpodcast.com/episodes/ep95) | complete |
 | [94](https://shepersistedpodcast.com/episodes/ep94) | complete |
-| [93](https://shepersistedpodcast.com/episodes/ep93) | chapters, apple_episode_url |
+| [93](https://shepersistedpodcast.com/episodes/ep93) | apple_episode_url |
 | [92](https://shepersistedpodcast.com/episodes/ep92) | apple_episode_url |
 | [91](https://shepersistedpodcast.com/episodes/ep91) | apple_episode_url |
 | [90](https://shepersistedpodcast.com/episodes/ep90) | apple_episode_url |
@@ -190,7 +189,7 @@
 | [88](https://shepersistedpodcast.com/episodes/ep88) | apple_episode_url |
 | [87](https://shepersistedpodcast.com/episodes/ep87) | apple_episode_url |
 | [86](https://shepersistedpodcast.com/episodes/ep86) | apple_episode_url |
-| [85](https://shepersistedpodcast.com/episodes/ep85) | chapters, apple_episode_url |
+| [85](https://shepersistedpodcast.com/episodes/ep85) | apple_episode_url |
 | [84](https://shepersistedpodcast.com/episodes/ep84) | apple_episode_url |
 | [83](https://shepersistedpodcast.com/episodes/ep83) | apple_episode_url |
 | [82](https://shepersistedpodcast.com/episodes/ep82) | apple_episode_url |
@@ -218,8 +217,8 @@
 | [59](https://shepersistedpodcast.com/episodes/ep59) | youtube_id, apple_episode_url |
 | [58](https://shepersistedpodcast.com/episodes/ep58) | youtube_id, apple_episode_url |
 | [57](https://shepersistedpodcast.com/episodes/ep57) | youtube_id, apple_episode_url |
-| [56](https://shepersistedpodcast.com/episodes/ep56) | youtube_id, chapters, apple_episode_url |
-| [55](https://shepersistedpodcast.com/episodes/ep55) | youtube_id, chapters, apple_episode_url |
+| [56](https://shepersistedpodcast.com/episodes/ep56) | youtube_id, apple_episode_url |
+| [55](https://shepersistedpodcast.com/episodes/ep55) | youtube_id, apple_episode_url |
 | [54](https://shepersistedpodcast.com/episodes/ep54) | apple_episode_url |
 | [53](https://shepersistedpodcast.com/episodes/ep53) | apple_episode_url |
 | [52](https://shepersistedpodcast.com/episodes/ep52) | youtube_id, apple_episode_url |
@@ -233,15 +232,15 @@
 | [44](https://shepersistedpodcast.com/episodes/ep44) | youtube_id, apple_episode_url |
 | [42](https://shepersistedpodcast.com/episodes/ep42) | youtube_id, apple_episode_url |
 | [41](https://shepersistedpodcast.com/episodes/ep41) | youtube_id, apple_episode_url |
-| [40](https://shepersistedpodcast.com/episodes/ep40) | youtube_id, chapters, apple_episode_url |
-| [39](https://shepersistedpodcast.com/episodes/ep39) | youtube_id, chapters, apple_episode_url |
-| [38](https://shepersistedpodcast.com/episodes/ep38) | youtube_id, chapters, apple_episode_url |
+| [40](https://shepersistedpodcast.com/episodes/ep40) | youtube_id, apple_episode_url |
+| [39](https://shepersistedpodcast.com/episodes/ep39) | youtube_id, apple_episode_url |
+| [38](https://shepersistedpodcast.com/episodes/ep38) | youtube_id, apple_episode_url |
 | [37](https://shepersistedpodcast.com/episodes/ep37) | youtube_id, apple_episode_url |
-| [36](https://shepersistedpodcast.com/episodes/ep36) | youtube_id, chapters, apple_episode_url |
-| [35](https://shepersistedpodcast.com/episodes/ep35) | youtube_id, chapters, apple_episode_url |
-| [34](https://shepersistedpodcast.com/episodes/ep34) | youtube_id, chapters, apple_episode_url |
+| [36](https://shepersistedpodcast.com/episodes/ep36) | youtube_id, apple_episode_url |
+| [35](https://shepersistedpodcast.com/episodes/ep35) | youtube_id, apple_episode_url |
+| [34](https://shepersistedpodcast.com/episodes/ep34) | youtube_id, apple_episode_url |
 | [33](https://shepersistedpodcast.com/episodes/ep33) | youtube_id, apple_episode_url |
-| [32](https://shepersistedpodcast.com/episodes/ep32) | youtube_id, chapters, apple_episode_url |
+| [32](https://shepersistedpodcast.com/episodes/ep32) | youtube_id, apple_episode_url |
 | [31](https://shepersistedpodcast.com/episodes/ep31) | youtube_id, apple_episode_url |
 | [30](https://shepersistedpodcast.com/episodes/ep30) | youtube_id, apple_episode_url |
 | [29](https://shepersistedpodcast.com/episodes/ep29) | apple_episode_url |
@@ -252,9 +251,9 @@
 | [24](https://shepersistedpodcast.com/episodes/ep23-yt5bx) | youtube_id, apple_episode_url |
 | [23](https://shepersistedpodcast.com/episodes/ep23) | youtube_id, apple_episode_url |
 | [22](https://shepersistedpodcast.com/episodes/ep22) | youtube_id, apple_episode_url |
-| [21](https://shepersistedpodcast.com/episodes/ep21) | youtube_id, chapters, apple_episode_url |
-| [20](https://shepersistedpodcast.com/episodes/ep20) | youtube_id, chapters, apple_episode_url |
-| [19](https://shepersistedpodcast.com/episodes/ep19) | youtube_id, chapters, apple_episode_url |
+| [21](https://shepersistedpodcast.com/episodes/ep21) | youtube_id, apple_episode_url |
+| [20](https://shepersistedpodcast.com/episodes/ep20) | youtube_id, apple_episode_url |
+| [19](https://shepersistedpodcast.com/episodes/ep19) | youtube_id, apple_episode_url |
 | [18](https://shepersistedpodcast.com/episodes/ep18) | youtube_id, apple_episode_url |
 | [17](https://shepersistedpodcast.com/episodes/ep17) | youtube_id, apple_episode_url |
 | [16](https://shepersistedpodcast.com/episodes/ep16) | youtube_id, apple_episode_url |
@@ -267,4 +266,4 @@
 | [5](https://shepersistedpodcast.com/episodes/ep5) | youtube_id, apple_episode_url |
 | [3](https://shepersistedpodcast.com/episodes/ep3) | youtube_id, apple_episode_url |
 | [2](https://shepersistedpodcast.com/episodes/ep2) | youtube_id, apple_episode_url |
-| [1](https://shepersistedpodcast.com/episodes/ep1) | youtube_id, chapters, apple_episode_url |
+| [1](https://shepersistedpodcast.com/episodes/ep1) | youtube_id, apple_episode_url |
