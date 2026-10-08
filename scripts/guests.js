@@ -64,10 +64,11 @@ for (const e of eps) {
     const last = key(g.name).split(' ').pop();
     if (!rec.bio && last && last.length > 2) {
       const sent = text.split(/(?<=[.!?])\s+/).find((s) => new RegExp('\\b' + last + '\\b', 'i').test(s) && /\b(is|who|founder|author|psych|therap|coach|host|director|specializ|works|teach|student|survivor)/i.test(s) && s.length < 400);
-      if (sent) rec.bio = sent.trim().replace(/^(today'?s|this week'?s) guest is [^,—–]+[,—–]\s*/i, '').replace(/^[a-z' .-]+\s[—–]\s*/i, (x) => new RegExp(last, 'i').test(x) ? '' : x);
+      if (sent) rec.bio = sent.trim().replace(/^(today.?s|this week.?s) guest is [^,—–]+[,—–]\s*/i, '').replace(/^[a-z' .-]+\s[—–]\s*/i, (x) => new RegExp(last, 'i').test(x) ? '' : x);
     }
     for (const a of html.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)) {
       const href = a[1].replace(/&amp;/g, '&'), label = htmlToText(a[2]).toLowerCase();
+      if (!/^https?:/i.test(href)) continue;
       const mine = new RegExp('\\b' + last + '\\b', 'i').test(label) || new RegExp('\\b' + last, 'i').test(href);
       if (!mine) continue;
       if (/instagram\.com/i.test(href)) { if (!rec.instagram) rec.instagram = href; }
