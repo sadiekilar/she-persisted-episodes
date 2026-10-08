@@ -206,7 +206,7 @@ sadie answers a listener question about maintaining mental health while pursuing
 - url: https://shepersistedpodcast.com/episodes/249
 - transcript: episodes/ep-249.md (full)
 
-sadie shares a psychology-backed dbt skill called the ice dive that stops panic attacks by activating your mammalian diving reflex. she explains why panic attacks make your body feel out of control (your sympathetic nervous system takes over), how the ice dive physically lowers your heart rate and breathing rate by signaling to your brain that you're drowning, and practical ways to use it—from a bowl of ice water at home to cool paper towels in a public bathroom. because it taps into a physiological response rather than willpower, it stays reliable even when other coping strategies lose effectiveness.
+sadie shares a psychology-backed dbt skill called the ice dive that stops panic attacks by activating your mammalian diving reflex. she explains why panic attacks make your body feel out of control (your sympathetic nervous system takes over), how the ice dive physically lowers your heart rate and breathing rate by signaling to your brain that you're drowning, and practical ways to use it—from a bowl of ice water at home to cool paper towels in a public bathroom. this skill works 100% of the time because it taps into a physiological response, making it reliable even when other coping strategies lose effectiveness.
 
 > there is a way to stop a panic attack 100% of the time, when all else fails, this skill will be there and it will work.
 > You cannot talk your body out of panic. You have to change the physical before you can address the mental.

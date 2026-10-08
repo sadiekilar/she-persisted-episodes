@@ -120,9 +120,9 @@ chapters: the mental health misconception so many of us have; one of the biggest
 date: 2026-02-11 | https://shepersistedpodcast.com/episodes/249 | 12 min | video
 tags: anxiety, dbt
 format: solo
-summary: sadie shares a psychology-backed dbt skill called the ice dive that stops panic attacks by activating your mammalian diving reflex. she explains why panic attacks make your body feel out of control (your sympathetic nervous system takes over), how the ice dive physically lowers your heart rate and breathing rate by signaling to your brain that you're drowning, and practical ways to use it—from a bowl of ice water at home to cool paper towels in a public bathroom. because it taps into a physiological response rather than willpower, it stays reliable even when other coping strategies lose effectiveness.
+summary: sadie shares a psychology-backed dbt skill called the ice dive that stops panic attacks by activating your mammalian diving reflex. she explains why panic attacks make your body feel out of control (your sympathetic nervous system takes over), how the ice dive physically lowers your heart rate and breathing rate by signaling to your brain that you're drowning, and practical ways to use it—from a bowl of ice water at home to cool paper towels in a public bathroom. this skill works 100% of the time because it taps into a physiological response, making it reliable even when other coping strategies lose effectiveness.
 quote: You cannot talk your body out of panic. You have to change the physical before you can address the mental.
-chapters: a dbt skill for stopping a panic attack; why this skill works better than other panic attack hacks; what's really happening in our bodies during a panic attack; the science behind stopping a panic attack; how to use this panic attack skill wherever you go; other scenarios you can try out this skill in (including helping a loved one!)
+chapters: a dbt skill that stops all panic attacks; why this skill works better than other panic attack hacks; what's really happening in our bodies during a panic attack; the science behind stopping a panic attack; how to use this panic attack skill wherever you go; other scenarios you can try out this skill in (including helping a loved one!)
 
 ## 248. why “look on the bright side” doesn’t work (do THIS instead!)
 date: 2026-02-03 | https://shepersistedpodcast.com/episodes/248 | 16 min | video
@@ -2050,15 +2050,15 @@ chapters: Introduction: From Treatment to Podcast, Why I'm Sharing My Story; The
 
 29 five-minute cut-downs of past episodes, from the podcast feed. Each line: date | title | from episode | video.
 
-- 2025-11-24 | reverse engineer your life for SUCCESS in just 5 mins! | from episode 228
-- 2025-11-10 | a dbt crash course– everything you need to know about this therapy in 5 mins! | from episode 146
-- 2025-10-27 | a day in the life in mental health residential treatment?!! | from episode 96
-- 2025-10-14 | what your fav taylor swift song says about you (mental health edition) | from episode 166
-- 2025-09-08 | four steps for healing TRAUMA | from episode 92
-- 2025-08-25 | master your COLLEGE ROUTINE in just five mins! | from episode 105
-- 2025-07-28 | four mental health skills for your next family vacation | from episode 195
-- 2025-07-08 | stop comparing yourself on social media | from episode 218
-- 2025-06-23 | how to find a therapist + start therapy | from episode 167
+- 2025-11-24 | reverse engineer your life for SUCCESS in just 5 mins! | from episode 228 | video
+- 2025-11-10 | a dbt crash course– everything you need to know about this therapy in 5 mins! | from episode 146 | video
+- 2025-10-27 | a day in the life in mental health residential treatment?!! | from episode 96 | video
+- 2025-10-14 | what your fav taylor swift song says about you (mental health edition) | from episode 166 | video
+- 2025-09-08 | four steps for healing TRAUMA | from episode 92 | video
+- 2025-08-25 | master your COLLEGE ROUTINE in just five mins! | from episode 105 | video
+- 2025-07-28 | four mental health skills for your next family vacation | from episode 195 | video
+- 2025-07-08 | stop comparing yourself on social media | from episode 218 | video
+- 2025-06-23 | how to find a therapist + start therapy | from episode 167 | video
 - 2025-05-26 | gen z is sleep deprived: here's why | from episode 104
 - 2025-04-21 | what i do to prevent college burnout | from episode 162
 - 2025-03-03 | why you should become an OPTIMIST | from episode 162 | video

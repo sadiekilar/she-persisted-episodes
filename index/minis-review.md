@@ -2,15 +2,15 @@
 
 29 five-minute minis from the podcast feed, each linked to the episode it was pulled from (the "full episode" link in its notes). They are not counted as episodes. To change a parent, edit the number after the arrow and commit ("none" for no parent).
 
-- b1bc88880dea7d8c: 2025-11-24 reverse engineer your life for SUCCESS in just 5 mins! → 228
-- ae18b681ab982d7d: 2025-11-10 a dbt crash course– everything you need to know about this therapy in 5 mins! → 146
-- b7f69616b21adb27: 2025-10-27 a day in the life in mental health residential treatment?!! → 96
-- b2be5f5a78840296: 2025-10-14 what your fav taylor swift song says about you (mental health edition) → 166
-- 929427b6b8347cc9: 2025-09-08 four steps for healing TRAUMA → 92
-- 8674cc77dbc33903: 2025-08-25 master your COLLEGE ROUTINE in just five mins! → 105
-- b4636b80d04dba01: 2025-07-28 four mental health skills for your next family vacation → 195
-- 83990e7c1859646a: 2025-07-08 stop comparing yourself on social media → 218
-- 9fa9bf6996e7bf18: 2025-06-23 how to find a therapist + start therapy → 167
+- b1bc88880dea7d8c: 2025-11-24 reverse engineer your life for SUCCESS in just 5 mins! (video) → 228
+- ae18b681ab982d7d: 2025-11-10 a dbt crash course– everything you need to know about this therapy in 5 mins! (video) → 146
+- b7f69616b21adb27: 2025-10-27 a day in the life in mental health residential treatment?!! (video) → 96
+- b2be5f5a78840296: 2025-10-14 what your fav taylor swift song says about you (mental health edition) (video) → 166
+- 929427b6b8347cc9: 2025-09-08 four steps for healing TRAUMA (video) → 92
+- 8674cc77dbc33903: 2025-08-25 master your COLLEGE ROUTINE in just five mins! (video) → 105
+- b4636b80d04dba01: 2025-07-28 four mental health skills for your next family vacation (video) → 195
+- 83990e7c1859646a: 2025-07-08 stop comparing yourself on social media (video) → 218
+- 9fa9bf6996e7bf18: 2025-06-23 how to find a therapist + start therapy (video) → 167
 - 9f0965bf4ecd0a17: 2025-05-26 gen z is sleep deprived: here's why → 104
 - ae5efa0d2166de64: 2025-04-21 what i do to prevent college burnout → 162
 - bdbcd022e107f9e4: 2025-03-03 why you should become an OPTIMIST (video) → 162
@@ -32,4 +32,4 @@
 - b49c8e9ef3166a56: 2024-06-04 What you need to know about ADHD... (video) → 142
 - 8b31d46bea74473e: 2024-05-27 How do I set boundaries? → 172
 
-Without a parent: none. Without a YouTube video: 12.
+Without a parent: none. Without a YouTube video: 3.
