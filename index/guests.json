@@ -1,0 +1,2274 @@
+{
+ "generatedAt": "2026-10-08T18:30:45.946Z",
+ "count": 172,
+ "guests": [
+  {
+   "id": "blaise-aguirre",
+   "name": "dr. blaise aguirre",
+   "credentials": "MD",
+   "bio": "an assistant professor in psychiatry at harvard medical school in the department of psychiatry.",
+   "website": "https://www.blaisemd.com/",
+   "instagram": "https://www.instagram.com/blaisemd/?hl=en",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1789408362633-PFUZOGT9M6IN4OVZDU5K/FullSizeRender.jpg",
+   "headshot_note": "",
+   "episodes": [
+    262,
+    261,
+    28
+   ]
+  },
+  {
+   "id": "hailey-hardcastle",
+   "name": "hailey hardcastle",
+   "credentials": "",
+   "bio": "today’s guest is hailey hardcastle , a gen z mental health advocate who helped pass landmark legislation in oregon allowing students to take mental health days off from school.",
+   "website": "https://www.ted.com/speakers/hailey_hardcastle",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1786122723183-BEPF1QGFORLXN5GSD869/16351906-7273091-image-a-47_1563807657781.jpg",
+   "headshot_note": "",
+   "episodes": [
+    260
+   ]
+  },
+  {
+   "id": "marisa-g-franco",
+   "name": "dr. marisa g. franco",
+   "credentials": "",
+   "bio": "a psychologist, author, professor, and friendship expert.",
+   "website": "https://drmarisagfranco.com/",
+   "instagram": "https://www.instagram.com/drmarisagfranco/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1784747721147-37D3Z8LBHT255TR737T2/Screenshot%2B2026-07-22%2Bat%2B2.16.03%25E2%2580%25AFPM.png",
+   "headshot_note": "",
+   "episodes": [
+    258,
+    257,
+    113
+   ]
+  },
+  {
+   "id": "scott-barry-kaufman",
+   "name": "dr. scott barry kaufman",
+   "credentials": "",
+   "bio": "a psychologist, coach, professor, keynote speaker, and best-selling author who is passionate about helping all kinds of minds live a creative, fulfilling, and self-actualized life.",
+   "website": "https://scottbarrykaufman.com/",
+   "instagram": "https://www.instagram.com/scottbarrykaufman/?hl=en",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1773764012758-ZDCGSZ8Y7JMHRBQ9B65N/KaufmanHeadShotCROPPED.jpg",
+   "headshot_note": "",
+   "episodes": [
+    251,
+    246
+   ]
+  },
+  {
+   "id": "mental-health",
+   "name": "mental health",
+   "credentials": "",
+   "bio": "in this solo episode, i answer a listener’s question that a LOT of college students and postgrads struggle with: how do you prioritize success while still taking care of your mental health?",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1771432503765-3488O6ZLNRRQ5I6O7QFX/brand-photos-rachel-artime-7822.jpg",
+   "headshot_note": "",
+   "episodes": [
+    250
+   ]
+  },
+  {
+   "id": "jeffrey-hall",
+   "name": "dr. jeffrey hall",
+   "credentials": "",
+   "bio": "today’s guest is dr.jeffrey hall — the department chair and professor of communication studies at the university of kansas, where he researches how to elevate positive online experiences through meaningful social interaction and relationships.",
+   "website": "https://scholar.google.com/citations?user=tgr1YxwAAAAJ&hl=en",
+   "instagram": "https://www.instagram.com/jeffreyhallphd/?hl=en",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1767731996220-ME072HBUKQGV84IQGUW0/download.jpg",
+   "headshot_note": "",
+   "episodes": [
+    243,
+    187
+   ]
+  },
+  {
+   "id": "molly-burrets",
+   "name": "dr. molly burrets",
+   "credentials": "",
+   "bio": "a clinical psychologist and adjunct professor in the department of marriage and family Therapy at the university of southern california.",
+   "website": "https://www.drmollyburrets.com/",
+   "instagram": "https://www.instagram.com/drmollyburrets/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1765565006024-6NHBENGRFS1K1HR2EBHU/Dr-Molly-Burrets--about--02.webp",
+   "headshot_note": "",
+   "episodes": [
+    240
+   ]
+  },
+  {
+   "id": "maddy-ellberger",
+   "name": "dr. maddy ellberger",
+   "credentials": "PHD, LCSW",
+   "bio": "the founder of downtown behavioral wellness, a therapeutic practice that utilizes cognitive behavioral therapy (cbt), dialectical behavior therapy (dbt), and mindfulness-based stress reduction (mbsr).",
+   "website": "https://www.psychologytoday.com/us/therapists/maddy-ellberger-new-york-ny/897650",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1764611622587-DZLYD8WOQ4FWPACSJVRX/Screenshot%2B2025-12-01%2Bat%2B12.40.55%25E2%2580%25AFPM.png",
+   "headshot_note": "",
+   "episodes": [
+    239,
+    176
+   ]
+  },
+  {
+   "id": "david-rosmarin",
+   "name": "dr. david rosmarin",
+   "credentials": "",
+   "bio": "David Rosmarin— an associate professor at Harvard Medical School, a program director at McLean Hospital, and founder of Center for Anxiety—a practice that services over 1,000 patients per year in multiple states.",
+   "website": "https://api.leadconnectorhq.com/widget/form/SL9mr1P9F8GIxRWHLmUE",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1709926619357-N3WVUCZ14F4YLG9BEF5W/2020_DHR_Headshot-scaled.jpg",
+   "headshot_note": "",
+   "episodes": [
+    238,
+    182
+   ]
+  },
+  {
+   "id": "tara-quinn-cirillo",
+   "name": "tara quinn-cirillo",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    238
+   ]
+  },
+  {
+   "id": "ken-ginsburg",
+   "name": "ken ginsburg",
+   "credentials": "",
+   "bio": "a pediatrician specializing in adolescent medicine at the children’s hospital of philadelphia and a professor of pediatrics at the university of pennsylvania school of medicine.",
+   "website": "https://www.fosteringresilience.com/parents/books",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/9ab54b16-8622-4e02-a7d9-aed5797e8435/67d88cf316beda9e2fbfcd4d_Dr+Ken+Ginsburg+Headshot+-+small+%281%29.jpg",
+   "headshot_note": "",
+   "episodes": [
+    238,
+    231
+   ]
+  },
+  {
+   "id": "judy-ho",
+   "name": "judy ho",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1657425779484-406FAQ8H3EVXQD7JIAG0/Screen%2BShot%2B2022-07-09%2Bat%2B8.59.53%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    238,
+    106
+   ]
+  },
+  {
+   "id": "madeline-lucas",
+   "name": "madeline lucas",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    238
+   ]
+  },
+  {
+   "id": "nicole-lepera",
+   "name": "nicole lepera",
+   "credentials": "",
+   "bio": "Nicole LePera, a clinical psychologist, author, podcaster, and creator of the \"Holistic Psychologist\" platform that has amassed over 6.5 million followers on Instagram.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1681962979598-JYXTJF3UBM5OK2Z3JQOB/option1-scaled.jpg",
+   "headshot_note": "",
+   "episodes": [
+    238,
+    144
+   ]
+  },
+  {
+   "id": "beth-kurland",
+   "name": "beth kurland",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    238
+   ]
+  },
+  {
+   "id": "laura-frontiero",
+   "name": "laura frontiero",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    238
+   ]
+  },
+  {
+   "id": "meg-jay",
+   "name": "meg jay",
+   "credentials": "",
+   "bio": "a developmental clinical psychologist, associate professor of education at the University of Virginia, and published author with over 25 years of experience studying the psychology of twentysomethings.A recent New York Times profile called Dr.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1713934563471-KTDORA1S4ZOPIZ9JTNIS/Meg%2BJay%2B2024%2BFeb.jpg",
+   "headshot_note": "",
+   "episodes": [
+    238,
+    188
+   ]
+  },
+  {
+   "id": "amanda-litman",
+   "name": "amanda litman",
+   "credentials": "",
+   "bio": "today’s guest is amanda litman — the co-founder and president of run for something, a nonprofit organization that recruits and supports young leaders to run for state and local office.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1764609482860-NL9YH2PKZ9KRCWPT0ZGD/Amanda-Litman-Interview.webp",
+   "headshot_note": "",
+   "episodes": [
+    237
+   ]
+  },
+  {
+   "id": "kara-loewentheil",
+   "name": "kara loewentheil",
+   "credentials": "",
+   "bio": "today’s guest is kara loewentheil —a nyt bestselling author, ivy league women’s rights lawyer turned master feminist coach, practical philosopher, and the founder of the new school of feminist thought.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/acdad086-e667-4d17-9db8-420e571da43e/Articles+%2858%29.jpg",
+   "headshot_note": "",
+   "episodes": [
+    235
+   ]
+  },
+  {
+   "id": "will-dobud",
+   "name": "dr. will dobud",
+   "credentials": "",
+   "bio": "a social worker, researcher, and educator who has worked with adolescents and families in the united states, australia, and norway.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/6cf22e8c-c140-44f8-989c-3884e4cbafe5/Dobud_1000x.png",
+   "headshot_note": "",
+   "episodes": [
+    233
+   ]
+  },
+  {
+   "id": "jessi-gold",
+   "name": "dr. jessi gold",
+   "credentials": "",
+   "bio": "jessi gold ⁠ — a nationally recognized psychiatrist, writer, and speaker specializing in mental health care for students, faculty, healthcare professionals, and others in high-stress professions.",
+   "website": "https://drjessigold.com/",
+   "instagram": "https://www.instagram.com/drjessigold/?hl=en",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/8251d603-a451-469b-8a6c-ecc0cadeae12/slm_328931__20210617_JessiGold_0042.jpg",
+   "headshot_note": "",
+   "episodes": [
+    229
+   ]
+  },
+  {
+   "id": "angela-duckworth",
+   "name": "dr. angela duckworth",
+   "credentials": "",
+   "bio": "angela duckworth⁠ — the rosa lee and egbert chang professor at the university of pennsylvania and faculty co-director of the penn-wharton behavior change for good initiative.",
+   "website": "https://angeladuckworth.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/694fcab5-6e8e-4616-9979-96369e4ca04c/New-photo-of-Angela-in-color-799x1024.jpg",
+   "headshot_note": "",
+   "episodes": [
+    228
+   ]
+  },
+  {
+   "id": "hans-schroeder",
+   "name": "hans schroeder",
+   "credentials": "",
+   "bio": "a Clinical Assistant Professor of Psychiatry at the University of Michigan Medical School and Adjunct Assistant Professor of Psychology at the University of Michigan who currently researches beliefs and messages about mental health and their impacts.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1716664611987-5Z9W563BNLNNGP1NPGQH/image.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    191
+   ]
+  },
+  {
+   "id": "ayelet-ruscio",
+   "name": "dr. ayelet ruscio",
+   "credentials": "PHD",
+   "bio": "Today we are going \"into the classroom\" with my Abnormal Psychology professor, Ayelet Ruscio!",
+   "website": "https://psychology.sas.upenn.edu/people/ayelet-meron-ruscio",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1659731125211-MU5ATBV0JVX3PA3UFCL7/ruscio_auto_x2.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    109
+   ]
+  },
+  {
+   "id": "caroline-fleck",
+   "name": "dr. caroline fleck",
+   "credentials": "",
+   "bio": "Caroline Fleck—a licensed psychologist, corporate consultant, author, and an Adjunct Clinical Instructor at Stanford University.",
+   "website": "https://drcarolinefleck.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1742921809171-ANLH27W0D2YJWLRLFSYE/option-5.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    215
+   ]
+  },
+  {
+   "id": "judith-joseph",
+   "name": "dr. judith joseph",
+   "credentials": "MD",
+   "bio": "M.D., M.B.A.— a board-certified psychiatrist and researcher, Chair of Women in Medicine at Columbia University Vagelos College of Physicians and Surgeons, Clinical Assistant Professor at NYU Langone Medical Center, and founder of the first research lab to study high-functioning mental health conditions.",
+   "website": "https://www.drjudithjoseph.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1710632297352-OWPPGQWLP4R9A69XTQP0/Dr.Joseph_014.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    183
+   ]
+  },
+  {
+   "id": "kathryn-gordon",
+   "name": "kathryn gordon",
+   "credentials": "",
+   "bio": "a licensed clinical psychologist, speaker, and author.",
+   "website": "https://kathrynhgordon.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1738354133832-STU3L049CSD2Y5NT3Y34/Screen-Shot-2021-08-23-at-2.26.44-PM-sm-680x1024.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    210
+   ]
+  },
+  {
+   "id": "margaret-rutherford",
+   "name": "dr. margaret rutherford",
+   "credentials": "",
+   "bio": "a psychologist, author, podcast host, and writer!",
+   "website": "https://drmargaretrutherford.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1661908186480-TBBZS9POUMNS04SL1O76/Screen%2BShot%2B2022-08-30%2Bat%2B9.07.31%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    112
+   ]
+  },
+  {
+   "id": "jonathan-rottenberg",
+   "name": "dr. jonathan rottenberg",
+   "credentials": "",
+   "bio": "the director of the Better Outcomes Laboratory at Cornell University, which explores long-term functioning and well-being after depression and related conditions.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1728928166443-8286WL42G2I3VUG4TVV0/thumbnail__9050035-2%252Bcopy%252B2%252B%25281%2529.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    203
+   ]
+  },
+  {
+   "id": "steven-hollon",
+   "name": "dr. steven hollon",
+   "credentials": "",
+   "bio": "Hollon— the Gertrude Conaway Vanderbilt Professor of Psychology at Vanderbilt University.",
+   "website": "https://www.vanderbilt.edu/psychological_sciences/bio/steven-hollon",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1733976320204-IK8YSZJ72MWC4D6RVU18/zvaswmfavn4qfvq2buen.jpg",
+   "headshot_note": "",
+   "episodes": [
+    227,
+    207
+   ]
+  },
+  {
+   "id": "liz-fosslien",
+   "name": "liz fosslien",
+   "credentials": "",
+   "bio": "TW for suicidal thoughts ~42 minutes into this episode Today's guests are Liz Fosslien and Mollie West Duffy, the co-authors of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    227,
+    107
+   ]
+  },
+  {
+   "id": "mollie-west-duffy",
+   "name": "mollie west duffy",
+   "credentials": "",
+   "bio": "TW for suicidal thoughts ~42 minutes into this episode Today's guests are Liz Fosslien and Mollie West Duffy, the co-authors of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    227,
+    107
+   ]
+  },
+  {
+   "id": "olga-khazan",
+   "name": "olga khazan",
+   "credentials": "",
+   "bio": "today’s guest is olga khazan — a journalist and author known for her work on health, science, and social science topics.",
+   "website": "https://www.theatlantic.com/author/olga-khazan/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/c8e134e3-2151-4be3-8a97-84b1f4c153d4/Khazan%2B-%2BAuthor%2BPhoto_credit%2BTim%2BCoburn.jpg",
+   "headshot_note": "",
+   "episodes": [
+    225
+   ]
+  },
+  {
+   "id": "rosalind-chow",
+   "name": "dr. rosalind chow",
+   "credentials": "",
+   "bio": "an associate professor of organizational behavior and theory at carnegie mellon university who studies the power of social hierarchy and its impact on diversity and inclusion efforts within organizations.",
+   "website": "https://www.rosalindchow.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/3817e212-c242-41b2-a5e7-ae2cbeaba208/rosalind-chow-800x800-min.jpg",
+   "headshot_note": "",
+   "episodes": [
+    223
+   ]
+  },
+  {
+   "id": "emily-anhalt",
+   "name": "dr. emily anhalt",
+   "credentials": "",
+   "bio": "clinical psychologist, emotional fitness expert, author, and co-founder of ⁠ coa: your gym for mental health⁠ .",
+   "website": "https://www.dremilyanhalt.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1818a267-2fe7-4a28-b60c-cb8f8117c142/Emotional-Fitness-2.webp",
+   "headshot_note": "",
+   "episodes": [
+    222,
+    174
+   ]
+  },
+  {
+   "id": "olivia-nicastro",
+   "name": "olivia nicastro",
+   "credentials": "",
+   "bio": "",
+   "website": "olivianicastro123@gmail.com",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1747151015375-T61TCLLTKL0U57IHMDT5/XX%2B022A0944.jpg",
+   "headshot_note": "",
+   "episodes": [
+    221,
+    220
+   ]
+  },
+  {
+   "id": "greg-walton",
+   "name": "dr. greg walton",
+   "credentials": "",
+   "bio": "the Michael Forman University Fellow and Professor of Psychology at Stanford University.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1746306161145-4BJYHF8D2X5XKJZVLNFT/ordinarymagic_overlay_1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    219
+   ]
+  },
+  {
+   "id": "emily-weinstein",
+   "name": "dr. emily weinstein",
+   "credentials": "",
+   "bio": "Emily Weinstein— a psychologist, author, educator, parent, and longtime tech researcher who co-founded the Center for Digital Thriving at Harvard Graduate School of Education.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1745775326135-JCT0QMSOR90U3Y8HUJU9/Headshot%252Bwith%252BBook.jpg",
+   "headshot_note": "",
+   "episodes": [
+    218
+   ]
+  },
+  {
+   "id": "kelly-uchima",
+   "name": "kelly uchima",
+   "credentials": "",
+   "bio": "a passionate Asian American mental health advocate and wellness content creator, named Health and Wellness Influencer of the Year by the Influence Agency in 2023.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1743363494670-JUMU710D8DOL1RBJ2VPG/473191964_18482351032010398_9113972982169151270_n.jpg",
+   "headshot_note": "",
+   "episodes": [
+    216
+   ]
+  },
+  {
+   "id": "john-r-miles",
+   "name": "john r. miles",
+   "credentials": "",
+   "bio": "",
+   "website": "https://johnrmiles.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1740853171128-RFVZ438CPWIX8MT2NINK/john-miles-headshot.jpg",
+   "headshot_note": "",
+   "episodes": [
+    213
+   ]
+  },
+  {
+   "id": "glenn-schiraldi",
+   "name": "dr. glenn schiraldi",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1739728135551-04XOYF8Y3FODTXTY1Z41/schiraldi.photo_.jpg",
+   "headshot_note": "",
+   "episodes": [
+    212
+   ]
+  },
+  {
+   "id": "alison-malmon",
+   "name": "alison malmon",
+   "credentials": "",
+   "bio": "",
+   "website": "https://www.activeminds.org/about-us/our-team/alison-malmon/",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    208
+   ]
+  },
+  {
+   "id": "lauren-cikara",
+   "name": "lauren cikara",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    208
+   ]
+  },
+  {
+   "id": "mark-zachary-rosenthal",
+   "name": "dr. mark zachary rosenthal",
+   "credentials": "",
+   "bio": "a clinical psychologist and an Associate Professor in the Psychiatry & Behavioral Sciences department and the Psychology & Neuroscience department at Duke University.",
+   "website": "https://dr.markzacharyrosenthal/",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    206
+   ]
+  },
+  {
+   "id": "grace-heppes",
+   "name": "grace heppes",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    206
+   ]
+  },
+  {
+   "id": "mariel-buqu",
+   "name": "dr. mariel buqué",
+   "credentials": "",
+   "bio": "Mariel Buqué — a first-generation Black Dominican psychologist, a world-renowned intergenerational trauma expert, and the author of the bestselling book Break the Cycle: A Guide to Healing Intergenerational Trauma .",
+   "website": "https://www.drmarielbuque.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1731369165375-WJGYT4NVR9TR41ZFICGO/Buque-Headshot_Landscape.jpg",
+   "headshot_note": "",
+   "episodes": [
+    204
+   ]
+  },
+  {
+   "id": "thais-gibson",
+   "name": "thais gibson",
+   "credentials": "",
+   "bio": "a best-selling author, counselor, speaker, and founder of The Personal Development School.",
+   "website": "",
+   "instagram": "https://www.instagram.com/thepersonaldevelopmentschool/?hl=en",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1727461559394-V5SZWUD4D5DQWSRLI8W2/thais-gibson.jpg",
+   "headshot_note": "",
+   "episodes": [
+    202
+   ]
+  },
+  {
+   "id": "david-yeager",
+   "name": "dr. david yeager",
+   "credentials": "",
+   "bio": "a professor of psychology at the University of Texas at Austin who is considered “one of the world’s leading experts” on the psychology of young people, according to the New York Times Magazine .",
+   "website": "https://liberalarts.utexas.edu/psychology/faculty/yeagerds",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1726777243834-ZRIIBNR89HYH5LUAWG4Z/Yeager_David_S_6255026.jpg",
+   "headshot_note": "",
+   "episodes": [
+    201
+   ]
+  },
+  {
+   "id": "ellen-galinsky",
+   "name": "ellen galinsky",
+   "credentials": "",
+   "bio": "president of the Families and Work Institute and author of several popular books researching adolescents and teenagers, including the bestselling parenting guide, Mind in the Making, and her recently published work, The Breakthrough Years .",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1725575500096-FPP4X604BII25LJVBLR5/galinsky_ellen.jpg",
+   "headshot_note": "",
+   "episodes": [
+    199
+   ]
+  },
+  {
+   "id": "katherine-kubler",
+   "name": "katherine kubler",
+   "credentials": "",
+   "bio": "a Los Angeles-based writer, director, and editor.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1722437206192-7J6C57RPA60T3W9UPV1D/Screenshot%2B2024-07-31%2Bat%2B10.43.25%25E2%2580%25AFAM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    197
+   ]
+  },
+  {
+   "id": "maia-szalavitz",
+   "name": "maia szalavitz",
+   "credentials": "",
+   "bio": "an award-winning author and journalist.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1721623627779-D5NYVX0TDU1HAEVUXJ5Q/l7a1su1qrljiedqrm9eerus1ef.jpg",
+   "headshot_note": "",
+   "episodes": [
+    196
+   ]
+  },
+  {
+   "id": "nick-nissen",
+   "name": "dr. nick nissen",
+   "credentials": "",
+   "bio": "Nick Nissen— a Harvard-trained psychiatrist, researcher, journalist, and expert in ADHD.",
+   "website": "https://www.nissenclinic.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1719686986901-9PA9MNUAD2NNIM8HSQA5/Nissen%2BProfile%2BPicture2.5.24.jpg",
+   "headshot_note": "",
+   "episodes": [
+    194
+   ]
+  },
+  {
+   "id": "yasmine-cheyenne",
+   "name": "yasmine cheyenne",
+   "credentials": "",
+   "bio": "an author, TED TALK Motivational speaker, Air Force Veteran, and self-healing workshop leader who works to help people heal through traumatic situations.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1719686634295-4OI16YGYK1DWGTD3TX98/TPE-YasmineImage3-1-683x1024.jpg",
+   "headshot_note": "",
+   "episodes": [
+    193
+   ]
+  },
+  {
+   "id": "nita-farahany",
+   "name": "nita farahany",
+   "credentials": "",
+   "bio": "a leading scholar and keynote speaker on the ethical, legal, and social implications of emerging technologies.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1717303068370-NBG3VL7LNTIXD1VUZOJ3/1C0A4086.jpg",
+   "headshot_note": "",
+   "episodes": [
+    192
+   ]
+  },
+  {
+   "id": "johann-hari",
+   "name": "johann hari",
+   "credentials": "",
+   "bio": "a British-Swiss writer and journalist who has written three New York Times best-selling books and is set to release his forthcoming book, Magic Pill: The Extraordinary Benefits and Disturbing Risks of the New Weight-Loss Drugs , on May 7th.",
+   "website": "https://johannhari.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1715202218995-UOX41EGAI3EERP5CIREB/f.elconfidencial.com_original_351_ca8_898_351ca88988bf5883814c68ed0dbd89eb.jpg",
+   "headshot_note": "",
+   "episodes": [
+    189
+   ]
+  },
+  {
+   "id": "emma-sepp-l",
+   "name": "dr. emma seppälä",
+   "credentials": "",
+   "bio": "",
+   "website": "https://www.sattva.life/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1712529194260-X6VUFLQMHGW1V1P4QO51/2k216d3jv2cq67br74rk1rjbj5.jpg",
+   "headshot_note": "",
+   "episodes": [
+    186
+   ]
+  },
+  {
+   "id": "eden-garcia-balis",
+   "name": "eden garcia-balis",
+   "credentials": "",
+   "bio": "a licensed Marriage and Family Therapist who has over nineteen years of experience in the mental health field.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1711331265123-VKBA7BSY0C85PUCM3NUL/c-PersonalEdenGarciaBalisMSLMFT__EdenGarciaBalisHeadshot_1699553642659.jpg",
+   "headshot_note": "",
+   "episodes": [
+    184
+   ]
+  },
+  {
+   "id": "roberto-olivardia",
+   "name": "dr. roberto olivardia",
+   "credentials": "",
+   "bio": "Roberto Olivardia— a clinical psychologist and lecturer at Harvard Medical School and founder of a private practice that specializes in treating ADHD, Body Dysmorphic Disorder, OCD, eating disorders, and other issues that face students with learning disabilities.",
+   "website": "mailto:roberto_olivardia@hms.harvard.edu",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1708234564588-N6VR0GOQVU835P2838R7/rol.jpg",
+   "headshot_note": "",
+   "episodes": [
+    180
+   ]
+  },
+  {
+   "id": "jessica-gomez",
+   "name": "dr. jessica gomez",
+   "credentials": "",
+   "bio": "Jessica Gomez— a bilingual licensed psychologist and executive director of Momentous Institute.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1707506809798-8CWY764COUEG7JW5IX0X/Dr.2BJessica2BGomez2B-2B1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    179
+   ]
+  },
+  {
+   "id": "jeff-kallil",
+   "name": "jeff kallil",
+   "credentials": "",
+   "bio": "a life coach and entrepreneur who helps lead and manage five family businesses.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1706325644281-BPWRUZ7Z4T3WZCSYAXT4/1691590042290.jpg",
+   "headshot_note": "",
+   "episodes": [
+    177
+   ]
+  },
+  {
+   "id": "amy-dahl",
+   "name": "amy dahl",
+   "credentials": "RD",
+   "bio": "MS, RD — a Registered Dietitian who has been working in the field for 15 years.",
+   "website": "https://culinahealth.com/registered-dietitian/amy-dahl/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1703230127964-8RMKDQXGI8DH6RWJ2P6Z/Amy_Dahl_RDN.jpg",
+   "headshot_note": "",
+   "episodes": [
+    173
+   ]
+  },
+  {
+   "id": "terri-cole",
+   "name": "terri cole",
+   "credentials": "",
+   "bio": "a licensed psychotherapist, global relationship and empowerment expert, and the author of Boundary Boss-The Essential Guide to Talk True, Be Seen and (Finally) Live Free.",
+   "website": "https://www.terricole.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1702607805064-JKVTHQVCX5SR90OULZAZ/Terri-Cole-2022-5-crop.jpg",
+   "headshot_note": "",
+   "episodes": [
+    172
+   ]
+  },
+  {
+   "id": "ana-tueme",
+   "name": "ana tueme",
+   "credentials": "",
+   "bio": "a senior psychology and Spanish double major at Simmons University and volunteer Crisis Counselor at Crisis Text Line with over 200 hours of experience helping those in crisis.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1701388637940-JB4P7WTX61IONJG7706J/Untitled%2Bdesign%2B%252822%2529.jpg",
+   "headshot_note": "",
+   "episodes": [
+    170
+   ]
+  },
+  {
+   "id": "shairi-turner",
+   "name": "dr. shairi turner",
+   "credentials": "",
+   "bio": "Turner is a Stanford Alum, Case Western Reserve University School of Medicine graduate and Harvard-trained internist and pediatrician with a Master of Public Health from the Harvard School of Public Health.",
+   "website": "https://www.crisistextline.org/meet-our-team-dr-shairi-turner-davis/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1700904009343-VYAPARSCRIMPUAE6KBZX/Unknown.jpg",
+   "headshot_note": "",
+   "episodes": [
+    169
+   ]
+  },
+  {
+   "id": "justin-puder",
+   "name": "dr. justin puder",
+   "credentials": "",
+   "bio": "a licensed psychologist who mainly works with teens and young adults around many mental health difficulties including anxiety, depression, trauma, and loneliness.",
+   "website": "https://www.amoderntherapist.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1699141767092-5Y9VZB6XY0ZJQ1KH0OYF/Screen%2BShot%2B2023-11-04%2Bat%2B7.48.13%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    167
+   ]
+  },
+  {
+   "id": "amanda-e-white",
+   "name": "amanda e. white",
+   "credentials": "",
+   "bio": "a licensed therapist and founder of the Therapy for Women Center, a group therapy practice serving clients in 27 states.",
+   "website": "https://amandaewhite.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1698469192768-UV4K6QNR99JL06NDM4JC/sbh_amanda_headshots_1534.jpg",
+   "headshot_note": "",
+   "episodes": [
+    166
+   ]
+  },
+  {
+   "id": "gael-aitor",
+   "name": "gael aitor",
+   "credentials": "",
+   "bio": "the creator and co-host of Teenager Therapy—the biggest teen mental health podcast in the world.",
+   "website": "",
+   "instagram": "https://www.instagram.com/gaelaitor/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1697421834644-WQE8J6Q61M84ZPLWRHPK/ca-times.brightspotcdn.jpg",
+   "headshot_note": "",
+   "episodes": [
+    164
+   ]
+  },
+  {
+   "id": "david-alperovitz",
+   "name": "david alperovitz",
+   "credentials": "",
+   "bio": "an assistant professor of psychology in the Department of Psychiatry at Harvard Medical School and the current program director of the Klarman Eating Disorders Center at McLean Hospital , where he has worked for over 25 years.",
+   "website": "https://www.mcleanhospital.org/profile/david-alperovitz",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1696649119976-8TFBX54OBBM3502M55Y0/AlperovitzHeadshot198Jul2117%2B%25281%2529.jpg",
+   "headshot_note": "",
+   "episodes": [
+    163
+   ]
+  },
+  {
+   "id": "ann-coleman",
+   "name": "ann coleman",
+   "credentials": "",
+   "bio": "a mom, attorney, educator, podcaster, and an advocate for parenting teens.",
+   "website": "https://speakingofteens.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1695317438507-OZ1R2FUGT35JIMH029Q7/20230303_204129815_iOS.jpg",
+   "headshot_note": "",
+   "episodes": [
+    161
+   ]
+  },
+  {
+   "id": "gigi-robinson",
+   "name": "gigi robinson",
+   "credentials": "",
+   "bio": "a chronic illness and body positivity advocate, Sports Illustrated Swim Search finalist, speaker, and podcast host.",
+   "website": "https://www.gigirobinson.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1694993274216-1MX7VPJESTYMWH2DCMGU/GIGI-Robinson-img1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    160
+   ]
+  },
+  {
+   "id": "leandro-olszanski",
+   "name": "leandro olszanski",
+   "credentials": "",
+   "bio": "a board-certified psychotherapist with 10+ years of experience helping teenagers, adults, and couples navigate their unique life challenges.",
+   "website": "https://leandroolszanski.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1693717279203-9DC01LDE7DLYWRGBAMH2/alma_provider_olszanski_leandro_leandroolszanski_01a.jpg",
+   "headshot_note": "",
+   "episodes": [
+    158
+   ]
+  },
+  {
+   "id": "caroline-fenkel",
+   "name": "dr. caroline fenkel",
+   "credentials": "",
+   "bio": "",
+   "website": "https://www.charliehealth.com/author/dr-caroline-fenkel",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1692970070379-PDMMD22Z3SXGBLJYD3WB/Caroline-Headshot.jpg",
+   "headshot_note": "",
+   "episodes": [
+    157
+   ]
+  },
+  {
+   "id": "nicole-baker",
+   "name": "nicole baker",
+   "credentials": "",
+   "bio": "a life coach specializing in helping perfectionists, a Life Coach Baker podcast host, and a goal-setting specialist.",
+   "website": "https://www.lifecoachbaker.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1691964178162-10MGU2RVCAY2SA61923A/c-NicoleBaker__DSC01090copy_1668471188289.jpg",
+   "headshot_note": "",
+   "episodes": [
+    155
+   ]
+  },
+  {
+   "id": "erin-treloar",
+   "name": "erin treloar",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1690011687569-J0Z6QEPDZA69T0WBTSNP/1_psveltXvuzZ3vcwFRpQEbw.jpg",
+   "headshot_note": "",
+   "episodes": [
+    154
+   ]
+  },
+  {
+   "id": "abbie-stasior",
+   "name": "abbie stasior",
+   "credentials": "",
+   "bio": "a Columbia University graduate student, soon to be Registered Dietitian Nutritionist, and founder of Be About Being Better, a company that aims to show people a diet-free, sustainable healthy lifestyle is possible.",
+   "website": "https://beaboutbeingbetter.mykajabi.com/about-me",
+   "instagram": "https://www.instagram.com/abbie.stasior/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1687719477059-71307Z8ZE2AJWXBTT528/Screenshot%2B2023-06-25%2Bat%2B2.57.18%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    152,
+    45
+   ]
+  },
+  {
+   "id": "kate-stone",
+   "name": "kate stone",
+   "credentials": "",
+   "bio": "an actress, founder of the HeartSpeak Empowerment School, college coach, and creator of The 30-Day Motivation Text Challenge.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1687200289959-BHLAINUV3VY0K63AHWUP/160508_katie_242%252Bcopy.jpg",
+   "headshot_note": "",
+   "episodes": [
+    151,
+    130
+   ]
+  },
+  {
+   "id": "sarah-olivo",
+   "name": "dr. sarah olivo",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    149
+   ]
+  },
+  {
+   "id": "liz-seidler",
+   "name": "dr. liz seidler",
+   "credentials": "",
+   "bio": "Liz Seidler— two clinical psychologists and hosts of the College is Fine, Everything is Fine podcast who've helped students navigate the highs and lows of college for over a decade.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    149
+   ]
+  },
+  {
+   "id": "emi-nietfeld",
+   "name": "emi nietfeld",
+   "credentials": "",
+   "bio": "an author, mental health advocate, and speaker whose works include her 2022 memoir Acceptance and her viral New York Times essay on her experience working at Google.",
+   "website": "https://www.eminietfeld.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1684560791711-0DAUPL526NC3P0R9Q0YM/nietfeld_author%252Bphoto.jpg",
+   "headshot_note": "",
+   "episodes": [
+    148
+   ]
+  },
+  {
+   "id": "bianca-busch",
+   "name": "dr. bianca busch",
+   "credentials": "",
+   "bio": "a board-certified adult and board-eligible child & adolescent psychiatrist who specializes in helping college students flourish.",
+   "website": "https://www.collegepsychiatrist.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1683957441170-7FN2RJ7QPLYFAETIJEFX/1664834257328.jpg",
+   "headshot_note": "",
+   "episodes": [
+    147
+   ]
+  },
+  {
+   "id": "nicole-shallow",
+   "name": "nicole shallow",
+   "credentials": "",
+   "bio": "a sleep expert, behavior coach, and public speaker who works to help others develop habits that ultimately improve their overall quality of life.",
+   "website": "https://www.yourbehaviourgal.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1682448878012-RA6YPXWAGE6SPRJ0JUP8/Nicole%252BShallow%252B-%252BYour%252BBehaviour%252BGal%252B-%252BSleep%252BSpecialist%252BVancouver.jpg",
+   "headshot_note": "",
+   "episodes": [
+    145
+   ]
+  },
+  {
+   "id": "kristen-carder",
+   "name": "kristen carder",
+   "credentials": "",
+   "bio": "an ADHD expert, top podcast host, and internationally-recognized mindset coach for adults with ADHD.",
+   "website": "",
+   "instagram": "https://www.instagram.com/i.have.adhd.podcast/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1680755726238-6F3M0XP8JT70J0SLLRPK/Kristen-2020-square-front-page.jpg",
+   "headshot_note": "",
+   "episodes": [
+    142
+   ]
+  },
+  {
+   "id": "alexandra-wyman",
+   "name": "alexandra wyman",
+   "credentials": "",
+   "bio": "an author, podcaster, speaker and grief navigator.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/12b42a54-fe85-4f8e-b2c0-0625b1f13135/Arbonne%2BMini%2BPB%2BSession%2B2019-3-393.jpg",
+   "headshot_note": "",
+   "episodes": [
+    141
+   ]
+  },
+  {
+   "id": "britt-frank",
+   "name": "britt frank",
+   "credentials": "",
+   "bio": "a licensed psychotherapist, trauma specialist, speaker, award-winning adjunct instructor, and author of The Science of Stuck .",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1678984904044-206DDV3PIJIQX1TWULE6/Britt-Frank.jpg",
+   "headshot_note": "",
+   "episodes": [
+    139
+   ]
+  },
+  {
+   "id": "lisa-strohman",
+   "name": "dr. lisa strohman",
+   "credentials": "",
+   "bio": "an attorney, clinical psychologist, and author who has widely become known for her advocacy and education around mental wellness as it relates to our digital lives.",
+   "website": "https://drlisastrohman.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1677751123037-H4S3BQVPWTSIGO1A5RG7/1_JdYotc2uWO_zbfjqOgNbxg.jpg",
+   "headshot_note": "",
+   "episodes": [
+    137
+   ]
+  },
+  {
+   "id": "justin-mohatt",
+   "name": "dr. justin mohatt",
+   "credentials": "",
+   "bio": "Justin Mohatt— an internationally recognized, double Board-Certified Psychiatrist at Ohana, a program for child and adolescent behavioral health at Community Hospital of the Monterey Peninsula.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1677149633819-UNP2ZCMPUM4H9DM7CT3N/Justin%2BMohatt%2B1048%2Bcopy.jpg",
+   "headshot_note": "",
+   "episodes": [
+    136
+   ]
+  },
+  {
+   "id": "ellie-zeiler",
+   "name": "ellie zeiler",
+   "credentials": "",
+   "bio": "an 18 year-old social media influencer, model, actress, and podcaster who boasts almost 11 million followers on TikTok.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1675916739416-HSEUUCR28UXHFVEVDJ0J/influencer-e62d6657_1672796659187_original._FMjpg_.jpg",
+   "headshot_note": "",
+   "episodes": [
+    134
+   ]
+  },
+  {
+   "id": "sam-decaro",
+   "name": "dr. sam decaro",
+   "credentials": "",
+   "bio": "a licensed psychologist who provides individual, family, and couples therapy.",
+   "website": "https://renfrewcenter.com/about/staff/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1678343290789-24Q2JED9IF0COS83Y5AA/thumbnail.jpg",
+   "headshot_note": "",
+   "episodes": [
+    133
+   ]
+  },
+  {
+   "id": "jay-fields",
+   "name": "jay fields",
+   "credentials": "",
+   "bio": "an educator, coach and author who has taught the principles of embodied social and emotional intelligence to individuals and organizations for twenty years.",
+   "website": "https://jay-fields.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1674143364160-IG5IW4AU6TWAPNAYYJ4N/Los%252BAngeles%252BPersonal%252BBranding%252BPhotographer%252BOjai%252BMiranda%252BKelton%252BPhotography%252BJay%252BFields%252BSomatic%252BCoach-2.jpg",
+   "headshot_note": "",
+   "episodes": [
+    131
+   ]
+  },
+  {
+   "id": "ally-petitti",
+   "name": "ally petitti",
+   "credentials": "",
+   "bio": "host of the popular podcast Trying To Figure It Out .",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1672122737204-TTF0GNUS77MGS3VNJ27Z/__selects6487.jpg",
+   "headshot_note": "",
+   "episodes": [
+    128
+   ]
+  },
+  {
+   "id": "sharon-brubaker",
+   "name": "sharon brubaker",
+   "credentials": "",
+   "bio": "a certified life coach and credentialed Grief Specialist who has studied grief and healing for over 16 years.",
+   "website": "https://www.healingstartswiththeheart.com",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1671504117557-B02P5NN83KMCXKIY5H2V/52Zc2tzYTHirGDhZdA5K_file.jpg",
+   "headshot_note": "",
+   "episodes": [
+    127
+   ]
+  },
+  {
+   "id": "zach-gottlieb",
+   "name": "zach gottlieb",
+   "credentials": "",
+   "bio": "who is the 16-year-old founder of Talk With Zach.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1670271585079-XHUI7IRCBMRPY7CJMBGL/ZachGottlieb-0772.jpg",
+   "headshot_note": "",
+   "episodes": [
+    125
+   ]
+  },
+  {
+   "id": "nancy-diaz",
+   "name": "nancy diaz",
+   "credentials": "",
+   "bio": "Today's guest is Nancy Diaz of Global Citizen Therapy.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1668670916815-UU955K7Q341KJ3P4HU1D/5351.jpg",
+   "headshot_note": "",
+   "episodes": [
+    124
+   ]
+  },
+  {
+   "id": "bobby-cook",
+   "name": "bobby cook",
+   "credentials": "",
+   "bio": "who is on the Breaking Code Silence team.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1668469142952-AZR5Z69MUS5WIBJJKTYW/paris-hilton.jpg",
+   "headshot_note": "",
+   "episodes": [
+    122
+   ]
+  },
+  {
+   "id": "mary-jelkovsky",
+   "name": "mary jelkovsky",
+   "credentials": "",
+   "bio": "host of the self-love podcast Mary's Cup of Tea , author of The Gift of Self-Love, and inspirational speaker who helps women worldwide on their body-image struggles and loving themselves unconditionally.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1667860111551-B0TTHA7FCLRBLZZW9N98/IMG_D8DA1715CFC8-1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    121
+   ]
+  },
+  {
+   "id": "shani-tran",
+   "name": "shani tran",
+   "credentials": "",
+   "bio": "therapist and author of Dope Therapy who focuses on educating around cultural humility and working with people of color, who have historically been underserved by the mental health community.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1666483956984-WGCD1PDOPB7YDP2EKBQN/59pl0p0a3s2fel7plgvgfnocil.jpg",
+   "headshot_note": "",
+   "episodes": [
+    119
+   ]
+  },
+  {
+   "id": "sasha-heinz",
+   "name": "dr. sasha heinz",
+   "credentials": "",
+   "bio": "PhD, MAPP—a developmental psychologist and life coach who is an expert in positive psychology, lasting behavioral change, and the science of getting unstuck.",
+   "website": "https://drsashaheinz.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1666204959223-R0EA6HR717X4V9VNFQXM/7536.jpg",
+   "headshot_note": "",
+   "episodes": [
+    118
+   ]
+  },
+  {
+   "id": "lindsey-simcik",
+   "name": "lindsey simcik",
+   "credentials": "",
+   "bio": "the co-host of Almost 30 and Morning Microdose!",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1664477366087-UGFNTX6MTWASB4MFZTWC/A30-July-x-Heather-shane-photo-2935bw-683x1024.jpg",
+   "headshot_note": "",
+   "episodes": [
+    116
+   ]
+  },
+  {
+   "id": "adia-fadaei",
+   "name": "adia fadaei",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1663815012921-HXJODPBL7BQ90XBPDI9E/Screen%2BShot%2B2022-09-21%2Bat%2B10.49.25%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    115
+   ]
+  },
+  {
+   "id": "ashley-blaine-featherson-jenkins",
+   "name": "ashley blaine featherson-jenkins",
+   "credentials": "",
+   "bio": "a Netflix star, producer, content creator, proud Howard University graduate, and the host of Trials To Triumphs on the OWN Network !",
+   "website": "https://www.sharkpartymedia.com/abfj",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1660865075693-T816BUEAVT483CD9F2TM/6db9123bdf563eb80711b08c3b9d45bb.jpg",
+   "headshot_note": "",
+   "episodes": [
+    111
+   ]
+  },
+  {
+   "id": "michael-slepian",
+   "name": "dr. michael slepian",
+   "credentials": "PHD",
+   "bio": "the Sanford C.",
+   "website": "http://www.columbia.edu/~ms4992/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1658954098870-SIXUBA27TB7EXB4NQWD9/maxresdefault.jpg",
+   "headshot_note": "",
+   "episodes": [
+    108
+   ]
+  },
+  {
+   "id": "heather-turgeon",
+   "name": "heather turgeon",
+   "credentials": "",
+   "bio": "Today's guests are Heather Turgeon and Julie Wright—the psychotherapists, sleep experts, and the authors of The Happy Sleeper and Generation Sleepless.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    104
+   ]
+  },
+  {
+   "id": "julie-wright",
+   "name": "julie wright",
+   "credentials": "",
+   "bio": "Today's guests are Heather Turgeon and Julie Wright—the psychotherapists, sleep experts, and the authors of The Happy Sleeper and Generation Sleepless.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    104
+   ]
+  },
+  {
+   "id": "emmalee-bierly",
+   "name": "emmalee bierly",
+   "credentials": "LMFT",
+   "bio": "Today's guests are ShrinkChicks co-hosts and Therapy Group founders Emmalee Bierly, LMFT, and Jennifer Chaiken, LMFT!",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    103
+   ]
+  },
+  {
+   "id": "jennifer-chaiken",
+   "name": "jennifer chaiken",
+   "credentials": "LMFT",
+   "bio": "Today's guests are ShrinkChicks co-hosts and Therapy Group founders Emmalee Bierly, LMFT, and Jennifer Chaiken, LMFT!",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    103
+   ]
+  },
+  {
+   "id": "carmen-applegate",
+   "name": "carmen applegate",
+   "credentials": "",
+   "bio": "the host of The Girly Girl Podcast!",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1654495583573-PNKRZN7ELS3VI1FQAHUJ/carmen-applegate-the-girly-girl-podcast-host-image.jpg",
+   "headshot_note": "",
+   "episodes": [
+    102
+   ]
+  },
+  {
+   "id": "edith-eger",
+   "name": "dr. edith eger",
+   "credentials": "",
+   "bio": "Edith Eger—a psychologist, New York Times bestselling author, dancer, and holocaust survivor.",
+   "website": "https://www.pbs.org/video/i-danced-for-the-angel-of-death-the-dr-edith-eva-eger-story-hoh0ya/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1654204979931-M4HBY96EVA2MXVHIFH7N/08GOTTLIEB-superJumbo-v2.jpg",
+   "headshot_note": "",
+   "episodes": [
+    101
+   ]
+  },
+  {
+   "id": "danielle-gronich",
+   "name": "danielle gronich",
+   "credentials": "",
+   "bio": "Today's guests are CLEARSTEM Skincare founders Danielle Gronich (owner of the acclaimed San Diego Acne Clinic and known as The Acne Guru™) and Kayleigh Christina (Holistic Nutritionist)!",
+   "website": "https://clearstemskincare.com/pages/meet-our-acne-expert-danielle",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    99
+   ]
+  },
+  {
+   "id": "kayleigh-christina",
+   "name": "kayleigh christina",
+   "credentials": "",
+   "bio": "Today's guests are CLEARSTEM Skincare founders Danielle Gronich (owner of the acclaimed San Diego Acne Clinic and known as The Acne Guru™) and Kayleigh Christina (Holistic Nutritionist)!",
+   "website": "https://clearstemskincare.com/pages/meet-our-wellness-and-nutrition-expert-kayleigh",
+   "instagram": "https://www.instagram.com/kayleigh.christina/",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    99
+   ]
+  },
+  {
+   "id": "whitney-goodman",
+   "name": "whitney goodman",
+   "credentials": "LMFT",
+   "bio": "Whitney Goodman , LMFT is the radically honest psychotherapist behind the hugely popular Instagram account @sitwithwhit , the author of Toxic Positivity , and the owner of The Collaborative Counseling Center, a private therapy practice in Miami, FL.",
+   "website": "https://sitwithwhit.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/0c480f72-b8c3-4587-9744-a57c9490a004/l4H9JEPZT8ujdaJW9oTb_SocialBrandSchool-WhitneyHawkinsextras-35_1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    98
+   ]
+  },
+  {
+   "id": "megan-jacobs",
+   "name": "megan jacobs",
+   "credentials": "",
+   "bio": "About Megan: As the managing director of products for the Innovations center at Truth Initiative, Megan Jacobs brings an empathic, user-centered approach to product design that is key to the successful quit-smoking and vaping programs used by hundreds of thousands of people looking to break free from addiction.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    97
+   ]
+  },
+  {
+   "id": "jake-warn",
+   "name": "jake warn",
+   "credentials": "",
+   "bio": "About Jake: Jake Warn is a 21-year-old college student at Thomas College from Winslow, Maine.",
+   "website": "",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    97
+   ]
+  },
+  {
+   "id": "eileen-kelly",
+   "name": "eileen kelly",
+   "credentials": "",
+   "bio": "Eileen Kelly is the host of Going Mental and the founder of KILLER AND A SWEET THANG (KAAST)—an online comprehensive resource for young people to discover, learn about and connect with their sexual health, pleasure, and identity.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/ae7566cd-9f51-46b0-a965-27267a711a90/1208071.jpg",
+   "headshot_note": "",
+   "episodes": [
+    96
+   ]
+  },
+  {
+   "id": "jill-henry",
+   "name": "jill henry",
+   "credentials": "",
+   "bio": "high school coaches and the authors of The Greatest College Health Guide !",
+   "website": "https://www.greatestcollegehealthguide.com/jillanddave",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    94
+   ]
+  },
+  {
+   "id": "dave-henry",
+   "name": "dave henry",
+   "credentials": "",
+   "bio": "high school coaches and the authors of The Greatest College Health Guide !",
+   "website": "https://www.greatestcollegehealthguide.com/jillanddave",
+   "instagram": "",
+   "headshot": "",
+   "headshot_note": "only appears with other guests; thumbnail is shared",
+   "episodes": [
+    94
+   ]
+  },
+  {
+   "id": "efia-sulter",
+   "name": "efia sulter",
+   "credentials": "",
+   "bio": "a mindset and manifestation coach and the host of The Manifest Edit !",
+   "website": "https://www.efiasulter.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/b33c2e9d-487f-4674-888a-67906861ff12/Screen+Shot+2022-03-31+at+5.20.56+PM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    93
+   ]
+  },
+  {
+   "id": "michele-rosenthal",
+   "name": "michele rosenthal",
+   "credentials": "",
+   "bio": "a Certified Professional Coach, Board Certified Trauma and PTSD Hypnotist, Licensed Master Practitioner of Neuro-Linguistic Programming AND a trauma and PTSD survivor herself.",
+   "website": "https://www.mytraumacoach.com/about",
+   "instagram": "https://www.instagram.com/michele.rosenthal/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/79c5f8a1-a5ea-43a0-9ecb-8afe22f619f2/77397-michele-rosenthal-full.jpg",
+   "headshot_note": "",
+   "episodes": [
+    92
+   ]
+  },
+  {
+   "id": "tara-bixby",
+   "name": "tara bixby",
+   "credentials": "",
+   "bio": "a therapist, anxiety coach, and host of the Courageously.u Podcast.",
+   "website": "https://courageouslyu.com/tara-bixby/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/4a5c0135-f594-4f50-8996-7e6a575566b0/Screen+Shot+2022-03-16+at+12.57.18+AM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    91
+   ]
+  },
+  {
+   "id": "bailey-stanworth",
+   "name": "bailey stanworth",
+   "credentials": "",
+   "bio": "founder of PLAY digital, co-host of What Day is It?, and a self-proclaimed accidental influencer!",
+   "website": "https://www.baileyjst.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/0e45a4a7-9fde-4eac-aa1c-8d4a09e85c62/E2D3244A-6FF2-4A6E-8CE0-DE585B086C88.JPG",
+   "headshot_note": "",
+   "episodes": [
+    89
+   ]
+  },
+  {
+   "id": "madeline-bailey",
+   "name": "madeline bailey",
+   "credentials": "",
+   "bio": "she holds an M.S in Neuroscience from Tulane University and has a B.S.",
+   "website": "https://www.madelinebbailey.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/b5771159-4611-42b0-a255-3e9978e7b323/_DSC0340.jpg",
+   "headshot_note": "",
+   "episodes": [
+    88
+   ]
+  },
+  {
+   "id": "sarah-hernholm",
+   "name": "sarah hernholm",
+   "credentials": "",
+   "bio": "a former elementary school teacher turned entrepreneur and the founder of WIT.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/22514a04-78d9-42d6-9c10-1806042d4813/c-PersonalSarahHernholm__FullSizeRender_1601571768539.jpg",
+   "headshot_note": "",
+   "episodes": [
+    87
+   ]
+  },
+  {
+   "id": "sami-halvorsen",
+   "name": "sami halvorsen",
+   "credentials": "",
+   "bio": "Today I'm joined by Sami Halvorsen , the host of The Teen Life Coach podcast and the founder of Knowing Up.",
+   "website": "https://knowingup.com/?page_id=10",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/6a62ac1a-9207-42a6-bc06-f3eb6b6e1491/Screen+Shot+2022-02-06+at+6.51.45+PM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    86
+   ]
+  },
+  {
+   "id": "andrea-arlington",
+   "name": "andrea arlington",
+   "credentials": "",
+   "bio": "In today's episode, I sit down with Andrea Arlington—ICF, PCC Life Coach Specializing in Family Recovery & Relationships.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1643153847860-W7CIRJFHAQXZORSHXEJF/Screen%2BShot%2B2022-01-24%2Bat%2B2.05.52%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    84
+   ]
+  },
+  {
+   "id": "beth-segaloff",
+   "name": "beth segaloff",
+   "credentials": "",
+   "bio": "Today’s guest is Beth Segaloff—a Licensed Clinical of Social Work, Life Coach, Reiki Master, Registered Yoga Teacher, Certified Firewalk Instructor, and Mom.",
+   "website": "",
+   "instagram": "https://www.instagram.com/beth.segaloff/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/56d2e6a8-eccc-4e1d-8567-f2b8318c5c8f/beth-segaloff-therapeutic-coach.jpg",
+   "headshot_note": "",
+   "episodes": [
+    83
+   ]
+  },
+  {
+   "id": "paige-tonz",
+   "name": "paige tonz",
+   "credentials": "",
+   "bio": "Today’s guest is Paige Tonz—a former D1 athlete and coach helping transform girls into strong women beyond the playing field or court.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/14aa65da-b8d5-4f07-a44f-7fab2984f230/Screen+Shot+2022-01-09+at+10.27.42+PM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    82
+   ]
+  },
+  {
+   "id": "aliza-pressman",
+   "name": "dr. aliza pressman",
+   "credentials": "",
+   "bio": "a developmental psychologist with over 15 years of experience working with families.",
+   "website": "",
+   "instagram": "https://www.instagram.com/raisinggoodhumanspodcast/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1641438650421-T4ISFA15U94FBJT9R23D/Pressman-2.jpg",
+   "headshot_note": "",
+   "episodes": [
+    81
+   ]
+  },
+  {
+   "id": "doug-bopst",
+   "name": "doug bopst",
+   "credentials": "",
+   "bio": "Today I am joined by Doug Bopst—an award-winning personal trainer, author, speaker, and business owner.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/95f5f645-5f98-4422-b516-a66597bc4c93/DougBopst-2042-e1616555213793.jpg",
+   "headshot_note": "",
+   "episodes": [
+    79
+   ]
+  },
+  {
+   "id": "caroline-leaf",
+   "name": "dr. caroline leaf",
+   "credentials": "",
+   "bio": "Caroline Leaf , a communication pathologist and cognitive neuroscientist specializing in cognitive and metacognitive neuropsychology.",
+   "website": "https://drleaf.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/50cf6a95-1380-4c0f-b92d-ecee3af0d230/157-dr-leaf.jpg",
+   "headshot_note": "",
+   "episodes": [
+    78
+   ]
+  },
+  {
+   "id": "kojo-sarfo",
+   "name": "dr. kojo sarfo",
+   "credentials": "",
+   "bio": "Kojo Sarfo a social media content creator, mental health nurse practitioner, and psychotherapist to discuss all things ADHD.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/66970d3a-d5d9-44e8-b44e-638a9f60e74d/Screen+Shot+2021-11-04+at+12.47.22+PM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    77
+   ]
+  },
+  {
+   "id": "alexandra-solomon",
+   "name": "dr. alexandra solomon",
+   "credentials": "",
+   "bio": "Alexandra Solomon a licensed clinical psychologist, author, and speaker, specializing in families, marriage, and relationships.",
+   "website": "",
+   "instagram": "https://www.instagram.com/dr.alexandra.solomon",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1635217708285-9GZCGA1CVI30Z7H4SPIJ/ALEXANDRA-SOLOMON-2019.jpg",
+   "headshot_note": "",
+   "episodes": [
+    76
+   ]
+  },
+  {
+   "id": "jay-faber",
+   "name": "dr. jay faber",
+   "credentials": "",
+   "bio": "“Jay” Faber, MD is a clinical and forensic double board-certified psychiatrist with more than three decades of experience in Child, Adolescent, and Adult Psychiatry.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1634574311138-WAKVXO5X4JI2B44G56Z2/MG_5793-Revised.jpg",
+   "headshot_note": "",
+   "episodes": [
+    75
+   ]
+  },
+  {
+   "id": "sophie-gray",
+   "name": "sophie gray",
+   "credentials": "",
+   "bio": "This week's guest is Sophie Gray.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1633630750432-SDRUX4YKJXCT75A22KE8/IMG_8598.jpg",
+   "headshot_note": "",
+   "episodes": [
+    74
+   ]
+  },
+  {
+   "id": "victoria-garrick",
+   "name": "victoria garrick",
+   "credentials": "",
+   "bio": "Victoria Garrick.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1633244622928-37FR2O9MF1C58EESB8FS/Victoria%252BGarrick.jpg",
+   "headshot_note": "",
+   "episodes": [
+    73
+   ]
+  },
+  {
+   "id": "krista-williams",
+   "name": "krista williams",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1632629837902-HNM4VSP71DU1CY1JIJON/Screen%2BShot%2B2021-09-26%2Bat%2B12.16.06%2BAM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    72
+   ]
+  },
+  {
+   "id": "laura-martin",
+   "name": "laura martin",
+   "credentials": "",
+   "bio": "Today I am joined by the amazing Laura Martin—a Certified IBS Nutrition Consultant and founder of Healing to Happy (an online holistic, gut-brain focused company that helps women suffering from IBS and Anxiety to get back to eating normally without fear of FODMAP's).",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1628894363708-SXL1SNJRHWW9U9X2978L/CMA00423-800x1199.jpg",
+   "headshot_note": "",
+   "episodes": [
+    68
+   ]
+  },
+  {
+   "id": "alexis-haines",
+   "name": "alexis haines",
+   "credentials": "",
+   "bio": "Alexis Haines—my podcast mom—is finally on She Persisted!",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1624393875466-EURX1VWHDJ3A9NIXV3F0/8953540-1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    66
+   ]
+  },
+  {
+   "id": "lindsay-fleming",
+   "name": "lindsay fleming lpc",
+   "credentials": "LPC",
+   "bio": "Today I am joined by Lindsay Fleming, LPC a Chicago-based therapist working to help individuals take baby-step their way to understanding & normalizing mental health.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1621574022452-YTEWRA1P2NMY3JRTO5CP/Screen%2BShot%2B2021-05-20%2Bat%2B5.29.30%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    65
+   ]
+  },
+  {
+   "id": "sydney-montana",
+   "name": "sydney montana",
+   "credentials": "",
+   "bio": "This purpose of this episode is not to target and attack certain organizations and individuals rather ask the question, \"How can we insure ethical, evidence-based, compassionate mental health treatment for all teenagers?\" Today I am joined by Sydney Montana, a TTI survivor who attended Cross Creek (a Southern Utah Behavioral Modification Program) for over 15 months.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1620852989603-S3GBQ5DHYUEG59W03Y44/IMG_9110.jpg",
+   "headshot_note": "",
+   "episodes": [
+    64
+   ]
+  },
+  {
+   "id": "rae-fung",
+   "name": "rae fung",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619817218102-10VAN80O42BI2S9E18NX/Orange%2BJacket-1.jpg",
+   "headshot_note": "",
+   "episodes": [
+    63
+   ]
+  },
+  {
+   "id": "evan-haines",
+   "name": "evan haines",
+   "credentials": "",
+   "bio": "",
+   "website": "https://alorecovery.com/staff/evan-haines/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619206599027-GS55PE6VK4WQZZHJX9QX/ELP_1505BW.jpg",
+   "headshot_note": "",
+   "episodes": [
+    62
+   ]
+  },
+  {
+   "id": "kira-willey",
+   "name": "kira willey",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1618720339659-A7VDNXERDE8H5PUZSQQH/unnamed.jpg",
+   "headshot_note": "",
+   "episodes": [
+    61
+   ]
+  },
+  {
+   "id": "zachery-dereniowski",
+   "name": "zachery dereniowski",
+   "credentials": "",
+   "bio": "Today I am joined by Zachery Dereniowski (@mdmotivator) a former college dropout turned medical student and mental health advocate!",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1616518867704-47S7PJQU93W3Z0BNUOLE/WhatsApp-Image-2020-07-18-at-6.07.00-PM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    60
+   ]
+  },
+  {
+   "id": "hillary-higgins",
+   "name": "hillary higgins",
+   "credentials": "",
+   "bio": "Today I am sitting down with Hillary Higgins, the Associate Director of College Counseling at The Nueva School and a former USC Admissions Counselor.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619298143815-CUHQNWP5YUF7XNRMKBXN/Screen%2BShot%2B2021-04-24%2Bat%2B2.01.59%2BPM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    59
+   ]
+  },
+  {
+   "id": "maya",
+   "name": "maya",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619298410828-L77PPAM3Q1V4FFDTYIL7/IMG_4923_Original%2B%25281%2529.jpg",
+   "headshot_note": "",
+   "episodes": [
+    58,
+    22
+   ]
+  },
+  {
+   "id": "kirstie-taylor",
+   "name": "kirstie taylor",
+   "credentials": "",
+   "bio": "Kirstie Taylor is a dating and relationship writer who found a loyal internet following through her candid essays.",
+   "website": "",
+   "instagram": "https://www.instagram.com/wordswithkirstie/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1616518404170-8Z6BF17BJDFSRN448NI4/Screen%2BShot%2B2021-03-23%2Bat%2B9.51.55%2BAM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    54
+   ]
+  },
+  {
+   "id": "camila-vola",
+   "name": "camila vola",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619300208895-A60NR7DDI8TIQRT96PU4/IMG_5246.jpg",
+   "headshot_note": "",
+   "episodes": [
+    53
+   ]
+  },
+  {
+   "id": "amanda-dimarco",
+   "name": "amanda dimarco",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619305244747-HEN18N14SKYURRA7VCMJ/IMG_9268.jpg",
+   "headshot_note": "",
+   "episodes": [
+    51
+   ]
+  },
+  {
+   "id": "uma-naidoo",
+   "name": "dr. uma naidoo",
+   "credentials": "MD",
+   "bio": "Uma Naidoo as the world’s first “triple threat” in the food and medicine space: a Harvard trained psychiatrist, Professional Chef graduating with her culinary schools’ most coveted award, and a trained Nutrition Specialist.",
+   "website": "",
+   "instagram": "https://www.instagram.com/drumanaidoo/?hl=en",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619305699704-7OBPXICX4WPRFNAYF2YP/IMG_1931.jpg",
+   "headshot_note": "",
+   "episodes": [
+    50
+   ]
+  },
+  {
+   "id": "sage-lally",
+   "name": "sage lally",
+   "credentials": "",
+   "bio": "TRIGGER WARNING FOR SUICIDAL IDEATION + SELF-HARM Today, I am joined by Sage Lally , the founder of be .",
+   "website": "",
+   "instagram": "https://www.instagram.com/sagelally/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619306088294-9LVJIBHDMR74S1SLRT66/IMG_3804.jpg",
+   "headshot_note": "",
+   "episodes": [
+    49
+   ]
+  },
+  {
+   "id": "evonna-kuehner",
+   "name": "evonna kuehner",
+   "credentials": "",
+   "bio": "This week I am joined by Evonna Kuehner, the CEO and founder of ANOVÉ Beauty ( @anovebeauty on Instagram.) Evonna founded ANOVÉ® with the intent to create luxury skincare products for all skin tones and types.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619306506377-6VO9S2AR97AL76DETX69/Evonna_Headshot.jpg",
+   "headshot_note": "",
+   "episodes": [
+    46
+   ]
+  },
+  {
+   "id": "kelsey-jones",
+   "name": "kelsey jones",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "https://www.instagram.com/kelseylynnjones/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619306793542-5V2XW6VWJ7O18L6FFE6Z/43C3634B-DCD7-40E7-9A96-354D31A16E32.jpg",
+   "headshot_note": "",
+   "episodes": [
+    44
+   ]
+  },
+  {
+   "id": "daisye-byrd-graham",
+   "name": "daisye byrd graham",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/391631c8-399e-498d-aa87-f2842307c59b/IMG_1796.jpg",
+   "headshot_note": "",
+   "episodes": [
+    41,
+    6
+   ]
+  },
+  {
+   "id": "j-anmetra-waddell",
+   "name": "j'anmetra waddell",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/3b0b8869-5bde-4dd1-bdf3-93067b2d0276/janmetra-waddell.jpg",
+   "headshot_note": "",
+   "episodes": [
+    40
+   ]
+  },
+  {
+   "id": "leo-flowers",
+   "name": "leo flowers",
+   "credentials": "",
+   "bio": "",
+   "website": "http://www.leoflowers.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/2d90edfb-8e11-47a9-9345-2cbc4548eeb9/190625-Leo-Flowers-249%2B%281%29.jpg",
+   "headshot_note": "",
+   "episodes": [
+    38
+   ]
+  },
+  {
+   "id": "audrey-bailey",
+   "name": "audrey bailey",
+   "credentials": "",
+   "bio": "",
+   "website": "https://brushandbarley.com/about",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/3c69661f-18b0-4904-bd50-a267d97656d2/img_4117.jpg",
+   "headshot_note": "",
+   "episodes": [
+    37
+   ]
+  },
+  {
+   "id": "sarah-humphrey",
+   "name": "sarah humphrey",
+   "credentials": "",
+   "bio": "This week I am joined by Sarah Humphrey, the host of It Ain't It Sis .",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/9315103d-8de1-4afe-a030-d752f6555740/Screen+Shot+2022-04-12+at+1.01.07+AM.png",
+   "headshot_note": "",
+   "episodes": [
+    36
+   ]
+  },
+  {
+   "id": "cassandra-mcclure",
+   "name": "cassandra mcclure",
+   "credentials": "",
+   "bio": "a multi-hyphenated entrepreneur in the beauty industry with a passion and commitment to clean beauty.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/747519d5-42a7-4690-bb94-16e858b4ca3e/Screen+Shot+2022-04-12+at+12.57.15+AM.png",
+   "headshot_note": "",
+   "episodes": [
+    35
+   ]
+  },
+  {
+   "id": "brittany-crane",
+   "name": "brittany crane",
+   "credentials": "",
+   "bio": "Brittany Crane is the author of the highly-praised Self Compassion Workbook - a 15 day guide and journal experience to help you build inner strength, accept yourself and thrive at life and the founder and CEO of Get Out There Girl .",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1e7e8dfa-334b-4137-8020-dd17d78711d0/Screen+Shot+2022-04-12+at+12.51.06+AM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    34
+   ]
+  },
+  {
+   "id": "scout-sobel",
+   "name": "scout sobel",
+   "credentials": "",
+   "bio": "This week’s guest is Scout Sobel , the host of SCOUT Podcast and cohost of Okay Sis .",
+   "website": "https://www.scoutsobel.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/21dc2a59-db0f-43c5-bbeb-5cff5f2665d3/Scout-Sobel.jpg",
+   "headshot_note": "",
+   "episodes": [
+    32
+   ]
+  },
+  {
+   "id": "alexis-smith",
+   "name": "alexis smith",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/efb6f470-aed8-4ba2-b852-27ed55c31346/Screen+Shot+2022-04-12+at+12.39.20+AM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    31
+   ]
+  },
+  {
+   "id": "jill-nowak",
+   "name": "jill nowak",
+   "credentials": "LICSW",
+   "bio": "",
+   "website": "https://www.psychologytoday.com/us/therapists/jill-nowak-belmont-ma/390620",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/5193a917-b1c8-4d62-9ac3-002493f49d98/JillNowakheadshot21.jpg",
+   "headshot_note": "",
+   "episodes": [
+    30
+   ]
+  },
+  {
+   "id": "emily-lebaron",
+   "name": "emily lebaron",
+   "credentials": "",
+   "bio": "With Emily LeBaron (from the Living For Hope Brand ) I sit down and talk all things therapy, medication, and coping during COVID-19.",
+   "website": "",
+   "instagram": "https://www.instagram.com/emily.lebaron/",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/a999bf22-7611-47e3-a772-48fed6ca4432/Screen+Shot+2022-04-12+at+12.30.12+AM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    27
+   ]
+  },
+  {
+   "id": "ivy-sutton",
+   "name": "ivy sutton",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/c5c05a15-c449-4219-aa30-a42460d5658b/WM9A9534.jpg",
+   "headshot_note": "",
+   "episodes": [
+    26
+   ]
+  },
+  {
+   "id": "leeza",
+   "name": "leeza",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/c558a761-99dd-44b8-9166-8a375b50bed1/Screen+Shot+2022-04-12+at+12.27.23+AM.png",
+   "headshot_note": "",
+   "episodes": [
+    25
+   ]
+  },
+  {
+   "id": "stephanie",
+   "name": "stephanie",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/c159da9b-0681-44fd-9cec-ffe3976468d7/Facetune_29-01-2021-12-56-15.jpg",
+   "headshot_note": "",
+   "episodes": [
+    24
+   ]
+  },
+  {
+   "id": "sadie-s-dad",
+   "name": "sadie's dad",
+   "credentials": "",
+   "bio": "In this episode of She Persisted , I ask my Dad what it was like to be a parent of a patient at a residential program and a therapeutic boarding school.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1618542649890-X6UAWOZARCLZPL3FON3M/IMG_9568.jpg",
+   "headshot_note": "",
+   "episodes": [
+    23,
+    8,
+    2
+   ]
+  },
+  {
+   "id": "ruby",
+   "name": "ruby",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/a3f6282d-4176-4da6-be38-da4dd34a0a12/rachelartimephoto-wedding-photography-losangeles-losangelesweddingphotographer--4339.jpg",
+   "headshot_note": "",
+   "episodes": [
+    21
+   ]
+  },
+  {
+   "id": "sadie-s-younger-sister",
+   "name": "sadie's younger sister",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/d0b8a890-5134-4283-9882-65e1cdba450a/IMG_1711.jpg",
+   "headshot_note": "",
+   "episodes": [
+    19,
+    14,
+    3
+   ]
+  },
+  {
+   "id": "sadie-s-best-friend",
+   "name": "sadie's best friend",
+   "credentials": "",
+   "bio": "I sit down with my best friend from home, who recounts what it was like watching me struggle, go to treatment, and come back home successfully.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1619298410828-L77PPAM3Q1V4FFDTYIL7/IMG_4923_Original%2B%25281%2529.jpg",
+   "headshot_note": "",
+   "episodes": [
+    15
+   ]
+  },
+  {
+   "id": "emily-thelen",
+   "name": "emily thelen",
+   "credentials": "CTRS",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/a93a9f0d-8a42-43bc-9289-355ffaaaf1ec/emily.jpg",
+   "headshot_note": "",
+   "episodes": [
+    11
+   ]
+  },
+  {
+   "id": "jacob-sparks",
+   "name": "jacob sparks",
+   "credentials": "LMFT",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/70efb28b-c3e3-4705-9f74-67ae63cc81c8/Screen+Shot+2022-04-12+at+12.35.37+AM.jpg",
+   "headshot_note": "",
+   "episodes": [
+    10
+   ]
+  },
+  {
+   "id": "kayla",
+   "name": "kayla",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/0c00ac68-dd34-4356-bf94-ceb04436cc8e/rachelartimephoto-wedding-photography-losangeles-losangelesweddingphotographer--4137.jpg",
+   "headshot_note": "",
+   "episodes": [
+    5
+   ]
+  }
+ ]
+}

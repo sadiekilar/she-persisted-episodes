@@ -89,6 +89,7 @@ for (const ep of episodes) {
   const tidy = (c) => ({ ...c, title: String(c.title || '').replace(/^[\s….]+/, '').replace(/^(and|&|\+)\s+/i, '').replace(/^\w/, (ch) => m.number >= 222 ? ch.toLowerCase() : ch).trim() });
   const data = {
     number: m.number, title: m.title, slug: m.slug, url: m.original_url, date: m.date, tags: m.tags || [], image: m.image_url || '',
+    youtube_thumbnail: m.youtube_id ? 'https://i.ytimg.com/vi/' + m.youtube_id + '/maxresdefault.jpg' : null,
     description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
     guests: m.guests || [], summary: m.summary || '',
     youtube_id: m.youtube_id || null, spotify_episode_id: m.spotify_episode_id || null, creators_embed_url: m.creators_embed_url || null, apple_episode_url: m.apple_episode_url || null,
