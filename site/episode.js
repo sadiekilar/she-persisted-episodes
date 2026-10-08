@@ -116,6 +116,9 @@
     '#sp-episode .sp-desc ul,#sp-episode .sp-desc ol,#sp-episode .sp-mentioned ul,#sp-episode .sp-mentioned ol{display:flex;flex-direction:column;gap:6px;padding-left:20px}',
     '#sp-episode .sp-desc li>p,#sp-episode .sp-mentioned li>p{display:inline}',
     '#sp-episode .sp-desc u,#sp-episode .sp-mentioned u{text-decoration:none}',
+    /* a note under the description (a correction or caveat kept in the repo: note_html) */
+    '#sp-episode .sp-note{padding:16px 20px;border:1px solid var(--hair);border-radius:12px;font-size:16px;line-height:1.5;color:var(--ink)}',
+    '#sp-episode .sp-note p+p{margin-top:10px}#sp-episode .sp-note strong{color:var(--red)}',
     '#sp-episode .sp-hr{height:1px;background:var(--hair)}',
     '#sp-episode .sp-badges{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}',
     '#sp-episode .sp-badges.sp-n3{grid-template-columns:repeat(3,minmax(0,1fr))}#sp-episode .sp-badges.sp-n2{grid-template-columns:repeat(2,minmax(0,1fr))}#sp-episode .sp-badges.sp-n1{grid-template-columns:minmax(0,1fr)}',
@@ -173,6 +176,9 @@
     '#sp-episode .sp-poster i{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.8) 0%,rgba(0,0,0,0) 50%)}',
     '#sp-episode .sp-poster b{position:absolute;left:12px;right:12px;bottom:12px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;color:var(--cream);font-size:14px;font-weight:700;line-height:1.3}',
     '#sp-episode .sp-poster small{position:absolute;right:10px;top:10px;color:var(--cream);font-size:12px;font-weight:700}',
+    /* a 5-minute mini cut from this episode: same height as the clips, landscape, thumbnail only */
+    '#sp-episode .sp-mini{position:relative;display:block;flex:none;height:calc(173px * 16 / 9);aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#1c1c1c;isolation:isolate}',
+    '#sp-episode .sp-mini img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 200ms ease}',
     /* new episodes */
     '#sp-episode .sp-new{display:flex;flex-direction:column;gap:18px;padding:72px var(--g) 96px}',
     '#sp-episode .sp-new-head{display:flex;justify-content:space-between;align-items:baseline}',
@@ -183,7 +189,7 @@
     '#sp-episode .sp-thumb{display:block;overflow:hidden;border-radius:16px;background:var(--cream);isolation:isolate}',
     '#sp-episode .sp-card img{width:100%;aspect-ratio:1;object-fit:cover;object-position:center 30%;filter:grayscale(1);transition:transform 300ms ease,filter 300ms ease}',
     '#sp-episode .sp-card-title{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:12px 4px 0;font-size:16px;font-weight:700;line-height:1.2;color:var(--ink)}',
-    '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}#sp-episode .sp-poster img{transition:transform 200ms ease}#sp-episode .sp-poster:hover img{transform:scale(1.05)}#sp-episode .sp-poster:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}}',
+    '@media (hover:hover){#sp-episode .sp-card:hover img{transform:scale(1.05);filter:grayscale(0)}#sp-episode .sp-card:hover .sp-card-title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}#sp-episode .sp-poster img{transition:transform 200ms ease}#sp-episode .sp-poster:hover img,#sp-episode .sp-mini:hover img{transform:scale(1.05)}#sp-episode .sp-poster:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-skip-ink:none}}',
     '@media (prefers-reduced-motion:reduce){#sp-episode .sp-card:hover img{transform:none}}',
     '@media (max-width:900px) and (min-width:601px){#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr}}',
     '@media (max-width:640px){',
@@ -206,7 +212,7 @@
     '#sp-episode h1{font-size:30px;line-height:1.05;letter-spacing:-.7px}',
     '#sp-episode .sp-player{border-radius:12px}#sp-episode .sp-play{width:56px;height:56px;margin:-28px 0 0 -28px}#sp-episode .sp-play::after{margin-left:5px;border-left-width:18px;border-top-width:11px;border-bottom-width:11px}',
     '#sp-episode .sp-player-cap{left:14px;bottom:12px;font-size:12px}',
-    '#sp-episode .sp-notes{gap:18px}#sp-episode .sp-desc{gap:14px;font-size:16px}',
+    '#sp-episode .sp-notes{gap:18px}#sp-episode .sp-desc{gap:14px;font-size:16px}#sp-episode .sp-note{padding:14px 16px;font-size:15px}',
     '#sp-episode .sp-badges,#sp-episode .sp-badges.sp-n3{grid-template-columns:1fr 1fr;gap:10px}',
     '#sp-episode .sp-audio-page .sp-badges{grid-template-columns:1fr}',
     '#sp-episode .sp-audio-page h1{font-size:26px;line-height:1.1;letter-spacing:-.6px}',
@@ -218,7 +224,7 @@
     '#sp-episode .sp-tr-more{margin:0 0 20px}',
     '#sp-episode .sp-chapter-head h3{gap:12px;font-size:15px}#sp-episode .sp-stamp{width:40px}#sp-episode .sp-para{gap:12px}#sp-episode .sp-para p{font-size:15px}',
     '#sp-episode .sp-copy{padding:20px 0 40px}',
-    '#sp-episode .sp-moments{padding:36px 20px}#sp-episode .sp-poster{width:150px}',
+    '#sp-episode .sp-moments{padding:36px 20px}#sp-episode .sp-poster{width:150px}#sp-episode .sp-mini{height:calc(150px * 16 / 9)}',
     '#sp-episode .sp-new{gap:14px;padding:40px 20px 64px}#sp-episode .sp-new h2{font-size:22px;letter-spacing:-.44px}#sp-episode .sp-new-head>.sp-text{font-size:12px}',
     '#sp-episode .sp-new-grid{grid-template-columns:1fr 1fr;gap:12px}#sp-episode .sp-thumb{border-radius:14px}#sp-episode .sp-card-title{padding:8px 2px 0;font-size:14px}',
     '}'
@@ -420,6 +426,7 @@
     // Apple's lookup only returns the newest 200 episodes; older ones link to the show
     badges.push(badge(ep.apple_episode_url || CFG.APPLE_SHOW, ICONS + 'applepodcasts.svg', 'listen on', 'apple podcasts'));
     badges.push('<button type="button" class="sp-badge sp-share">' + glyph(SHARE_ICON) + '<span><small>share</small><strong>the episode</strong></span></button>');
+    var minis = (ep.minis || []).filter(function (x) { return x.youtube_id; });
     var others = index.episodes.filter(function (e) { return e.number !== number; }).sort(function (a, b) { return b.number - a.number; }).slice(0, 4);
 
     inner.innerHTML =
@@ -432,7 +439,9 @@
             : audioCard(spotifyUrl)) +
         '</div>' +
         '<div class="sp-notes">' +
-          (ep.description_html ? '<div class="sp-desc">' + leadBold(safeHtml(ep.description_html)) + '</div><div class="sp-hr"></div>' : '') +
+          (ep.description_html ? '<div class="sp-desc">' + leadBold(safeHtml(ep.description_html)) + '</div>' : '') +
+          (ep.note_html ? '<div class="sp-note">' + safeHtml(ep.note_html) + '</div>' : '') +
+          (ep.description_html || ep.note_html ? '<div class="sp-hr"></div>' : '') +
           '<div class="sp-badges sp-n' + badges.length + '">' + badges.join('') + '</div>' +
           (ep.mentioned_html ? '<div class="sp-hr"></div><div class="sp-mentioned"><h2>mentioned:</h2><div class="sp-mentioned-body">' + safeHtml(ep.mentioned_html) + '</div></div>' : '') +
         '</div>' +
@@ -440,9 +449,11 @@
       (ep.quote ? '<div class="sp-quote-wrap"><div class="sp-quote"><blockquote>' + quoteHtml(ep.quote_display || ep.quote) + '</blockquote></div></div>' : '') +
       transcriptHtml() +
       '<div class="sp-copy-wrap"><p class="sp-copy">\u00a9 ' + new Date().getFullYear() + ' ' + esc(CFG.LLC) + '. This podcast is copyrighted subject matter owned by ' + esc(CFG.LLC) + ' and ' + esc(CFG.LLC) + ' reserves all rights in and to the podcast. Any use without ' + esc(CFG.LLC) + '\u2019s express prior written consent is prohibited.</p></div>' +
-      (ep.shorts && ep.shorts.length ? '<div class="sp-moments"><div class="sp-moments-in"><div class="sp-moments-head"><h2>top moments</h2><div class="sp-social">' +
+      ((ep.shorts && ep.shorts.length) || minis.length ? '<div class="sp-moments"><div class="sp-moments-in"><div class="sp-moments-head"><h2>top moments</h2><div class="sp-social">' +
         ['instagram', 'tiktok', 'youtube'].map(function (s) { return CFG.SOCIAL[s] ? '<a href="' + esc(CFG.SOCIAL[s]) + '" target="_blank" rel="noopener" title="' + s + '">' + glyph(ICONS + s + '.svg') + '</a>' : ''; }).join('') +
-        '</div></div><div class="sp-posters">' + ep.shorts.map(function (s) {
+        '</div></div><div class="sp-posters">' + minis.map(function (x) {
+          return '<a class="sp-mini" href="https://www.youtube.com/watch?v=' + esc(x.youtube_id) + '" target="_blank" rel="noopener" title="' + esc(x.title) + ' (5-minute mini)"><img src="https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/maxresdefault.jpg" alt="' + esc(x.title) + '" loading="lazy" onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/' + esc(x.youtube_id) + '/mqdefault.jpg\'"></a>';
+        }).join('') + (ep.shorts || []).map(function (s) {
           var label = String(s.title || '').replace(/#[\w\u00c0-\uffff]+/g, '').replace(/\s+/g, ' ').replace(/^[\s|\-\u2013\u2014:]+|[\s|\-\u2013\u2014:]+$/g, '').trim();
           return '<a class="sp-poster" href="https://www.youtube.com/shorts/' + esc(s.youtube_id) + '" target="_blank" rel="noopener"><img src="' + esc(s.thumbnail_url) + '" alt="" loading="lazy"><i></i><b>' + esc(label) + '</b>' + (s.duration_sec ? '<small>' + fmt(s.duration_sec) + '</small>' : '') + '</a>';
         }).join('') + '</div></div></div>' : '') +
