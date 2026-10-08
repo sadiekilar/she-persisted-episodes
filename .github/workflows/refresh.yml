@@ -27,6 +27,7 @@ jobs:
       - run: node scripts/youtube-sync.js
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - run: node scripts/minis.js
       - run: node scripts/summarize.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

@@ -36,7 +36,11 @@ tags: ${Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).map(([t, c]) => `$
 
 ${blocks.join('\n\n')}
 `;
-fs.writeFileSync(path.join(INDEX_DIR, 'catalogue.md'), out);
+const minisFile = path.join(INDEX_DIR, 'minis.json');
+const minis = fs.existsSync(minisFile) ? JSON.parse(fs.readFileSync(minisFile, 'utf8')).minis : [];
+const minisLines = minis.map((x) => '- ' + x.date + ' | ' + x.title + ' | from episode ' + (x.parent == null ? '?' : x.parent) + (x.youtube_id ? ' | video' : '')).join('\n');
+const minisOut = minis.length ? '\n\n# mental health minis (not episodes)\n\n' + minis.length + ' five-minute cut-downs of past episodes, from the podcast feed. Each line: date | title | from episode | video.\n\n' + minisLines + '\n' : '';
+fs.writeFileSync(path.join(INDEX_DIR, 'catalogue.md'), out + minisOut);
 // a lighter copy (no chapters, clipped summaries) that fits comfortably in an assistant's project knowledge
 const brief = eps.map((e) => { const m = e.meta; const sum = (m.summary || htmlToText(m.description_html || '')).replace(/\s+/g, ' ').trim(); return `${m.number}. ${m.title.replace(/^\d+[.:]\s*/, '')} | ${String(m.date || '').slice(0, 10)} | ${finalTags(m).join(', ') || '-'} | ${(m.guests || []).join(', ') || 'solo'} | ${m.original_url}\n   ${sum.length > 220 ? sum.slice(0, 217).replace(/\s+\S*$/, '') + '…' : sum}`; }).join('\n');
 const tagLine = 'tags: ' + Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).map(([t, c]) => `${t} (${c})`).join(', ');

@@ -2044,3 +2044,38 @@ format: solo
 summary: in this re-recorded first episode, sadie shares her story of struggling with depression and anxiety as a young teen and the intensive treatment that changed her life. she talks about spending 14 weeks at a residential dbt program in massachusetts and 14 months at a therapeutic boarding school in montana, where she learned to feel emotions again, rebuild trust with her family, and challenge the core belief that she didn't deserve to be loved. sadie explains what inspired her to start the podcast—wanting other people to know that recovery is possible, even when it feels impossible—and introduces the show's name and what it means to her.
 quote: if you don't choose to work on yourself, nothing will change.
 chapters: Introduction: From Treatment to Podcast, Why I'm Sharing My Story; The Core Belief That Almost Destroyed Me: I'll Never Be Happy; The Intake Question That Changed Everything: Do You Want to Be Here?; Choosing to Get Better: Why Nothing Changes Until You Decide; The Napkin Questions: Why Would This Be Any Different?; The Podcast Seed: Dad's Recording Device Question in the Kitchen; 14 Weeks That Rewired Everything: Residential Treatment in Massachusetts; Waking Up Without the Weight: When Depression Lifts; The Core Beliefs That Remained: I Don't Deserve to Be Loved; Feeling Emotions at 12,000 Percent: Why I Learned to Bottle Everything Up; 14 Months of Tearing Down Walls: Therapeutic Boarding School in Montana; Learning to Feel One Emotion at a Time: When Vulnerability Stops Being Overwhelming; What Happiness Actually Feels Like: Not Sadness Taking Over Everything; If I Could Do It, Anyone Can: The Mission Behind the Podcast; Recording on iPods at Boarding School: Asking Friends to Share Their Stories; Painting the Outside Picture: What My Depression Looked Like to Others; Teaching the DBT Skills That Changed My Life; You're Not Alone and It Gets Better: The Core Message; Nevertheless, She Persisted: The Meaning Behind the Name; Every Letter Ended the Same Way: P.S. Nevertheless, She Persisted; What They Saw in Me: Voices from Family, Friends, and Therapists
+
+
+# mental health minis (not episodes)
+
+29 five-minute cut-downs of past episodes, from the podcast feed. Each line: date | title | from episode | video.
+
+- 2025-11-24 | reverse engineer your life for SUCCESS in just 5 mins! | from episode 228
+- 2025-11-10 | a dbt crash course– everything you need to know about this therapy in 5 mins! | from episode 146
+- 2025-10-27 | a day in the life in mental health residential treatment?!! | from episode 96
+- 2025-10-14 | what your fav taylor swift song says about you (mental health edition) | from episode 166
+- 2025-09-08 | four steps for healing TRAUMA | from episode 92
+- 2025-08-25 | master your COLLEGE ROUTINE in just five mins! | from episode 105
+- 2025-07-28 | four mental health skills for your next family vacation | from episode 195
+- 2025-07-08 | stop comparing yourself on social media | from episode 218
+- 2025-06-23 | how to find a therapist + start therapy | from episode 167
+- 2025-05-26 | gen z is sleep deprived: here's why | from episode 104
+- 2025-04-21 | what i do to prevent college burnout | from episode 162
+- 2025-03-03 | why you should become an OPTIMIST | from episode 162 | video
+- 2025-02-12 | why your 20s can be so lonely | from episode 187 | video
+- 2025-01-20 | depression hacks you need to know! | from episode 80 | video
+- 2025-01-01 | 5 Ways to Form a SECURE ATTACHMENT in 5 Mins! | from episode 202 | video
+- 2024-12-16 | 5 Ways to Fix Your ANXIETY | from episode 91 | video
+- 2024-12-03 | How to Heal from Addiction | from episode 66 | video
+- 2024-11-04 | Fix Your Self-Confidence in Five Minutes! | from episode 86 | video
+- 2024-10-22 | Is STRESS Causing Your Depression?! | from episode 109 | video
+- 2024-10-01 | Friendship Guide for SOCIAL ANXIETY! | from episode 113 | video
+- 2024-09-17 | Thrive in Your College Social Life Through DBT! | from episode 149 | video
+- 2024-08-27 | How to Find a Teen Treatment Program & What to Expect | from episode 136 | video
+- 2024-08-06 | Learn 5 DBT Skills in 5 Mins! | from episode 132 | video
+- 2024-07-17 | Decrease Your Anxiety by Learning EXPOSURE THERAPY! | from episode 143 | video
+- 2024-07-08 | How to STOP People Pleasing & START Trusting Yourself | from episode 131 | video
+- 2024-06-24 | Two Quick Tricks to Prevent a Panic Attack! | from episode 138 | video
+- 2024-06-17 | 5 Steps for Healing Your Hidden Depression in 5 Mins! | from episode 112 | video
+- 2024-06-04 | What you need to know about ADHD... | from episode 142 | video
+- 2024-05-27 | How do I set boundaries? | from episode 172

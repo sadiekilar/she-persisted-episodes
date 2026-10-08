@@ -5,6 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const { formatOf, seriesOf } = require('./format');
 const { INDEX_DIR, readEpisodes, htmlToText } = require('./lib');
+const MINIS = fs.existsSync(path.join(INDEX_DIR, 'minis.json')) ? JSON.parse(fs.readFileSync(path.join(INDEX_DIR, 'minis.json'), 'utf8')).minis : [];
 const { transcriptParagraphs } = require('./transcript');
 
 const EXCERPT_MAX = 300;
@@ -92,6 +93,7 @@ for (const ep of episodes) {
   const data = {
     number: m.number, title: m.title, slug: m.slug, url: m.original_url, date: m.date, tags: m.tags || [], image: m.image_url || '',
     format: formatOf(m), series: seriesOf(m) || null,
+    minis: MINIS.filter((x) => x.parent === m.number).map(({ id, title, date, duration_sec, audio_url, youtube_id, blurb }) => ({ id, title, date, duration_sec, audio_url, youtube_id, blurb })),
     youtube_thumbnail: m.youtube_id ? 'https://i.ytimg.com/vi/' + m.youtube_id + '/maxresdefault.jpg' : null,
     description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
     guests: m.guests || [], summary: m.summary || '',

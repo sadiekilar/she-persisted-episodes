@@ -78,6 +78,7 @@ async function main() {
   console.log(`youtube: ${videos.length} videos (${longs.length} long-form, ${shorts.length} shorts)`);
 
   const unmatched = { longs: [], shorts: [] };
+  const minis = []; // "MINI:" uploads are cut-downs of episodes; minis.js links them to their parent
   const match = new Map(); // episode number → video
   // a youtube_id that is not one of the channel's own uploads came from a clip embedded in the post
   // (a John Oliver segment, a documentary trailer): drop it so the episode gets its real video or the audio player
@@ -92,7 +93,7 @@ async function main() {
   for (const v of longs) {
     if (IGNORE.has(v.id)) continue;
     // a "MINI:" upload is a cut-down of an episode, never the episode itself (202 was matched to one)
-    if (/^\s*mini\b/i.test(v.title)) { unmatched.longs.push({ v, best: null, score: 0 }); continue; }
+    if (/^\s*mini\b/i.test(v.title)) { minis.push({ id: v.id, title: v.title, published: v.published, duration: v.duration, thumbnail: v.thumbnail }); continue; }
     let n = alreadyKnown.get(v.id);
     if (n == null) n = numberIn(v.title);
     if (n == null) n = numberIn(v.description);
@@ -129,6 +130,7 @@ async function main() {
   console.log(`matched ${match.size} long-form videos; ${withVideo} episodes have a video; ${shortsFor.size} episodes have shorts; ${changed} files updated`);
 
   fs.mkdirSync(INDEX_DIR, { recursive: true });
+  fs.writeFileSync(path.join(INDEX_DIR, 'youtube-minis.json'), JSON.stringify(minis, null, 1));
   fs.writeFileSync(path.join(INDEX_DIR, 'youtube-unmatched.md'), `# youtube videos not matched to an episode
 
 Long-form videos match by the episode number at the start of the title (or "ep. NNN"), else by title similarity. Shorts match by "ep. NNN" / "episode NNN" in the description or title. To fix one, add the episode number to the video's title or description on YouTube.
