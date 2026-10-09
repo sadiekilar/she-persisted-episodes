@@ -53,6 +53,8 @@ function derive(episodes, minis) {
   const apple = appleFiles.length ? JSON.parse(fs.readFileSync(path.join(appleDir, appleFiles[appleFiles.length - 1]), 'utf8')) : null;
   const appleMonthlyFile = path.join(appleDir, 'episode-monthly.json');
   const appleMonthly = fs.existsSync(appleMonthlyFile) ? JSON.parse(fs.readFileSync(appleMonthlyFile, 'utf8')) : null;
+  const spotifyFile = path.join(path.dirname(SNAP_DIR), 'spotify', 'episodes.json');
+  const spotify = fs.existsSync(spotifyFile) ? JSON.parse(fs.readFileSync(spotifyFile, 'utf8')) : null;
   const lastFull = apple ? (() => { const d = new Date(apple.date + 'T00:00:00Z'); d.setUTCDate(0); return d.toISOString().slice(0, 7); })() : null;
   const sum = (snap, ids, k) => ids.reduce((a, id) => a + ((snap && snap[id] && snap[id][k]) || 0), 0);
   const rows = episodes.map((e) => {
@@ -62,6 +64,8 @@ function derive(episodes, minis) {
     const miniIds = minis.filter((x) => x.parent === m.number && x.youtube_id).map((x) => x.youtube_id);
     const row = { number: m.number, date: String(m.date || '').slice(0, 10), youtube: { in_playlist: video.length > 0, views: sum(latest, video, 'v'), likes: sum(latest, video, 'l'), comments: sum(latest, video, 'c') }, clips: { note: 'shorts: not plays or downloads', count: shorts.length, views: sum(latest, shorts, 'v') }, minis: { count: miniIds.length, views: sum(latest, miniIds, 'v') } };
     for (const [k, snap] of [['7d', d7], ['30d', d30], ['90d', d90]]) if (snap) row.youtube['views_' + k] = row.youtube.views - sum(snap, video, 'v');
+    const sp = spotify && spotify.episodes[String(m.number)];
+    if (sp) row.spotify = { note: 'Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed', plays: sp.plays_since_published, audience: sp.audience, watch_time_pct: sp.watch_time_pct, completion_7d_pct: sp.completion_7d_pct, discovery_impressions_30d: sp.discovery_impressions_30d };
     const a = apple && apple.episodes[String(m.number)];
     if (a) {
       row.apple = { note: 'Apple Podcasts app plays, lifetime, as of ' + apple.date + '; a subset of RSS downloads', plays: a.plays, listeners: a.listeners, engaged: a.engaged, consumption_pct: a.consumption_pct };

@@ -1,0 +1,594 @@
+{
+ "source": "Spotify for Creators audience exports",
+ "note": "Percentages are of Spotify listeners in the stated range. retention is the share of listeners from one week who listened the next.",
+ "geo": [
+  {
+   "range": {
+    "from": "2026-01-01",
+    "to": "2026-10-09"
+   },
+   "countries": {
+    "United States": 40.29,
+    "Australia": 33.18,
+    "Canada": 6.41,
+    "United Kingdom": 4.2,
+    "Germany": 1.72,
+    "India": 0.79,
+    "New Zealand": 0.78,
+    "Ireland": 0.67,
+    "Netherlands": 0.61,
+    "Israel": 0.59,
+    "South Africa": 0.55,
+    "Philippines": 0.54,
+    "Spain": 0.53,
+    "Brazil": 0.48,
+    "Malaysia": 0.42,
+    "Japan": 0.37,
+    "Czechia": 0.35,
+    "Portugal": 0.32,
+    "Thailand": 0.31,
+    "Austria": 0.3,
+    "Mexico": 0.29,
+    "Norway": 0.28,
+    "Poland": 0.28,
+    "Denmark": 0.26,
+    "Sweden": 0.25,
+    "Indonesia": 0.25,
+    "Belgium": 0.23,
+    "France": 0.23,
+    "United Arab Emirates": 0.23,
+    "Singapore": 0.22,
+    "Italy": 0.2,
+    "Switzerland": 0.2,
+    "Finland": 0.19,
+    "Greece": 0.18,
+    "Hong Kong": 0.17,
+    "Argentina": 0.17,
+    "China": 0.17,
+    "Kenya": 0.15,
+    "Lithuania": 0.13,
+    "Zambia": 0.12,
+    "Estonia": 0.11,
+    "Vietnam": 0.11,
+    "Nigeria": 0.1,
+    "Turkey": 0.1,
+    "Serbia": 0.09,
+    "Slovakia": 0.09,
+    "Morocco": 0.09,
+    "Puerto Rico": 0.08,
+    "Hungary": 0.08,
+    "Romania": 0.08,
+    "Ukraine": 0.08,
+    "Egypt": 0.08,
+    "Bolivia": 0.07,
+    "Chile": 0.07,
+    "Saudi Arabia": 0.07,
+    "Ecuador": 0.07,
+    "Peru": 0.07,
+    "Croatia": 0.06,
+    "Colombia": 0.06,
+    "Costa Rica": 0.06,
+    "Malta": 0.06,
+    "Dominican Republic": 0.05,
+    "Bulgaria": 0.04,
+    "Taiwan": 0.04,
+    "Panama": 0.04,
+    "Namibia": 0.04,
+    "Slovenia": 0.03,
+    "South Korea": 0.03,
+    "Latvia": 0.03,
+    "Mongolia": 0.03,
+    "Iceland": 0.02,
+    "Zimbabwe": 0.02,
+    "Russia": 0.02,
+    "Luxembourg": 0.02,
+    "Cyprus": 0.02,
+    "Algeria": 0.02,
+    "Myanmar": 0.02,
+    "Mauritius": 0.02,
+    "Samoa": 0.02,
+    "Oman": 0.02,
+    "Guatemala": 0.02,
+    "Kosovo": 0.02,
+    "Isle of Man": 0.01,
+    "Albania": 0.01,
+    "Jamaica": 0.01,
+    "Sierra Leone": 0.01,
+    "Kazakhstan": 0.01,
+    "Lebanon": 0.01,
+    "North Macedonia": 0.01,
+    "Iraq": 0.01,
+    "Antarctica": 0.01,
+    "Bermuda": 0.01,
+    "Brunei": 0.01,
+    "Sint Maarten": 0.01,
+    "Cameroon": 0.01,
+    "Liechtenstein": 0.01,
+    "Trinidad and Tobago": 0.01,
+    "Tanzania": 0.01,
+    "Uruguay": 0.01,
+    "Guernsey": 0.01,
+    "Ghana": 0.01,
+    "Guadeloupe": 0.01
+   }
+  }
+ ],
+ "gender": [
+  {
+   "range": {
+    "from": "2026-01-01",
+    "to": "2026-10-09"
+   },
+   "pct": {
+    "male": 8.66,
+    "female": 86.03,
+    "non_binary": 1.7,
+    "not_specified": 3.61
+   }
+  },
+  {
+   "range": {
+    "all_time": true,
+    "exported": "2026-10-09"
+   },
+   "pct": {
+    "male": 10.61,
+    "female": 84.81,
+    "non_binary": 0.96,
+    "not_specified": 3.62
+   }
+  }
+ ],
+ "age_gender": [
+  {
+   "range": {
+    "from": "2026-01-01",
+    "to": "2026-10-09"
+   },
+   "rows": [
+    {
+     "age": "0-17",
+     "total_pct": 5.21,
+     "male_pct": 0.14,
+     "female_pct": 4.46,
+     "non_binary_pct": 0.01,
+     "not_specified_pct": 0.6
+    },
+    {
+     "age": "18-22",
+     "total_pct": 10.64,
+     "male_pct": 1.61,
+     "female_pct": 8.47,
+     "non_binary_pct": 0.12,
+     "not_specified_pct": 0.45
+    },
+    {
+     "age": "23-27",
+     "total_pct": 41.94,
+     "male_pct": 1.25,
+     "female_pct": 39.92,
+     "non_binary_pct": 0.09,
+     "not_specified_pct": 0.68
+    },
+    {
+     "age": "28-34",
+     "total_pct": 10.91,
+     "male_pct": 1.25,
+     "female_pct": 8,
+     "non_binary_pct": 1.41,
+     "not_specified_pct": 0.25
+    },
+    {
+     "age": "35-44",
+     "total_pct": 10.83,
+     "male_pct": 1.66,
+     "female_pct": 8.32,
+     "non_binary_pct": 0.02,
+     "not_specified_pct": 0.84
+    },
+    {
+     "age": "45-59",
+     "total_pct": 18.11,
+     "male_pct": 2.23,
+     "female_pct": 15.21,
+     "non_binary_pct": 0.03,
+     "not_specified_pct": 0.64
+    },
+    {
+     "age": "60+",
+     "total_pct": 2.22,
+     "male_pct": 0.54,
+     "female_pct": 1.64,
+     "non_binary_pct": 0.03,
+     "not_specified_pct": 0.01
+    },
+    {
+     "age": "Unknown",
+     "total_pct": 0.15,
+     "male_pct": 0,
+     "female_pct": 0,
+     "non_binary_pct": 0,
+     "not_specified_pct": 0.15
+    }
+   ]
+  },
+  {
+   "range": {
+    "all_time": true,
+    "exported": "2026-10-09"
+   },
+   "rows": [
+    {
+     "age": "0-17",
+     "total_pct": 11.38,
+     "male_pct": 0.59,
+     "female_pct": 9.73,
+     "non_binary_pct": 0.02,
+     "not_specified_pct": 1.03
+    },
+    {
+     "age": "18-22",
+     "total_pct": 16.54,
+     "male_pct": 1.55,
+     "female_pct": 14.33,
+     "non_binary_pct": 0.27,
+     "not_specified_pct": 0.4
+    },
+    {
+     "age": "23-27",
+     "total_pct": 24.76,
+     "male_pct": 1.39,
+     "female_pct": 22.68,
+     "non_binary_pct": 0.12,
+     "not_specified_pct": 0.58
+    },
+    {
+     "age": "28-34",
+     "total_pct": 10.11,
+     "male_pct": 1.27,
+     "female_pct": 8.23,
+     "non_binary_pct": 0.37,
+     "not_specified_pct": 0.24
+    },
+    {
+     "age": "35-44",
+     "total_pct": 13.18,
+     "male_pct": 1.82,
+     "female_pct": 10.63,
+     "non_binary_pct": 0.04,
+     "not_specified_pct": 0.69
+    },
+    {
+     "age": "45-59",
+     "total_pct": 21.59,
+     "male_pct": 3.29,
+     "female_pct": 17.68,
+     "non_binary_pct": 0.05,
+     "not_specified_pct": 0.56
+    },
+    {
+     "age": "60+",
+     "total_pct": 2.4,
+     "male_pct": 0.71,
+     "female_pct": 1.52,
+     "non_binary_pct": 0.08,
+     "not_specified_pct": 0.09
+    },
+    {
+     "age": "Unknown",
+     "total_pct": 0.04,
+     "male_pct": 0,
+     "female_pct": 0,
+     "non_binary_pct": 0,
+     "not_specified_pct": 0.04
+    }
+   ]
+  }
+ ],
+ "retention_weekly": [
+  {
+   "range": {
+    "from": "2026-01-01",
+    "to": "2026-10-09"
+   },
+   "weeks": {
+    "2026-01-01": 16.22,
+    "2026-01-08": 14.77,
+    "2026-01-15": 20.3,
+    "2026-01-22": 16.54,
+    "2026-01-29": 15,
+    "2026-02-05": 18.13,
+    "2026-02-12": 14.12,
+    "2026-02-19": 20.47,
+    "2026-02-26": 15.17,
+    "2026-03-05": 13.21,
+    "2026-03-12": 12.07,
+    "2026-03-19": 15.31,
+    "2026-03-26": 15.2,
+    "2026-04-02": 14.72,
+    "2026-04-09": 14.98,
+    "2026-04-16": 12.44,
+    "2026-04-23": 7.57,
+    "2026-04-30": 14.97,
+    "2026-05-07": 8.87,
+    "2026-05-14": 10.17,
+    "2026-05-21": 10.91,
+    "2026-05-28": 10.87,
+    "2026-06-04": 9.89,
+    "2026-06-11": 12.86,
+    "2026-06-18": 9.23,
+    "2026-06-25": 14.29,
+    "2026-07-02": 9.09,
+    "2026-07-09": 15.31,
+    "2026-07-16": 15.24,
+    "2026-07-23": 13.25,
+    "2026-07-30": 18.75,
+    "2026-08-06": 12.7,
+    "2026-08-13": 11.43,
+    "2026-08-20": 18.42,
+    "2026-08-27": 20.24,
+    "2026-09-03": 17.65,
+    "2026-09-10": 11.34,
+    "2026-09-17": 10.48,
+    "2026-09-24": 12.63,
+    "2026-10-01": 8.22
+   }
+  }
+ ],
+ "top_impressions": [
+  {
+   "range": {
+    "from": "2026-07-10",
+    "to": "2026-10-07"
+   },
+   "episodes": [
+    {
+     "title": "258. why you never feel good enough (even when you're doing everything right) dr. marisa g franco",
+     "spotify_id": "2s6pA3uJe1xnNkBcZcFsmn",
+     "total": 9665,
+     "home": 7447,
+     "search": 1747,
+     "library": 471,
+     "other": 0
+    },
+    {
+     "title": "257. why you can be loved and still feel unlovable (feat. dr. marisa franco)",
+     "spotify_id": "3N6mT8nd2oI1s134mOPy4K",
+     "total": 5425,
+     "home": 3164,
+     "search": 1811,
+     "library": 450,
+     "other": 0
+    },
+    {
+     "title": "259. why you feel LOST after graduation (what actually helps!)",
+     "spotify_id": "15BByd5sKtLJt0rXfvORCB",
+     "total": 3680,
+     "home": 1934,
+     "search": 1385,
+     "library": 361,
+     "other": 0
+    },
+    {
+     "title": "261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)",
+     "spotify_id": "5VcM0aprCEqJIxaUlWUEVp",
+     "total": 3295,
+     "home": 2171,
+     "search": 714,
+     "library": 410,
+     "other": 0
+    },
+    {
+     "title": "260. you don’t have to be in crisis to need help (feat. hailey hardcastle)",
+     "spotify_id": "5DrxY9UXdSOIRRM6Z2brXl",
+     "total": 2937,
+     "home": 1910,
+     "search": 668,
+     "library": 359,
+     "other": 0
+    },
+    {
+     "title": "262. your life isn’t going to feel like this forever (feat. dr. blaise aguirre)",
+     "spotify_id": "4YeOmGVKFuZi08mM9vAC6v",
+     "total": 2795,
+     "home": 2072,
+     "search": 480,
+     "library": 243,
+     "other": 0
+    },
+    {
+     "title": "256. 10 years of therapy in 20 minutes (what i wish i learned sooner!)",
+     "spotify_id": "0o8Y0byfjqLIoJcnHFu1MW",
+     "total": 1676,
+     "home": 694,
+     "search": 728,
+     "library": 254,
+     "other": 0
+    },
+    {
+     "title": "263. what i wish i knew when i didn’t want to be alive",
+     "spotify_id": "4BQI8IiXJVoZ5urIraUTpb",
+     "total": 1615,
+     "home": 1203,
+     "search": 270,
+     "library": 142,
+     "other": 0
+    },
+    {
+     "title": "254. how to help someone who doesn’t want help (without making it worse)",
+     "spotify_id": "6Wh5W8LcCgBLddOljyBuwH",
+     "total": 1173,
+     "home": 420,
+     "search": 616,
+     "library": 137,
+     "other": 0
+    },
+    {
+     "title": "255. why it’s so hard to ask for help (and how to start!)",
+     "spotify_id": "5hrVaJ5Uyo1KOMy4hPVsnv",
+     "total": 1122,
+     "home": 449,
+     "search": 505,
+     "library": 168,
+     "other": 0
+    }
+   ]
+  }
+ ],
+ "top_consumption_hours_all_time": [
+  {
+   "title": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
+   "spotify_id": "5NwHcdNMfGMBlj9dYm1maJ",
+   "value": 212.08
+  },
+  {
+   "title": "80. Surviving Teenage Depression + Anxiety: FAQs, Intensive Treatment, DBT, Coping Skills, + More",
+   "spotify_id": "6ATWHdOIm0YZEltoXilPHA",
+   "value": 153.65
+  },
+  {
+   "title": "86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen",
+   "spotify_id": "3AzOrC0X2MPJeD2O9OrqSk",
+   "value": 152.43
+  },
+  {
+   "title": "77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment",
+   "spotify_id": "3B8YvSncJoErl1uCKGjCEP",
+   "value": 76.5
+  },
+  {
+   "title": "242. for anyone who thinks they’ll never get better (my mental health story)",
+   "spotify_id": "5HLdYNDzYMjl2SL1T3LtEj",
+   "value": 75.23
+  },
+  {
+   "title": "180. All About ADHD: Symptoms, Misconceptions, Diagnosis, & More feat. Dr. Roberto Olivardia",
+   "spotify_id": "5HYSQXSLVumWJpTQ61pTOa",
+   "value": 74.41
+  },
+  {
+   "title": "104. Sleep Deprivation, Insomnia, + Night Routine Tips for Teens feat. Generation Sleepless Authors Heather Turgeon + Julie Wright",
+   "spotify_id": "2DbZiJcIygvNpOuReVnwu9",
+   "value": 71.95
+  },
+  {
+   "title": "113. How to Make New Friends, Overcome Loneliness, + Combat Social Anxiety with Friendship Expert Dr. Marisa Franco",
+   "spotify_id": "6D6UEtfi5Z7uslrPY2ghNs",
+   "value": 71.43
+  },
+  {
+   "title": "132. 10 Coping Skills You NEED to Know - DBT Education",
+   "spotify_id": "5a88lrAhJ7suHYPkcS2Esu",
+   "value": 70.94
+  },
+  {
+   "title": "114. SUICIDE PREVENTION: My Experience, Crisis Survival Skills, + Long-Term Recovery",
+   "spotify_id": "6XO48aeU3NXSCHYVa6GZkh",
+   "value": 69.02
+  }
+ ],
+ "top_avg_consumption_hours_all_time": [
+  {
+   "title": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
+   "spotify_id": "5NwHcdNMfGMBlj9dYm1maJ",
+   "value": 212.08
+  },
+  {
+   "title": "80. Surviving Teenage Depression + Anxiety: FAQs, Intensive Treatment, DBT, Coping Skills, + More",
+   "spotify_id": "6ATWHdOIm0YZEltoXilPHA",
+   "value": 153.65
+  },
+  {
+   "title": "86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen",
+   "spotify_id": "3AzOrC0X2MPJeD2O9OrqSk",
+   "value": 152.43
+  },
+  {
+   "title": "77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment",
+   "spotify_id": "3B8YvSncJoErl1uCKGjCEP",
+   "value": 76.5
+  },
+  {
+   "title": "242. for anyone who thinks they’ll never get better (my mental health story)",
+   "spotify_id": "5HLdYNDzYMjl2SL1T3LtEj",
+   "value": 75.23
+  },
+  {
+   "title": "180. All About ADHD: Symptoms, Misconceptions, Diagnosis, & More feat. Dr. Roberto Olivardia",
+   "spotify_id": "5HYSQXSLVumWJpTQ61pTOa",
+   "value": 74.41
+  },
+  {
+   "title": "104. Sleep Deprivation, Insomnia, + Night Routine Tips for Teens feat. Generation Sleepless Authors Heather Turgeon + Julie Wright",
+   "spotify_id": "2DbZiJcIygvNpOuReVnwu9",
+   "value": 71.95
+  },
+  {
+   "title": "113. How to Make New Friends, Overcome Loneliness, + Combat Social Anxiety with Friendship Expert Dr. Marisa Franco",
+   "spotify_id": "6D6UEtfi5Z7uslrPY2ghNs",
+   "value": 71.43
+  },
+  {
+   "title": "132. 10 Coping Skills You NEED to Know - DBT Education",
+   "spotify_id": "5a88lrAhJ7suHYPkcS2Esu",
+   "value": 70.94
+  },
+  {
+   "title": "114. SUICIDE PREVENTION: My Experience, Crisis Survival Skills, + Long-Term Recovery",
+   "spotify_id": "6XO48aeU3NXSCHYVa6GZkh",
+   "value": 69.02
+  }
+ ],
+ "top_comments_all_time": [
+  {
+   "title": "232. your school friends matter… here’s why & how to make them",
+   "spotify_id": "57RTMWnyxRhQDxLZuTyHIW",
+   "value": 4
+  },
+  {
+   "title": "230. a mental health plan you can actually follow",
+   "spotify_id": "4bGX2tErjbvIXxa3G0KQq2",
+   "value": 4
+  },
+  {
+   "title": "224. stop ‘shoulding’ + shaming yourself",
+   "spotify_id": "5ETVDRvkK2EvfKJVro6uhy",
+   "value": 4
+  },
+  {
+   "title": "256. 10 years of therapy in 20 minutes (what i wish i learned sooner!)",
+   "spotify_id": "0o8Y0byfjqLIoJcnHFu1MW",
+   "value": 2
+  },
+  {
+   "title": "250. why high achievers still struggle with mental health",
+   "spotify_id": "7agZpQp0uIkMcko2AelqXP",
+   "value": 2
+  },
+  {
+   "title": "249. what to do during a panic attack (when nothing else works!!)",
+   "spotify_id": "6DYT6BzNLDgW8wTSbrTLkS",
+   "value": 2
+  },
+  {
+   "title": "242. for anyone who thinks they’ll never get better (my mental health story)",
+   "spotify_id": "5HLdYNDzYMjl2SL1T3LtEj",
+   "value": 2
+  },
+  {
+   "title": "241. why you feel RESENTFUL (& how to stop)",
+   "spotify_id": "7aLOPB7fR2hJCjO7P0ONAh",
+   "value": 2
+  },
+  {
+   "title": "240. why you keep choosing the wrong people (and how to stop) with dr. molly burrets",
+   "spotify_id": "3BNRX81eWpFNA53vchJHIm",
+   "value": 2
+  },
+  {
+   "title": "221. two psych majors tell ALL: GPAs, grad school, & so much more!",
+   "spotify_id": "3rikB7yAT0b6EKiLRs4UEK",
+   "value": 2
+  }
+ ]
+}

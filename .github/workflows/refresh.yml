@@ -58,6 +58,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       - run: node scripts/analytics-import.js
       - run: node scripts/analytics-apple.js
+      - run: node scripts/analytics-spotify.js
       - run: node scripts/quotes-issue.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

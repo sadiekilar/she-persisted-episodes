@@ -1,0 +1,576 @@
+{
+ "source": "rolled up from show-daily.json",
+ "note": "Spotify plays only. The last month is partial. listeners_new/returning are day-level sums (a listener active on several days is counted each day).",
+ "months": {
+  "2019-07": {
+   "plays": 24,
+   "consumption_hours": 4.93,
+   "days": 21,
+   "followers_end": 11
+  },
+  "2019-08": {
+   "plays": 28,
+   "consumption_hours": 3.19,
+   "days": 31,
+   "followers_end": 16
+  },
+  "2019-09": {
+   "plays": 70,
+   "consumption_hours": 6.91,
+   "days": 30,
+   "followers_end": 25
+  },
+  "2019-10": {
+   "plays": 78,
+   "consumption_hours": 5.09,
+   "days": 31,
+   "followers_end": 38
+  },
+  "2019-11": {
+   "plays": 49,
+   "consumption_hours": 2.36,
+   "days": 30,
+   "followers_end": 45
+  },
+  "2019-12": {
+   "plays": 76,
+   "consumption_hours": 7.06,
+   "days": 31,
+   "followers_end": 53
+  },
+  "2020-01": {
+   "plays": 37,
+   "consumption_hours": 2.88,
+   "days": 31,
+   "followers_end": 63
+  },
+  "2020-02": {
+   "plays": 71,
+   "consumption_hours": 7.91,
+   "days": 29,
+   "followers_end": 70
+  },
+  "2020-03": {
+   "plays": 84,
+   "consumption_hours": 15.88,
+   "days": 31,
+   "followers_end": 79
+  },
+  "2020-04": {
+   "plays": 417,
+   "consumption_hours": 40.28,
+   "days": 30,
+   "followers_end": 92
+  },
+  "2020-05": {
+   "plays": 576,
+   "consumption_hours": 67.07,
+   "days": 31,
+   "followers_end": 140
+  },
+  "2020-06": {
+   "plays": 207,
+   "consumption_hours": 25.21,
+   "days": 30,
+   "followers_end": 164
+  },
+  "2020-07": {
+   "plays": 274,
+   "consumption_hours": 36.87,
+   "days": 31,
+   "followers_end": 196
+  },
+  "2020-08": {
+   "plays": 316,
+   "consumption_hours": 40.19,
+   "days": 31,
+   "followers_end": 211
+  },
+  "2020-09": {
+   "plays": 371,
+   "consumption_hours": 96.38,
+   "days": 30,
+   "followers_end": 228
+  },
+  "2020-10": {
+   "plays": 185,
+   "consumption_hours": 36.57,
+   "days": 31,
+   "followers_end": 234
+  },
+  "2020-11": {
+   "plays": 175,
+   "consumption_hours": 37.97,
+   "days": 30,
+   "followers_end": 245
+  },
+  "2020-12": {
+   "plays": 186,
+   "consumption_hours": 33.02,
+   "days": 31,
+   "followers_end": 266
+  },
+  "2021-01": {
+   "plays": 215,
+   "consumption_hours": 34.12,
+   "days": 31,
+   "followers_end": 283
+  },
+  "2021-02": {
+   "plays": 277,
+   "consumption_hours": 40.57,
+   "days": 28,
+   "followers_end": 307
+  },
+  "2021-03": {
+   "plays": 258,
+   "consumption_hours": 38.04,
+   "days": 31,
+   "followers_end": 329
+  },
+  "2021-04": {
+   "plays": 389,
+   "consumption_hours": 58.02,
+   "days": 30,
+   "followers_end": 356
+  },
+  "2021-05": {
+   "plays": 559,
+   "consumption_hours": 88.33,
+   "days": 31,
+   "followers_end": 391
+  },
+  "2021-06": {
+   "plays": 421,
+   "consumption_hours": 70.47,
+   "days": 30,
+   "followers_end": 398
+  },
+  "2021-07": {
+   "plays": 262,
+   "consumption_hours": 45.01,
+   "days": 31,
+   "followers_end": 403
+  },
+  "2021-08": {
+   "plays": 300,
+   "consumption_hours": 48.71,
+   "days": 31,
+   "followers_end": 410
+  },
+  "2021-09": {
+   "plays": 286,
+   "consumption_hours": 36.88,
+   "days": 30,
+   "followers_end": 439
+  },
+  "2021-10": {
+   "plays": 374,
+   "consumption_hours": 65.86,
+   "days": 31,
+   "followers_end": 450
+  },
+  "2021-11": {
+   "plays": 428,
+   "consumption_hours": 78.28,
+   "days": 30,
+   "followers_end": 496
+  },
+  "2021-12": {
+   "plays": 224,
+   "consumption_hours": 39.53,
+   "days": 31,
+   "followers_end": 496
+  },
+  "2022-01": {
+   "plays": 334,
+   "consumption_hours": 61.71,
+   "days": 31,
+   "followers_end": 527
+  },
+  "2022-02": {
+   "plays": 422,
+   "consumption_hours": 72.34,
+   "days": 28,
+   "followers_end": 555
+  },
+  "2022-03": {
+   "plays": 521,
+   "consumption_hours": 111.33,
+   "days": 31,
+   "followers_end": 594
+  },
+  "2022-04": {
+   "plays": 728,
+   "consumption_hours": 145.05,
+   "days": 30,
+   "followers_end": 635
+  },
+  "2022-05": {
+   "plays": 750,
+   "consumption_hours": 145.96,
+   "days": 31,
+   "followers_end": 675
+  },
+  "2022-06": {
+   "plays": 656,
+   "consumption_hours": 136.97,
+   "days": 30,
+   "followers_end": 722
+  },
+  "2022-07": {
+   "plays": 560,
+   "consumption_hours": 115.81,
+   "days": 31,
+   "followers_end": 788
+  },
+  "2022-08": {
+   "plays": 894,
+   "consumption_hours": 195.42,
+   "days": 31,
+   "followers_end": 889
+  },
+  "2022-09": {
+   "plays": 948,
+   "consumption_hours": 224.65,
+   "days": 30,
+   "followers_end": 936
+  },
+  "2022-10": {
+   "plays": 881,
+   "consumption_hours": 166.41,
+   "days": 31,
+   "followers_end": 995
+  },
+  "2022-11": {
+   "plays": 651,
+   "consumption_hours": 116.27,
+   "days": 30,
+   "followers_end": 1025
+  },
+  "2022-12": {
+   "plays": 570,
+   "consumption_hours": 94.19,
+   "days": 31,
+   "followers_end": 1052
+  },
+  "2023-01": {
+   "plays": 1156,
+   "consumption_hours": 204.19,
+   "days": 31,
+   "followers_end": 1150
+  },
+  "2023-02": {
+   "plays": 1238,
+   "consumption_hours": 251.42,
+   "days": 28,
+   "followers_end": 1244
+  },
+  "2023-03": {
+   "plays": 1470,
+   "consumption_hours": 271.64,
+   "days": 31,
+   "followers_end": 1338
+  },
+  "2023-04": {
+   "plays": 1138,
+   "consumption_hours": 177.65,
+   "days": 30,
+   "followers_end": 1403
+  },
+  "2023-05": {
+   "plays": 1301,
+   "consumption_hours": 245.69,
+   "days": 31,
+   "followers_end": 1462
+  },
+  "2023-06": {
+   "plays": 551,
+   "consumption_hours": 99.84,
+   "days": 30,
+   "followers_end": 1505
+  },
+  "2023-07": {
+   "plays": 514,
+   "consumption_hours": 100.06,
+   "days": 31,
+   "followers_end": 1521
+  },
+  "2023-08": {
+   "plays": 771,
+   "consumption_hours": 137.57,
+   "days": 31,
+   "followers_end": 1573
+  },
+  "2023-09": {
+   "plays": 920,
+   "consumption_hours": 184.18,
+   "days": 30,
+   "followers_end": 1635
+  },
+  "2023-10": {
+   "plays": 797,
+   "consumption_hours": 184.48,
+   "days": 31,
+   "followers_end": 1687
+  },
+  "2023-11": {
+   "plays": 798,
+   "consumption_hours": 168.05,
+   "days": 30,
+   "followers_end": 1753
+  },
+  "2023-12": {
+   "plays": 726,
+   "consumption_hours": 147.31,
+   "days": 31,
+   "followers_end": 1791
+  },
+  "2024-01": {
+   "plays": 821,
+   "consumption_hours": 177.86,
+   "days": 31,
+   "followers_end": 1874
+  },
+  "2024-02": {
+   "plays": 751,
+   "consumption_hours": 170.6,
+   "days": 29,
+   "followers_end": 1919
+  },
+  "2024-03": {
+   "plays": 920,
+   "consumption_hours": 185.3,
+   "days": 31,
+   "followers_end": 1975
+  },
+  "2024-04": {
+   "plays": 714,
+   "consumption_hours": 157.35,
+   "days": 30,
+   "followers_end": 2014
+  },
+  "2024-05": {
+   "plays": 730,
+   "consumption_hours": 173.82,
+   "days": 31,
+   "followers_end": 2042
+  },
+  "2024-06": {
+   "plays": 705,
+   "consumption_hours": 145.87,
+   "days": 30,
+   "followers_end": 2067
+  },
+  "2024-07": {
+   "plays": 687,
+   "consumption_hours": 125.41,
+   "days": 31,
+   "followers_end": 2094
+  },
+  "2024-08": {
+   "plays": 812,
+   "consumption_hours": 151.78,
+   "days": 31,
+   "followers_end": 2134
+  },
+  "2024-09": {
+   "plays": 887,
+   "consumption_hours": 223.55,
+   "days": 30,
+   "followers_end": 2149
+  },
+  "2024-10": {
+   "plays": 881,
+   "consumption_hours": 202.66,
+   "days": 31,
+   "followers_end": 2178
+  },
+  "2024-11": {
+   "plays": 898,
+   "consumption_hours": 246.05,
+   "days": 30,
+   "followers_end": 2211
+  },
+  "2024-12": {
+   "plays": 726,
+   "consumption_hours": 156.09,
+   "days": 31,
+   "followers_end": 2234
+  },
+  "2025-01": {
+   "plays": 1042,
+   "consumption_hours": 188.12,
+   "days": 31,
+   "followers_end": 2284
+  },
+  "2025-02": {
+   "plays": 952,
+   "consumption_hours": 177.01,
+   "days": 28,
+   "followers_end": 2301
+  },
+  "2025-03": {
+   "plays": 1011,
+   "consumption_hours": 180.08,
+   "days": 31,
+   "followers_end": 2344
+  },
+  "2025-04": {
+   "plays": 1152,
+   "consumption_hours": 163.99,
+   "days": 30,
+   "followers_end": 2395,
+   "listeners_new": 319,
+   "listeners_returning": 298
+  },
+  "2025-05": {
+   "plays": 1218,
+   "consumption_hours": 182.04,
+   "days": 31,
+   "followers_end": 2439,
+   "listeners_new": 364,
+   "listeners_returning": 260
+  },
+  "2025-06": {
+   "plays": 1099,
+   "consumption_hours": 173.89,
+   "days": 30,
+   "followers_end": 2489,
+   "listeners_new": 310,
+   "listeners_returning": 262
+  },
+  "2025-07": {
+   "plays": 1176,
+   "consumption_hours": 167.82,
+   "days": 31,
+   "followers_end": 2565,
+   "listeners_new": 337,
+   "listeners_returning": 264
+  },
+  "2025-08": {
+   "plays": 1662,
+   "consumption_hours": 295.8,
+   "days": 31,
+   "followers_end": 2640,
+   "listeners_new": 455,
+   "listeners_returning": 363
+  },
+  "2025-09": {
+   "plays": 2272,
+   "consumption_hours": 539.14,
+   "days": 30,
+   "followers_end": 2701,
+   "listeners_new": 578,
+   "listeners_returning": 429
+  },
+  "2025-10": {
+   "plays": 2476,
+   "consumption_hours": 497.18,
+   "days": 31,
+   "followers_end": 2739,
+   "listeners_new": 743,
+   "listeners_returning": 472
+  },
+  "2025-11": {
+   "plays": 1913,
+   "consumption_hours": 467.36,
+   "days": 30,
+   "followers_end": 2788,
+   "listeners_new": 435,
+   "listeners_returning": 346
+  },
+  "2025-12": {
+   "plays": 2158,
+   "consumption_hours": 486.1,
+   "days": 31,
+   "followers_end": 2835,
+   "listeners_new": 494,
+   "listeners_returning": 422
+  },
+  "2026-01": {
+   "plays": 2218,
+   "consumption_hours": 504.62,
+   "days": 31,
+   "followers_end": 2890,
+   "listeners_new": 445,
+   "listeners_returning": 420
+  },
+  "2026-02": {
+   "plays": 2431,
+   "consumption_hours": 514.76,
+   "days": 28,
+   "followers_end": 2952,
+   "listeners_new": 464,
+   "listeners_returning": 531
+  },
+  "2026-03": {
+   "plays": 2898,
+   "consumption_hours": 598.14,
+   "days": 31,
+   "followers_end": 3048,
+   "listeners_new": 666,
+   "listeners_returning": 561
+  },
+  "2026-04": {
+   "plays": 2874,
+   "consumption_hours": 574.97,
+   "days": 30,
+   "followers_end": 3109,
+   "listeners_new": 704,
+   "listeners_returning": 605
+  },
+  "2026-05": {
+   "plays": 1881,
+   "consumption_hours": 426.49,
+   "days": 31,
+   "followers_end": 3164,
+   "listeners_new": 424,
+   "listeners_returning": 330
+  },
+  "2026-06": {
+   "plays": 1301,
+   "consumption_hours": 377.48,
+   "days": 30,
+   "followers_end": 3193,
+   "listeners_new": 260,
+   "listeners_returning": 204
+  },
+  "2026-07": {
+   "plays": 1200,
+   "consumption_hours": 338.67,
+   "days": 31,
+   "followers_end": 3234,
+   "listeners_new": 281,
+   "listeners_returning": 251,
+   "impressions": 17551
+  },
+  "2026-08": {
+   "plays": 1407,
+   "consumption_hours": 431.55,
+   "days": 31,
+   "followers_end": 3282,
+   "impressions": 23632,
+   "listeners_new": 243,
+   "listeners_returning": 231
+  },
+  "2026-09": {
+   "plays": 1628,
+   "consumption_hours": 455.58,
+   "days": 30,
+   "followers_end": 3330,
+   "impressions": 26992,
+   "listeners_new": 347,
+   "listeners_returning": 306
+  },
+  "2026-10": {
+   "plays": 354,
+   "consumption_hours": 117.95,
+   "days": 9,
+   "followers_end": 3336,
+   "impressions": 5285,
+   "listeners_new": 58,
+   "listeners_returning": 63
+  }
+ }
+}
