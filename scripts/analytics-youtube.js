@@ -47,6 +47,10 @@ function derive(episodes, minis) {
   const inPlaylist = new Set(latest._playlist || []);
   const at = (daysAgo) => { const target = new Date(Date.now() - daysAgo * 86400e3).toISOString().slice(0, 10); const f = [...files].reverse().find((x) => x.slice(0, 10) <= target); return f ? load(f) : null; };
   const d7 = at(7), d30 = at(30), d90 = at(90);
+  // Apple Podcasts Connect lifetime figures (analytics-apple.js): latest all-time snapshot, app-side plays only
+  const appleDir = path.join(path.dirname(SNAP_DIR), 'apple');
+  const appleFiles = fs.existsSync(appleDir) ? fs.readdirSync(appleDir).filter((f) => /^\d{4}-\d{2}-\d{2}-all-time\.json$/.test(f)).sort() : [];
+  const apple = appleFiles.length ? JSON.parse(fs.readFileSync(path.join(appleDir, appleFiles[appleFiles.length - 1]), 'utf8')) : null;
   const sum = (snap, ids, k) => ids.reduce((a, id) => a + ((snap && snap[id] && snap[id][k]) || 0), 0);
   const rows = episodes.map((e) => {
     const m = e.meta;
@@ -55,6 +59,8 @@ function derive(episodes, minis) {
     const miniIds = minis.filter((x) => x.parent === m.number && x.youtube_id).map((x) => x.youtube_id);
     const row = { number: m.number, date: String(m.date || '').slice(0, 10), youtube: { in_playlist: video.length > 0, views: sum(latest, video, 'v'), likes: sum(latest, video, 'l'), comments: sum(latest, video, 'c') }, clips: { note: 'shorts: not plays or downloads', count: shorts.length, views: sum(latest, shorts, 'v') }, minis: { count: miniIds.length, views: sum(latest, miniIds, 'v') } };
     for (const [k, snap] of [['7d', d7], ['30d', d30], ['90d', d90]]) if (snap) row.youtube['views_' + k] = row.youtube.views - sum(snap, video, 'v');
+    const a = apple && apple.episodes[String(m.number)];
+    if (a) row.apple = { note: 'Apple Podcasts app plays, lifetime, as of ' + apple.date + '; a subset of RSS downloads', plays: a.plays, listeners: a.listeners, engaged: a.engaged, consumption_pct: a.consumption_pct };
     return row;
   });
   return { generatedAt: new Date().toISOString(), rule: 'youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads', playlist: PLAYLIST, snapshots: files.length, first: files[0].slice(0, 10), latest: files[files.length - 1].slice(0, 10), episodes: rows };
