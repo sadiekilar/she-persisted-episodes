@@ -30,6 +30,6 @@
 - a657a725fd4d58d1: 2024-06-24 Two Quick Tricks to Prevent a Panic Attack! (video) → 138
 - 979e1a49e27f91fb: 2024-06-17 5 Steps for Healing Your Hidden Depression in 5 Mins! (video) → 112
 - b49c8e9ef3166a56: 2024-06-04 What you need to know about ADHD... (video) → 142
-- 8b31d46bea74473e: 2024-05-27 How do I set boundaries? → 172
+- 8b31d46bea74473e: 2024-05-27 How do I set boundaries? (video) → 172
 
-Without a parent: none. Without a YouTube video: 3.
+Without a parent: none. Without a YouTube video: 2.

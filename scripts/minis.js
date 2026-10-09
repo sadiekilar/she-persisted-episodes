@@ -51,7 +51,10 @@ async function main() {
     const durRaw = tag(it, 'itunes:duration');
     const duration = /^\d+$/.test(durRaw) ? +durRaw : durRaw.split(':').reduce((a, b) => a * 60 + +b, 0) || null;
     const cleanTitle = title.replace(/^\s*mini:\s*/i, '').trim();
-    const ytMatch = yt.map((v) => ({ v, s: dice(norm(v.title), norm(cleanTitle)) })).sort((a, b) => b.s - a.s)[0];
+    // match the YouTube upload by title, else by publish date (titles sometimes differ between the feed and YouTube)
+    const pubDate = new Date(tag(it, 'pubDate')).toISOString().slice(0, 10);
+    let ytMatch = yt.map((v) => ({ v, s: dice(norm(v.title), norm(cleanTitle)) })).sort((a, b) => b.s - a.s)[0];
+    if (!(ytMatch && ytMatch.s >= 0.5)) { const sameDay = yt.find((v) => Math.abs(new Date(v.published) - new Date(pubDate)) < 3 * 86400e3); if (sameDay) ytMatch = { v: sameDay, s: 1 }; }
     const blurb = (/in this mini[- ]episode,?\s*(.*?)(?:\s+to listen to the full episode|$)/i.exec(text) || [])[1] || '';
     minis.push({
       id, title: cleanTitle, date: new Date(tag(it, 'pubDate')).toISOString().slice(0, 10), duration_sec: duration,
