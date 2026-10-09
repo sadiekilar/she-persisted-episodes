@@ -1,0 +1,662 @@
+{
+ "source": "Apple Podcasts Connect ratings & reviews CSV export (written reviews only; star ratings without text are not exported)",
+ "countries": [
+  "US"
+ ],
+ "count": 71,
+ "average_rating": 5,
+ "by_rating": {
+  "5": 71
+ },
+ "by_year": {
+  "2019": 4,
+  "2020": 17,
+  "2021": 17,
+  "2022": 14,
+  "2023": 5,
+  "2024": 8,
+  "2025": 3,
+  "2026": 3
+ },
+ "reviews": [
+  {
+   "id": "14604265393",
+   "country": "US",
+   "date": "2026-09-28",
+   "rating": 5,
+   "title": "Excellent Firsthand Knowledge",
+   "review": "This podcast is very good. Ms. Sutton tells her experience with depression and anxiety and feeling hopeless. She describes seasons when she was able and unable to ask for and receive help.",
+   "user": "Hdsporter"
+  },
+  {
+   "id": "14194685971",
+   "country": "US",
+   "date": "2026-06-17",
+   "rating": 5,
+   "title": "She Persisted",
+   "review": "I love this podcast SO much! I have a hard time feeling loved by everyone around me but this podcast really helps me! I also know that God can help me too! I love this podcast and love your story and journey! Thank you so much, Sadie!♥️",
+   "user": "RyleeChurchill5"
+  },
+  {
+   "id": "13748998957",
+   "country": "US",
+   "date": "2026-02-14",
+   "rating": 5,
+   "title": "Very helpful",
+   "review": "I am currently recovering from a week long stay in a mental health facility after experiencing sleep deprivation brought on by PTSD and this really helped to hear… I keep struggling with not understanding why I still feel so scared and uncomfortable but doing this practice will make me clearly see my brain and body are recovering from serious trauma … the more I force  “feeling better” the harder this will be … I need to keep track of when I feel those moments of relief… even if they only last a short while♥️",
+   "user": "Haley RiAnne"
+  },
+  {
+   "id": "13051605828",
+   "country": "US",
+   "date": "2025-08-23",
+   "rating": 5,
+   "title": "I dont know if you read these but AMAZING work!!",
+   "review": "Thank you so much for this podcast, it has become one of my main coping mechanisms for school and family related stress. My friends and I love this podcast and will listen to the episodes and talk about it together!!! Keep up the amazing work!!!",
+   "user": "shark~teeth~girl"
+  },
+  {
+   "id": "12351353956",
+   "country": "US",
+   "date": "2025-02-25",
+   "rating": 5,
+   "title": "This is the best",
+   "review": "It’s helping me with my anxiety every time I listen to an episode it makes me more happier and healthier!",
+   "user": "Massey R"
+  },
+  {
+   "id": "12342898756",
+   "country": "US",
+   "date": "2025-02-22",
+   "rating": 5,
+   "title": "Me as a teen",
+   "review": "I love this podcast because not only does she share how she feels makes me understand as a teenager that it is ok to have emotions and that you need to express how you feel and I think that if more people watch/listen to this podcast than I think that more people would be able to express their emotions and how they feel",
+   "user": "Google all"
+  },
+  {
+   "id": "11470500829",
+   "country": "US",
+   "date": "2024-07-08",
+   "rating": 5,
+   "title": "Reaching those in need",
+   "review": "As a mother of teens/ young adults, I appreciate how Sadie provides meaningful guidance that is relatable for all ages. She and her guests have a wealth of personal, practical and professional insight that makes each episode a unique learning experience. I've recommended this podcast to many friends, and continue to believe that the open discussion of mental health issues that this show fosters will help to reach those hearts in need.",
+   "user": "wagginwendy"
+  },
+  {
+   "id": "11405067265",
+   "country": "US",
+   "date": "2024-06-21",
+   "rating": 5,
+   "title": "She Persisted Podcast",
+   "review": "I will never be more grateful to have just listened to this. The power her voice and the things she says has on one’s mind is extraordinary. If you are struggling in ANY way, I cannot recommend this podcast enough. I can’t wait to listen to more! Thank you so much for creating such a safe space for mental health and healing.",
+   "user": "TheMags1"
+  },
+  {
+   "id": "11253503515",
+   "country": "US",
+   "date": "2024-05-10",
+   "rating": 5,
+   "title": "❤️",
+   "review": "Thank you so much for the most awesome podcast!!!!\nKeep up the great work!",
+   "user": "DevSevS"
+  },
+  {
+   "id": "10986600000",
+   "country": "US",
+   "date": "2024-02-27",
+   "rating": 5,
+   "title": "Amazing!",
+   "review": "I have really bad depression at the age of 11 and this helps me a lot since I can’t talk about this stuff with my parents.",
+   "user": "tso ro"
+  },
+  {
+   "id": "10953833013",
+   "country": "US",
+   "date": "2024-02-18",
+   "rating": 5,
+   "title": "My go to!",
+   "review": "This show is my go to mental health podcast!!",
+   "user": "Splash of Ash"
+  },
+  {
+   "id": "10953996211",
+   "country": "US",
+   "date": "2024-02-18",
+   "rating": 5,
+   "title": "I mean I am shook",
+   "review": "Sadie is so intelligent and brings forth education, personal experience, and assistance to really changes your mental health. This is a great resource for someone who needs to hear this advice in a not medical only way.",
+   "user": "Marleyrosefreyganf"
+  },
+  {
+   "id": "10906204433",
+   "country": "US",
+   "date": "2024-02-05",
+   "rating": 5,
+   "title": "Love this",
+   "review": "Thus helps me so much. As a teen, speaking from experience, this podcast is great informationally, validating, and amazing. Would like to see some more content on mental disorders like autism/ADHD/bipolar etc how to handle as a teenager.",
+   "user": "Liveevee"
+  },
+  {
+   "id": "10868130872",
+   "country": "US",
+   "date": "2024-01-27",
+   "rating": 5,
+   "title": "Very calming!!!",
+   "review": "I’m a 14 year old who is struggling with anxiety and having a bad attitude. I saw this podcast recommended for me on a website and I thought I’d give it a go. This opened up some parts of my mind that I probably haven’t been to in a long time. I definitely will be listening to this podcast more often and work towards a better mindset!",
+   "user": "Mollie.d"
+  },
+  {
+   "id": "10505353862",
+   "country": "US",
+   "date": "2023-10-23",
+   "rating": 5,
+   "title": "Really great!",
+   "review": "Great resource. Good job!",
+   "user": "Simone O. Elias"
+  },
+  {
+   "id": "10333091721",
+   "country": "US",
+   "date": "2023-09-04",
+   "rating": 5,
+   "title": "Such an amazing podcast!",
+   "review": "This podcast helped me learn so much! My mental health is so much better than before, and I’m better with not procrastinating! This podcast also told me how to love myself, which almost instantly improved my life. Thank you so much Sadie, you are truly a role model and a hero.",
+   "user": "person_anonymous 61957"
+  },
+  {
+   "id": "10125695616",
+   "country": "US",
+   "date": "2023-07-10",
+   "rating": 5,
+   "title": "The podcast for EVERY teen!",
+   "review": "Sadie is such an inspiration and breaks down each concept so clearly! The guests she interviews are true experts, bringing a unique perspective to mental health. I always get excited when a new episode is posted ✨",
+   "user": "AnnaMade Design Co."
+  },
+  {
+   "id": "9744106984",
+   "country": "US",
+   "date": "2023-03-23",
+   "rating": 5,
+   "title": "The best",
+   "review": "even as a 31 year old, this is my favorite mental health podcast! ❤️",
+   "user": "thehonesttruthxx"
+  },
+  {
+   "id": "9501065888",
+   "country": "US",
+   "date": "2023-01-13",
+   "rating": 5,
+   "title": "Raw & Real",
+   "review": "Sadie’s experiences from the dark to the light are awe-inspiring. I love that she uses her most vulnerable moments to teach and share what she’s learned with her audience while staying curious. She’s her own heroine, that’s for sure!",
+   "user": "Stone-Faced"
+  },
+  {
+   "id": "9316945083",
+   "country": "US",
+   "date": "2022-11-22",
+   "rating": 5,
+   "title": "Thank you",
+   "review": "This podcast has been really helpful in self discovery and recovery. If you could make an episode on eating disorders, it would be really useful.",
+   "user": "witchcraft _sage"
+  },
+  {
+   "id": "9238214992",
+   "country": "US",
+   "date": "2022-10-30",
+   "rating": 5,
+   "title": "Awesome",
+   "review": "This podcast is really nice and I hope that they make a video about eating,eating disorders, nutrition and it’s important that would be helpful",
+   "user": "Lia The Tree Fairy"
+  },
+  {
+   "id": "9157407642",
+   "country": "US",
+   "date": "2022-10-06",
+   "rating": 5,
+   "title": "A Wonderful Resource!",
+   "review": "I love that it’s resource based and the guests Sadie brings on are amazing!",
+   "user": "Maddie Seal"
+  },
+  {
+   "id": "8775436762",
+   "country": "US",
+   "date": "2022-06-15",
+   "rating": 5,
+   "title": "Amazing resource",
+   "review": "Sadie is providing so many firsthand insights and has become a solid resource for me as a parent of a teen with many of the same issues. Whatever my teen goes through, Sadie’s been there. “She Persisted” is a gift!",
+   "user": "poke_ster"
+  },
+  {
+   "id": "8740144091",
+   "country": "US",
+   "date": "2022-06-04",
+   "rating": 5,
+   "title": "Inspiring and hopeful",
+   "review": "What a wonderful story!!!  Made me tear up!",
+   "user": "chris f dunn"
+  },
+  {
+   "id": "8734988284",
+   "country": "US",
+   "date": "2022-06-03",
+   "rating": 5,
+   "title": "Truly inspiring host!",
+   "review": "Sadie has had an amazing journey in her own mental health and understands what teens need to know to improve theirs. I’m WAY WAY past my teens and listen regularly!",
+   "user": "annattorney"
+  },
+  {
+   "id": "8731837708",
+   "country": "US",
+   "date": "2022-06-02",
+   "rating": 5,
+   "title": "Excellent resource for teens, parents and teachers!",
+   "review": "As a middle school teacher and parent of a 16-year old, I appreciate all the hard work and relatable topics you’ve covered in your podcasts. The hard work you’ve put in to finding your best self and then sharing your knowledge with others is a true life accomplishment. Shine on!",
+   "user": "string21"
+  },
+  {
+   "id": "8728239811",
+   "country": "US",
+   "date": "2022-06-01",
+   "rating": 5,
+   "title": "Great mental health podcast!",
+   "review": "I’m an adult and I enjoy this podcast while being in my 30’s. The information is great for teens, family members/ loved ones or anyone wanting to know more about mental health! \nThe interviews are so thought provoking and Sadie does a great job in asking the questions! \n- Joanna",
+   "user": "gjoannac"
+  },
+  {
+   "id": "8662002838",
+   "country": "US",
+   "date": "2022-05-12",
+   "rating": 5,
+   "title": "Super informative and very well produced",
+   "review": "My go-to podcast when I’m looking to learn. Guests are consistently articulate and bring expertise to diversity of topics within the realms of mental and physical health. Sadie is a sharp interviewer and always has thoughtful but brief commentary to add after the guest has a chance to respond. Additionally, love the solo episodes and Sadie’s lessons on DBT. She is incredibly savvy in the world of mental health and is actually studying to become a practitioner - though I’m sure this podcast is broadening her education as well, which is really cool. Total gem of a podcast, I recommend it all the time.",
+   "user": "JHen86"
+  },
+  {
+   "id": "8664674492",
+   "country": "US",
+   "date": "2022-05-12",
+   "rating": 5,
+   "title": "Sadie’s podcast is SO needed!",
+   "review": "Sadie is AMAZING! Absolutely love her podcast and her mission to share experiences and support others! I had the opportunity to be a part of her podcast and it was such an honor. Keep up the amazing work, girl!",
+   "user": "Paige Tonz"
+  },
+  {
+   "id": "8424884567",
+   "country": "US",
+   "date": "2022-03-06",
+   "rating": 5,
+   "title": "Inspiring & Educational",
+   "review": "I admire Sadie and all that she is doing when it comes to advocating for mental health, specifically teen mental health. Sadie is personable, knowledgeable and fun to listen to! Love the diverse range of guests as well! So glad I’ve connected with Sadie and have become a fan of the show!",
+   "user": "JaclynH1"
+  },
+  {
+   "id": "8420569810",
+   "country": "US",
+   "date": "2022-03-04",
+   "rating": 5,
+   "title": "Teen Mental Health Superstar!!💕✨",
+   "review": "So so proud of all you’ve accomplished, Sadie! There’s SO many episodes that there’s  guaranteed to be a few that resonate, whether you’re a parent or teen learning to best support your mental health or you want to hear about others’ experiences and how to better your mindset. Sadie’s done an excellent job pouring her heart and soul into her beautiful brand and podcast and I can’t wait to see what she’ll accomplish next!\n—Hailey, The Sunshine Signal Podcast",
+   "user": "thesunshinesignal"
+  },
+  {
+   "id": "8308491849",
+   "country": "US",
+   "date": "2022-02-01",
+   "rating": 5,
+   "title": "What a gem!",
+   "review": "I love Sadie! Her insights are profound for being such a young girl. This podcast brings so much value to my life.",
+   "user": "alexishaines1017"
+  },
+  {
+   "id": "8203435740",
+   "country": "US",
+   "date": "2022-01-04",
+   "rating": 5,
+   "title": "She Persisted",
+   "review": "What an AMAZING account of Sadie’s journey and how she has grown and learned about mental illness and how to cope, rebuild her life and relationships, and LIVE a life worth living.  I also think the love and perseverance of her parents when I’m sure they were sad, confused and overwhelmed is tremendous and made all the difference in her outcome.",
+   "user": "We hear you"
+  },
+  {
+   "id": "8102984201",
+   "country": "US",
+   "date": "2021-12-07",
+   "rating": 5,
+   "title": "Inspiring!",
+   "review": "Love Sadie’s message and what she’s doing to help others with mental health. We need more voices like hers and I highly recommend her podcast!",
+   "user": "DBopst"
+  },
+  {
+   "id": "7950045390",
+   "country": "US",
+   "date": "2021-10-24",
+   "rating": 5,
+   "title": "Blown away!",
+   "review": "I could not be more impressed by Sadie. Her show is so raw and real and NEEDED! What an amazing resource for those struggling with depression and/or anxiety and anyone who loves them! I can’t recommend highly enough!",
+   "user": "nikiguena"
+  },
+  {
+   "id": "7935447769",
+   "country": "US",
+   "date": "2021-10-20",
+   "rating": 5,
+   "title": "Sadie is a visionary!",
+   "review": "I am absolutely in awe of Sadie and the work she’s done. Her purpose is pure, she’s serving something higher, she comes from experience of rock bottom, to taking the steps, to learning how to thrive as a teen in this crazy world. I’m years away from my teen years, but I love love love everything she shares and I completely enjoy consuming her content. Thank you so, so much Sadie for your work. I wish I had you when I was a teen, but thank goodness I have you now! ❤️❤️❤️❤️",
+   "user": "alexandra.bebe.shelly"
+  },
+  {
+   "id": "7929811011",
+   "country": "US",
+   "date": "2021-10-19",
+   "rating": 5,
+   "title": "Honest, Raw + Amazing",
+   "review": "Blown away by Sadie’s vulnerability, hard work and dedication to making this podcast a safe space. So impressed that someone her age is having these open and honest conversations. So many people can benefit from what she is providing! What a star!",
+   "user": "kalliehouse"
+  },
+  {
+   "id": "7921341258",
+   "country": "US",
+   "date": "2021-10-16",
+   "rating": 5,
+   "title": "Beautiful Content for ALL 🦋",
+   "review": "Sadie is an incredible host and this show holds so much wisdom and truth for not only teens, but any stage of life! So grateful for this beautiful girl and all that she brings into this world. Highly recommend listening!",
+   "user": "Loving Your Own Soul"
+  },
+  {
+   "id": "7914847082",
+   "country": "US",
+   "date": "2021-10-14",
+   "rating": 5,
+   "title": "Great resource!",
+   "review": "I wish something like this existed when I was a teenager! Great content! Keep it up beauty!",
+   "user": "Island girl 0609"
+  },
+  {
+   "id": "7436769072",
+   "country": "US",
+   "date": "2021-06-07",
+   "rating": 5,
+   "title": "Great mental health resource 🙌🏼",
+   "review": "Sadie is an amazing and wise host! I love all the topics she covers and all of the people she brings on for discussion. This podcast is super educational and a great mental health resource!\n-Love vs. Hate Podcast",
+   "user": "Love vs. Hate Podcast"
+  },
+  {
+   "id": "7372014784",
+   "country": "US",
+   "date": "2021-05-22",
+   "rating": 5,
+   "title": "Great Resource Every Girl Needs!",
+   "review": "I have learned so much about mental health and continue learning with every episode! Highly recommend to anyone out there looking for something educational, yet interesting!",
+   "user": "Smileyteen"
+  },
+  {
+   "id": "7375037910",
+   "country": "US",
+   "date": "2021-05-22",
+   "rating": 5,
+   "title": "Great Gen Z Podcast",
+   "review": "This is SUCH a great podcast-especially for teens/Gen Z! I love that Sadie is so passionate about what she does and comes from a place of her own lived experiences.",
+   "user": "SOCIALWORKER89"
+  },
+  {
+   "id": "7369729481",
+   "country": "US",
+   "date": "2021-05-21",
+   "rating": 5,
+   "title": "Beyond her years",
+   "review": "Sadie is a great host with a great show. At such a young age she has so much life experience. She is open, honest and intelligent. She’s all about learning and helping people. Sadie is doing great things and this podcast shows it",
+   "user": "@RelaxTim"
+  },
+  {
+   "id": "7086975983",
+   "country": "US",
+   "date": "2021-03-10",
+   "rating": 5,
+   "title": "Love this pod!",
+   "review": "She Persisted is a great podcast and Sadie is an awesome host. Her episodes are so fun and informative! Can’t wait for future content!",
+   "user": "Isabel from Just Isabel Things"
+  },
+  {
+   "id": "7088363996",
+   "country": "US",
+   "date": "2021-03-10",
+   "rating": 5,
+   "title": "LOVE LOVE LOVE!!",
+   "review": "I adore Sadie- It’s about time teenagers had someone to relate to about their mental health struggles. Not only is the information easily digestible, but it’s genuinely fun to listen to. I am so glad Sadie continued persisting through everything she’s been to so she could make this incredible resource for all of us. Binge every episode now!!!",
+   "user": "sagelally"
+  },
+  {
+   "id": "7088440096",
+   "country": "US",
+   "date": "2021-03-10",
+   "rating": 5,
+   "title": "Amazing teen podcast!",
+   "review": "She Persisted is such an inspiring podcast and definitely worth listening to! Sadie is a wonderful and dedicated host and I love how she opens up about such important topics regarding mental health :)",
+   "user": "Karina Parikh"
+  },
+  {
+   "id": "7088523425",
+   "country": "US",
+   "date": "2021-03-10",
+   "rating": 5,
+   "title": "Exceptional!",
+   "review": "I love this podcast! I wish this podcast were around when I was a teen; however, it’s so helpful for so many teens. I’m glad they're a podcast that helps the younger generation understand they're not the only one struggle with mental health or to feel they need to pretend they have it all together.",
+   "user": "Deisyduke19"
+  },
+  {
+   "id": "7045275001",
+   "country": "US",
+   "date": "2021-02-27",
+   "rating": 5,
+   "title": "In love with this podcast! ❤️",
+   "review": "I love your podcast so much it helps me so much to know that it’s not just me in this alone! Can you do a podcast on your thoughts about not wanting to live with your mom and wanting to live with your grandma? And if not that’s totally fine!! But lots of love! ❤️❤️",
+   "user": "~AMELIA~ •13•"
+  },
+  {
+   "id": "6890907472",
+   "country": "US",
+   "date": "2021-01-20",
+   "rating": 5,
+   "title": "LOVE",
+   "review": "Such a great podcast",
+   "user": "gowarriors44"
+  },
+  {
+   "id": "6890915178",
+   "country": "US",
+   "date": "2021-01-20",
+   "rating": 5,
+   "title": "Great Work, Sadie!",
+   "review": "Such an important podcast to listen to! Five stars ⭐️⭐️⭐️⭐️⭐️",
+   "user": "loushieldsplace"
+  },
+  {
+   "id": "6559630072",
+   "country": "US",
+   "date": "2020-10-21",
+   "rating": 5,
+   "title": "1000000/10 recommend",
+   "review": "So so inspirational and honest. The perspective she brings as a fellow teenager is so refreshing. Crazy proud of Sadie for her amazing work!! This podcast is a MUST!!💗💗",
+   "user": "Cool$&@❄️⛄️🌸"
+  },
+  {
+   "id": "6375102937",
+   "country": "US",
+   "date": "2020-08-29",
+   "rating": 5,
+   "title": "A necessary platform for these types of stories",
+   "review": "I am blown away by the power of Sadie’s story and her willingness to empower those of us who have faced hard circumstances around our mental health. Her guests are wonderful and indicative of the quality of this podcast. Sadie has truly taken some adversity she has faced and become a true advocate for mental health. A well deserved 5 stars.",
+   "user": "STrejo14"
+  },
+  {
+   "id": "6253946918",
+   "country": "US",
+   "date": "2020-07-29",
+   "rating": 5,
+   "title": "Inspiring, Uplifting, and SO Important",
+   "review": "Sadie, your podcast is INCREDIBLE! I look forward to the episodes every Friday. I have learned SO much from listening to this podcast. Thank you for sharing your story. It means so much.",
+   "user": "usshields"
+  },
+  {
+   "id": "6237689119",
+   "country": "US",
+   "date": "2020-07-24",
+   "rating": 5,
+   "title": "The best show!!",
+   "review": "So inspirational!! Blessed to be a guest on the show! Thank you. \nCassandra McClure",
+   "user": "Casaaaaaabdra"
+  },
+  {
+   "id": "6203420248",
+   "country": "US",
+   "date": "2020-07-16",
+   "rating": 5,
+   "title": "The podcast for ANY and EVERYONE.",
+   "review": "This podcast is INCREDIBLE. Sadie is so thoughtful and each and every podcast covers an important topic. She also brings on exciting guests, from family to friends to professionals, who all bring such interesting perspectives. Literally IN LOVE with this podcast. I don’t personally struggle with mental illness, but listening to this podcast has been so informative and eye-opening, and Sadie’s advice is honestly helpful for anyone out there. Could not recommend this any more strongly. LOVE IT !!!!!",
+   "user": "mayachaw!"
+  },
+  {
+   "id": "6202413978",
+   "country": "US",
+   "date": "2020-07-15",
+   "rating": 5,
+   "title": "Love the Energy!",
+   "review": "Sadie always lifts me up and provides amaZing knowledge and Information. Grateful for her!",
+   "user": "bayboy1990"
+  },
+  {
+   "id": "6154777885",
+   "country": "US",
+   "date": "2020-07-04",
+   "rating": 5,
+   "title": "Well done Sadie!",
+   "review": "Sadie, you are incredibly brave and strong and I am so very grateful that you have shared your journey.  My daughter is struggling with depression and anxiety as well and I can’t wait to share this with her, I know she will be able\nto connect with your story and find hope that things will get better.  Sending you big hugs ♥️",
+   "user": "binaca junior"
+  },
+  {
+   "id": "5990593624",
+   "country": "US",
+   "date": "2020-05-25",
+   "rating": 5,
+   "title": "Thank you",
+   "review": "Thank you, Sadie, for sharing your story. My daughter is struggling with depression and this is so helpful and hopeful.",
+   "user": "mariharr1"
+  },
+  {
+   "id": "5950395199",
+   "country": "US",
+   "date": "2020-05-15",
+   "rating": 5,
+   "title": "Inspiring and important to listen to",
+   "review": "I love how the podcast highlights the importance of mental health! The host gives her perspective on a relatively difficult topic and she has shown so much resistance in her life!! A must listen to!",
+   "user": "bobbytacos"
+  },
+  {
+   "id": "5922277274",
+   "country": "US",
+   "date": "2020-05-09",
+   "rating": 5,
+   "title": "Love this podcast!",
+   "review": "This has helped me so much with my vulnerability and depression! I wish there we more teens talking about their struggles like Sadie ❤️",
+   "user": "podcastlover56"
+  },
+  {
+   "id": "5915895112",
+   "country": "US",
+   "date": "2020-05-07",
+   "rating": 5,
+   "title": "This takes bravery",
+   "review": "This podcast is what we need more of. We need to break down the stigmas surrounding mental health and start to have more open conversations about what living with depression and anxiety is like. This takes bravery for anyone to talk about and at the young age of 16 it takes a certain level of maturity as well. Bravo!",
+   "user": "Babble Gum Podcast"
+  },
+  {
+   "id": "5887187158",
+   "country": "US",
+   "date": "2020-05-01",
+   "rating": 5,
+   "title": "Love this podcast!",
+   "review": "I’ve been loving this podcast recently for all things mental health! Definitely recommend for anyone with a teen in their life!",
+   "user": "podcaster33"
+  },
+  {
+   "id": "5694937572",
+   "country": "US",
+   "date": "2020-03-22",
+   "rating": 5,
+   "title": "Absolutely Amazing",
+   "review": "I would definitely recommend any one give this podcast a listen. It’s great and Sadie is amazing!",
+   "user": "Mick3yMouse"
+  },
+  {
+   "id": "5689292588",
+   "country": "US",
+   "date": "2020-03-21",
+   "rating": 5,
+   "title": "Great resource for teens struggling and parents of struggling teens!",
+   "review": "Love this podcast and the content. The skills are so helpful and I feel like I’m growing as I listen!",
+   "user": "tarheel3ss"
+  },
+  {
+   "id": "5689295121",
+   "country": "US",
+   "date": "2020-03-21",
+   "rating": 5,
+   "title": "10/10 recommended",
+   "review": "I can not express the amount of joy this brought to me. You are helping so many people get through tough times and doing something you love. Never stop persisting and continue helping people!",
+   "user": "juicyjuciy"
+  },
+  {
+   "id": "5674095344",
+   "country": "US",
+   "date": "2020-03-17",
+   "rating": 5,
+   "title": "Good job!!!",
+   "review": "It very good!",
+   "user": "dhsjzixtzr100"
+  },
+  {
+   "id": "5441392509",
+   "country": "US",
+   "date": "2020-01-24",
+   "rating": 5,
+   "title": "WHAT A QUEEN",
+   "review": "10/10 an angel that deserves everything in life and is teaching all you hoes how to be emotionally healthy",
+   "user": "Katniss Forever"
+  },
+  {
+   "id": "4583031832",
+   "country": "US",
+   "date": "2019-08-07",
+   "rating": 5,
+   "title": "a must listen!!",
+   "review": "Such a good podcast for anyone to listen to!!",
+   "user": "Savvers24"
+  },
+  {
+   "id": "4548191906",
+   "country": "US",
+   "date": "2019-08-01",
+   "rating": 5,
+   "title": "AMAZING",
+   "review": "I love Sadie and this podcast. Listen to this podcast seriously. It’s. Amazing. btw I was in treatment w her 🥵",
+   "user": "libby:))"
+  },
+  {
+   "id": "4546757708",
+   "country": "US",
+   "date": "2019-07-31",
+   "rating": 5,
+   "title": "This podcast is AMAZING!",
+   "review": "I’ve loved listening to this podcast. It’s really inspiring and applicable to everyone. It’s really cool to learn about someone’s journey and to know that everyone struggles and goes through similar things. I definitely recommend listening to this podcast.",
+   "user": "podcaster24/8"
+  },
+  {
+   "id": "4547238118",
+   "country": "US",
+   "date": "2019-07-31",
+   "rating": 5,
+   "title": "💖",
+   "review": "an amazing soul with a beautiful story!",
+   "user": "Cat cool awesome!!"
+  }
+ ]
+}

@@ -5,6 +5,7 @@ Dated snapshots, never overwritten.
 - youtube/YYYY-MM-DD.json — views/likes/comments per video, short and mini (nightly, analytics-youtube.js)
 - flightcast/YYYY-MM-DD.json — total plays per episode from the Flightcast episode list (periodic)
 - apple/YYYY-MM-DD-<range>.json — Apple Podcasts Connect per-episode listeners / engaged listeners / plays / consumption, converted by analytics-apple.js from imports/apple/ (all-time now and then; month on the 1st for the month just ended)
+- apple/reviews.json — every written Apple review (title, text, rating, date, country), merged from imports/apple/reviews-<COUNTRY>-<date>.csv exports; qualitative input for topics and testimonials
 - imports/ — CSV exports dropped in by hand (Spotify for Creators, Apple, Flightcast channel export), ingested by analytics-import.js
 
 Rules

@@ -65,6 +65,45 @@ function convert(file, minis) {
   return { name, totals: out.totals, anomalies: out.anomalies.length };
 }
 
+// Reviews: Apple's per-country CSV export (Connect > Ratings & Reviews > export) dropped in as
+// imports/apple/reviews-<COUNTRY>-<date>.csv; merged by review id into analytics/apple/reviews.json.
+function parseCsv(text) {
+  const rows = []; let row = [], cell = '', q = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (q) { if (ch === '"') { if (text[i + 1] === '"') { cell += '"'; i++; } else q = false; } else cell += ch; }
+    else if (ch === '"') q = true;
+    else if (ch === ',') { row.push(cell); cell = ''; }
+    else if (ch === '\n' || ch === '\r') { if (ch === '\r' && text[i + 1] === '\n') i++; row.push(cell); rows.push(row); row = []; cell = ''; }
+    else cell += ch;
+  }
+  if (cell || row.length) { row.push(cell); rows.push(row); }
+  return rows.filter((r) => r.length > 1 || r[0]);
+}
+
+function reviews() {
+  const files = fs.existsSync(IN) ? fs.readdirSync(IN).filter((f) => /^reviews-.*\.csv$/.test(f)).sort() : [];
+  if (!files.length) return;
+  const byId = {};
+  for (const f of files) {
+    const country = (/^reviews-([A-Za-z]{2})-/.exec(f) || [, '??'])[1].toUpperCase();
+    const [head, ...rows] = parseCsv(fs.readFileSync(path.join(IN, f), 'utf8').replace(/^﻿/, ''));
+    const col = (name) => head.findIndex((h) => h.trim().toLowerCase() === name);
+    const iId = col('review id'), iDate = col('date'), iRating = col('rating'), iTitle = col('title'), iBody = col('review'), iUser = col('user');
+    for (const r of rows) {
+      const id = r[iId]; if (!id) continue;
+      byId[id] = { id, country, date: (r[iDate] || '').slice(0, 10), rating: +r[iRating] || null, title: r[iTitle] || '', review: r[iBody] || '', user: r[iUser] || '' };
+    }
+  }
+  const list = Object.values(byId).sort((a, b) => (a.date < b.date ? 1 : -1));
+  const byYear = {}, byRating = {};
+  for (const r of list) { const y = r.date.slice(0, 4); byYear[y] = (byYear[y] || 0) + 1; byRating[r.rating] = (byRating[r.rating] || 0) + 1; }
+  const avg = list.length ? +(list.reduce((a, r) => a + (r.rating || 0), 0) / list.length).toFixed(2) : null;
+  const out = { source: 'Apple Podcasts Connect ratings & reviews CSV export (written reviews only; star ratings without text are not exported)', countries: [...new Set(list.map((r) => r.country))], count: list.length, average_rating: avg, by_rating: byRating, by_year: byYear, reviews: list };
+  fs.writeFileSync(path.join(OUT, 'reviews.json'), JSON.stringify(out, null, 1) + '\n');
+  console.log(`analytics-apple: ${list.length} reviews from ${files.length} export(s) → analytics/apple/reviews.json`);
+}
+
 function main() {
   const minisFile = path.join(ROOT, 'index', 'minis.json');
   const minisRaw = fs.existsSync(minisFile) ? JSON.parse(fs.readFileSync(minisFile, 'utf8')) : [];
@@ -76,6 +115,7 @@ function main() {
     const r = convert(path.join(IN, f), minis);
     console.log(`analytics-apple: ${r.name} → ${r.totals.episodes} episodes / ${r.totals.minis} minis, ${r.totals.episode_plays} episode plays${r.anomalies ? `, ${r.anomalies} note(s)` : ''}`);
   }
+  reviews();
 }
 
 main();
