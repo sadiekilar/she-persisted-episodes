@@ -1,0 +1,650 @@
+{
+ "generatedAt": "2026-10-09T16:41:05.483Z",
+ "note": "show-level monthly history from the hand-kept tracker (RSS downloads + YouTube views); Flightcast is the source from 2026-05 and is never added on top of these months",
+ "first": "2019-04",
+ "last": "2026-04",
+ "lifetime": {
+  "rss": 403148,
+  "youtube": 42705,
+  "total": 445853
+ },
+ "years": {
+  "2019": {
+   "rss": 1550,
+   "youtube": 0,
+   "total": 1550
+  },
+  "2020": {
+   "rss": 37618,
+   "youtube": 0,
+   "total": 37618
+  },
+  "2021": {
+   "rss": 16854,
+   "youtube": 604,
+   "total": 17458
+  },
+  "2022": {
+   "rss": 64505,
+   "youtube": 4830,
+   "total": 69335
+  },
+  "2023": {
+   "rss": 98715,
+   "youtube": 5343,
+   "total": 104058
+  },
+  "2024": {
+   "rss": 70029,
+   "youtube": 9107,
+   "total": 79136
+  },
+  "2025": {
+   "rss": 80446,
+   "youtube": 17021,
+   "total": 97467
+  },
+  "2026": {
+   "rss": 33431,
+   "youtube": 5800,
+   "total": 39231
+  }
+ },
+ "months": [
+  {
+   "month": "2019-04",
+   "rss": 3,
+   "youtube": null,
+   "total": 3,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-05",
+   "rss": 3,
+   "youtube": null,
+   "total": 3,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-06",
+   "rss": 50,
+   "youtube": null,
+   "total": 50,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-07",
+   "rss": 296,
+   "youtube": null,
+   "total": 296,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-08",
+   "rss": 201,
+   "youtube": null,
+   "total": 201,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-09",
+   "rss": 388,
+   "youtube": null,
+   "total": 388,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-10",
+   "rss": 270,
+   "youtube": null,
+   "total": 270,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-11",
+   "rss": 169,
+   "youtube": null,
+   "total": 169,
+   "source": "tracker"
+  },
+  {
+   "month": "2019-12",
+   "rss": 170,
+   "youtube": null,
+   "total": 170,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-01",
+   "rss": 463,
+   "youtube": null,
+   "total": 463,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-02",
+   "rss": 765,
+   "youtube": null,
+   "total": 765,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-03",
+   "rss": 562,
+   "youtube": null,
+   "total": 562,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-04",
+   "rss": 1451,
+   "youtube": null,
+   "total": 1451,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-05",
+   "rss": 1607,
+   "youtube": null,
+   "total": 1607,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-06",
+   "rss": 1408,
+   "youtube": null,
+   "total": 1408,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-07",
+   "rss": 3914,
+   "youtube": null,
+   "total": 3914,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-08",
+   "rss": 9483,
+   "youtube": null,
+   "total": 9483,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-09",
+   "rss": 10605,
+   "youtube": null,
+   "total": 10605,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-10",
+   "rss": 4135,
+   "youtube": null,
+   "total": 4135,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-11",
+   "rss": 1516,
+   "youtube": null,
+   "total": 1516,
+   "source": "tracker"
+  },
+  {
+   "month": "2020-12",
+   "rss": 1709,
+   "youtube": null,
+   "total": 1709,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-01",
+   "rss": 1765,
+   "youtube": null,
+   "total": 1765,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-02",
+   "rss": 1776,
+   "youtube": null,
+   "total": 1776,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-03",
+   "rss": 1595,
+   "youtube": null,
+   "total": 1595,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-04",
+   "rss": 307,
+   "youtube": 30,
+   "total": 337,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-05",
+   "rss": 1495,
+   "youtube": 47,
+   "total": 1542,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-06",
+   "rss": 1130,
+   "youtube": 38,
+   "total": 1168,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-07",
+   "rss": 1017,
+   "youtube": 19,
+   "total": 1036,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-08",
+   "rss": 761,
+   "youtube": 46,
+   "total": 807,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-09",
+   "rss": 1374,
+   "youtube": 49,
+   "total": 1423,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-10",
+   "rss": 1842,
+   "youtube": 111,
+   "total": 1953,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-11",
+   "rss": 2189,
+   "youtube": 99,
+   "total": 2288,
+   "source": "tracker"
+  },
+  {
+   "month": "2021-12",
+   "rss": 1603,
+   "youtube": 165,
+   "total": 1768,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-01",
+   "rss": 2740,
+   "youtube": 285,
+   "total": 3025,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-02",
+   "rss": 2973,
+   "youtube": 175,
+   "total": 3148,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-03",
+   "rss": 3478,
+   "youtube": 221,
+   "total": 3699,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-04",
+   "rss": 4108,
+   "youtube": 254,
+   "total": 4362,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-05",
+   "rss": 5025,
+   "youtube": 265,
+   "total": 5290,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-06",
+   "rss": 5522,
+   "youtube": 375,
+   "total": 5897,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-07",
+   "rss": 4919,
+   "youtube": 401,
+   "total": 5320,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-08",
+   "rss": 6911,
+   "youtube": 439,
+   "total": 7350,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-09",
+   "rss": 6271,
+   "youtube": 500,
+   "total": 6771,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-10",
+   "rss": 8625,
+   "youtube": 528,
+   "total": 9153,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-11",
+   "rss": 8383,
+   "youtube": 611,
+   "total": 8994,
+   "source": "tracker"
+  },
+  {
+   "month": "2022-12",
+   "rss": 5550,
+   "youtube": 776,
+   "total": 6326,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-01",
+   "rss": 8338,
+   "youtube": 619,
+   "total": 8957,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-02",
+   "rss": 8112,
+   "youtube": 527,
+   "total": 8639,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-03",
+   "rss": 11244,
+   "youtube": 565,
+   "total": 11809,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-04",
+   "rss": 9024,
+   "youtube": 504,
+   "total": 9528,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-05",
+   "rss": 9627,
+   "youtube": 543,
+   "total": 10170,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-06",
+   "rss": 8365,
+   "youtube": 502,
+   "total": 8867,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-07",
+   "rss": 7149,
+   "youtube": 301,
+   "total": 7450,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-08",
+   "rss": 8199,
+   "youtube": 351,
+   "total": 8550,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-09",
+   "rss": 8605,
+   "youtube": 366,
+   "total": 8971,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-10",
+   "rss": 7815,
+   "youtube": 304,
+   "total": 8119,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-11",
+   "rss": 6570,
+   "youtube": 365,
+   "total": 6935,
+   "source": "tracker"
+  },
+  {
+   "month": "2023-12",
+   "rss": 5667,
+   "youtube": 396,
+   "total": 6063,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-01",
+   "rss": 6563,
+   "youtube": 461,
+   "total": 7024,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-02",
+   "rss": 5903,
+   "youtube": 432,
+   "total": 6335,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-03",
+   "rss": 7052,
+   "youtube": 357,
+   "total": 7409,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-04",
+   "rss": 6369,
+   "youtube": 455,
+   "total": 6824,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-05",
+   "rss": 6774,
+   "youtube": 496,
+   "total": 7270,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-06",
+   "rss": 6357,
+   "youtube": 1168,
+   "total": 7525,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-07",
+   "rss": 5604,
+   "youtube": 560,
+   "total": 6164,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-08",
+   "rss": 5273,
+   "youtube": 1883,
+   "total": 7156,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-09",
+   "rss": 6226,
+   "youtube": 1098,
+   "total": 7324,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-10",
+   "rss": 5040,
+   "youtube": 715,
+   "total": 5755,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-11",
+   "rss": 4734,
+   "youtube": 725,
+   "total": 5459,
+   "source": "tracker"
+  },
+  {
+   "month": "2024-12",
+   "rss": 4134,
+   "youtube": 757,
+   "total": 4891,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-01",
+   "rss": 5622,
+   "youtube": 1620,
+   "total": 7242,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-02",
+   "rss": 5696,
+   "youtube": 1809,
+   "total": 7505,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-03",
+   "rss": 8004,
+   "youtube": 929,
+   "total": 8933,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-04",
+   "rss": 5477,
+   "youtube": 824,
+   "total": 6301,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-05",
+   "rss": 4381,
+   "youtube": 1218,
+   "total": 5599,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-06",
+   "rss": 5269,
+   "youtube": 931,
+   "total": 6200,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-07",
+   "rss": 5945,
+   "youtube": 900,
+   "total": 6845,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-08",
+   "rss": 7407,
+   "youtube": 1156,
+   "total": 8563,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-09",
+   "rss": 7691,
+   "youtube": 1034,
+   "total": 8725,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-10",
+   "rss": 7206,
+   "youtube": 2968,
+   "total": 10174,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-11",
+   "rss": 9300,
+   "youtube": 2282,
+   "total": 11582,
+   "source": "tracker"
+  },
+  {
+   "month": "2025-12",
+   "rss": 8448,
+   "youtube": 1350,
+   "total": 9798,
+   "source": "tracker"
+  },
+  {
+   "month": "2026-01",
+   "rss": 8402,
+   "youtube": 1400,
+   "total": 9802,
+   "source": "tracker"
+  },
+  {
+   "month": "2026-02",
+   "rss": 8624,
+   "youtube": 1300,
+   "total": 9924,
+   "source": "tracker"
+  },
+  {
+   "month": "2026-03",
+   "rss": 7687,
+   "youtube": 1500,
+   "total": 9187,
+   "source": "tracker"
+  },
+  {
+   "month": "2026-04",
+   "rss": 8718,
+   "youtube": 1600,
+   "total": 10318,
+   "source": "tracker"
+  }
+ ]
+}
