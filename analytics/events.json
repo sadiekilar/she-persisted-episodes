@@ -1,0 +1,8 @@
+{
+ "note": "Dated context for reading the analytics series. Add a row whenever something outside the content changes the numbers (hosting moves, platform features, ad campaigns, press).",
+ "events": [
+  { "from": "2019-07-11", "what": "launch on Anchor", "affects": ["rss"] },
+  { "from": "2026-07-15", "what": "moved hosting to Flightcast; Spotify for Podcasters history imported, so Flightcast lifetime counts overlap the tracker", "affects": ["flightcast", "rss"] },
+  { "from": "2026-08-01", "to": "2026-09-30", "what": "Apple Podcasts feature (likely a homepage / editorial placement): Apple plays roughly doubled to the two biggest months ever, 73% and 66% from non-followers (vs ~50-65% before), lift concentrated on the newest episodes (257+ took ~60% of plays) with the whole catalogue widening from ~100 to ~150 episodes played per month. Spotify was flat the same months, so this is Apple-only.", "affects": ["apple"], "confidence": "likely; not confirmed by Apple" }
+ ]
+}

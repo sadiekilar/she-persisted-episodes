@@ -11,6 +11,7 @@ Dated snapshots, never overwritten.
 - spotify/show-daily.json, show-monthly.json — Spotify-only plays, audience, consumption hours, followers, impressions and new/returning listeners by day and month since 2019-07 (Spotify for Creators exports, analytics-spotify.js)
 - spotify/episodes.json — per-episode Spotify-only plays, audience, watch time %, first-7-day completion, first-30-day discovery impressions, comments (the trends-chart exports stop at the 250 most recent items, so episodes 1–41 are absent)
 - spotify/audience.json — Spotify listener geography, gender, age, weekly retention, top-10 lists, impressions by source
+- events.json — dated context (hosting moves, platform features) to read the series against; add a row whenever something outside the content moves the numbers
 - imports/ — CSV exports dropped in by hand (Spotify for Creators, Apple, Flightcast channel export), ingested by analytics-import.js
 
 Rules
