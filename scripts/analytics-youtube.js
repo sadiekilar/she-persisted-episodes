@@ -8,10 +8,26 @@ const path = require('path');
 const { INDEX_DIR, readEpisodes } = require('./lib');
 
 const KEY = process.env.YOUTUBE_API_KEY;
+// Only videos in the podcast playlist count as episode views (the number the monthly tracker used).
+// Shorts are clips: snapshotted, reported separately, never counted as plays or downloads.
+const PLAYLIST = process.env.YOUTUBE_PODCAST_PLAYLIST || 'PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu';
 const ROOT = path.join(__dirname, '..');
 const SNAP_DIR = path.join(ROOT, 'analytics', 'youtube');
 const today = new Date().toISOString().slice(0, 10);
 
+async function playlistIds() {
+  const ids = new Set();
+  let pageToken = '';
+  do {
+    const url = 'https://www.googleapis.com/youtube/v3/playlistItems?' + new URLSearchParams({ part: 'contentDetails', playlistId: PLAYLIST, maxResults: 50, pageToken, key: KEY });
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`playlistItems HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
+    const data = await res.json();
+    (data.items || []).forEach((i) => ids.add(i.contentDetails.videoId));
+    pageToken = data.nextPageToken || '';
+  } while (pageToken);
+  return ids;
+}
 async function stats(ids) {
   const out = {};
   for (let i = 0; i < ids.length; i += 50) {
@@ -28,19 +44,20 @@ function derive(episodes, minis) {
   if (!files.length) return null;
   const load = (f) => JSON.parse(fs.readFileSync(path.join(SNAP_DIR, f), 'utf8'));
   const latest = load(files[files.length - 1]);
+  const inPlaylist = new Set(latest._playlist || []);
   const at = (daysAgo) => { const target = new Date(Date.now() - daysAgo * 86400e3).toISOString().slice(0, 10); const f = [...files].reverse().find((x) => x.slice(0, 10) <= target); return f ? load(f) : null; };
   const d7 = at(7), d30 = at(30), d90 = at(90);
   const sum = (snap, ids, k) => ids.reduce((a, id) => a + ((snap && snap[id] && snap[id][k]) || 0), 0);
   const rows = episodes.map((e) => {
     const m = e.meta;
-    const video = m.youtube_id ? [m.youtube_id] : [];
+    const video = m.youtube_id && (!inPlaylist.size || inPlaylist.has(m.youtube_id)) ? [m.youtube_id] : [];
     const shorts = (m.shorts || []).map((s) => s.youtube_id);
     const miniIds = minis.filter((x) => x.parent === m.number && x.youtube_id).map((x) => x.youtube_id);
-    const row = { number: m.number, date: String(m.date || '').slice(0, 10), youtube: { views: sum(latest, video, 'v'), likes: sum(latest, video, 'l'), comments: sum(latest, video, 'c') }, shorts: { count: shorts.length, views: sum(latest, shorts, 'v') }, minis: { count: miniIds.length, views: sum(latest, miniIds, 'v') } };
+    const row = { number: m.number, date: String(m.date || '').slice(0, 10), youtube: { in_playlist: video.length > 0, views: sum(latest, video, 'v'), likes: sum(latest, video, 'l'), comments: sum(latest, video, 'c') }, clips: { note: 'shorts: not plays or downloads', count: shorts.length, views: sum(latest, shorts, 'v') }, minis: { count: miniIds.length, views: sum(latest, miniIds, 'v') } };
     for (const [k, snap] of [['7d', d7], ['30d', d30], ['90d', d90]]) if (snap) row.youtube['views_' + k] = row.youtube.views - sum(snap, video, 'v');
     return row;
   });
-  return { generatedAt: new Date().toISOString(), snapshots: files.length, first: files[0].slice(0, 10), latest: files[files.length - 1].slice(0, 10), episodes: rows };
+  return { generatedAt: new Date().toISOString(), rule: 'youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads', playlist: PLAYLIST, snapshots: files.length, first: files[0].slice(0, 10), latest: files[files.length - 1].slice(0, 10), episodes: rows };
 }
 
 async function main() {
@@ -52,6 +69,7 @@ async function main() {
   else {
     fs.mkdirSync(SNAP_DIR, { recursive: true });
     const snap = await stats(ids);
+    try { snap._playlist = [...await playlistIds()]; } catch (e) { console.error('analytics-youtube: playlist lookup failed, counting every episode video: ' + e.message); }
     fs.writeFileSync(path.join(SNAP_DIR, today + '.json'), JSON.stringify(snap));
     console.log(`analytics-youtube: ${Object.keys(snap).length} videos snapshotted -> analytics/youtube/${today}.json`);
   }
