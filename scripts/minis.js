@@ -34,6 +34,9 @@ async function main() {
   const ytFile = path.join(INDEX_DIR, 'youtube-minis.json');
   const yt = fs.existsSync(ytFile) ? JSON.parse(fs.readFileSync(ytFile, 'utf8')) : [];
   const review = readReview();
+  // Apple episode links: the lookup returns the newest 200 feed items, minis included
+  let apple = [];
+  try { apple = (await (await fetch('https://itunes.apple.com/lookup?id=1463051730&entity=podcastEpisode&limit=200')).json()).results.filter((r) => r.trackViewUrl && r.trackName); } catch (e) { console.error('minis: apple lookup failed: ' + e.message); }
   const minis = [];
   for (const it of items) {
     const title = decodeEntities(tag(it, 'title'));
@@ -60,6 +63,7 @@ async function main() {
       id, title: cleanTitle, date: new Date(tag(it, 'pubDate')).toISOString().slice(0, 10), duration_sec: duration,
       audio_url: enclosure ? enclosure[1] : null, youtube_id: ytMatch && ytMatch.s >= 0.5 ? ytMatch.v.id : null,
       parent, blurb: blurb.replace(/[.!]*$/, '').trim(),
+      apple_url: (apple.find((r) => norm(r.trackName) === norm(title)) || apple.map((r) => ({ r, s: dice(norm(r.trackName), norm(title)) })).filter((x) => x.s >= 0.6).sort((a, b) => b.s - a.s)[0]?.r || {}).trackViewUrl || null,
     });
   }
   minis.sort((a, b) => (a.date < b.date ? 1 : -1));
