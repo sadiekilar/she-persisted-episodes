@@ -8,5 +8,5 @@ Dated snapshots, never overwritten.
 
 Rules
 - Downloads/plays never include Shorts. YouTube episode views count only videos in the podcast playlist (PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu); Shorts are reported as clips.
-- show-monthly.json (the hand-kept tracker) is the history through 2026-04; Flightcast figures apply from 2026-05 and are never added on top.
+- Hosting: Spotify for Podcasters until 2026-07-14, Flightcast from 2026-07-15 (which imported the Spotify-era history). show-monthly.json (the hand-kept tracker) is the monthly record through 2026-04; Flightcast monthly figures apply from 2026-05. Flightcast lifetime numbers overlap the tracker and are never added to it.
 - flightcast/<date>.json list snapshots are rounded and of mixed provenance: use for ranking and deltas, not totals.

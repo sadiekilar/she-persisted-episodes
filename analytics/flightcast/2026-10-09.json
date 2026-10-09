@@ -1,7 +1,7 @@
 {
  "date": "2026-10-09",
  "source": "Flightcast episode list, PLAYS column (Total Plays = RSS listens + YouTube views + Spotify streams as Flightcast counts them), values as displayed (rounded to 3 digits)",
- "note": "provenance is mixed: Flightcast imported earlier-host history for some episodes and not others, so these are a relative ranking, not lifetime totals; never add to analytics/show-monthly.json",
+ "note": "Flightcast hosts the show since 2026-07-15 and imported the Spotify for Podcasters history, so these counts overlap the monthly tracker and are never added to it. Values as displayed (3 significant digits). Use for ranking and day-over-day deltas.",
  "episodes": {
   "1": 8430,
   "2": 3660,

@@ -9,7 +9,11 @@ const path = require('path');
 const { INDEX_DIR } = require('./lib');
 
 const ROOT = path.join(__dirname, '..');
-const FLIGHTCAST_FROM = '2026-05'; // first month not covered by the tracker; Flightcast is the source from here
+// Hosting: Spotify for Podcasters/Creators until the move to Flightcast on 2026-07-15, which imported the
+// Spotify-era history. The tracker is the monthly record through its last filled month; Flightcast's monthly
+// numbers take over from the month after that. Neither is ever added to the other.
+const HOSTING = [{ host: 'spotify for podcasters', until: '2026-07-14' }, { host: 'flightcast', from: '2026-07-15', note: 'imported the Spotify-era history' }];
+const FLIGHTCAST_FROM = '2026-05'; // first month the tracker does not cover; monthly figures come from Flightcast from here
 const MONTHS = { Jan: 1, Feb: 2, Mar: 3, Apr: 4, May: 5, Jun: 6, Jul: 7, Aug: 8, Sep: 9, Oct: 10, Nov: 11, Dec: 12 };
 const num = (s) => { const t = String(s || '').replace(/[",\s]/g, ''); return t === '' ? null : +t; };
 
@@ -38,9 +42,9 @@ for (const r of rows) {
 if (pending.length) { const last = out[out.length - 1]; const y = +last.month.slice(0, 4) + 1; for (const p of pending) out.push({ month: `${y}-${String(MONTHS[p.mon]).padStart(2, '0')}`, ...p }); }
 const months = out.filter((m) => m.rss != null || m.youtube != null).map(({ mon, ...m }) => ({ ...m, source: m.month < FLIGHTCAST_FROM ? 'tracker' : 'flightcast' }));
 fs.mkdirSync(path.join(ROOT, 'analytics'), { recursive: true });
-fs.writeFileSync(path.join(ROOT, 'analytics', 'show-monthly.json'), JSON.stringify({ generatedAt: new Date().toISOString(), flightcast_from: FLIGHTCAST_FROM, months }, null, 1));
+fs.writeFileSync(path.join(ROOT, 'analytics', 'show-monthly.json'), JSON.stringify({ generatedAt: new Date().toISOString(), hosting: HOSTING, tracker_through: months[months.length - 1].month, flightcast_monthly_from: FLIGHTCAST_FROM, months }, null, 1));
 const by = (len) => { const g = {}; for (const m of months) { const k = m.month.slice(0, len); g[k] = g[k] || { rss: 0, youtube: 0, total: 0 }; g[k].rss += m.rss || 0; g[k].youtube += m.youtube || 0; g[k].total += m.total || 0; } return g; };
 const years = by(4);
 const lifetime = months.reduce((a, m) => ({ rss: a.rss + (m.rss || 0), youtube: a.youtube + (m.youtube || 0), total: a.total + (m.total || 0) }), { rss: 0, youtube: 0, total: 0 });
-fs.writeFileSync(path.join(INDEX_DIR, 'analytics-show.json'), JSON.stringify({ generatedAt: new Date().toISOString(), note: 'show-level monthly history from the hand-kept tracker (RSS downloads + YouTube views); Flightcast is the source from ' + FLIGHTCAST_FROM + ' and is never added on top of these months', first: months[0].month, last: months[months.length - 1].month, lifetime, years, months }, null, 1));
+fs.writeFileSync(path.join(INDEX_DIR, 'analytics-show.json'), JSON.stringify({ generatedAt: new Date().toISOString(), hosting: HOSTING, note: 'show-level monthly history from the hand-kept tracker (RSS downloads + YouTube views) through ' + months[months.length - 1].month + '; Flightcast monthly figures from ' + FLIGHTCAST_FROM + '; Flightcast imported the Spotify-era history, so its lifetime totals overlap the tracker and are never added to it', first: months[0].month, last: months[months.length - 1].month, lifetime, years, months }, null, 1));
 console.log(`analytics-import: ${months.length} months ${months[0].month}..${months[months.length - 1].month}; lifetime rss ${lifetime.rss.toLocaleString()}, youtube ${lifetime.youtube.toLocaleString()}, total ${lifetime.total.toLocaleString()}`);

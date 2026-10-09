@@ -1,6 +1,17 @@
 {
- "generatedAt": "2026-10-09T16:41:05.483Z",
- "note": "show-level monthly history from the hand-kept tracker (RSS downloads + YouTube views); Flightcast is the source from 2026-05 and is never added on top of these months",
+ "generatedAt": "2026-10-09T16:54:41.692Z",
+ "hosting": [
+  {
+   "host": "spotify for podcasters",
+   "until": "2026-07-14"
+  },
+  {
+   "host": "flightcast",
+   "from": "2026-07-15",
+   "note": "imported the Spotify-era history"
+  }
+ ],
+ "note": "show-level monthly history from the hand-kept tracker (RSS downloads + YouTube views) through 2026-04; Flightcast monthly figures from 2026-05; Flightcast imported the Spotify-era history, so its lifetime totals overlap the tracker and are never added to it",
  "first": "2019-04",
  "last": "2026-04",
  "lifetime": {

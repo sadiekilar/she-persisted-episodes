@@ -1,6 +1,18 @@
 {
- "generatedAt": "2026-10-09T16:41:05.482Z",
- "flightcast_from": "2026-05",
+ "generatedAt": "2026-10-09T16:54:41.691Z",
+ "hosting": [
+  {
+   "host": "spotify for podcasters",
+   "until": "2026-07-14"
+  },
+  {
+   "host": "flightcast",
+   "from": "2026-07-15",
+   "note": "imported the Spotify-era history"
+  }
+ ],
+ "tracker_through": "2026-04",
+ "flightcast_monthly_from": "2026-05",
  "months": [
   {
    "month": "2019-04",
