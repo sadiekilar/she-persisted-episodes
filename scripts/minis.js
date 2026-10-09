@@ -66,6 +66,12 @@ async function main() {
       apple_url: (apple.find((r) => norm(r.trackName) === norm(title)) || apple.map((r) => ({ r, s: dice(norm(r.trackName), norm(title)) })).filter((x) => x.s >= 0.6).sort((a, b) => b.s - a.s)[0]?.r || {}).trackViewUrl || null,
     });
   }
+  // minis that exist only on YouTube (no feed item): kept with id yt-<video id>; the parent comes from the review file
+  const usedYt = new Set(minis.map((m) => m.youtube_id).filter(Boolean));
+  for (const v of yt.filter((v) => !usedYt.has(v.id))) {
+    const id = 'yt-' + v.id;
+    minis.push({ id, title: v.title.replace(/^\s*mini:\s*/i, '').trim(), date: String(v.published).slice(0, 10), duration_sec: v.duration || null, audio_url: null, youtube_id: v.id, parent: review.has(id) ? review.get(id) : null, blurb: '', apple_url: null, youtube_only: true });
+  }
   minis.sort((a, b) => (a.date < b.date ? 1 : -1));
   fs.writeFileSync(path.join(INDEX_DIR, 'minis.json'), JSON.stringify({ generatedAt: new Date().toISOString(), count: minis.length, minis }, null, 1));
   fs.writeFileSync(reviewFile, `# mental health minis

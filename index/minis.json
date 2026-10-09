@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-09T15:09:56.393Z",
- "count": 29,
+ "generatedAt": "2026-10-09T16:04:31.957Z",
+ "count": 30,
  "minis": [
   {
    "id": "b1bc88880dea7d8c",
@@ -122,6 +122,18 @@
    "parent": 162,
    "blurb": "",
    "apple_url": "https://podcasts.apple.com/us/podcast/mini-what-i-do-to-prevent-college-burnout/id1463051730?i=1000704305052&uo=4"
+  },
+  {
+   "id": "yt-Ts9WE--RAYE",
+   "title": "we should all embrace our anxiety",
+   "date": "2025-04-08",
+   "duration_sec": 326,
+   "audio_url": null,
+   "youtube_id": "Ts9WE--RAYE",
+   "parent": 182,
+   "blurb": "",
+   "apple_url": null,
+   "youtube_only": true
   },
   {
    "id": "bdbcd022e107f9e4",

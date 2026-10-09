@@ -2048,7 +2048,7 @@ chapters: Introduction: From Treatment to Podcast, Why I'm Sharing My Story; The
 
 # mental health minis (not episodes)
 
-29 five-minute cut-downs of past episodes, from the podcast feed. Each line: date | title | from episode | video.
+30 five-minute cut-downs of past episodes, from the podcast feed. Each line: date | title | from episode | video.
 
 - 2025-11-24 | reverse engineer your life for SUCCESS in just 5 mins! | from episode 228 | video
 - 2025-11-10 | a dbt crash course– everything you need to know about this therapy in 5 mins! | from episode 146 | video
@@ -2061,6 +2061,7 @@ chapters: Introduction: From Treatment to Podcast, Why I'm Sharing My Story; The
 - 2025-06-23 | how to find a therapist + start therapy | from episode 167 | video
 - 2025-05-26 | gen z is sleep deprived: here's why | from episode 104
 - 2025-04-21 | what i do to prevent college burnout | from episode 162
+- 2025-04-08 | we should all embrace our anxiety | from episode 182 | video
 - 2025-03-03 | why you should become an OPTIMIST | from episode 162 | video
 - 2025-02-12 | why your 20s can be so lonely | from episode 187 | video
 - 2025-01-20 | depression hacks you need to know! | from episode 80 | video

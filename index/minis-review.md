@@ -1,6 +1,6 @@
 # mental health minis
 
-29 five-minute minis from the podcast feed, each linked to the episode it was pulled from (the "full episode" link in its notes). They are not counted as episodes. To change a parent, edit the number after the arrow and commit ("none" for no parent).
+30 five-minute minis from the podcast feed, each linked to the episode it was pulled from (the "full episode" link in its notes). They are not counted as episodes. To change a parent, edit the number after the arrow and commit ("none" for no parent).
 
 - b1bc88880dea7d8c: 2025-11-24 reverse engineer your life for SUCCESS in just 5 mins! (video) → 228
 - ae18b681ab982d7d: 2025-11-10 a dbt crash course– everything you need to know about this therapy in 5 mins! (video) → 146
@@ -13,6 +13,7 @@
 - 9fa9bf6996e7bf18: 2025-06-23 how to find a therapist + start therapy (video) → 167
 - 9f0965bf4ecd0a17: 2025-05-26 gen z is sleep deprived: here's why → 104
 - ae5efa0d2166de64: 2025-04-21 what i do to prevent college burnout → 162
+- yt-Ts9WE--RAYE: 2025-04-08 we should all embrace our anxiety (video) → 182
 - bdbcd022e107f9e4: 2025-03-03 why you should become an OPTIMIST (video) → 162
 - 9b1b9dfa805052b2: 2025-02-12 why your 20s can be so lonely (video) → 187
 - 8a40e1be8a493369: 2025-01-20 depression hacks you need to know! (video) → 80
