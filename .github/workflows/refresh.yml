@@ -48,6 +48,9 @@ jobs:
       - run: node scripts/build-index.js
       - run: node scripts/catalogue.js
       - run: node scripts/guests.js
+      - run: node scripts/analytics-youtube.js
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       - run: node scripts/quotes-issue.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
