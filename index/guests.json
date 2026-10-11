@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-10-11T11:53:38.408Z",
- "count": 168,
+ "generatedAt": "2026-10-11T23:30:06.923Z",
+ "count": 169,
  "guests": [
+  {
+   "id": "shireen-rizvi",
+   "name": "dr. shireen rizvi",
+   "credentials": "",
+   "bio": "a licensed clinical psychologist who has conducted research and training in dialectical behavioral therapy (dbt) for over twenty-five years.",
+   "website": "https://www.shireenrizvi.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1791744362914-K98EUTBDLYCHJJT1BG5N/DSC00195.png",
+   "headshot_note": "",
+   "episodes": [
+    264
+   ],
+   "mashups": [],
+   "minis": []
+  },
   {
    "id": "blaise-aguirre",
    "name": "dr. blaise aguirre",

@@ -1,8 +1,15 @@
 # she persisted — episode catalogue
 
-256 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
+257 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (56), therapy & treatment (53), dbt (44), emotions (38), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (56), therapy & treatment (53), dbt (45), emotions (39), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+
+## 264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)
+date: 2026-10-11 | https://shepersistedpodcast.com/episodes/264 | 32 min | video
+tags: dbt, emotions
+format: guest | guests: dr. shireen rizvi, licensed clinical psychologist and dbt expert
+summary: sadie and dr. shireen rizvi dig into the hardest part of dbt: not learning the skills, but actually using them when it counts. they talk about what to do when you don't trust your own emotions, how to sit with intensity without spiraling, and why focusing on body sensations can help when labeling feelings feels impossible. dr. rizvi breaks down the difference between acquiring a skill and getting it into your life, plus what to do when you know what you should do but just don't want to. they also cover realistic goal-setting, why dbt gives you permission to mess up, and how to balance decreasing problem behaviors with building a life that actually feels worth living.
+chapters: what to do if you struggle to trust your emotions; safely navigating your most intense emotions; figuring out your "life worth living goals"; getting motivated to make positive changes in your life; debunking common pushbacks against using mental health skills; why dbt gives people more grace to make mistakes
 
 ## 263. what i wish i knew when i didn’t want to be alive
 date: 2026-09-26 | https://shepersistedpodcast.com/episodes/263 | 26 min | video

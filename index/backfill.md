@@ -1,6 +1,6 @@
 # transcript backfill
 
-256 episodes: 256 full, 0 partial, 0 needs-descript.
+257 episodes: 256 full, 1 partial, 0 needs-descript.
 
 - **needs-descript**: no transcript on the post, or fewer than 2000 words. Re-export from Descript, paste under `## transcript` in the episode file and set `transcript_source: descript`.
 - **partial**: 2000+ words but ends mid-sentence or has no speaker labels. Usable for search and the Claude Project; worth a re-export when convenient.
@@ -9,6 +9,8 @@
 
 none
 
-## partial (0)
+## partial (1)
 
-none
+| episode | words | flags |
+| --- | ---: | --- |
+| [264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)](https://shepersistedpodcast.com/episodes/264) | 6133 | no speaker labels |

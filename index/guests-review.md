@@ -1,11 +1,12 @@
 # guests
 
-168 people, built from the episode files (names from the summaries and titles, bios from the descriptions, links from the show notes, headshot = the Squarespace thumbnail of the newest episode they appear on). One line per guest:
+169 people, built from the episode files (names from the summaries and titles, bios from the descriptions, links from the show notes, headshot = the Squarespace thumbnail of the newest episode they appear on). One line per guest:
 
 `- id: name | credentials | website | instagram | headshot url | bio`
 
 Edit any field and commit; the next run keeps your version. Leave a field empty to keep the generated value.
 
+- shireen-rizvi: dr. shireen rizvi |  | https://www.shireenrizvi.com/ |  | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1791744362914-K98EUTBDLYCHJJT1BG5N/DSC00195.png | a licensed clinical psychologist who has conducted research and training in dialectical behavioral therapy (dbt) for over twenty-five years.
 - blaise-aguirre: dr. blaise aguirre | MD | https://www.blaisemd.com/ | https://www.instagram.com/blaisemd/?hl=en | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1789408362633-PFUZOGT9M6IN4OVZDU5K/FullSizeRender.jpg | an assistant professor in psychiatry at harvard medical school in the department of psychiatry.
 - hailey-hardcastle: hailey hardcastle |  | https://www.ted.com/speakers/hailey_hardcastle |  | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1786122723183-BEPF1QGFORLXN5GSD869/16351906-7273091-image-a-47_1563807657781.jpg | a gen z mental health advocate who helped pass landmark legislation in oregon allowing students to take mental health days off from school.
 - marisa-g-franco: dr. marisa g. franco |  | https://drmarisagfranco.com/ | https://www.instagram.com/drmarisagfranco/ | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1784747721147-37D3Z8LBHT255TR737T2/Screenshot%2B2026-07-22%2Bat%2B2.16.03%25E2%2580%25AFPM.png | a psychologist, author, professor, and friendship expert.
