@@ -13,4 +13,4 @@ none
 
 | episode | words | flags |
 | --- | ---: | --- |
-| [264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)](https://shepersistedpodcast.com/episodes/264) | 6133 | no speaker labels |
+| [264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)](https://shepersistedpodcast.com/episodes/264) | 6011 | no speaker labels |
