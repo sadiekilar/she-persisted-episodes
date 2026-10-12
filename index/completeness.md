@@ -6,14 +6,13 @@
 
 - **87 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
 - **50 episodes** need `youtube_id`: no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)
-- **1 episodes** need `transcript`: no full transcript on the post (see backfill.md)
 - **1 episodes** need `spotify_episode_id`: no Spotify or Spotify for Creators player embedded in the post
 
 ## every episode
 
 | episode | missing |
 | --- | --- |
-| [264](https://shepersistedpodcast.com/episodes/264) | transcript, apple_episode_url, spotify_episode_id |
+| [264](https://shepersistedpodcast.com/episodes/264) | apple_episode_url, spotify_episode_id |
 | [263](https://shepersistedpodcast.com/episodes/263) | complete |
 | [262](https://shepersistedpodcast.com/episodes/262) | complete |
 | [261](https://shepersistedpodcast.com/episodes/261) | complete |
