@@ -12,6 +12,7 @@ Dated snapshots, never overwritten.
 - spotify/episodes.json — per-episode Spotify-only plays, audience, watch time %, first-7-day completion, first-30-day discovery impressions, comments (the trends-chart exports stop at the 250 most recent items, so episodes 1–41 are absent)
 - spotify/audience.json — Spotify listener geography, gender, age, weekly retention, top-10 lists, impressions by source
 - events.json — dated context (hosting moves, platform features) to read the series against; add a row whenever something outside the content moves the numbers
+- imports/social/<platform>-<date>.csv — Instagram, TikTok or X post exports (platform = instagram | tiktok | x); any CSV with post_id, date, caption/title, url, views/plays, likes, comments, shares, saves and an optional episode column
 - imports/ — CSV exports dropped in by hand (Spotify for Creators, Apple, Flightcast channel export), ingested by analytics-import.js
 
 Rules
@@ -29,4 +30,10 @@ Apple monthly routine (first days of each month, about five minutes)
 Spotify monthly routine (same day as Apple)
 1. In Spotify for Creators > Analytics, export with the date range set to all time where offered: Performance (daily plays/audience), Engagement (daily consumption/followers), each Trends chart (plays, audience, consumption, avg consumption, watch time %, comments, discovery impressions, completion rate), the top-10 lists and Episode completion rates. Export the ranged pages (impressions, retention, audience segments, geo, gender, age) for the month just ended.
 2. Drop them into `analytics/imports/spotify/` under the names in analytics-spotify.js's header, then `node scripts/analytics-spotify.js`; commit imports and outputs.
+
+Social posts and framings (scripts/social.js, nightly)
+- index/social/posts.json: every YouTube Short, mini and episode video plus imported Instagram / TikTok / X posts, with the hook (title without hashtags), its features (hook type, length, CAPS, question, topic, guest/solo, duration, weekday), latest stats, 7/30-day deltas and a lift against the median of settled posts (14+ days old, last 18 months) of the same platform and kind.
+- index/social/insights.json + insights.md: median lift per feature value with n, top and bottom posts per platform, and (once 20+ posts have a lift and ANTHROPIC_API_KEY is set) a Claude playbook: what travels, what sinks, phrasings to reuse, how sadie edits drafts.
+- index/social/drafts-review.md: for the newest episodes with fewer than 4 Shorts, six clip moments with a hook per platform, written from the transcript, the playbook and past edits. Edit the lines you would post. When a post goes out, its title is matched back to the draft and the change lands in index/social/edits.json, which the next drafting run reads.
+- Needs the nightly YouTube snapshots to accumulate (analytics/youtube is now committed by the workflow). Lifts appear once posts are 14 days old in the snapshots; publish dates come from the YouTube API on the next sync.
 

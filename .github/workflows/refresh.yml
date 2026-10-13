@@ -59,12 +59,15 @@ jobs:
       - run: node scripts/analytics-import.js
       - run: node scripts/analytics-apple.js
       - run: node scripts/analytics-spotify.js
+      - run: node scripts/social.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - run: node scripts/quotes-issue.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: commit if changed
         run: |
-          git add episodes index
+          git add episodes index analytics
           if git diff --cached --quiet; then
             echo "no changes"
           else

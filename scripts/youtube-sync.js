@@ -112,7 +112,7 @@ async function main() {
     const n = numberIn(s.description) || numberIn(s.title);
     if (n == null || !byNumber.has(n)) { unmatched.shorts.push(s); continue; }
     if (!shortsFor.has(n)) shortsFor.set(n, []);
-    shortsFor.get(n).push({ youtube_id: s.id, title: s.title, duration_sec: s.duration, thumbnail_url: s.thumbnail });
+    shortsFor.get(n).push({ youtube_id: s.id, title: s.title, duration_sec: s.duration, thumbnail_url: s.thumbnail, published: String(s.published || '').slice(0, 10) });
   }
 
   let changed = 0;
