@@ -1,9 +1,11 @@
 # she persisted — episode catalogue (brief)
 
-256 episodes, newest first: number. title | date | tags | guests | link, then a one-line summary. The full version with chapters and pull quotes is index/catalogue.md. Regenerated nightly.
+257 episodes, newest first: number. title | date | tags | guests | link, then a one-line summary. The full version with chapters and pull quotes is index/catalogue.md. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (56), therapy & treatment (53), dbt (44), emotions (38), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (56), therapy & treatment (53), dbt (45), emotions (39), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
 
+264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi) | 2026-10-11 | dbt, emotions | dr. shireen rizvi, licensed clinical psychologist and dbt expert | https://shepersistedpodcast.com/episodes/264
+   sadie and dr. shireen rizvi dig into the hardest part of dbt: not learning the skills, but actually using them when it counts. they talk about what to do when you don't trust your own emotions, how to sit with…
 263. what i wish i knew when i didn’t want to be alive | 2026-09-26 | depression, therapy & treatment | solo | https://shepersistedpodcast.com/episodes/263
    sadie reflects on her experience with severe depression and suicidality as a teenager, eight years after being hospitalized at age 13. she answers questions she had during her darkest moments—like "will i always feel…
 262. your life isn’t going to feel like this forever (feat. dr. blaise aguirre) | 2026-09-07 | depression, therapy & treatment, parents | dr. blaise aguirre, child and adolescent psychiatrist and founding medical director of 3east at mclean hospital | https://shepersistedpodcast.com/episodes/262

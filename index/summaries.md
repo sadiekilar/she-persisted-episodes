@@ -1,6 +1,20 @@
 # she persisted — episode summaries
 
-256 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+257 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+
+## 264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)
+
+- date: 2026-10-11
+- tags: dbt, emotions
+- guests: dr. shireen rizvi, licensed clinical psychologist and dbt expert
+- url: https://shepersistedpodcast.com/episodes/264
+- transcript: episodes/ep-264.md (full)
+
+sadie and dr. shireen rizvi dig into the hardest part of dbt: not learning the skills, but actually using them when it counts. they talk about what to do when you don't trust your own emotions, how to sit with intensity without spiraling, and why focusing on body sensations can help when labeling feelings feels impossible. dr. rizvi breaks down the difference between acquiring a skill and getting it into your life, plus what to do when you know what you should do but just don't want to. they also cover realistic goal-setting, why dbt gives you permission to mess up, and how to balance decreasing problem behaviors with building a life that actually feels worth living.
+
+> It takes a while to change. In six months, your life won't be entirely different, let's be realistic, but let's see what could you accomplish in that period of time.
+> We could say the anger is justified. It fits the facts because they almost caused harm to you. They are blocking you in some particular way. The anger makes sense. The question is, what are you going to do with that anger next?
+> If you're in a tug of war, drop the rope.
 
 ## 263. what i wish i knew when i didn’t want to be alive
 

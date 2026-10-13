@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-10-09T12:21:49.979Z",
- "count": 168,
+ "generatedAt": "2026-10-13T14:48:33.306Z",
+ "count": 169,
  "guests": [
+  {
+   "id": "shireen-rizvi",
+   "name": "dr. shireen rizvi",
+   "credentials": "",
+   "bio": "a licensed clinical psychologist who has conducted research and training in dialectical behavioral therapy (dbt) for over twenty-five years.",
+   "website": "https://www.shireenrizvi.com/",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1791744362914-K98EUTBDLYCHJJT1BG5N/DSC00195.png",
+   "headshot_note": "",
+   "episodes": [
+    264
+   ],
+   "mashups": [],
+   "minis": []
+  },
   {
    "id": "blaise-aguirre",
    "name": "dr. blaise aguirre",
@@ -762,7 +777,13 @@
    "mashups": [
     238
    ],
-   "minis": []
+   "minis": [
+    {
+     "id": "yt-Ts9WE--RAYE",
+     "title": "we should all embrace our anxiety",
+     "parent": 182
+    }
+   ]
   },
   {
    "id": "roberto-olivardia",
