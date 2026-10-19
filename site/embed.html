@@ -92,7 +92,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 /* sidebar + list are centred as a block, so wide windows get even margins instead of a gap on the right */
 #sp-episodes .sp-arch{display:grid;grid-template-columns:220px minmax(0,900px);justify-content:center;gap:20px 40px;align-items:start;padding:48px var(--g) 96px}
 #sp-episodes .sp-arch>*{grid-column:2}
-#sp-episodes .sp-side{grid-column:1;grid-row:1/span 4;position:sticky;top:calc(var(--sp-top,0px) + 24px);display:flex;flex-direction:column;gap:20px}
+#sp-episodes .sp-side{grid-column:1;grid-row:1/span 5;position:sticky;top:calc(var(--sp-top,0px) + 24px);display:flex;flex-direction:column;gap:20px}
 #sp-episodes .sp-side-kicker{font-size:12px;font-weight:700;letter-spacing:.04em}
 #sp-episodes .sp-side-list{display:flex;flex-direction:column;gap:2px;font-size:15px;line-height:1.1}
 #sp-episodes .sp-side-item{padding:9px 12px;border-radius:10px}
@@ -103,6 +103,10 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
 #sp-episodes .sp-arch-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px}
 #sp-episodes h1{margin:0;padding:0;font-family:inherit;font-size:56px;font-weight:700;line-height:1;letter-spacing:-1px;color:inherit;text-transform:none;white-space:nowrap}
 #sp-episodes .sp-arch-head .sp-count{font-size:14px}
+/* topic page intro: one line about the topic and a starting episode, under the heading */
+#sp-episodes .sp-arch-intro{margin:0;max-width:760px;font-size:18px;line-height:1.45;color:var(--ink)}
+#sp-episodes .sp-arch-intro .sp-start{display:block;margin-top:8px;color:var(--red);font-weight:700}
+#sp-episodes .sp-arch-intro .sp-start:hover{opacity:.75}
 #sp-episodes .sp-feed{display:flex;flex-direction:column}
 #sp-episodes .sp-item{display:grid;grid-template-columns:120px minmax(0,1fr);gap:24px;align-items:center;padding:20px 0;border-top:1px solid rgba(116,0,0,.2)}
 #sp-episodes .sp-item .sp-thumb{border-radius:12px}
@@ -192,6 +196,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
   #sp-episodes .sp-back span{font-size:18px;line-height:1}
   #sp-episodes .sp-arch-head{order:2}
   #sp-episodes .sp-arch-head .sp-count{font-size:12px}
+  #sp-episodes .sp-arch-intro{order:2;font-size:16px;line-height:1.4}
   #sp-episodes h1{font-size:32px;letter-spacing:-.6px;white-space:normal}
   /* segmented control: all, the three featured topics (short labels), and "more" which opens the sheet */
   #sp-episodes .sp-seg{order:3;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));padding:3px;border-radius:999px;background:rgba(116,0,0,.08)}
@@ -245,6 +250,16 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       { tag: 'self-improvement', label: 'growth' },
       { tag: 'depression', label: 'mood' }
     ],
+    // Topic pages: one line about the topic and the episode to start with (shown under the heading).
+    TOPICS: {
+      'dbt': { intro: 'everyday skills from dialectical behavior therapy for overwhelming emotions, distress and relationships, taught the way sadie learned them in treatment.', start: 168 },
+      'depression': { intro: 'recovery, asking for help, what treatment is really like, and how to support someone who is struggling.', start: 263 },
+      'anxiety': { intro: 'panic attacks, overthinking and avoidance, and the coping skills that help in the moment and over time.', start: 205 },
+      'college': { intro: 'the transition, friendships, comparison, academic pressure and asking for help on campus.', start: 229 },
+      '20s': { intro: 'post-grad life, feeling behind, loneliness, career changes and building a life that works for you.', start: 188 },
+      'relationships': { intro: 'friendships, family, dating and the interpersonal skills that make all of them easier.' },
+      'self-improvement': { intro: 'habits, motivation, confidence and the psychology of actually changing your behavior.' }
+    },
     HERO_INTERVAL: 6000,
     CACHE_KEY: 'sp:episodes:v1',
     CACHE_TTL: 60 * 60 * 1000
@@ -725,6 +740,9 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       return '<a class="sp-side-item' + (on ? ' sp-on' : '') + '" href="' + esc(t ? tagUrl(t) : CFG.COLLECTION + '?view=all') + '"' + (on ? ' aria-current="page"' : '') + '>' + esc(t || 'all episodes') + ' <i>(' + n + ')</i></a>';
     }
     var inSegments = CFG.SEGMENTS.some(function (g) { return (g.tag || null) === (tag || null); });
+    var about = tag && CFG.TOPICS[tag];
+    var start = about && about.start ? byNumber[about.start] : null;
+    var intro = about && about.intro ? '<p class="sp-arch-intro">' + esc(about.intro) + (start ? '<a class="sp-start" href="' + esc(start.url) + '">start with ' + esc(start.title) + ' <span>\u203a</span></a>' : '') + '</p>' : '';
     function item(e) {
       return '<a class="sp-item" href="' + esc(e.url) + '"><span class="sp-thumb">' + img(thumb(e.image, '500w'), shown < 6) + '</span>' +
         '<span class="sp-item-text"><span class="sp-item-title">' + esc(e.title) + '</span>' + (e.excerpt ? '<span class="sp-item-excerpt">' + esc(e.excerpt) + '</span>' : '') + '</span></a>';
@@ -733,6 +751,7 @@ html.sp-ep-stock section.sp-ep-section{display:none!important}
       '<nav class="sp-side" aria-label="browse episodes"><span class="sp-side-kicker">BROWSE</span><div class="sp-side-list">' + side(null) + topicTags().map(side).join('') + '</div></nav>' +
       '<a class="sp-text sp-back" href="' + esc(CFG.COLLECTION) + '"><span>\u2039</span>episodes</a>' +
       '<div class="sp-arch-head"><h1>' + esc(tag || 'all episodes') + '</h1><span class="sp-count">' + countLabel(list.length) + '</span></div>' +
+      intro +
       '<div class="sp-seg">' + CFG.SEGMENTS.map(function (g) {
         return '<a href="' + esc(g.tag ? tagUrl(g.tag) : CFG.COLLECTION + '?view=all') + '"' + ((g.tag || null) === (tag || null) ? ' class="sp-on" aria-current="page"' : '') + '>' + esc(g.label) + '</a>';
       }).join('') + '<button type="button" class="sp-seg-more' + (inSegments ? '' : ' sp-on') + '" aria-haspopup="dialog">more \u25be</button></div>' +

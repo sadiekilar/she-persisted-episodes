@@ -35,8 +35,23 @@ function decodeEntities(s) {
   });
 }
 
+// Squarespace editor leftovers that show on the page as typos: empty inline tags (their space is
+// kept: `episode,<strong> </strong>i`), line breaks at the start or end of a paragraph (they show
+// as a blank line), empty paragraphs, and doubled spaces made of `&nbsp;`.
+const INLINE_TAGS = 'a|b|strong|em|i|u|s|span|sup|sub|mark|small';
+const EMPTY_INLINE = new RegExp(`<(${INLINE_TAGS})\\b[^>]*>(\\s*)</\\1>`, 'gi');
+function tidyHtml(html) {
+  let s = String(html || '');
+  for (let prev; prev !== s;) { prev = s; s = s.replace(EMPTY_INLINE, '$2'); }
+  s = s.replace(/(<p\b[^>]*>)(?:\s|&nbsp;|<br\s*\/?>)+/gi, '$1').replace(/(?:\s|&nbsp;|<br\s*\/?>)+<\/p>/gi, '</p>');
+  s = s.replace(/<p\b[^>]*><\/p>/gi, '');
+  return s.replace(/(?: |&nbsp;| ){2,}/g, ' ');
+}
+
+// Inline tags vanish (they sit inside words and next to punctuation); everything else is a break.
 function htmlToText(html) {
-  return decodeEntities(String(html || '').replace(/<(script|style)\b[\s\S]*?<\/\1>/gi, '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
+  const s = tidyHtml(String(html || '').replace(/<(script|style)\b[\s\S]*?<\/\1>/gi, ''));
+  return decodeEntities(s.replace(new RegExp(`</?(?:${INLINE_TAGS})\\b[^>]*>`, 'gi'), '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
 }
 
 function htmlToMarkdown(html) {
@@ -76,7 +91,7 @@ const wordCount = (s) => (String(s).match(/\S+/g) || []).length;
 
 // Front matter: one `key: value` per line. Values are written as JSON (valid
 // YAML) except bare numbers, dates and URLs, so parsing stays trivial.
-const FIELD_ORDER = ['title', 'number', 'date', 'publish_on', 'slug', 'original_url', 'image_url', 'tags', 'guests', 'summary', 'key_quotes', 'quote', 'quote_display', 'quote_source', 'quotes_approved', 'quotes_checked', 'excerpt', 'tags_override', 'tags_source', 'tags_extra', 'tags_extra_checked', 'youtube_id', 'spotify_episode_id', 'creators_embed_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'talk_about', 'chapters', 'shorts', 'description_html', 'mentioned_html', 'transcript_source', 'transcript_url', 'chapters_source', 'transcript_status', 'transcript_words', 'audit_flags', 'completeness', 'missing'];
+const FIELD_ORDER = ['title', 'number', 'date', 'publish_on', 'slug', 'original_url', 'image_url', 'tags', 'guests', 'summary', 'key_quotes', 'quote', 'quote_display', 'quote_source', 'quotes_approved', 'quotes_checked', 'excerpt', 'excerpt_override', 'tags_override', 'tags_source', 'tags_extra', 'tags_extra_checked', 'youtube_id', 'spotify_episode_id', 'creators_embed_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'talk_about', 'chapters', 'shorts', 'description_html', 'description_override_html', 'note_html', 'mentioned_html', 'transcript_source', 'transcript_url', 'chapters_source', 'transcript_status', 'transcript_words', 'audit_flags', 'completeness', 'missing'];
 const BARE = new Set(['number', 'date', 'publish_on', 'original_url', 'image_url', 'apple_episode_url', 'audio_url', 'duration_sec', 'youtube_id', 'spotify_episode_id', 'creators_embed_url', 'transcript_source', 'transcript_url', 'chapters_source', 'tags_source', 'transcript_status', 'transcript_words', 'completeness']);
 
 function parseEpisode(text) {
@@ -125,4 +140,4 @@ function transcriptOf(body) {
   return i < 0 ? '' : body.slice(i).replace(/^## transcript\s*/, '').trim();
 }
 
-module.exports = { SITE, COLLECTION, ROOT, EPISODES_DIR, INDEX_DIR, sleep, fetchJson, decodeEntities, htmlToText, htmlToMarkdown, wordCount, parseEpisode, serializeEpisode, episodeFile, readEpisodes, writeEpisode, transcriptOf };
+module.exports = { SITE, COLLECTION, ROOT, EPISODES_DIR, INDEX_DIR, sleep, fetchJson, decodeEntities, tidyHtml, htmlToText, htmlToMarkdown, wordCount, parseEpisode, serializeEpisode, episodeFile, readEpisodes, writeEpisode, transcriptOf };

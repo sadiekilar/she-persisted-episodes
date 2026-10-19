@@ -1,7 +1,8 @@
 # section markers not found
 
-141 of 256 posts are missing at least one of the "listen to this episode", "we/i talk about" or "mentioned" markers. Their headings are listed so the patterns in scripts/sections.js can be extended.
+142 of 257 posts are missing at least one of the "listen to this episode", "we/i talk about" or "mentioned" markers. Their headings are listed so the patterns in scripts/sections.js can be extended.
 
+- [264](https://shepersistedpodcast.com/episodes/264) missing: listen; headings: "Recent Episodes"
 - [175](https://shepersistedpodcast.com/episodes/ep175) missing: talkAbout; headings: "listen to this episode:", "Mentioned In The Episode…", "About She Persisted (formerly Nevertheless, She Persisted)", "Recent Episodes"
 - [174](https://shepersistedpodcast.com/episodes/ep174) missing: talkAbout; headings: "listen to this episode:", "Mentioned In The Episode…", "About She Persisted (formerly Nevertheless, She Persisted)", "Recent Episodes"
 - [173](https://shepersistedpodcast.com/episodes/ep173) missing: talkAbout; headings: "listen to this episode:", "Mentioned In The Episode…", "About She Persisted (formerly Nevertheless, She Persisted)", "Recent Episodes"

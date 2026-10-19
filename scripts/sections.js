@@ -1,7 +1,7 @@
 // Splits a Squarespace post body into the pieces the episode page needs:
 // description, "we/i talk about" bullets, "mentioned" block, transcript, and
 // the YouTube / Spotify ids embedded in the post. Used by import.js.
-const { decodeEntities, htmlToText } = require('./lib');
+const { decodeEntities, tidyHtml, htmlToText } = require('./lib');
 
 const MARKERS = {
   listen: /^(listen|tune in)\b(?!.*(full|related|previous|other|these) episodes).*(episode|here)|^(apple podcasts|spotify)\b/i,
@@ -75,7 +75,7 @@ function listItems(html) {
 }
 
 function cleanHtml(html) {
-  return html
+  return tidyHtml(html
     // links: the blog moved from /podcast-episodes/ to /episodes/; invisible characters (word joiners,
     // zero-width spaces, nbsp) pasted onto the end of a URL make it 404
     .replace(/href="([^"]*)"/gi, (m, u) => 'href="' + u.replace(/(?:\u2060|\u200b|\u200c|\ufeff|&nbsp;|\u00a0|%E2%81%A0|\s)+$/g, '').replace(/^(https?:\/\/(?:www\.)?shepersistedpodcast\.com)\/podcast-episodes\//i, '$1/episodes/') + '"')
@@ -83,8 +83,9 @@ function cleanHtml(html) {
     .replace(/<(\/?)(span|div|section)\b[^>]*>/gi, '')
     .replace(/<p[^>]*>\s*(&nbsp;|\s)*<\/p>/gi, '')
     .replace(/\s+/g, ' ')
-    .replace(/> </g, '><')
-    .trim();
+    // whitespace only goes around block tags: between inline tags it is a real space (`dr.</strong> <strong>blaise`)
+    .replace(/\s*(<\/?(?:p|ul|ol|li|h[1-6]|blockquote|figure|br)\b[^>]*>)\s*/gi, '$1')
+    .trim());
 }
 
 function extract(bodyHtml) {

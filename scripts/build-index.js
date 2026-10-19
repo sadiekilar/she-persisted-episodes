@@ -18,12 +18,19 @@ const clip = (s, n) => {
 
 // Final tags: Squarespace tags (or the repo override when the post has none) plus site-only
 // additions (tags_extra), minus tags hidden on the site. See scripts/tags.js.
+// Corrections kept in the repo (they survive a re-import, which only refreshes Squarespace's fields):
+//   excerpt_override            replaces the Squarespace excerpt everywhere the index uses it
+//   description_override_html   replaces the post description on the episode page
+//   note_html                   a note shown under the description (e.g. a correction)
+// Remove an override once the post itself has been fixed in Squarespace.
 const HIDDEN_TAGS = ['teen mental health', 'sleep'];
 const episodes = readEpisodes().map((e) => {
   const sq = (e.meta.tags || []).filter((t) => !HIDDEN_TAGS.includes(t));
   const base = sq.length ? sq : (e.meta.tags_override || []);
   const tags = [...new Set([...base, ...(e.meta.tags_extra || [])])].filter((t) => !HIDDEN_TAGS.includes(t));
   e.meta = { ...e.meta, tags };
+  if (e.meta.excerpt_override) e.meta.excerpt = e.meta.excerpt_override;
+  if (e.meta.description_override_html) e.meta.description_html = e.meta.description_override_html;
   return e;
 });
 
@@ -95,7 +102,7 @@ for (const ep of episodes) {
     format: formatOf(m), series: seriesOf(m) || null,
     minis: MINIS.filter((x) => x.parent === m.number).map(({ id, title, date, duration_sec, audio_url, youtube_id, blurb }) => ({ id, title, date, duration_sec, audio_url, youtube_id, blurb })),
     youtube_thumbnail: m.youtube_id ? 'https://i.ytimg.com/vi/' + m.youtube_id + '/maxresdefault.jpg' : null,
-    description_html: m.description_html || '', talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
+    description_html: m.description_html || '', ...(m.note_html ? { note_html: m.note_html } : {}), talk_about: m.talk_about || [], mentioned_html: m.mentioned_html || '',
     guests: m.guests || [], summary: m.summary || '',
     youtube_id: m.youtube_id || null, spotify_episode_id: m.spotify_episode_id || null, creators_embed_url: m.creators_embed_url || null, apple_episode_url: m.apple_episode_url || null,
     audio_url: m.audio_url || null, duration_sec: m.duration_sec || null,

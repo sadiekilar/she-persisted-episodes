@@ -72,7 +72,7 @@ The Code Block lives on the blog page itself, so no URLs change. The embed draws
 
 - `/episodes`: the browse page (hero, shelves, topics, search).
 - `/episodes?view=all`: the archive, every episode in a list with a topic sidebar.
-- `/episodes?tag=anxiety` (and Squarespace's own `/episodes/tag/anxiety` links): the archive filtered to one tag.
+- `/episodes?tag=anxiety` (and Squarespace's own `/episodes/tag/anxiety` links): the archive filtered to one tag. Tags listed in `CFG.TOPICS` (in `site/embed.html`) show a one-line intro and a starting episode under the heading.
 
 Squarespace's own post grid stays hidden on all three. It only shows for Squarespace's paginated, category or author views (`?offset=`, `?category=`, `?author=`), or if the index and the Squarespace fallback both fail to load.
 
@@ -91,6 +91,8 @@ Each post is rebuilt from `index/episodes/ep-NNN.json`: back link, episode numbe
 **Pull quotes** go live only after approval. The refresh job keeps a GitHub issue, "pull quotes awaiting approval", listing every pending episode with a clickable checkbox per candidate quote (and "none"). Tick one per episode; the next refresh applies the ticks and removes those episodes from the issue. `index/quotes-review.md` is the same list as a file, for editing by hand.
 
 **Tags** for posts that have none in Squarespace are suggested by `tags.js` from the existing tag list and kept in the repo only (`tags_override`, listed in `index/tags-review.md`, editable). Squarespace tags always win once a post has any. `tags.js` also hides `HIDDEN` tags and proposes the site-only `EXTRA` tags (therapy & treatment, parents, high school) per episode; adding a tag to `EXTRA` re-checks every episode on the next run. Suggestions require the episode to be substantially about the topic, not a passing mention.
+
+**Corrections** that Squarespace doesn't have yet can be kept in the episode file; a re-import leaves them alone: `excerpt_override` (replaces the Squarespace excerpt wherever the index uses it), `description_override_html` (replaces the description on the episode page) and `note_html` (a note shown under the description, e.g. a correction). Remove an override once the post itself is fixed in Squarespace.
 
 **Emphasis** in pull quotes is decided by hand: `index/quotes-emphasis.md` lists every approved quote in lowercase; capitalise the words to emphasise and commit. (A `pull quote:` line in a post can carry CAPS directly.)
 

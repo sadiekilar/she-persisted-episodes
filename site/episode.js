@@ -255,14 +255,14 @@
   function stripTags(h) { var d = document.createElement('div'); d.innerHTML = h || ''; return (d.textContent || '').replace(/\s+/g, ' ').trim(); }
   // Trusted markup from the post body (via the index): drop anything executable just in case.
   function safeHtml(h) { var d = document.createElement('div'); d.innerHTML = h || ''; [].forEach.call(d.querySelectorAll('script,style,iframe,object,embed'), function (n) { n.remove(); }); [].forEach.call(d.querySelectorAll('*'), function (n) { [].slice.call(n.attributes).forEach(function (a) { if (/^on/i.test(a.name) || (a.name === 'href' && /^\s*javascript:/i.test(a.value))) n.removeAttribute(a.name); }); }); return d.innerHTML; }
-  // First sentence (through the first ? or ?!) of the description in bold red.
+  // First sentence (through the first question mark and any ?/! after it: ?!, ??, ??!) of the description in bold red.
   function leadBold(h) {
     var d = document.createElement('div'); d.innerHTML = h;
     var p = d.querySelector('p'); if (!p) return d.innerHTML;
     var text = p.textContent || '';
     // the red lead is the opening question; a question that only turns up deep in a long paragraph is not a hook
-    var i = text.search(/\?!?/); if (i < 0 || i > 200) return d.innerHTML;
-    var end = i + (text[i + 1] === '!' ? 2 : 1);
+    var i = text.search(/\?/); if (i < 0 || i > 200) return d.innerHTML;
+    var end = i + /^[?!]+/.exec(text.slice(i))[0].length;
     var walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT), seen = 0, node;
     while ((node = walker.nextNode())) {
       var len = node.nodeValue.length;
