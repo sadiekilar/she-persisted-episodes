@@ -1,6 +1,20 @@
 # she persisted — episode summaries
 
-257 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+258 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+
+## 265. why does it take a crisis to be taken seriously?
+
+- date: 2026-10-24
+- tags: dbt, emotions, relationships, therapy & treatment, parents
+- guests: dr. jill rathus
+- url: https://shepersistedpodcast.com/episodes/265
+- transcript: episodes/ep-265.md (full)
+
+this episode covers dialectical behavioral therapy (dbt) for teens and families. dr. jill rathus, who co-developed dbt for adolescents, explains what the first therapy session looks like, how to tell the difference between normal teen behavior and mental health struggles, and why it often takes a crisis for teens to get help. she talks about validating teens, involving families in treatment, and how parents can recognize warning signs early. listeners learn practical ways to support a struggling teen and why family involvement makes recovery faster and more effective.
+
+> Often it's, you know, the squeaky wheel gets the grease, so it's the kid who has escalated their cries for distress that finally gets taken seriously because families are busy, hectic, and strained a lot of the time.
+> It's not about trying harder. I'm trying hard every minute of every day, and nobody gets that. Nobody gets what a battle it is just getting through every day.
+> We want to teach them that in order so that the kid doesn't have to feel like they need to express suicidal thinking to get you to put down your screen and stop or put down the dinner that you're cooking and actually listen to them for a few minutes.
 
 ## 264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)
 

@@ -1,11 +1,12 @@
 # guests
 
-169 people, built from the episode files (names from the summaries and titles, bios from the descriptions, links from the show notes, headshot = the Squarespace thumbnail of the newest episode they appear on). One line per guest:
+170 people, built from the episode files (names from the summaries and titles, bios from the descriptions, links from the show notes, headshot = the Squarespace thumbnail of the newest episode they appear on). One line per guest:
 
 `- id: name | credentials | website | instagram | headshot url | bio`
 
 Edit any field and commit; the next run keeps your version. Leave a field empty to keep the generated value.
 
+- jill-rathus: dr. jill rathus |  | https://psychwire.com/profiles/1aq0nfa/jill-rathus |  | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1792682534383-WUHDM5MNI800YM006NHG/DSC07039.png | a world-renowned authority on dbt.
 - shireen-rizvi: dr. shireen rizvi |  | https://www.shireenrizvi.com/ |  | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1791744362914-K98EUTBDLYCHJJT1BG5N/DSC00195.png | a licensed clinical psychologist who has conducted research and training in dialectical behavioral therapy (dbt) for over twenty-five years.
 - blaise-aguirre: dr. blaise aguirre | MD | https://www.blaisemd.com/ | https://www.instagram.com/blaisemd/?hl=en | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1789408362633-PFUZOGT9M6IN4OVZDU5K/FullSizeRender.jpg | an assistant professor in psychiatry at harvard medical school in the department of psychiatry.
 - hailey-hardcastle: hailey hardcastle |  | https://www.ted.com/speakers/hailey_hardcastle |  | https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1786122723183-BEPF1QGFORLXN5GSD869/16351906-7273091-image-a-47_1563807657781.jpg | a gen z mental health advocate who helped pass landmark legislation in oregon allowing students to take mental health days off from school.

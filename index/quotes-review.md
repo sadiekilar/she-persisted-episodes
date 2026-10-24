@@ -1,6 +1,13 @@
 # pull quotes awaiting approval
 
-1 episodes. Tick ONE box per episode (change `[ ]` to `[x]`), commit, and the next refresh puts that quote on the episode page. Tick "none" to approve the episode with no quote. Approved episodes drop off this list.
+2 episodes. Tick ONE box per episode (change `[ ]` to `[x]`), commit, and the next refresh puts that quote on the episode page. Tick "none" to approve the episode with no quote. Approved episodes drop off this list.
+
+## 265. why does it take a crisis to be taken seriously?
+
+- [ ] Often it's, you know, the squeaky wheel gets the grease, so it's the kid who has escalated their cries for distress that finally gets taken seriously because families are busy, hectic, and strained a lot of the time.
+- [ ] It's not about trying harder. I'm trying hard every minute of every day, and nobody gets that. Nobody gets what a battle it is just getting through every day.
+- [ ] We want to teach them that in order so that the kid doesn't have to feel like they need to express suicidal thinking to get you to put down your screen and stop or put down the dinner that you're cooking and actually listen to them for a few minutes.
+- [ ] none
 
 ## 264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)
 

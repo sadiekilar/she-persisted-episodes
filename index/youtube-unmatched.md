@@ -2,9 +2,8 @@
 
 Long-form videos match by the episode number at the start of the title (or "ep. NNN"), else by title similarity. Shorts match by "ep. NNN" / "episode NNN" in the description or title. To fix one, add the episode number to the video's title or description on YouTube.
 
-## long-form (5)
+## long-form (4)
 
-- [why does it take a crisis to be taken seriously?](https://www.youtube.com/watch?v=F-K_yYo3S6k) (2026-10-23, 44 min) — closest title: 260 (18%)
 - [Sadie Sutton & Dr. Emily Weinstein: How to Decode Teen Slange & Emojis | NBC NEWS](https://www.youtube.com/watch?v=aGYLO2W-UCM) (2025-05-15, 5 min) — closest title: 218 (16%)
 - [Sadie Sutton & Dr. Emily Weinstein: Talking to Kids About Their Online Lives | NBC NEWS](https://www.youtube.com/watch?v=iilJBgylQP0) (2025-05-14, 5 min) — closest title: 218 (15%)
 - [abc7 News Bay Area Interview with Kristen Sze | May 5th, 2021](https://www.youtube.com/watch?v=dlO7uBQGjm4) (2021-05-05, 10 min)

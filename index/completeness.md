@@ -1,17 +1,18 @@
 # episode page completeness
 
-169 of 257 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
+169 of 258 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
 
 ## what would unblock the most pages
 
-- **87 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
+- **88 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
 - **50 episodes** need `youtube_id`: no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)
-- **1 episodes** need `spotify_episode_id`: no Spotify or Spotify for Creators player embedded in the post
+- **2 episodes** need `spotify_episode_id`: no Spotify or Spotify for Creators player embedded in the post
 
 ## every episode
 
 | episode | missing |
 | --- | --- |
+| [265](https://shepersistedpodcast.com/episodes/265) | apple_episode_url, spotify_episode_id |
 | [264](https://shepersistedpodcast.com/episodes/264) | apple_episode_url, spotify_episode_id |
 | [263](https://shepersistedpodcast.com/episodes/263) | complete |
 | [262](https://shepersistedpodcast.com/episodes/262) | complete |

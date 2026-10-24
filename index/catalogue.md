@@ -1,8 +1,15 @@
 # she persisted — episode catalogue
 
-257 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
+258 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (56), therapy & treatment (53), dbt (45), emotions (39), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (59), parents (57), therapy & treatment (54), dbt (46), emotions (40), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+
+## 265. why does it take a crisis to be taken seriously?
+date: 2026-10-24 | https://shepersistedpodcast.com/episodes/265 | 44 min | video
+tags: dbt, emotions, relationships, therapy & treatment, parents
+format: guest | guests: dr. jill rathus
+summary: this episode covers dialectical behavioral therapy (dbt) for teens and families. dr. jill rathus, who co-developed dbt for adolescents, explains what the first therapy session looks like, how to tell the difference between normal teen behavior and mental health struggles, and why it often takes a crisis for teens to get help. she talks about validating teens, involving families in treatment, and how parents can recognize warning signs early. listeners learn practical ways to support a struggling teen and why family involvement makes recovery faster and more effective.
+chapters: what an initial dbt appointment can look like; common concerns that teens + parents have about mental health; qualifying “normal” teen behavior vs. a mental health issue; why it often takes a crisis for teen mental health to be taken seriously; signs that a teenager is reaching out for help with their mental health; how to validate someone who’s struggling (+ common invalidating responses); strict vs. lenient parenting styles + how that impacts teen mental health; starting family therapy + what that involves; applying therapy to daily life in ways that actually work; why dr. rathus is hopeful about teen mental health
 
 ## 264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi)
 date: 2026-10-11 | https://shepersistedpodcast.com/episodes/264 | 32 min | video
