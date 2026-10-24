@@ -6,6 +6,7 @@ Hidden on the site (still in Squarespace): teen mental health, sleep.
 
 therapy & treatment, parents, high school are site-only tags, proposed per episode from its summary. Edit the tags after the "+" and commit to change one; leave it empty to remove them.
 
+- 265. why does it take a crisis to be taken seriously? + therapy & treatment, parents
 - 263. what i wish i knew when i didn’t want to be alive + therapy & treatment
 - 262. your life isn’t going to feel like this forever (feat. dr. blaise agui + therapy & treatment, parents
 - 261. what if part of you doesn’t want to get better? (feat. dr. blaise agui + parents
@@ -122,6 +123,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 
 Squarespace's own tags always win when a post has any. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, relationships, self-improvement, social media, trauma, troubled teen industry.
 
+- 265. why does it take a crisis to be taken seriously? → dbt, emotions, relationships
 - 260. you don’t have to be in crisis to need help (feat. hailey hardcastle) → self-improvement, anxiety, depression
 - 231. gen z mental health: is it really that bad?? - a pediatrician’s take f → anxiety, depression, relationships
 - 208. How to Be a Mental Health ADVOCATE feat. Active Minds → college, self-improvement

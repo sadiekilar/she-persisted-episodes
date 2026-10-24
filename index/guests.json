@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-10-13T14:48:33.306Z",
- "count": 169,
+ "generatedAt": "2026-10-24T16:21:46.308Z",
+ "count": 170,
  "guests": [
+  {
+   "id": "jill-rathus",
+   "name": "dr. jill rathus",
+   "credentials": "",
+   "bio": "a world-renowned authority on dbt.",
+   "website": "https://psychwire.com/profiles/1aq0nfa/jill-rathus",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/1792682534383-WUHDM5MNI800YM006NHG/DSC07039.png",
+   "headshot_note": "",
+   "episodes": [
+    265
+   ],
+   "mashups": [],
+   "minis": []
+  },
   {
    "id": "shireen-rizvi",
    "name": "dr. shireen rizvi",

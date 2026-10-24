@@ -1,17 +1,18 @@
 # episode page completeness
 
-169 of 257 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
+206 of 258 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
 
 ## what would unblock the most pages
 
-- **87 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
 - **50 episodes** need `youtube_id`: no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)
-- **1 episodes** need `spotify_episode_id`: no Spotify or Spotify for Creators player embedded in the post
+- **2 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
+- **2 episodes** need `spotify_episode_id`: no Spotify or Spotify for Creators player embedded in the post
 
 ## every episode
 
 | episode | missing |
 | --- | --- |
+| [265](https://shepersistedpodcast.com/episodes/265) | apple_episode_url, spotify_episode_id |
 | [264](https://shepersistedpodcast.com/episodes/264) | apple_episode_url, spotify_episode_id |
 | [263](https://shepersistedpodcast.com/episodes/263) | complete |
 | [262](https://shepersistedpodcast.com/episodes/262) | complete |
@@ -183,89 +184,89 @@
 | [96](https://shepersistedpodcast.com/episodes/ep96) | complete |
 | [95](https://shepersistedpodcast.com/episodes/ep95) | complete |
 | [94](https://shepersistedpodcast.com/episodes/ep94) | complete |
-| [93](https://shepersistedpodcast.com/episodes/ep93) | apple_episode_url |
-| [92](https://shepersistedpodcast.com/episodes/ep92) | apple_episode_url |
-| [91](https://shepersistedpodcast.com/episodes/ep91) | apple_episode_url |
-| [90](https://shepersistedpodcast.com/episodes/ep90) | apple_episode_url |
-| [89](https://shepersistedpodcast.com/episodes/ep89) | apple_episode_url |
-| [88](https://shepersistedpodcast.com/episodes/ep88) | apple_episode_url |
-| [87](https://shepersistedpodcast.com/episodes/ep87) | apple_episode_url |
-| [86](https://shepersistedpodcast.com/episodes/ep86) | apple_episode_url |
-| [85](https://shepersistedpodcast.com/episodes/ep85) | apple_episode_url |
-| [84](https://shepersistedpodcast.com/episodes/ep84) | apple_episode_url |
-| [83](https://shepersistedpodcast.com/episodes/ep83) | apple_episode_url |
-| [82](https://shepersistedpodcast.com/episodes/ep82) | apple_episode_url |
-| [81](https://shepersistedpodcast.com/episodes/ep81) | apple_episode_url |
-| [80](https://shepersistedpodcast.com/episodes/ep80) | apple_episode_url |
-| [79](https://shepersistedpodcast.com/episodes/ep79) | apple_episode_url |
-| [78](https://shepersistedpodcast.com/episodes/ep78) | apple_episode_url |
-| [77](https://shepersistedpodcast.com/episodes/ep77) | apple_episode_url |
-| [76](https://shepersistedpodcast.com/episodes/ep76) | apple_episode_url |
-| [75](https://shepersistedpodcast.com/episodes/ep75) | apple_episode_url |
-| [74](https://shepersistedpodcast.com/episodes/ep74) | apple_episode_url |
-| [73](https://shepersistedpodcast.com/episodes/ep73) | apple_episode_url |
-| [72](https://shepersistedpodcast.com/episodes/ep72) | apple_episode_url |
-| [71](https://shepersistedpodcast.com/episodes/ep71) | apple_episode_url |
-| [69](https://shepersistedpodcast.com/episodes/ep69) | apple_episode_url |
-| [68](https://shepersistedpodcast.com/episodes/ep68) | apple_episode_url |
-| [67](https://shepersistedpodcast.com/episodes/ep67) | apple_episode_url |
-| [66](https://shepersistedpodcast.com/episodes/ep66) | apple_episode_url |
-| [65](https://shepersistedpodcast.com/episodes/ep65) | apple_episode_url |
-| [64](https://shepersistedpodcast.com/episodes/ep64) | apple_episode_url |
-| [63](https://shepersistedpodcast.com/episodes/ep63) | apple_episode_url |
-| [62](https://shepersistedpodcast.com/episodes/ep62) | apple_episode_url |
-| [61](https://shepersistedpodcast.com/episodes/ep61) | apple_episode_url |
-| [60](https://shepersistedpodcast.com/episodes/ep60) | apple_episode_url |
-| [59](https://shepersistedpodcast.com/episodes/ep59) | youtube_id, apple_episode_url |
-| [58](https://shepersistedpodcast.com/episodes/ep58) | youtube_id, apple_episode_url |
-| [57](https://shepersistedpodcast.com/episodes/ep57) | youtube_id, apple_episode_url |
-| [56](https://shepersistedpodcast.com/episodes/ep56) | youtube_id, apple_episode_url |
-| [55](https://shepersistedpodcast.com/episodes/ep55) | youtube_id, apple_episode_url |
-| [54](https://shepersistedpodcast.com/episodes/ep54) | apple_episode_url |
-| [53](https://shepersistedpodcast.com/episodes/ep53) | apple_episode_url |
-| [52](https://shepersistedpodcast.com/episodes/ep52) | youtube_id, apple_episode_url |
-| [51](https://shepersistedpodcast.com/episodes/ep51) | youtube_id, apple_episode_url |
-| [50](https://shepersistedpodcast.com/episodes/ep50) | youtube_id, apple_episode_url |
-| [49](https://shepersistedpodcast.com/episodes/ep49) | youtube_id, apple_episode_url |
-| [48](https://shepersistedpodcast.com/episodes/ep48) | youtube_id, apple_episode_url |
-| [47](https://shepersistedpodcast.com/episodes/ep47) | apple_episode_url |
-| [46](https://shepersistedpodcast.com/episodes/ep46) | youtube_id, apple_episode_url |
-| [45](https://shepersistedpodcast.com/episodes/ep45) | youtube_id, apple_episode_url |
-| [44](https://shepersistedpodcast.com/episodes/ep44) | youtube_id, apple_episode_url |
-| [42](https://shepersistedpodcast.com/episodes/ep42) | youtube_id, apple_episode_url |
-| [41](https://shepersistedpodcast.com/episodes/ep41) | youtube_id, apple_episode_url |
-| [40](https://shepersistedpodcast.com/episodes/ep40) | youtube_id, apple_episode_url |
-| [39](https://shepersistedpodcast.com/episodes/ep39) | youtube_id, apple_episode_url |
-| [38](https://shepersistedpodcast.com/episodes/ep38) | youtube_id, apple_episode_url |
-| [37](https://shepersistedpodcast.com/episodes/ep37) | youtube_id, apple_episode_url |
-| [36](https://shepersistedpodcast.com/episodes/ep36) | youtube_id, apple_episode_url |
-| [35](https://shepersistedpodcast.com/episodes/ep35) | youtube_id, apple_episode_url |
-| [34](https://shepersistedpodcast.com/episodes/ep34) | youtube_id, apple_episode_url |
-| [33](https://shepersistedpodcast.com/episodes/ep33) | youtube_id, apple_episode_url |
-| [32](https://shepersistedpodcast.com/episodes/ep32) | youtube_id, apple_episode_url |
-| [31](https://shepersistedpodcast.com/episodes/ep31) | youtube_id, apple_episode_url |
-| [30](https://shepersistedpodcast.com/episodes/ep30) | youtube_id, apple_episode_url |
-| [29](https://shepersistedpodcast.com/episodes/ep29) | apple_episode_url |
-| [28](https://shepersistedpodcast.com/episodes/ep28) | youtube_id, apple_episode_url |
-| [27](https://shepersistedpodcast.com/episodes/ep27) | youtube_id, apple_episode_url |
-| [26](https://shepersistedpodcast.com/episodes/ep26) | youtube_id, apple_episode_url |
-| [25](https://shepersistedpodcast.com/episodes/ep25) | youtube_id, apple_episode_url |
-| [24](https://shepersistedpodcast.com/episodes/ep23-yt5bx) | youtube_id, apple_episode_url |
-| [23](https://shepersistedpodcast.com/episodes/ep23) | youtube_id, apple_episode_url |
-| [22](https://shepersistedpodcast.com/episodes/ep22) | youtube_id, apple_episode_url |
-| [21](https://shepersistedpodcast.com/episodes/ep21) | youtube_id, apple_episode_url |
-| [20](https://shepersistedpodcast.com/episodes/ep20) | youtube_id, apple_episode_url |
-| [19](https://shepersistedpodcast.com/episodes/ep19) | youtube_id, apple_episode_url |
-| [18](https://shepersistedpodcast.com/episodes/ep18) | youtube_id, apple_episode_url |
-| [17](https://shepersistedpodcast.com/episodes/ep17) | youtube_id, apple_episode_url |
-| [16](https://shepersistedpodcast.com/episodes/ep16) | youtube_id, apple_episode_url |
-| [15](https://shepersistedpodcast.com/episodes/ep15) | youtube_id, apple_episode_url |
-| [14](https://shepersistedpodcast.com/episodes/ep14) | youtube_id, apple_episode_url |
-| [11](https://shepersistedpodcast.com/episodes/ep11) | youtube_id, apple_episode_url |
-| [10](https://shepersistedpodcast.com/episodes/ep10) | youtube_id, apple_episode_url |
-| [8](https://shepersistedpodcast.com/episodes/ep8) | youtube_id, apple_episode_url |
-| [6](https://shepersistedpodcast.com/episodes/ep6) | youtube_id, apple_episode_url |
-| [5](https://shepersistedpodcast.com/episodes/ep5) | youtube_id, apple_episode_url |
-| [3](https://shepersistedpodcast.com/episodes/ep3) | youtube_id, apple_episode_url |
-| [2](https://shepersistedpodcast.com/episodes/ep2) | youtube_id, apple_episode_url |
-| [1](https://shepersistedpodcast.com/episodes/ep1) | youtube_id, apple_episode_url |
+| [93](https://shepersistedpodcast.com/episodes/ep93) | complete |
+| [92](https://shepersistedpodcast.com/episodes/ep92) | complete |
+| [91](https://shepersistedpodcast.com/episodes/ep91) | complete |
+| [90](https://shepersistedpodcast.com/episodes/ep90) | complete |
+| [89](https://shepersistedpodcast.com/episodes/ep89) | complete |
+| [88](https://shepersistedpodcast.com/episodes/ep88) | complete |
+| [87](https://shepersistedpodcast.com/episodes/ep87) | complete |
+| [86](https://shepersistedpodcast.com/episodes/ep86) | complete |
+| [85](https://shepersistedpodcast.com/episodes/ep85) | complete |
+| [84](https://shepersistedpodcast.com/episodes/ep84) | complete |
+| [83](https://shepersistedpodcast.com/episodes/ep83) | complete |
+| [82](https://shepersistedpodcast.com/episodes/ep82) | complete |
+| [81](https://shepersistedpodcast.com/episodes/ep81) | complete |
+| [80](https://shepersistedpodcast.com/episodes/ep80) | complete |
+| [79](https://shepersistedpodcast.com/episodes/ep79) | complete |
+| [78](https://shepersistedpodcast.com/episodes/ep78) | complete |
+| [77](https://shepersistedpodcast.com/episodes/ep77) | complete |
+| [76](https://shepersistedpodcast.com/episodes/ep76) | complete |
+| [75](https://shepersistedpodcast.com/episodes/ep75) | complete |
+| [74](https://shepersistedpodcast.com/episodes/ep74) | complete |
+| [73](https://shepersistedpodcast.com/episodes/ep73) | complete |
+| [72](https://shepersistedpodcast.com/episodes/ep72) | complete |
+| [71](https://shepersistedpodcast.com/episodes/ep71) | complete |
+| [69](https://shepersistedpodcast.com/episodes/ep69) | complete |
+| [68](https://shepersistedpodcast.com/episodes/ep68) | complete |
+| [67](https://shepersistedpodcast.com/episodes/ep67) | complete |
+| [66](https://shepersistedpodcast.com/episodes/ep66) | complete |
+| [65](https://shepersistedpodcast.com/episodes/ep65) | complete |
+| [64](https://shepersistedpodcast.com/episodes/ep64) | complete |
+| [63](https://shepersistedpodcast.com/episodes/ep63) | complete |
+| [62](https://shepersistedpodcast.com/episodes/ep62) | complete |
+| [61](https://shepersistedpodcast.com/episodes/ep61) | complete |
+| [60](https://shepersistedpodcast.com/episodes/ep60) | complete |
+| [59](https://shepersistedpodcast.com/episodes/ep59) | youtube_id |
+| [58](https://shepersistedpodcast.com/episodes/ep58) | youtube_id |
+| [57](https://shepersistedpodcast.com/episodes/ep57) | youtube_id |
+| [56](https://shepersistedpodcast.com/episodes/ep56) | youtube_id |
+| [55](https://shepersistedpodcast.com/episodes/ep55) | youtube_id |
+| [54](https://shepersistedpodcast.com/episodes/ep54) | complete |
+| [53](https://shepersistedpodcast.com/episodes/ep53) | complete |
+| [52](https://shepersistedpodcast.com/episodes/ep52) | youtube_id |
+| [51](https://shepersistedpodcast.com/episodes/ep51) | youtube_id |
+| [50](https://shepersistedpodcast.com/episodes/ep50) | youtube_id |
+| [49](https://shepersistedpodcast.com/episodes/ep49) | youtube_id |
+| [48](https://shepersistedpodcast.com/episodes/ep48) | youtube_id |
+| [47](https://shepersistedpodcast.com/episodes/ep47) | complete |
+| [46](https://shepersistedpodcast.com/episodes/ep46) | youtube_id |
+| [45](https://shepersistedpodcast.com/episodes/ep45) | youtube_id |
+| [44](https://shepersistedpodcast.com/episodes/ep44) | youtube_id |
+| [42](https://shepersistedpodcast.com/episodes/ep42) | youtube_id |
+| [41](https://shepersistedpodcast.com/episodes/ep41) | youtube_id |
+| [40](https://shepersistedpodcast.com/episodes/ep40) | youtube_id |
+| [39](https://shepersistedpodcast.com/episodes/ep39) | youtube_id |
+| [38](https://shepersistedpodcast.com/episodes/ep38) | youtube_id |
+| [37](https://shepersistedpodcast.com/episodes/ep37) | youtube_id |
+| [36](https://shepersistedpodcast.com/episodes/ep36) | youtube_id |
+| [35](https://shepersistedpodcast.com/episodes/ep35) | youtube_id |
+| [34](https://shepersistedpodcast.com/episodes/ep34) | youtube_id |
+| [33](https://shepersistedpodcast.com/episodes/ep33) | youtube_id |
+| [32](https://shepersistedpodcast.com/episodes/ep32) | youtube_id |
+| [31](https://shepersistedpodcast.com/episodes/ep31) | youtube_id |
+| [30](https://shepersistedpodcast.com/episodes/ep30) | youtube_id |
+| [29](https://shepersistedpodcast.com/episodes/ep29) | complete |
+| [28](https://shepersistedpodcast.com/episodes/ep28) | youtube_id |
+| [27](https://shepersistedpodcast.com/episodes/ep27) | youtube_id |
+| [26](https://shepersistedpodcast.com/episodes/ep26) | youtube_id |
+| [25](https://shepersistedpodcast.com/episodes/ep25) | youtube_id |
+| [24](https://shepersistedpodcast.com/episodes/ep23-yt5bx) | youtube_id |
+| [23](https://shepersistedpodcast.com/episodes/ep23) | youtube_id |
+| [22](https://shepersistedpodcast.com/episodes/ep22) | youtube_id |
+| [21](https://shepersistedpodcast.com/episodes/ep21) | youtube_id |
+| [20](https://shepersistedpodcast.com/episodes/ep20) | youtube_id |
+| [19](https://shepersistedpodcast.com/episodes/ep19) | youtube_id |
+| [18](https://shepersistedpodcast.com/episodes/ep18) | youtube_id |
+| [17](https://shepersistedpodcast.com/episodes/ep17) | youtube_id |
+| [16](https://shepersistedpodcast.com/episodes/ep16) | youtube_id |
+| [15](https://shepersistedpodcast.com/episodes/ep15) | youtube_id |
+| [14](https://shepersistedpodcast.com/episodes/ep14) | youtube_id |
+| [11](https://shepersistedpodcast.com/episodes/ep11) | youtube_id |
+| [10](https://shepersistedpodcast.com/episodes/ep10) | youtube_id |
+| [8](https://shepersistedpodcast.com/episodes/ep8) | youtube_id |
+| [6](https://shepersistedpodcast.com/episodes/ep6) | youtube_id |
+| [5](https://shepersistedpodcast.com/episodes/ep5) | youtube_id |
+| [3](https://shepersistedpodcast.com/episodes/ep3) | youtube_id |
+| [2](https://shepersistedpodcast.com/episodes/ep2) | youtube_id |
+| [1](https://shepersistedpodcast.com/episodes/ep1) | youtube_id |
