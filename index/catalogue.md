@@ -2,11 +2,11 @@
 
 258 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (59), parents (57), therapy & treatment (54), dbt (46), emotions (40), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (39), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
 
 ## 265. why does it take a crisis to be taken seriously?
 date: 2026-10-24 | https://shepersistedpodcast.com/episodes/265 | 44 min | video
-tags: dbt, emotions, relationships, therapy & treatment, parents
+tags: dbt, parents, therapy & treatment
 format: guest | guests: dr. jill rathus
 summary: this episode covers dialectical behavioral therapy (dbt) for teens and families. dr. jill rathus, who co-developed dbt for adolescents, explains what the first therapy session looks like, how to tell the difference between normal teen behavior and mental health struggles, and why it often takes a crisis for teens to get help. she talks about validating teens, involving families in treatment, and how parents can recognize warning signs early. listeners learn practical ways to support a struggling teen and why family involvement makes recovery faster and more effective.
 quote: the squeaky wheel gets the grease, so it’s the kid who has escalated their cries for distress that finally gets taken seriously because families are busy, hectic, and strained a lot of the time

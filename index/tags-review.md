@@ -121,7 +121,7 @@ therapy & treatment, parents, high school are site-only tags, proposed per episo
 
 ## tags for episodes that have none in Squarespace
 
-Squarespace's own tags always win when a post has any. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, relationships, self-improvement, social media, trauma, troubled teen industry.
+Squarespace's own tags always win when a post has any. Available tags: 20s, adhd, anxiety, body image, career, college, dbt, depression, emotions, parents, relationships, self-improvement, social media, trauma, troubled teen industry.
 
 - 265. why does it take a crisis to be taken seriously? → dbt, emotions, relationships
 - 260. you don’t have to be in crisis to need help (feat. hailey hardcastle) → self-improvement, anxiety, depression

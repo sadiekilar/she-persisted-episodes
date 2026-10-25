@@ -2,9 +2,9 @@
 
 258 episodes, newest first: number. title | date | tags | guests | link, then a one-line summary. The full version with chapters and pull quotes is index/catalogue.md. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (59), parents (57), therapy & treatment (54), dbt (46), emotions (40), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (39), college (35), high school (34), trauma (22), social media (19), body image (17), career (16), 20s (15), troubled teen industry (15), adhd (6)
 
-265. why does it take a crisis to be taken seriously? | 2026-10-24 | dbt, emotions, relationships, therapy & treatment, parents | dr. jill rathus | https://shepersistedpodcast.com/episodes/265
+265. why does it take a crisis to be taken seriously? | 2026-10-24 | dbt, parents, therapy & treatment | dr. jill rathus | https://shepersistedpodcast.com/episodes/265
    this episode covers dialectical behavioral therapy (dbt) for teens and families. dr. jill rathus, who co-developed dbt for adolescents, explains what the first therapy session looks like, how to tell the difference…
 264. why you know the coping skills but still feel stuck (feat. dr. shireen rizvi) | 2026-10-11 | dbt, emotions | dr. shireen rizvi, licensed clinical psychologist and dbt expert | https://shepersistedpodcast.com/episodes/264
    sadie and dr. shireen rizvi dig into the hardest part of dbt: not learning the skills, but actually using them when it counts. they talk about what to do when you don't trust your own emotions, how to sit with…

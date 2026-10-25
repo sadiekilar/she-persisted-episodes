@@ -5,7 +5,7 @@
 ## 265. why does it take a crisis to be taken seriously?
 
 - date: 2026-10-24
-- tags: dbt, emotions, relationships, therapy & treatment, parents
+- tags: dbt, parents, therapy & treatment
 - guests: dr. jill rathus
 - url: https://shepersistedpodcast.com/episodes/265
 - transcript: episodes/ep-265.md (full)
