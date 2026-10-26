@@ -71,6 +71,8 @@ async function listUploads() {
 async function main() {
   if (!KEY) return console.log('youtube-sync: YOUTUBE_API_KEY is not set; skipping');
   const episodes = readEpisodes();
+  // compare against what is on disk: the drop below edits ep.meta in place, so comparing with ep.meta never saw it
+  const onDisk = new Map(episodes.map((e) => [e.file, JSON.stringify(e.meta)]));
   const byNumber = new Map(episodes.map((e) => [e.meta.number, e]));
   const videos = await listUploads();
   const longs = videos.filter((v) => v.duration > SHORT_MAX_SEC);
@@ -124,7 +126,7 @@ async function main() {
       if (meta.youtube_id === v.id && v.duration) meta.duration_sec = meta.duration_sec || v.duration;
     }
     meta.shorts = shortsFor.get(meta.number) || [];
-    if (JSON.stringify(meta) !== JSON.stringify(ep.meta)) { writeEpisode(ep.file, meta, ep.body); changed++; }
+    if (JSON.stringify(meta) !== onDisk.get(ep.file)) { writeEpisode(ep.file, meta, ep.body); changed++; }
   }
   const withVideo = episodes.filter((e) => e.meta.youtube_id || match.has(e.meta.number)).length;
   console.log(`matched ${match.size} long-form videos; ${withVideo} episodes have a video; ${shortsFor.size} episodes have shorts; ${changed} files updated`);
