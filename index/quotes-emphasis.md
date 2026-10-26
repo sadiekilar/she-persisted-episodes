@@ -2,8 +2,8 @@
 
 251 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
 
-- 265: the squeaky wheel gets the grease, so it’s the kid who has escalated their cries for distress that finally gets taken seriously because families are busy, hectic, and strained a lot of the time
-- 264: It takes a while to change. In six months, your life won’t be entirely different, let’s be realistic, but let’s see what could you accomplish in that period of time.
+- 265: the squeaky wheel gets the grease, so it’s the kid who has ESCALATED their cries for DISTRESS that finally gets taken SERIOUSLY because families are BUSY, HECTIC, and STRAINED a lot of the time
+- 264: it takes a while to CHANGE. in six months, your life won’t be entirely different, let’s be REALISTIC, but let’s see what COULD you ACCOMPLISH in that period of time.
 - 263: there's no PRIZE for waiting until your mental health becomes an EMERGENCY.
 - 262: once you know something's a HABIT, it's a CHOICE.
 - 261: the experiences you have are not a ROADMAP. they're not a BLUEPRINT. the path is of YOUR CHOOSING.
