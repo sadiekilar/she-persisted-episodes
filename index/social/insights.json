@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-10-25T10:28:55.585Z",
+ "generatedAt": "2026-10-26T11:59:30.986Z",
  "note": "lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.",
  "baselines": {
-  "youtube:episode": {
-   "median_views": 125,
-   "posts": 47
-  },
   "youtube:short": {
    "median_views": 1003,
    "posts": 183
+  },
+  "youtube:episode": {
+   "median_views": 125,
+   "posts": 47
   },
   "youtube:mini": {
    "median_views": 38,
@@ -165,7 +165,7 @@
     "topic": {
      "sadie recommends": {
       "n": 3,
-      "median_lift": 43.79,
+      "median_lift": 43.81,
       "share_above_1": 100
      },
      "adhd": {
@@ -190,7 +190,7 @@
      },
      "depression": {
       "n": 42,
-      "median_lift": 1,
+      "median_lift": 1.01,
       "share_above_1": 50
      },
      "teen mental health": {
@@ -257,7 +257,7 @@
      },
      "sat": {
       "n": 37,
-      "median_lift": 0.91,
+      "median_lift": 0.92,
       "share_above_1": 46
      },
      "mon": {
@@ -267,7 +267,7 @@
      },
      "wed": {
       "n": 12,
-      "median_lift": 0.9,
+      "median_lift": 0.91,
       "share_above_1": 50
      },
      "thu": {
@@ -292,8 +292,8 @@
      "id": "yt:5ytnReUSyrU",
      "episode": 54,
      "hook": "54. RELATIONSHIPS + Attachment Styles feat. Kirstie Taylor",
-     "lift": 38924.84,
-     "views": 4865605,
+     "lift": 38926.64,
+     "views": 4865830,
      "published": "2021-01-23",
      "hook_type": "statement"
     },
@@ -301,8 +301,8 @@
      "id": "yt:gr5ftH86tIk",
      "episode": 29,
      "hook": "29. Validation and Empathy: How YOU can support the Black Lives Matter movement",
-     "lift": 6515.95,
-     "views": 814494,
+     "lift": 6515.97,
+     "views": 814496,
      "published": "2020-06-05",
      "hook_type": "you / your"
     },
@@ -310,8 +310,8 @@
      "id": "yt:Za2nTuGJJAI",
      "episode": 47,
      "hook": "47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distress Tolerance)",
-     "lift": 533.7,
-     "views": 66713,
+     "lift": 533.96,
+     "views": 66745,
      "published": "2020-10-16",
      "hook_type": "statement"
     },
@@ -319,8 +319,8 @@
      "id": "yt:nNmuVtLGH0k",
      "episode": 53,
      "hook": "53. How to Write Pitch Emails, Building Influencer Relationships, Using Social Media to Improve Body Confidence, + Podcast Tips feat. Camila Vola",
-     "lift": 278.73,
-     "views": 34841,
+     "lift": 278.74,
+     "views": 34843,
      "published": "2021-01-15",
      "hook_type": "statement"
     },
@@ -328,8 +328,8 @@
      "id": "yt:CWCjSR8_f20",
      "episode": 228,
      "hook": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
-     "lift": 65.75,
-     "views": 8219,
+     "lift": 65.84,
+     "views": 8230,
      "published": "2025-08-17",
      "hook_type": "statement"
     },
@@ -337,8 +337,8 @@
      "id": "yt:wHYoKBwG_xU",
      "episode": 261,
      "hook": "261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)",
-     "lift": 43.79,
-     "views": 5474,
+     "lift": 43.81,
+     "views": 5476,
      "published": "2026-08-22",
      "hook_type": "question"
     },
@@ -346,8 +346,8 @@
      "id": "yt:2QpD5ZiqxpM",
      "episode": 96,
      "hook": "96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial",
-     "lift": 27.75,
-     "views": 3469,
+     "lift": 27.8,
+     "views": 3475,
      "published": "2022-04-21",
      "hook_type": "statement"
     },
@@ -355,8 +355,8 @@
      "id": "yt:d9ffkCTrPpE",
      "episode": 198,
      "hook": "198. Chrysalis School Montana: My Troubled Teen Industry Experience",
-     "lift": 26.83,
-     "views": 3354,
+     "lift": 26.84,
+     "views": 3355,
      "published": "2024-08-18",
      "hook_type": "statement"
     },
@@ -364,8 +364,8 @@
      "id": "yt:I1sqLxG8BTQ",
      "episode": 220,
      "hook": "220. how to succeed as a psychology major (& what we wish we knew sooner)",
-     "lift": 24.41,
-     "views": 3051,
+     "lift": 24.67,
+     "views": 3084,
      "published": "2025-05-13",
      "hook_type": "statement"
     },
@@ -373,8 +373,8 @@
      "id": "yt:YnrQOydrUpU",
      "episode": 197,
      "hook": "197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler",
-     "lift": 23.75,
-     "views": 2969,
+     "lift": 23.8,
+     "views": 2975,
      "published": "2024-08-02",
      "hook_type": "statement"
     },
@@ -858,21 +858,21 @@
      "hook_type": "you / your"
     },
     {
+     "id": "yt:w_bajwGeg3Y",
+     "episode": 154,
+     "hook": "RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar",
+     "lift": 2.51,
+     "views": 2513,
+     "published": "2023-09-30",
+     "hook_type": "statement"
+    },
+    {
      "id": "yt:khnpdxHPNlg",
      "episode": 172,
      "hook": "A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole",
      "lift": 2.5,
      "views": 2505,
      "published": "2024-01-24",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:w_bajwGeg3Y",
-     "episode": 154,
-     "hook": "RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar",
-     "lift": 2.5,
-     "views": 2508,
-     "published": "2023-09-30",
      "hook_type": "statement"
     },
     {
@@ -1047,7 +1047,7 @@
     "length": {
      "long (12+)": {
       "n": 2,
-      "median_lift": 2.33,
+      "median_lift": 2.34,
       "share_above_1": 50
      },
      "short (≤6 words)": {
@@ -1064,7 +1064,7 @@
     "has_number": {
      "yes": {
       "n": 7,
-      "median_lift": 3.79,
+      "median_lift": 3.82,
       "share_above_1": 86
      },
      "no": {
@@ -1107,7 +1107,7 @@
      },
      "relationships": {
       "n": 5,
-      "median_lift": 4.34,
+      "median_lift": 4.37,
       "share_above_1": 80
      },
      "dbt": {
@@ -1179,7 +1179,7 @@
     "weekday": {
      "wed": {
       "n": 3,
-      "median_lift": 4.34,
+      "median_lift": 4.37,
       "share_above_1": 67
      },
      "mon": {
@@ -1226,8 +1226,8 @@
      "id": "yt:cWls3SjIoNI",
      "episode": 187,
      "hook": "MINI: why your 20s can be so lonely",
-     "lift": 4.34,
-     "views": 165,
+     "lift": 4.37,
+     "views": 166,
      "published": "2025-02-12",
      "hook_type": "you / your"
     },
@@ -1235,8 +1235,8 @@
      "id": "yt:DHgD1OKrzbo",
      "episode": 146,
      "hook": "MINI: a dbt crash course– everything you need to know about this therapy in 5 mins!",
-     "lift": 3.79,
-     "views": 144,
+     "lift": 3.82,
+     "views": 145,
      "published": "2025-11-10",
      "hook_type": "you / your"
     },

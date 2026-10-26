@@ -135,3 +135,139 @@ why: the "I get to vs I have to" reframe is immediately actionable, personal sto
 - [youtube] i get to do this #learning #reframe
 - [instagram] that simple reframing changed my life. i get to do this, not i have to do this
 - [tiktok] reframe: i GET to do this
+
+## ep 265 · 265. why does it take a crisis to be taken seriously?
+
+# social edit – episode 265
+
+### moment 1 · 0:28
+why: visceral statement on crisis as the only path to care—parent shock and delayed recognition is universally relatable, and "hits them all at once" is a concrete image that travels without context.
+- **[youtube]** it hits them all at once | she persisted ep. 265 · #teenmentalhealth #crisis
+- **[instagram]** they just might not see it until it reaches a level where they finally recognize it
+- **[tiktok]** they just might not see it until it's a crisis
+
+---
+
+### moment 2 · 7:31
+why: flips victim-blaming on its head—"they don't get what a battle it is" names the invisible labor teens carry and refutes the "just try harder" narrative; deeply validating for listeners who've been misunderstood.
+- **[youtube]** nobody gets what a battle it is | she persisted ep. 265 · #dbt #validation
+- **[instagram]** it's not about trying harder. i'm trying hard every minute of every day, and nobody gets that.
+- **[tiktok]** i'm trying hard every minute of every day
+
+---
+
+### moment 3 · 12:29
+why: reframes well-meaning parenting as harm—"oversimplify things" is a concrete accusation that validates teens *and* educates parents without scolding; the biosocial theory name-drop adds credibility.
+- **[youtube]** well-meaning intentions can shut kids down | ep. 265 · #parentingtips #dbt
+- **[instagram]** people in the adolescent's life, even with very well-meaning intentions, oversimplify things
+- **[tiktok]** well-meaning people oversimplify things
+
+---
+
+### moment 4 · 21:32
+why: "squeaky wheel gets the grease" is a sticky, concrete metaphor for systemic failure; positions crisis as learned behavior, not manipulation—deeply clarifying for families who feel blamed.
+- **[youtube]** the squeaky wheel gets the grease | she persisted ep. 265 · #mentalhealth #crisis
+- **[instagram]** it's the kid who has escalated their cries for distress that finally gets taken seriously
+- **[tiktok]** the squeaky wheel gets the grease
+
+---
+
+### moment 5 · 24:36
+why: specific parental dismissals ("get back in the game") are painfully familiar; naming *how* invalidation happens gives teens language for their experience and parents a clear correction.
+- **[youtube]** when people dismiss you, you stop asking for help | ep. 265 · #validation #dbt
+- **[instagram]** when people feel like their concerns are dismissed or oversimplified, they stop talking
+- **[tiktok]** dismissed or oversimplified = they stop talking
+
+---
+
+### moment 6 · 40:39
+why: hope moment with proof—"saved our family" is the payoff after 40 minutes of crisis talk; graduation tears are a concrete, emotional image that closes the loop and offers agency.
+- **[youtube]** this treatment saved our family | she persisted ep. 265 · #dbt #recovery
+- **[instagram]** families that came in with so much stress say: this saved our family, not only my kid
+- **[tiktok]** this saved our family, not only my kid
+
+## ep 244 · 244. stop forcing habits in 2026: do this instead
+
+### moment 1 · 4:39
+why: fundamentally reframes why habits fail—it's not willpower, it's the situation. concrete claim that reverses the shame spiral.
+- [youtube] we don't apply the same thinking to our own goals
+- [instagram] you completed years of school because you showed up. you don't apply the same thinking to your own goals.
+- [tiktok] you got better at a sport because practice existed
+
+---
+
+### moment 2 · 5:03
+why: a single clear thesis from duckworth's research that inverts the self-improvement paradigm. travels as a permission slip.
+- [youtube] the least effective way to do anything is to rely on willpower #habits #productivity
+- [instagram] the least effective way to do anything in life is to rely on willpower. it is the most scarce resource we have as humans.
+- [tiktok] willpower is the most scarce resource we have
+
+---
+
+### moment 3 · 6:51
+why: ultra-concrete tip with her own context. the "stay at work" hack is immediately usable and subverts the hustle = more hours myth.
+- [youtube] i stay at work until i do that thing (then leave) #worklifebalance
+- [instagram] i stay at work until i do that thing. i give myself reasonable tasks. then i leave. i'm working with myself.
+- [tiktok] i stay at work until i finish it then leave
+
+---
+
+### moment 4 · 7:49
+why: reframes self-control as logistics. the phrase "working with myself instead of against myself" is a sticky mental model.
+- [youtube] instead of fighting against myself, i'm working with myself
+- [instagram] instead of fighting against myself, i'm working with myself. i know i'm mentally tired when i get home.
+- [tiktok] working with myself instead of against myself
+
+---
+
+### moment 5 · 13:17
+why: the duckworth reframe packaged for gen z—"what's wrong with the situation" is a quotable reversal of self-blame.
+- [youtube] stop asking what is wrong with me. ask what is wrong with this situation #mentalhealth
+- [instagram] stop asking yourself what is wrong with me and ask what is wrong with this situation. a logistics problem, not an emotional one.
+- [tiktok] what's wrong with this situation not with me
+
+---
+
+### moment 6 · 14:57
+why: closes with the DBT dialectic ("doing your best and can still get better") and lands the thesis: better comes from context, not effort.
+- [youtube] the answer might not be more effort #selfcompassion
+- [instagram] the answer might not be more effort. you are doing your best and you can still get better. the better might come from the situation.
+- [tiktok] the answer might not be more effort
+
+## ep 238 · 238. i asked 9 experts how to heal from anxiety (what you NEED to know)
+
+### moment 1 · 2:43
+why: statement "anxiety isn't bad" lands because Dr. Russell reframes a misfire as adaptive, not disease—surprising frame for anxious listeners who catastrophize their symptoms.
+- [youtube] anxiety isn't bad (even when it misfires) | she persisted ep. 238
+- [instagram] anxiety isn't bad. it's not a disease. it's your fear response priming itself.
+- [tiktok] anxiety isn't bad—it's just a misfire
+
+### moment 2 · 4:39
+why: three-pathway framework (environment, thoughts, gut) gives concrete structure; "get curious" is actionable without "you should."
+- [youtube] 3 ways anxiety gets activated (not what you think) #anxiety #mentalhealth
+- [instagram] your anxiety isn't always your thoughts. it might be your blood sugar or something you saw.
+- [tiktok] anxiety has 3 triggers—thoughts are last
+
+### moment 3 · 8:11
+why: stigma-busting statement from an expert validating Gen Z's ER reports as bravery, not overreaction—deeply affirming.
+- [youtube] showing up to the ER for anxiety is BRAVE | ep. 238 #stigma
+- [instagram] them showing up to the emergency room is an act of tremendous bravery. full stop.
+- [tiktok] ER visits for anxiety = bravery
+
+### moment 4 · 9:38
+why: emotional-gym metaphor makes anxiety normal, even desirable; plain statement, no commands, lands firmly.
+- [youtube] anxiety is your emotional gym (treat it like one) | ep. 238
+- [instagram] anxiety is your emotional gym. moderately uncomfortable builds resilience. too much strains you.
+- [tiktok] anxiety is your emotional gym
+
+### moment 5 · 18:44
+why: "it backfires" indicts adult world; validates teens' anxiety as reflection, not disorder—powerful reframe.
+- [youtube] adolescents are anxious because WE are anxious | ep. 238 #genz
+- [instagram] if the world tells you you're semi-broken, you absorb that. it backfires for this generation.
+- [tiktok] your anxiety reflects OUR world
+
+### moment 6 · 26:41
+why: "stop fighting it" is counterintuitive advice on severe cases; clinical authority makes it travel.
+- [youtube] stop trying to get rid of your anxiety (it makes it WORSE) #anxietyrelief
+- [instagram] the first step for severe anxiety? stop fighting it. chasing relief dumps more adrenaline in.
+- [tiktok] stop fighting anxiety—you're feeding it
