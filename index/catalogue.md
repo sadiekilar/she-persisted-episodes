@@ -1681,7 +1681,7 @@ quote: we don't always recognize our needs.
 chapters: Introduction: Welcome to She Persisted; My High School Journey: From Crisis to Thriving; Work Smarter, Not Harder: The Philosophy My Parents Hate; Building a Strong Relationship with Your Counselor; 504 Accommodations: What They Are and Why You Need One; The Cutoff Time Rule: Why Sleep Matters More Than Finishing; Passion Projects: Beyond College Applications; Finding Your Trusted Adult: Why Friends Aren't Therapists; Your Parents Will Never Be Perfect: Practicing Radical Acceptance; Financial Freedom: Why Getting a Job Changes Everything; Using Vacation as Actual Vacation Time; Surround Yourself with Who You Want to Be; Recap and Closing Thoughts
 
 ## 54. RELATIONSHIPS + Attachment Styles feat. Kirstie Taylor
-date: 2021-01-23 | https://shepersistedpodcast.com/episodes/ep54 | 37 min | video
+date: 2021-01-23 | https://shepersistedpodcast.com/episodes/ep54 | 37 min | audio
 tags: relationships, trauma, anxiety
 format: guest | guests: kirstie taylor, dating and relationship writer
 summary: sadie sits down with dating and relationship writer kirstie taylor to explore how childhood experiences—both big t and little t traumas—shape the way we show up in relationships. they break down attachment styles (anxious, avoidant, secure) and what they look like in real life, talk about why boundaries aren't about keeping people out but about keeping yourself safe, and share practical steps for getting through a breakup (unfollow your ex, make a breakup list, take real time apart). they also touch on family boundaries as you transition into adulthood, how to handle mixed signals, and the difference between casual dating and dating for something serious. kirstie brings research-backed insight and relatable stories—this episode gives you tools to understand your patterns and build healthier relationships.
@@ -1689,7 +1689,7 @@ quote: mixed signals are a clear signal.
 chapters: Why we must address our "big T" and "little t" childhood traumas before being in relationships; What are attachment styles and the difference between the 3 types (anxious, avoidant, secure); The true function of boundaries and how to set them in your life; Why it's important to set boundaries with family members as a teenager; Tips to get through a break-up; Hook-up culture vs. dating to marry
 
 ## 53. How to Write Pitch Emails, Building Influencer Relationships, Using Social Media to Improve Body Confidence, + Podcast Tips feat. Camila Vola
-date: 2021-01-15 | https://shepersistedpodcast.com/episodes/ep53 | 32 min | video
+date: 2021-01-15 | https://shepersistedpodcast.com/episodes/ep53 | 32 min | audio
 tags: social media, body image, self-improvement
 format: guest | guests: camila vola, host of my point of view podcast
 summary: sadie talks with camila vola, a 22-year-old college student from argentina who hosts my point of view podcast. they share practical advice on pitching high-profile guests for your podcast, including exactly what to say in pitch emails and dms. camila and sadie also discuss why she started her show and how to intentionally curate your social media feed to support your confidence, self-esteem, and body image. listeners walk away with concrete strategies for reaching out to influencers and building a healthier relationship with social media.
@@ -1737,7 +1737,7 @@ quote: you're not alone and it can get better.
 chapters: Keep your sleep consistent + plentiful; Eat balanced; Practice self-validation of emotions; Be open with a therapist 100%; Actively rewiring your negative thought patterns; Creating relationships that made you feel seen and appreciated; Keeping busy with life!
 
 ## 47. DBT Education: TIPP, Crisis Survival Skills, + Riding the WAVE (Distress Tolerance)
-date: 2020-10-16 | https://shepersistedpodcast.com/episodes/ep47 | 31 min | video
+date: 2020-10-16 | https://shepersistedpodcast.com/episodes/ep47 | 31 min | audio
 tags: dbt, emotions, anxiety
 format: solo | series: dbt education
 summary: sadie breaks down dbt's tipp skill—a crisis survival tool that uses temperature, intense exercise, paced breathing, and paired muscle relaxation to calm your nervous system when emotions feel overwhelming. she explains what actually counts as a crisis (hint: not everything does), when crisis survival skills are most helpful, and introduces the riding the wave technique for getting through intense emotions without making things worse. this episode gives you practical, body-based tools to use when you're in acute distress.
@@ -1872,7 +1872,7 @@ quote: your mind goes to the negative. and there still are the good things.
 chapters: reminisce about my time at 3East; her path to working in the adolescent treatment industry; benefits of gratitude; the difficulty of such a practice when struggling
 
 ## 29. Validation and Empathy: How YOU can support the Black Lives Matter movement
-date: 2020-06-05 | https://shepersistedpodcast.com/episodes/ep29 | 15 min | video
+date: 2020-06-05 | https://shepersistedpodcast.com/episodes/ep29 | 15 min | audio
 tags: dbt, relationships, emotions
 format: solo
 summary: in this episode, sadie applies dbt skills—specifically validation and mindfulness of others—to supporting the black lives matter movement. she explains how to make people feel seen, heard, and respected through empathy and validation, even if you're struggling with your own physical or mental health. the episode offers practical tools for strengthening relationships and showing up for others during a crucial moment. it's a departure from the usual format but focuses on skills anyone can use to be more present and supportive.

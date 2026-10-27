@@ -1,10 +1,10 @@
 # episode page completeness
 
-206 of 258 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
+202 of 258 episodes have everything the full episode page uses. The rest render the fallback version, section by section: each missing field only removes or simplifies its own section.
 
 ## what would unblock the most pages
 
-- **50 episodes** need `youtube_id`: no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)
+- **54 episodes** need `youtube_id`: no YouTube video found for the episode (embed in the post, or a channel upload with the episode number in its title)
 - **2 episodes** need `apple_episode_url`: not in Apple's episode listing (Apple returns the newest 200 only)
 - **2 episodes** need `spotify_episode_id`: no Spotify or Spotify for Creators player embedded in the post
 
@@ -222,14 +222,14 @@
 | [57](https://shepersistedpodcast.com/episodes/ep57) | youtube_id |
 | [56](https://shepersistedpodcast.com/episodes/ep56) | youtube_id |
 | [55](https://shepersistedpodcast.com/episodes/ep55) | youtube_id |
-| [54](https://shepersistedpodcast.com/episodes/ep54) | complete |
-| [53](https://shepersistedpodcast.com/episodes/ep53) | complete |
+| [54](https://shepersistedpodcast.com/episodes/ep54) | youtube_id |
+| [53](https://shepersistedpodcast.com/episodes/ep53) | youtube_id |
 | [52](https://shepersistedpodcast.com/episodes/ep52) | youtube_id |
 | [51](https://shepersistedpodcast.com/episodes/ep51) | youtube_id |
 | [50](https://shepersistedpodcast.com/episodes/ep50) | youtube_id |
 | [49](https://shepersistedpodcast.com/episodes/ep49) | youtube_id |
 | [48](https://shepersistedpodcast.com/episodes/ep48) | youtube_id |
-| [47](https://shepersistedpodcast.com/episodes/ep47) | complete |
+| [47](https://shepersistedpodcast.com/episodes/ep47) | youtube_id |
 | [46](https://shepersistedpodcast.com/episodes/ep46) | youtube_id |
 | [45](https://shepersistedpodcast.com/episodes/ep45) | youtube_id |
 | [44](https://shepersistedpodcast.com/episodes/ep44) | youtube_id |
@@ -246,7 +246,7 @@
 | [32](https://shepersistedpodcast.com/episodes/ep32) | youtube_id |
 | [31](https://shepersistedpodcast.com/episodes/ep31) | youtube_id |
 | [30](https://shepersistedpodcast.com/episodes/ep30) | youtube_id |
-| [29](https://shepersistedpodcast.com/episodes/ep29) | complete |
+| [29](https://shepersistedpodcast.com/episodes/ep29) | youtube_id |
 | [28](https://shepersistedpodcast.com/episodes/ep28) | youtube_id |
 | [27](https://shepersistedpodcast.com/episodes/ep27) | youtube_id |
 | [26](https://shepersistedpodcast.com/episodes/ep26) | youtube_id |

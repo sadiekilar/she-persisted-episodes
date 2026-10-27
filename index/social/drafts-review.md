@@ -271,3 +271,131 @@ why: "stop fighting it" is counterintuitive advice on severe cases; clinical aut
 - [youtube] stop trying to get rid of your anxiety (it makes it WORSE) #anxietyrelief
 - [instagram] the first step for severe anxiety? stop fighting it. chasing relief dumps more adrenaline in.
 - [tiktok] stop fighting anxiety—you're feeding it
+
+## ep 265 · 265. why does it take a crisis to be taken seriously?
+
+### moment 1 · 0:00
+why: opens with the exact question that hooks parents who've lived this—"crisis = attention" is painfully relatable and sadie's audience will recognize the dynamic even if they haven't been in crisis themselves. concrete, validating, no fluff.
+- [youtube] why does it take a CRISIS to be taken seriously? #teenmentalhealth #dbt
+- [instagram] why does it sometimes take a crisis for a teenager's mental health to be taken seriously?
+- [tiktok] why crisis = finally being heard
+
+### moment 2 · 4:44
+why: teens will share this—"you seemed to get it / you were different than other adults" is the exact feeling they can't articulate to parents. warm, specific, and flips the script from "what's wrong with me" to "you listened."
+- [youtube] teens open up when you DON'T tell them what's wrong #therapy #validation
+- [instagram] teens open up when you don't tell them what's wrong with them. they just want to be heard first.
+- [tiktok] "you were different than other adults"
+
+### moment 3 · 9:52
+why: "nobody gets what a battle it is just getting through every day" will resonate hard—captures invisible struggle in one sentence. parents AND teens will save this. clear emotional truth, no jargon.
+- [youtube] "nobody gets what a BATTLE it is just getting through every day" #teenstruggles #mentalhealth
+- [instagram] it's not about trying harder. nobody gets what a battle it is just getting through every day.
+- [tiktok] "i'm trying hard every minute of every day"
+
+### moment 4 · 20:59
+why: "the squeaky wheel gets the grease" reframe is sharp and explains why teens escalate—parents will recognize the pattern, teens will feel seen. structural insight that makes the dynamic make sense.
+- [youtube] why teens ESCALATE to get help (it's not manipulation) #parentingtips #dbt
+- [instagram] often it's the kid who has escalated their cries for distress that finally gets taken seriously.
+- [tiktok] the squeaky wheel gets the grease
+
+### moment 5 · 23:53
+why: the list of dismissive responses ("get back in the game / just try harder / I'm taking your phone") is painfully specific—teens will duet this, parents will self-reflect. concrete examples of what shuts kids down.
+- [youtube] what makes teens STOP asking for help #parentingmistakes #communication
+- [instagram] when people dismiss them or oversimplify their pain, teens stop asking for help. here's what that sounds like.
+- [tiktok] what shuts teens down instantly
+
+### moment 6 · 40:39
+why: "saved our family, not just my kid" is the hope hook—after 40 minutes of hard truths, this is the payoff parents need to hear. emotional, concrete proof of change, and ties back to the title question.
+- [youtube] "this treatment SAVED our family, not just my kid" #dbtworks #recovery
+- [instagram] families who came in with so much conflict now say: this saved our family, not just our kid.
+- [tiktok] "saved our family, not just my kid"
+
+## ep 237 · 237. can gen z actually make change? let’s talk burnout, hope, + leadership feat. amanda litman
+
+# social clips – ep 237: can gen z actually make change?
+
+### moment 1 · 6:20
+why: hyperlocal action breaks the "i can't do anything" trap—concrete advice on city council races in college towns mattering for tuition and rent.
+- **[youtube]** your local politicians control your rent and tuition | #genz #politics
+- **[instagram]** if you're a student and want to get involved, go hyperlocal—city councils affect your tuition and rent.
+- **[tiktok]** local politicians set your TUITION + rent
+
+---
+
+### moment 2 · 10:39
+why: reframes doom-scrolling anxiety with a grounding fact—president can hurt, local leaders can protect and advance progress.
+- **[youtube]** when national politics feels hopeless, go local | #mentalhealth #hope
+- **[instagram]** there's a lot the president can do that can hurt people. and a lot we can do locally to protect people.
+- **[tiktok]** president can hurt. local leaders can PROTECT.
+
+---
+
+### moment 3 · 13:40
+why: directly challenges "work has to suck"—bold claim that lands because it names the lie Gen Z inherited.
+- **[youtube]** work doesn't have to suck (and here's why we believe it does) | #worklife #careers
+- **[instagram]** work is hard and sometimes parts aren't fun, but work doesn't have to suck. if leaders don't want it to, it doesn't.
+- **[tiktok]** work doesn't have to SUCK. leaders decide.
+
+---
+
+### moment 4 · 16:36
+why: the "managing up" script for burnout—practical language to protect capacity without sounding entitled.
+- **[youtube]** how to tell your boss you're overworked (without being rude) | #boundaries #genz
+- **[instagram]** if your workload is unsustainable: "i can't commit to this and do it well. can you help me reprioritize?"
+- **[tiktok]** how to say "i'm BURNT OUT" professionally
+
+---
+
+### moment 5 · 18:57
+why: the therapy boundary line—normalizes going, sets a limit on oversharing. clear distinction Gen Z needs to hear.
+- **[youtube]** it's okay to say you go to therapy. not what you talk about. | #mentalhealth #boundaries
+- **[instagram]** i go to therapy every two weeks. it's on my calendar. but i don't tell my team what i talk about—that's the boundary.
+- **[tiktok]** therapy: SAY you go. not what you say there.
+
+---
+
+### moment 6 · 28:20
+why: the change-is-hard metaphor—pain before progress. lands because it validates why we resist even good change.
+- **[youtube]** why change feels impossible (even when you want it) | #growth #genz
+- **[instagram]** to get stronger you have to go through pain. to get to the other side of change, you burn it down a little to build it back up.
+- **[tiktok]** change HURTS before it helps. that's the process.
+
+## ep 235 · 235. society is shaping women’s core beliefs… so let’s rewire them feat. kara loewentheil
+
+# social clips: episode 235
+
+### moment 1 · 0:00
+why: clear reframe—reframes dating anxiety as rational response to social programming, not personal flaw. travels because it validates a common struggle and names the invisible cause (society vs. family history).
+- [youtube] society taught you to be anxious #dating #anxiety
+- [instagram] i don't know why i'm so anxious around dating… actually, you do
+- [tiktok] your dating anxiety isn't random
+
+### moment 2 · 5:11
+why: surprising reframe—shifts "fixing yourself" from self-improvement goal to potential self-abuse. concrete enough (dating, body image, job examples) to spark recognition without context.
+- [youtube] self-improvement can be self-abuse in disguise #feminism #selfcare
+- [instagram] people come to coaching wanting to fix themselves to better conform. but what if the goal is the problem?
+- [tiktok] what if you don't need fixing
+
+### moment 3 · 6:53
+why: concrete claim—names the hidden curriculum ("you should always be nice") and maps direct consequences (can't negotiate, date people you don't like). format feels like a lightbulb moment.
+- [youtube] if you think you should ALWAYS be nice… #peoplepleasing #boundaries
+- [instagram] if you think you're supposed to always be nice, how does that show up? fear of conflict. dating people you don't even like.
+- [tiktok] always be nice = people pleasing
+
+### moment 4 · 17:23
+why: personal story + relatable gap—feminist values vs. obsessive dating behavior. the Tinder detail ("icons on a screen") makes it visceral andShareWorthy for anyone who's felt this disconnect.
+- [youtube] i was feminist and STILL obsessed with dating apps #braingap #feminism
+- [instagram] my self-esteem was totally dependent on people i'd met three days ago and didn't know their last name
+- [tiktok] feminist brain vs dating brain
+
+### moment 5 · 27:09
+why: concrete tip—"your body is the compass" gives a clear tool to test belief change, and the prompt examples (I'm open to believing…) offer immediate next steps.
+- [youtube] how to know if you ACTUALLY believe a new thought #cbt #mindset
+- [instagram] you can't tell if you believe a thought just in your head. your body is the compass that tells you.
+- [tiktok] belief check: do you feel it
+
+### moment 6 · 31:00
+why: reframe on self-love—dismantles the "magical destination" myth and offers relatable model (best friendship). travels because it normalizes messiness and lowers the bar in a helpful way.
+- [youtube] self-love isn't a destination with zero negative thoughts #selflove #confidence
+- [instagram] self-love is just a relationship with yourself like you have with anybody else. baseline unconditional acceptance.
+- [tiktok] self-love = unconditional acceptance
