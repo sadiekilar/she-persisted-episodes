@@ -399,3 +399,139 @@ why: reframe on self-love—dismantles the "magical destination" myth and offers
 - [youtube] self-love isn't a destination with zero negative thoughts #selflove #confidence
 - [instagram] self-love is just a relationship with yourself like you have with anybody else. baseline unconditional acceptance.
 - [tiktok] self-love = unconditional acceptance
+
+## ep 237 · 237. can gen z actually make change? let’s talk burnout, hope, + leadership feat. amanda litman
+
+### moment 1 · 4:52
+why: concrete proof that showing up works—1,000 sign-ups in week one from zero infrastructure. a reframe from "politics is impossible" to "demand was always there."
+- [youtube] 1,000 people signed up in ONE week #leadership #genz
+- [instagram] thinking it'd be really small. in the first week, we had 1,000 people sign up.
+- [tiktok] we thought maybe 100 people. we got 1,000.
+
+### moment 2 · 7:28
+why: the dialectic sadie named—hopelessness vs action—named clearly. travels because it validates the paralysis without endorsing it.
+- [youtube] why gen z feels paralyzed AND activated #politics #burnout
+- [instagram] some people are so on board to take action. others are like, how did we get here?
+- [tiktok] why half of us are hopeful and half are frozen
+
+### moment 3 · 11:00
+why: a clear tool—local organizing as the antidote to federal despair. travels because it's actionable, not abstract.
+- [youtube] how to stay hopeful when politics feels hopeless #hope #activism
+- [instagram] there's a lot of things we can do locally to protect people and advance progress.
+- [tiktok] the president can hurt people. we can help locally.
+
+### moment 4 · 16:36
+why: a boundary script gen z needs—how to ask for help without being "difficult." travels because it solves a real workplace anxiety.
+- [youtube] how to manage up WITHOUT being an asshole #career #boundaries
+- [instagram] hey, i cannot currently commit to complete my workload and also do that. can you help me reprioritize?
+- [tiktok] the phrase that gets you what you want at work
+
+### moment 5 · 24:43
+why: the question that reframes everything—"what might be possible if things didn't suck?" travels because it's a hook and a manifesto.
+- [youtube] what might be possible if work didn't SUCK #worklifebalance #genz
+- [instagram] what might be possible if our political leadership didn't suck? if work didn't leave you drained?
+- [tiktok] what if things didn't suck? what then?
+
+### moment 6 · 28:20
+why: change-as-muscle-building metaphor. visceral, relatable, and a counter to "status quo is easier." travels because it reframes discomfort as growth.
+- [youtube] why change is HARD (and why we resist it) #leadership #change
+- [instagram] to get stronger, you have to go through a little bit of pain. you gotta burn it down to build it back up.
+- [tiktok] change destroys you a little. that's the point.
+
+## ep 234 · 234. what taylor swift says about mental health (a psych grad UNPACKS her best lyrics, quotes, + more!)
+
+# social edit sheet: episode 234
+
+### moment 1 · 1:31
+why: tangible dbt skill (accumulate positives) grounded in a swift quote; appeals to planning/"countdown" energy on timelines
+- [youtube] countdowns aren't just hype—they're PROVEN to help your mental health #mentalhealth #dbt
+- [instagram] taylor swift uses countdowns to cope with dark times. here's why that's psychology-backed.
+- [tiktok] countdowns = accumulate positives
+
+---
+
+### moment 2 · 7:48
+why: the broaden-and-build theory frames a research truth in accessible language; "positive emotions make you do more positive things"
+- [youtube] why you only improve your life when you're feeling GOOD #positivepsychology #mentalhealth
+- [instagram] this is why it's so hard to build a better life when you're depressed—and what to do about it.
+- [tiktok] positive emotions = more resources
+
+---
+
+### moment 3 · 16:22
+why: reframes "fearless" as doing it afraid; pairs swift lyric with exposure therapy—super portable claim
+- [youtube] fearless doesn't mean NO fear. here's what it actually MEANS #anxiety #exposure
+- [instagram] fearless is not the absence of fear. fearless is living in spite of those things that scare you to death.
+- [tiktok] fearless = doing it afraid
+
+---
+
+### moment 4 · 26:12
+why: "changing the channel" metaphor is vivid + repeatable; addresses intrusive thoughts without medicalizing
+- [youtube] how to STOP a thought spiral (taylor's "change the channel" trick) #anxietytips #mentalhealth
+- [instagram] you can't control every thought that pops into your brain. but you can change the channel.
+- [tiktok] nope. we don't do that anymore.
+
+---
+
+### moment 5 · 33:17
+why: the "no one sees you lose when you're playing solitaire" line is poetic + the ask-for-help frame is universally relatable
+- [youtube] why asking for HELP was the hardest part of my mental health journey #vulnerability #mentalhealth
+- [instagram] no one sees you lose when you're playing solitaire. no one knows what you're going through unless you tell them.
+- [tiktok] no one sees you lose at solitaire
+
+---
+
+### moment 6 · 35:23
+why: validates complaining before problem-solving; the "cry a river / build a bridge" metaphor is sticky + meme-able
+- [youtube] it's okay to cry a river—just remember to build a BRIDGE #resilience #mentalhealth
+- [instagram] if somebody hurts you, it's okay to cry a river. just remember to build a bridge and get over it.
+- [tiktok] cry a river. build a bridge.
+
+## ep 233 · 233. wilderness therapy doesn’t work… so why are we still sending our kids??! feat. dr. will dobud
+
+### moment 1 · 4:14
+why: clear attack on the model—"you cannot force therapy onto people, that is torture"—bridges troubled teen to universal therapy ethics; strong polarizing claim.
+- [youtube] you cannot force therapy onto people. that is TORTURE #mentalhealth #therapy
+- [instagram] you cannot force therapy onto people. that is torture.
+- [tiktok] forcing therapy = torture
+
+---
+
+### moment 2 · 8:43
+why: emotional personal line, "lowest of lows," survivor disclosure without backstory, lands as testimony; authentic vulnerability travels.
+- [youtube] i spent 14 months at a troubled teen program. LOWEST of lows #troubledteenindustry #ttisurvivor
+- [instagram] i spent 14 months at a troubled teen program. that was the lowest of lows.
+- [tiktok] my 14 months in the troubled teen industry
+
+---
+
+### moment 3 · 29:35
+why: concrete shocking reveal—intake score + one question predicts outcome—exposes how programs ignore their own data; clear research takedown.
+- [youtube] wilderness therapy could PREDICT outcomes in 48 hours. they ignored it #research #troubledteens
+- [instagram] wilderness therapy could predict outcomes in the first 48 hours. they just ignored it.
+- [tiktok] they could predict outcomes in 2 days
+
+---
+
+### moment 4 · 36:45
+why: reframe of evidence-based from noun to verb—"is what I'm doing evidence-based?"—actionable mindset shift for anyone in therapy.
+- [youtube] stop treating evidence-based like a STAMP of approval #therapy #mentalhealth
+- [instagram] stop treating evidence-based like a stamp of approval. think of it as a verb.
+- [tiktok] evidence-based is a verb not a noun
+
+---
+
+### moment 5 · 45:21
+why: surprising stat—cost + disbelief in science are why people skip therapy, not stigma—challenges dominant narrative, concrete insight.
+- [youtube] the real reason people skip THERAPY (it's not stigma) #mentalhealth #stigma
+- [instagram] the real reason people skip therapy? cost and disbelief in the science. not stigma.
+- [tiktok] why people actually skip therapy
+
+---
+
+### moment 6 · 50:39
+why: damning detail—12-year-old dies, program only loses license *after* death—every kid went through same practice; concrete horror, clear villain.
+- [youtube] a 12-year-old DIED and the program only lost their license after #troubledteenindustry #accountability
+- [instagram] a 12-year-old died and the program only lost their license after. every kid went through this.
+- [tiktok] they only lost their license AFTER he died
