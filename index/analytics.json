@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-28T11:54:39.888Z",
+ "generatedAt": "2026-10-29T12:02:10.699Z",
  "rule": "youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads",
  "playlist": "PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu",
- "snapshots": 4,
+ "snapshots": 5,
  "first": "2026-10-25",
- "latest": "2026-10-28",
+ "latest": "2026-10-29",
  "episodes": [
   {
    "number": 265,
@@ -17,8 +17,8 @@
    },
    "clips": {
     "note": "shorts: not plays or downloads",
-    "count": 3,
-    "views": 2520
+    "count": 4,
+    "views": 4055
    },
    "minis": {
     "count": 0,
@@ -37,7 +37,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 10673
+    "views": 10696
    },
    "minis": {
     "count": 0,
@@ -128,7 +128,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 8381
+    "views": 8382
    },
    "minis": {
     "count": 0,
@@ -3224,7 +3224,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 387
+    "views": 388
    },
    "minis": {
     "count": 0,
@@ -3552,7 +3552,7 @@
    },
    "minis": {
     "count": 1,
-    "views": 33
+    "views": 34
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -3692,7 +3692,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 258
+    "views": 259
    },
    "minis": {
     "count": 1,
@@ -3980,7 +3980,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2814
+    "views": 2815
    },
    "minis": {
     "count": 0,
@@ -4016,7 +4016,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 2,
-    "views": 201
+    "views": 202
    },
    "minis": {
     "count": 0,
@@ -4232,7 +4232,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2330
+    "views": 2331
    },
    "minis": {
     "count": 0,
@@ -4272,7 +4272,7 @@
    },
    "minis": {
     "count": 1,
-    "views": 148
+    "views": 149
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -4412,7 +4412,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 6894
+    "views": 6902
    },
    "minis": {
     "count": 1,
@@ -4592,7 +4592,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 7165
+    "views": 7167
    },
    "minis": {
     "count": 0,
@@ -4628,7 +4628,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 2666
+    "views": 2667
    },
    "minis": {
     "count": 1,
@@ -4700,7 +4700,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 13841
+    "views": 13844
    },
    "minis": {
     "count": 0,
@@ -5312,7 +5312,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 624
+    "views": 625
    },
    "minis": {
     "count": 0,
@@ -5492,7 +5492,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 2,
-    "views": 598
+    "views": 600
    },
    "minis": {
     "count": 1,
@@ -5564,7 +5564,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 4480
+    "views": 4481
    },
    "minis": {
     "count": 0,
@@ -5636,7 +5636,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 1596
+    "views": 1597
    },
    "minis": {
     "count": 0,
@@ -5995,7 +5995,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 2837
+    "views": 2842
    },
    "minis": {
     "count": 0,
@@ -6067,7 +6067,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 2901
+    "views": 2902
    },
    "minis": {
     "count": 1,

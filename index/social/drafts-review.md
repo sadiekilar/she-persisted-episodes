@@ -535,3 +535,139 @@ why: damning detail—12-year-old dies, program only loses license *after* death
 - [youtube] a 12-year-old DIED and the program only lost their license after #troubledteenindustry #accountability
 - [instagram] a 12-year-old died and the program only lost their license after. every kid went through this.
 - [tiktok] they only lost their license AFTER he died
+
+## ep 232 · 232. your school friends matter… here’s why & how to make them
+
+### moment 1 · 1:39
+why: Harvard's 75-year study distills decades of research into one crisp claim—relationships trump everything—that reframes school stress for anxious high achievers.
+- [youtube] relationships lead to health & happiness #HarvardStudy #MentalHealth
+- [instagram] this is what matters more than your grades
+- [tiktok] the LONGEST happiness study ever found this
+
+### moment 2 · 4:16
+why: Concrete, surprising fact: your friends' study habits rub off on your GPA. High achievers can quote this stat to justify friend choices.
+- [youtube] how your friends affect your GRADES #TeenMentalHealth #HighSchool
+- [instagram] kids who surround themselves with high achievers have better grades themselves
+- [tiktok] your friends' grades are rubbing off on YOU
+
+### moment 3 · 9:35
+why: "Protective factor" language gives anxious teens a new frame—friends aren't just fun, they're armor during transitions.
+- [youtube] friends are a protective FACTOR #MentalHealth #Resilience
+- [instagram] having a best friend makes the transition from middle to high school smoother
+- [tiktok] friends help you handle HARD times better
+
+### moment 4 · 15:44
+why: The 50/90/200-hour formula makes friendship feel achievable, not mystical. Teens can bank hours like credits.
+- [youtube] it takes 200 hours to make a CLOSE friend #Friendship #College
+- [instagram] how long it actually takes to go from acquaintance to close friend
+- [tiktok] you need 200 HOURS to be close friends
+
+### moment 5 · 20:31
+why: "Friendship shopping" is a concrete, contrarian tip—scope the room on day one and sit strategically. Immediately actionable.
+- [youtube] approach your classes like friendship SHOPPING #CollegeTips #HighSchool
+- [instagram] the first day of class, scope out the room and sit next to someone aligned with your goals
+- [tiktok] treat your classes like friendship SHOPPING
+
+### moment 6 · 27:56
+why: Work smarter, not harder: double up meals, walks, study sessions. A Type A blueprint for busy students who feel guilty socializing.
+- [youtube] work with your schedule not AGAINST it #Friendship #CollegeTips
+- [instagram] can i walk to class with people? can we do a study group and then get a meal after?
+- [tiktok] double up on meals walks STUDY sessions
+
+## ep 231 · 231. gen z mental health: is it really that bad?? - a pediatrician’s take feat. dr. ken ginsburg
+
+### moment 1 · 4:29
+why: dr. ginsburg flips the "teens hate adults" myth with a concrete truth that lands hard—adolescents *want* guidance—then lists exactly what we get wrong. classic this-is reframe.
+- [youtube] this is what teens ACTUALLY are #adolescence #teenmentalhealth
+- [instagram] this is what teens actually are. not risk takers. not BROKEN.
+- [tiktok] this is what teens actually are
+
+---
+
+### moment 2 · 6:30
+why: identity formation meets social messaging in one devastating line: "if the world is telling you that who you are is semi-broken… you will absorb that messaging." personal + universal.
+- [youtube] how labels affect teen IDENTITY #genz #mentalhealth
+- [instagram] how labels affect teen identity, from a pediatrician who treats them.
+- [tiktok] labels shape who teens think they are
+
+---
+
+### moment 3 · 7:00
+why: "let's stop blaming a generation for a state of brokenness and understand what they're seeing." direct claim, no fluff, plus the concrete pivot: look at the *reflection* in their eyes.
+- [youtube] the problem of blaming GEN Z #teenmentalhealth #generation
+- [instagram] the problem of blaming gen z for being broken, in one SENTENCE.
+- [tiktok] stop blaming gen z for being broken
+
+---
+
+### moment 4 · 7:48
+why: "let's celebrate that more people are transparent about what they're feeling, which allows them to get the guidance that they deserve. deserve, not need. they're not broken." reframe + concrete language shift.
+- [youtube] mental health is TREATABLE not broken #mentalhealth #stigma
+- [instagram] mental health is treatable, not broken. here's the SHIFT we need.
+- [tiktok] they deserve guidance. not fixing.
+
+---
+
+### moment 5 · 12:33
+why: "being sad about things that are sad, being anxious about things that are worrisome—these are signs of mental health." counterintuitive truth that travels, plain claim format.
+- [youtube] what mental HEALTH actually means #mentalhealth #anxiety
+- [instagram] what mental health actually means. being sad about sad things IS healthy.
+- [tiktok] being sad about sad things is health
+
+---
+
+### moment 6 · 21:33
+why: "why do we love? so people know that they are worthy of being loved. pause. breathe. because that takes them through the rest of their life." parenting advice that's tender, concrete, and quotable.
+- [youtube] parenting advice for TEENS | ep. 231 feat. dr. ken ginsburg #parenting #love
+- [instagram] parenting advice for teens: why we love, from a pediatrician.
+- [tiktok] why we love our kids
+
+## ep 230 · 230. a mental health plan you can actually follow
+
+# social clips · episode 230
+
+### moment 1 · 1:37
+why: a clear, relatable reframe—mental health needs a formula like PEMDAS. the vulnerability ("we don't have that") hits hard and positions the rest of the episode as that missing roadmap.
+- **[youtube]** we don't have a PEMDAS for mental health #mentalhealth #selfimprovement
+- **[instagram]** there's not a roadmap or a framework of if you're struggling, start here. we don't have that.
+- **[tiktok]** we need a PEMDAS for mental health
+
+---
+
+### moment 2 · 1:58
+why: a concrete, surprising tip that flips the "ambitious goals" script. "just don't make things worse" is memorable, counterintuitive, and exactly what someone in crisis needs to hear.
+- **[youtube]** just don't make things WORSE #mentalhealth #selfimprovement
+- **[instagram]** the number one piece of advice i find myself giving to people that are really in it: just don't make things worse.
+- **[tiktok]** advice for people really in it
+
+---
+
+### moment 3 · 7:07
+why: maslow's physiological needs explained simply—"if you haven't had water in 48 hours, you are not thinking about your self-esteem." super concrete, super relatable.
+- **[youtube]** this is how your basic NEEDS work #mentalhealth #psychology
+- **[instagram]** if you haven't had water in 48 hours, you are not thinking about how's my self-esteem.
+- **[tiktok]** the base of the pyramid
+
+---
+
+### moment 4 · 9:38
+why: the sailboat visual is gorgeous and hopeful—"growth is a direction not a destination" lands perfectly. a reframe people will screenshot and share.
+- **[youtube]** growth is a DIRECTION not a destination #mentalhealth #growth
+- **[instagram]** growth is a direction not a destination. you are a whole unit moving around in this world.
+- **[tiktok]** growth is a direction
+
+---
+
+### moment 5 · 18:41
+why: stage one DBT is visceral—"the house is literally on fire"—and the targets are concrete. people will recognize themselves here and feel validated.
+- **[youtube]** when your mental health house is on FIRE #dbt #mentalhealth
+- **[instagram]** in stage one dbt, the house is literally on fire. and the goals are life-threatening behaviors first.
+- **[tiktok]** stage one dbt explained
+
+---
+
+### moment 6 · 21:39
+why: "just don't make things worse" returns with a lived example of how maladaptive coping deepens the hole. personal, actionable, and perfectly timed.
+- **[youtube]** this is why i say don't make things WORSE #mentalhealth #dbt
+- **[instagram]** if you show up to therapy and say i'm feeling really depressed and i'm not sleeping, i'm not eating, you're working to address the way you've coped.
+- **[tiktok]** quality of life interfering behavior
