@@ -671,3 +671,147 @@ why: "just don't make things worse" returns with a lived example of how maladapt
 - **[youtube]** this is why i say don't make things WORSE #mentalhealth #dbt
 - **[instagram]** if you show up to therapy and say i'm feeling really depressed and i'm not sleeping, i'm not eating, you're working to address the way you've coped.
 - **[tiktok]** quality of life interfering behavior
+
+## ep 230 · 230. a mental health plan you can actually follow
+
+### moment 1 · 1:37
+why: the PEMDAS metaphor lands hard—gives people a new way to think about order and why good intentions fail when you skip steps.
+- [youtube] mental health needs an order of operations #mentalhealth #dbt
+- [instagram] there's not a roadmap or a framework of if you're struggling, start here. we don't have that for mental health. and yet, we need one.
+- [tiktok] we don't have a PEMDAS for mental health
+
+---
+
+### moment 2 · 2:28
+why: this is the core advice of the episode—a clear directive that reframes ambition as a trap when you're in crisis.
+- [youtube] just don't make things WORSE #mentalhealth #therapy
+- [instagram] the number one piece of advice i give people really in it when it comes to mental health challenges is to just not make things worse.
+- [tiktok] if you're in crisis just don't make things worse
+
+---
+
+### moment 3 · 6:37
+why: concrete hierarchy breakdown—actionable framework people can apply immediately to assess where they are.
+- [youtube] maslow's hierarchy of needs explained #psychology #mentalhealth
+- [instagram] if you haven't had water in 48 hours, you are not thinking about how's my self-esteem? how am i talking to myself?
+- [tiktok] if you're not sleeping you can't fix self-esteem
+
+---
+
+### moment 4 · 10:14
+why: relationships as the number one predictor is research-backed, surprising to many, and challenges the self-improvement narrative.
+- [youtube] the number one thing that predicts good mental health #mentalhealth #relationships
+- [instagram] the number one thing in life that predicts good mental health and good health is relationships. we are social beings. we thrive in community.
+- [tiktok] relationships are the number one thing for mental health
+
+---
+
+### moment 5 · 15:45
+why: the sailboat metaphor is visual, sticky, and reframes mental health as dynamic movement vs. static achievement.
+- [youtube] a better metaphor for mental health than a pyramid #mentalhealth #growth
+- [instagram] growth is a direction not a destination. a dynamic sailboat is a better metaphor for life than a pyramid.
+- [tiktok] growth is a direction not a destination
+
+---
+
+### moment 6 · 25:18
+why: the biopsychosocial model explanation is dense but this line clarifies why some people feel more intensely—validating and educational.
+- [youtube] why some of us feel emotions more INTENSELY #emotionregulation #dbt
+- [instagram] biologically some of us are more emotionally sensitive. we feel our emotions more strongly. we feel them for longer periods of time.
+- [tiktok] some of us are just more emotionally sensitive
+
+## ep 229 · 229. why you’re struggling in college (& what to do) feat. dr. jessi gold
+
+### moment 1 · 5:08
+why: sharp reframe of perfectionism culture—stops scrollers who've felt this but never heard it said aloud. the "weird badge of honor" line names the trap.
+- [youtube] this is college perfectionism culture #mentalhealth #college
+- [instagram] there's a weird badge of honor of like not sleeping and not functioning super well
+- [tiktok] college has a WEIRD badge of honor for struggle
+
+---
+
+### moment 2 · 7:38
+why: concrete "why I feel small" insight that college students (and news-anxious gen z) will see themselves in. ends on a universal truth that travels beyond the episode.
+- [youtube] why your problems feel too small to matter #college #mentalhealth
+- [instagram] when you care a lot about the world, your problems are not going to register
+- [tiktok] why your problems don't feel valid enough
+
+---
+
+### moment 3 · 9:16
+why: "college is optimized for avoidance" is a sticky claim that anxiety-havers will clip instantly. names a system problem, not a personal failure.
+- [youtube] college is optimized for AVOIDANCE #anxiety #college
+- [instagram] college is optimized for avoidance, which if you struggle with anxiety…
+- [tiktok] college is OPTIMIZED for avoidance
+
+---
+
+### moment 4 · 13:31
+why: pushes back on therapy-talk culture with a clear claim: talking ≠ help. names the gap between awareness and action that gen z needs to hear.
+- [youtube] talking is different than HELP seeking #therapy #mentalhealth
+- [instagram] talking is different than help seeking—normalizing mental health means we still go to the experts
+- [tiktok] talking is different than HELP seeking
+
+---
+
+### moment 5 · 28:49
+why: a tender, specific insight on why college students don't tell their parents. the "not an adult but not not an adult" tension is deeply relatable.
+- [youtube] why college students don't tell their PARENTS #college #mentalhealth
+- [instagram] you don't want them to swoop you up in a kid way, but you want the support
+- [tiktok] you want support but don't want to be rescued
+
+---
+
+### moment 6 · 37:07
+why: logistics tip that saves someone a semester of frustration. concrete, actionable, and frames short-term therapy as a system constraint, not a character flaw.
+- [youtube] what to know about college COUNSELING centers #therapy #college
+- [instagram] college counseling is set up to help with smaller problems, shorter problems, not long-term needs
+- [tiktok] college counseling is SHORT-TERM therapy
+
+## ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+
+### moment 1 · 4:29
+why: reframes self-control as a concrete dilemma everyone faces hourly—watching one more video vs. doing something better for your future self. relatable and clarifying, especially for a gen z audience drowning in distractions.
+- [youtube] self-control is choosing your FUTURE self #psychology
+- [instagram] self-control: choosing something better for your future self, not just your present self
+- [tiktok] self-control = future you vs. present you
+
+---
+
+### moment 2 · 8:52
+why: james gross's three boxes model is a psychology blueprint that makes behavior change tactical. the "how do we change?" framing is urgent and universal.
+- [youtube] the three boxes that explain ALL human behavior #mentalhealth
+- [instagram] this is a blueprint for all human behavior. everything can be traced back to three boxes
+- [tiktok] this explains all human behavior
+
+---
+
+### moment 3 · 14:08
+why: directly counters the misuse of "grit" as white-knuckling through misery. clarifies that grit is about love and passion, not force—a reframe gen z desperately needs.
+- [youtube] grit is NOT white knuckling through a job you hate #career
+- [instagram] grit isn't forcing yourself through something you hate. it's about love, passion, devotion
+- [tiktok] grit isn't white knuckling it
+
+---
+
+### moment 4 · 21:02
+why: practical, counterintuitive tip that directly dismantles the "try harder" trap. lands because it names the thing we all do that never works.
+- [youtube] never say "i gotta try harder" (it NEVER works) #selfimprovement
+- [instagram] tip number one: don't ever say to yourself, i gotta try harder. it never works
+- [tiktok] don't say "i gotta try harder"
+
+---
+
+### moment 5 · 27:12
+why: the paramecium metaphor makes finding your calling feel manageable and organic—just move toward warmth. a relief for anyone paralyzed by not knowing their passion yet.
+- [youtube] how to find your calling (hint: be a paramecium) #20s
+- [instagram] steer like a paramecium. move gradually towards things that give you energy
+- [tiktok] steer like a paramecium
+
+---
+
+### moment 6 · 38:32
+why: dismantles the toxic "what doesn't kill you makes you stronger" narrative. the support + challenge formula is what gen z needs to hear right now.
+- [youtube] what DOESN'T kill you makes you stronger? not always #anxiety
+- [instagram] what doesn't kill you because it is a challenge you were SUPPORTED through. that's what makes you stronger
+- [tiktok] what doesn't kill you… sometimes kills you
