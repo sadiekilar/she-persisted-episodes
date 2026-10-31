@@ -815,3 +815,155 @@ why: dismantles the toxic "what doesn't kill you makes you stronger" narrative. 
 - [youtube] what DOESN'T kill you makes you stronger? not always #anxiety
 - [instagram] what doesn't kill you because it is a challenge you were SUPPORTED through. that's what makes you stronger
 - [tiktok] what doesn't kill you… sometimes kills you
+
+## ep 227 · 227. I asked 9 experts how to heal from depression (what you NEED to know)
+
+### moment 1 · 2:51
+why: a plain, declarative reframe—depression as unmet needs, not broken chemistry—that cuts through noise and names something concrete teens can recognize.
+- [youtube] depression = unmet NEEDS | she persisted #depression #mentalhealth
+- [instagram] depression is just your body telling you something's missing
+- [tiktok] depression = unmet needs
+
+---
+
+### moment 2 · 8:28
+why: visceral truth about the gap between knowing what helps and having energy to do it; relatable pain point, no jargon.
+- [youtube] why you CAN'T do the things that help depression #depression #mentalhealth
+- [instagram] it's hardest to do the things that would help you most when you're struggling
+- [tiktok] you know what helps. you can't do it.
+
+---
+
+### moment 3 · 9:56
+why: flips the "just go for a walk" shame into empathy; defends self-harm logic without condoning it, deeply validating.
+- [youtube] depressed people aren't stupid | she persisted #depression #validation
+- [instagram] depressed people aren't stupid. they've tried everything you suggested.
+- [tiktok] they already tried your yoga advice
+
+---
+
+### moment 4 · 12:20
+why: concrete cognitive shift—behavior vs. identity—that listeners can apply immediately; framed as corrective, not scolding.
+- [youtube] this is why you feel STUCK in depression #depression #selfblame
+- [instagram] you're blaming yourself for things that are usually just behavior
+- [tiktok] it's your behavior. not you.
+
+---
+
+### moment 5 · 18:20
+why: actionable values-based approach that sidesteps "fix yourself" pressure; ties meaning to tiny steps.
+- [youtube] how to feel less EMPTY when you're depressed #depression #meaning
+- [instagram] connect one small action to something you value. that's where to start.
+- [tiktok] what do you value? do ONE thing.
+
+---
+
+### moment 6 · 22:30
+why: wildly specific mutual aid example ("text 1, 2, or 3") that names the exact support gap friends miss; instantly shareable template.
+- [youtube] how to ACTUALLY support someone who's depressed #depression #support
+- [instagram] "let me know if you need anything" isn't enough. here's what works instead.
+- [tiktok] text 1, 2, or 3. that's how you help.
+
+## ep 226 · 226. summertime sadness?! answering your most asked mental health q’s
+
+### moment 1 · 1:10
+why: the "we fall to our systems" frame reframes summer slumps as a design problem, not a willpower problem—relieves shame and opens action. declarative hook, one CAPS word, under 70 characters, no "you."
+
+- [youtube] we fall to our systems, not rise to our goals #psychology #systems
+- [instagram] we don't rise to our goals. we fall to the level of our systems.
+- [tiktok] we fall to our SYSTEMS, not rise to our goals
+
+---
+
+### moment 2 · 4:29
+why: concrete example—9–5 job as a mental health scaffold—lands the abstract "systems" idea in lived experience. relatable pivot from college chaos to adult structure.
+
+- [youtube] why a 9–5 job helped my MENTAL health #routine #structure
+- [instagram] having a 9–5 fixed my sleep and my mental health without willpower
+- [tiktok] my 9–5 job became my mental health SYSTEM
+
+---
+
+### moment 3 · 6:03
+why: counterintuitive claim that school protects mental health even when it feels stressful—challenges the "school ruins me" narrative and names the hidden buffers.
+
+- [youtube] school is actually good for your MENTAL health #college #mentalhealth
+- [instagram] school can stress you out and still protect your mental health at the same time
+- [tiktok] school protects your mental health even when it STRESSES you out
+
+---
+
+### moment 4 · 13:16
+why: diagnosis moment—"sadness came out of nowhere" is the loss of hidden buffers. names the invisible scaffolding collapse and validates the confusion.
+
+- [youtube] summertime sadness is REAL (here's why) #depression #summer
+- [instagram] that summer sadness you feel? it's not random. you lost your buffers.
+- [tiktok] summer sadness isn't random—you lost your BUFFERS
+
+---
+
+### moment 5 · 22:50
+why: permission slip to use social media as connection if it leads to real conversation—flips the "screen time bad" script with a nuanced take gen z will recognize.
+
+- [youtube] social media can fill your social battery CORRECTLY #socialmedia #mentalhealth
+- [instagram] staying updated on social media can actually help you feel less lonely if you do it right
+- [tiktok] social media can fill your social CUP if you use it right
+
+---
+
+### moment 6 · 36:32
+why: the therapist dialogue "do them especially because you're depressed" is the episode's action hook—clear, urgent, ready to travel as advice.
+
+- [youtube] do those things ESPECIALLY because you're depressed #depression #mentalhealth
+- [instagram] therapist: do all those things especially because you're depressed
+- [tiktok] do them ESPECIALLY because you're depressed
+
+## ep 225 · 225. your worst traits are changeable… here’s how (feat. olga khazan)
+
+# me but better—how to change your personality (feat. olga khazan)
+
+### moment 1 · 6:40
+why: Clear reframe that personality is actionable, not fixed—challenges the "born this way" assumption and lands as practical + surprising.
+- **[youtube]** personality traits are like TOOLS to achieve your goals | #psychology #selfimprovement
+- **[instagram]** your personality traits are basically tools that help you achieve your goals in life.
+- **[tiktok]** personality = tools for your goals
+
+---
+
+### moment 2 · 17:58
+why: Concrete, relatable example (cussing at college) makes abstract personality science feel real; everyone has a "came home different" story.
+- **[youtube]** we reflect the people we're around | #personality #relationships
+- **[instagram]** we all kind of reflect the people that we're around. like when i went to college…
+- **[tiktok]** you become who you're around
+
+---
+
+### moment 3 · 24:45
+why: The "unfortunately" lands as funny + real—validates resistance while giving the answer Gen Z needs (mindfulness for anxiety).
+- **[youtube]** this is what ACTUALLY helps neuroticism | #anxiety #mentalhealth
+- **[instagram]** for neuroticism, people hate this… but it's mindfulness and meditation. because life exists only in the present moment.
+- **[tiktok]** the fix for neuroticism? mindfulness.
+
+---
+
+### moment 4 · 27:36
+why: Angela Duckworth anecdote makes conscientiousness feel doable—connect boring tasks to a big goal you care about, not willpower.
+- **[youtube]** how to become more CONSCIENTIOUS | #productivity #psychology
+- **[instagram]** conscientious people connect tedious tasks to a bigger goal they have… and they vividly see it paying off.
+- **[tiktok]** connect boring tasks to your big goal
+
+---
+
+### moment 5 · 32:54
+why: "Free trait theory" = permission to experiment without permanent change; lowers stakes for people scared of shifting identity.
+- **[youtube]** you can try on personality traits without changing yourself | #psychology #selfimprovement
+- **[instagram]** you can almost try on different personality traits to rise to the occasion… even without changing yourself permanently.
+- **[tiktok]** try on traits like an invisibility cloak
+
+---
+
+### moment 6 · 36:58
+why: Flips the "self-improvement = self-hate" script with the cooking analogy—changing is self-love, not self-rejection. Warm + clarifying.
+- **[youtube]** changing yourself is a sign of SELF-LOVE | #mentalhealth #selfimprovement
+- **[instagram]** is it because you don't like yourself? i actually think it's because you DO like yourself that you seek out new ways of living.
+- **[tiktok]** personality change = self-love, not self-hate

@@ -1,57 +1,45 @@
 # social insights
 
-Generated 2026-10-30 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-10-31 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
 ## playbook (Claude's read of the numbers)
 
 **what travels**
 
-- **"this is" framing** (n=13, lift 1.28, 85% beat baseline): hooks that name the topic directly perform better than questions or you-statements. example: "just keep going | Ep. 121. feat. Mary's Cup of Tea"
-
-- **short hooks on shorts** (n=60, lift 0.94, 45% beat baseline): six words or fewer outperform longer ones by 3×. data is thin but consistent. example: "ANXIETY 101 | Ep. 120 SOLO EP"
-
-- **one CAPS word only** (n=187 shorts, lift 0.79; n=39 episodes, lift 0.92): one emphasized word outperforms zero or many. more than two caps words tank performance.
-
-- **1–2 hashtags on shorts** (n=187, lift 0.99, 50% beat baseline) vs. zero hashtags (n=367, lift 0.17). episodes never use hashtags.
-
-- **no numbers in shorts** (n=182, lift 1.0, 51% beat baseline) vs. with numbers (n=372, lift 0.17). the opposite is true for episodes: all 203 have episode numbers.
-
-- **topics that travel**: social media (n=34, lift 1.09), sadie recommends (n=27, lift 1.05), troubled teen industry (n=28, lift 0.99), 20s (n=40, lift 0.95), depression (n=122, lift 0.82), relationships (n=133, lift 0.81), dbt (n=110, lift 0.72).
+- **"this is" statements** beat baseline on shorts (n=13, lift 1.28×). "this parenting style doesn't help teen mental health!!" announces the topic upfront; audiences seem to trust these declarative hooks.
+- **one CAPS word** over none (n=187 on shorts, lift 0.79×; n=39 on episodes, lift 0.92×) but **not more**. the data shows 2+ caps words drop lift. one punch is enough.
+- **short hooks (≤6 words)** on shorts (n=60, lift 0.94×). "just keep going" and "ANXIETY 101" were both top performers. brevity cuts through.
+- **social media, sadie recommends, troubled teen industry, 20s, depression, relationships** as topics all beat baseline (n ranges 27–150, lifts 0.81×–1.09× on shorts). trauma and sleep don't.
+- **1–2 hashtags** on shorts (n=188, lift 0.99×) vs zero hashtags (lift 0.17×). worth noting: episodes have zero hashtags and that's fine.
+- **no numbers in the hook** on shorts (n=183, lift 1.0× vs 0.18× when there's a number). numbers sink. "how our CHILDHOOD affects our current emotions" worked; "10 Coping Skills You NEED to Know" didn't.
+- **guest episodes** outperform solo on full episodes (n=137, lift 0.92× vs 0.65×). data is thin on mini (n=20 vs 8) but trending the same.
 
 **what sinks**
 
-- **asking "why"** (n=44, lift 0.56): question hooks generally underperform (n=63, lift 0.41 on shorts).
-
-- **addressing "you" directly** (n=160 shorts, lift 0.34; n=73 episodes, lift 0.64): telling the viewer what they should do or know consistently underperforms statements.
-
-- **three or more CAPS** (n=58, lift 0.26 on shorts): over-emphasis kills performance.
+- **"why" or "how to" openings** on shorts (n=44 and 32, lifts 0.57× and 0.28×). "why you should've advocating at SCHOOL" tanked. these hooks feel like homework.
+- **long hooks (12+ words)** on shorts (n=106, lift 0.14×). "WHY you should've advocating at SCHOOL" and "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?!" both flopped. brevity is clarity.
+- **directly addressing "you"** underperforms slightly on shorts (n=161, lift 0.34× vs 0.40×). counterintuitive but consistent: "your mental health toolkit" hooks sink.
 
 **phrasings to reuse**
 
-based on winners with n ≥ 8:
-
+- ___ | she persisted ep. [#] [guest]
+- how ___ affects ___
+- what ___ ACTUALLY say when ___
+- dr. ___ on how to ___
+- signs a ___ is ___
 - ___ 101
-- the problem of ___ 
-- how our ___ affects our current ___
-- ___ you NEED to know
-- a therapist's advice on ___
-- making ___ & getting ___
-- tips for ___ 
-- re-feeding in ___ treatment
-- ___ | she persisted ep. ___ feat. ___
-- red flags that you don't have enough ___
+- why isn't ___ taken seriously??!
+- how to tell if ___
+- the problem of ___ | she persisted ep. [#]
+- ___ advice for teens
 
 **how sadie edits**
 
-- removes question framing: "why does it take a CRISIS to be taken seriously?" → "why isn't teen mental health taken seriously??!"
+- **expands scope from personal to actionable**. "we don't apply the same thinking to our own goals" → "how to achieve your goals this year using PSYCHOLOGY" (similarity 0.46).
+- **replaces hashtags with plain hooks**. all drafts had hashtags; none survived.
+- **shifts tone from observation to question or declaration**. "what makes teens STOP asking for help" → "this parenting style doesn't help teen mental health!!" — moving from insight to stance.
 
-- removes you-statements: "we don't apply the same thinking to our own goals" → "how to achieve your goals this year using PSYCHOLOGY"
-
-- adds how-to framing: "teens open up when you DON'T tell them what's wrong" → "what teens ACTUALLY say when they start therapy"
-
-- trades indirect phrasing for direct naming: the pattern is toward simpler, clearer topic statements rather than abstracted observations.
-
-## youtube:short (554 posts with a lift; baseline 1002 views)
+## youtube:short (555 posts with a lift; baseline 1000 views)
 
 **hook_type**
 
@@ -60,10 +48,10 @@ based on winners with n ≥ 8:
 | this is | 13 | 1.28 | 85% |
 | my story | 4 | 0.9 | 25% |
 | the truth / secret | 13 | 0.81 | 46% |
-| why | 44 | 0.56 | 32% |
+| why | 44 | 0.57 | 32% |
 | statement | 297 | 0.35 | 26% |
+| you / your | 84 | 0.34 | 23% |
 | question | 52 | 0.34 | 27% |
-| you / your | 83 | 0.33 | 23% |
 | how to | 32 | 0.28 | 25% |
 | stop / never | 6 | 0.2 | 33% |
 | watch this if | 7 | 0.07 | 0% |
@@ -73,14 +61,14 @@ based on winners with n ≥ 8:
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | true | 63 | 0.41 | 27% |
-| false | 491 | 0.37 | 28% |
+| false | 492 | 0.37 | 28% |
 
 **addresses_you**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | false | 394 | 0.4 | 29% |
-| true | 160 | 0.34 | 26% |
+| true | 161 | 0.34 | 25% |
 
 **caps_words**
 
@@ -88,7 +76,7 @@ based on winners with n ≥ 8:
 | --- | ---: | ---: | ---: |
 | 0 | 185 | 0.28 | 24% |
 | 1 | 187 | 0.79 | 41% |
-| 2 | 88 | 0.18 | 26% |
+| 2 | 89 | 0.18 | 26% |
 | 3 | 58 | 0.26 | 10% |
 | 4+ | 36 | 0.25 | 14% |
 
@@ -97,22 +85,22 @@ based on winners with n ≥ 8:
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | short (≤6 words) | 60 | 0.94 | 45% |
-| medium (7–11) | 388 | 0.43 | 31% |
+| medium (7–11) | 389 | 0.43 | 31% |
 | long (12+) | 106 | 0.14 | 8% |
 
 **has_number**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| no | 182 | 1 | 51% |
-| yes | 372 | 0.17 | 17% |
+| no | 183 | 1 | 50% |
+| yes | 372 | 0.18 | 17% |
 
 **hashtags**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | 0 | 367 | 0.17 | 17% |
-| 1–2 | 187 | 0.99 | 50% |
+| 1–2 | 188 | 0.99 | 49% |
 
 **duration**
 
@@ -120,31 +108,31 @@ based on winners with n ≥ 8:
 | --- | ---: | ---: | ---: |
 | ≤20s | 125 | 0.41 | 34% |
 | 21–40s | 282 | 0.4 | 27% |
-| 41–60s | 146 | 0.33 | 24% |
+| 41–60s | 147 | 0.34 | 24% |
 
 **format**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | solo | 206 | 0.41 | 29% |
-| guest | 348 | 0.35 | 27% |
+| guest | 349 | 0.35 | 27% |
 
 **topic**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | social media | 34 | 1.09 | 50% |
-| sadie recommends | 27 | 1.05 | 59% |
+| sadie recommends | 27 | 1.06 | 59% |
 | troubled teen industry | 28 | 0.99 | 46% |
-| 20s | 40 | 0.95 | 43% |
+| 20s | 40 | 0.96 | 43% |
 | career | 12 | 0.86 | 42% |
 | depression | 122 | 0.82 | 42% |
 | relationships | 133 | 0.81 | 41% |
-| dbt | 110 | 0.72 | 38% |
+| dbt | 111 | 0.72 | 38% |
 | adhd | 8 | 0.7 | 38% |
 | teen mental health | 150 | 0.52 | 33% |
 | college | 50 | 0.34 | 14% |
-| emotions | 81 | 0.32 | 26% |
+| emotions | 82 | 0.33 | 26% |
 | self-improvement | 110 | 0.24 | 22% |
 | anxiety | 47 | 0.22 | 13% |
 | sleep | 15 | 0.21 | 20% |
@@ -155,37 +143,37 @@ based on winners with n ≥ 8:
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| fri | 80 | 0.45 | 31% |
+| fri | 80 | 0.46 | 31% |
 | mon | 72 | 0.4 | 26% |
 | sun | 72 | 0.4 | 28% |
+| sat | 88 | 0.39 | 32% |
 | tue | 69 | 0.39 | 25% |
-| sat | 87 | 0.36 | 32% |
 | thu | 83 | 0.34 | 24% |
 | wed | 91 | 0.3 | 27% |
 
 **top posts**
 
-- 2.91× · 2915 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
-- 2.84× · 2848 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
+- 2.92× · 2915 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
+- 2.85× · 2848 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
 - 2.79× · 2794 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
-- 2.68× · 2689 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.61× · 2616 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
+- 2.69× · 2689 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
+- 2.62× · 2616 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
 - 2.59× · 2592 views · ep 258 · how our CHILDHOOD affects our current emotions
-- 2.52× · 2528 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.51× · 2517 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
-- 2.5× · 2505 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.44× · 2449 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
-- 2.4× · 2409 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
+- 2.53× · 2528 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.52× · 2519 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
+- 2.51× · 2505 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.45× · 2449 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
+- 2.41× · 2409 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
 - 2.39× · 2394 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
 
 **bottom posts**
 
-- 0× · 5 views · ep 100 · EMOTIONS don't have to be ISOLATING | Ep. 100
 - 0× · 3 views · ep 111 · GRATITUDE JARS | Ep. 111 Ashley Blaine Featherson-Jenkins
 - 0.01× · 13 views · ep 85 · 10 Coping Skills You NEED to Know | SOLO Ep. 132
 - 0.01× · 8 views · ep 87 · WHY you should’ve advocating at SCHOOL | Ep. 87 feat. Sarah Hernholm
 - 0.01× · 12 views · ep 87 · AGE is not a determinant of WORK ETHIC | Ep. 87 feat. Sarah Hernholm
 - 0.01× · 11 views · ep 100 · PREVENTATIVE MENTAL HEALTH CARE | Ep. 100
+- 0.01× · 5 views · ep 100 · EMOTIONS don't have to be ISOLATING | Ep. 100
 - 0.01× · 10 views · ep 103 · THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103 Emmalee Bierly + Jennifer Chaiken
 - 0.01× · 13 views · ep 104 · EXTERNAL FACTORS IMPACTING SLEEP? | Ep. 104 Heather Turgeon + Julie Wright
 
@@ -199,7 +187,7 @@ based on winners with n ≥ 8:
 | numbered list | 4 | 1.82 | 50% |
 | statement | 113 | 0.92 | 47% |
 | question | 14 | 0.71 | 29% |
-| you / your | 65 | 0.64 | 31% |
+| you / your | 65 | 0.65 | 31% |
 | the truth / secret | 3 | 0.64 | 33% |
 
 **is_question**
@@ -273,7 +261,7 @@ based on winners with n ≥ 8:
 | career | 11 | 0.78 | 45% |
 | dbt | 31 | 0.76 | 39% |
 | relationships | 36 | 0.76 | 36% |
-| social media | 12 | 0.74 | 33% |
+| social media | 12 | 0.75 | 33% |
 | anxiety | 29 | 0.71 | 34% |
 | emotions | 24 | 0.7 | 38% |
 | self-improvement | 37 | 0.66 | 32% |
@@ -295,18 +283,18 @@ based on winners with n ≥ 8:
 
 **top posts**
 
-- 64.82× · 8297 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 64.86× · 8302 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
 - 42.8× · 5479 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 27.29× · 3493 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 26.32× · 3369 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 25.17× · 3222 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 23.34× · 2987 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 27.38× · 3504 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 26.36× · 3374 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 25.29× · 3237 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 23.36× · 2990 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
 - 9.78× · 1252 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
 - 9.55× · 1222 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
 - 8.61× · 1102 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 7.25× · 928 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
-- 6.94× · 888 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
-- 6.71× · 859 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
+- 7.3× · 935 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
+- 6.95× · 890 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 6.72× · 860 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
 
