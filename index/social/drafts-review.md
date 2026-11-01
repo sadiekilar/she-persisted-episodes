@@ -967,3 +967,139 @@ why: Flips the "self-improvement = self-hate" script with the cooking analogy—
 - **[youtube]** changing yourself is a sign of SELF-LOVE | #mentalhealth #selfimprovement
 - **[instagram]** is it because you don't like yourself? i actually think it's because you DO like yourself that you seek out new ways of living.
 - **[tiktok]** personality change = self-love, not self-hate
+
+## ep 225 · 225. your worst traits are changeable… here’s how (feat. olga khazan)
+
+### moment 1 · 0:00
+why: straight claim—changing isn't conformity, it's self-care. reframes a common resistance ("don't change for others") without soft language.
+- [youtube] you shouldn't change for OTHER PEOPLE #personalitychange #mentalhealth
+- [instagram] you shouldn't change for other people. change for you.
+- [tiktok] you shouldn't change for other people
+
+### moment 2 · 2:29
+why: concrete stakes—one trait predicts mental health outcomes, specific enough to intrigue without spoiling.
+- [youtube] one PERSONALITY trait correlates with mental health #anxiety #psychology
+- [instagram] one personality trait is really correlated with mental health challenges.
+- [tiktok] one trait linked to mental health struggles
+
+### moment 3 · 7:00
+why: relatable surprise—the Bali test. concrete scenario makes abstract trait (openness) immediately clear.
+- [youtube] the Bali test for PERSONALITY #openness #bigfive
+- [instagram] someone asks you to fly to Bali this weekend. what's your first thought?
+- [tiktok] the Bali personality test
+
+### moment 4 · 16:17
+why: validates a painful pattern. "bad to worse" spiral is visceral; naming neuroticism as changeable gives agency.
+- [youtube] NEUROTICISM and negative thought spirals #anxietyhelp #personality
+- [instagram] everything goes from bad to worse when bad things happen to a neurotic person.
+- [tiktok] neuroticism = bad to worse spirals
+
+### moment 5 · 30:18
+why: behavioral shift you can feel—"I should see someone" vs. isolating. shows extroversion as adaptive coping, not performance.
+- [youtube] this EXTROVERSION shift changed how I cope #mentalhealth #coping
+- [instagram] I used to want to be alone after a bad day. now I want to see someone.
+- [tiktok] how extroversion changed my coping
+
+### moment 6 · 36:28
+why: warmest reframe—self-improvement as self-love. "nourish your body" analogy lands without preaching.
+- [youtube] learning new skills is a sign of SELF-LOVE #selfimprovement #growth
+- [instagram] when someone learns to cook for themselves, it's not because they hate themselves.
+- [tiktok] self-improvement = self-love
+
+## ep 224 · 224. stop ‘shoulding’ + shaming yourself
+
+### moment 1 · 0:24
+why: powerful reframe—accepting help isn't weakness, refusing it when it works *is* the problem. lands without episode context because the claim is universal.
+- **[youtube]** stop saying you "should" be able to do it alone #mentalhealth #dbt
+- **[instagram]** when refusing help becomes the real problem
+- **[tiktok]** "i should be able to do this by myself"
+
+---
+
+### moment 2 · 6:39
+why: concrete example of self-sabotage—knowing the solution but blocking yourself with shame. the specificity (sleep scaffolding) makes the abstract feeling tangible.
+- **[youtube]** when you won't accept help because you're ASHAMED #shame #dbt
+- **[instagram]** you have the resources. you know they work. but you won't use them because "i should be able to"
+- **[tiktok]** refusing help that works = digging a deeper hole
+
+---
+
+### moment 3 · 8:52
+why: DBT 101 on shame—clear definition of "fits the facts" that people can apply immediately. teaches the framework in under 60s.
+- **[youtube]** shame 101: does it fit the FACTS? #dbt #emotions
+- **[instagram]** in dbt we ask: does this emotion fit the facts, or am i making it worse?
+- **[tiktok]** shame fits the facts when…
+
+---
+
+### moment 4 · 12:13
+why: meta moment—sadie realizes mid-recording she's doing opposite action. authenticity + teaching the skill simultaneously, plus the laugh makes it human.
+- **[youtube]** opposite action for SHAME (i'm doing it right now) #dbt #shame
+- **[instagram]** wait i just realized i'm doing opposite action for shame by recording this episode
+- **[tiktok]** realizing you're doing the dbt skill mid-podcast
+
+---
+
+### moment 5 · 13:45
+why: ultra-specific tip (stop apologizing for needing scaffolding) that generalizes to any support system. the coffee example makes it concrete.
+- **[youtube]** stop apologizing for needing SUPPORT #dbt #shame
+- **[instagram]** all the way opposite action for shame: stop apologizing for the thing
+- **[tiktok]** "sorry i'm drinking my third coffee today"—stop
+
+---
+
+### moment 6 · 17:20
+why: guilt vs. shame distinction is the clinical insight people search for. "i did something wrong" vs. "i am wrong" is quotable and clear.
+- **[youtube]** guilt vs. SHAME: the difference that changes everything #dbt #emotions
+- **[instagram]** guilt is "i did something wrong." shame is "i am wrong." know the difference
+- **[tiktok]** guilt: i did wrong. shame: i am wrong.
+
+## ep 223 · 223. no one tells you this career advice (how to *actually* get ahead at work) feat. dr. rosalind chow
+
+# social clips – episode 223
+
+### moment 1 · 3:06
+why: clear declaration about burnout being mistaken for lack of calling—a reframe that relieves pressure on younger people stuck in the wrong career path.
+- **[youtube]** you might not have the WRONG calling | #careeradvice #20s
+- **[instagram]** turns out it wasn't that i didn't know what i wanted to do
+- **[tiktok]** i thought i was bad at having a calling
+
+---
+
+### moment 2 · 13:42
+why: concrete tip about making yourself "pickable" without agency—shifts pressure from proving worth to revealing values, lands as permission vs prescription.
+- **[youtube]** how to make sponsors want to PICK you | #networking #career
+- **[instagram]** you don't get to pick your sponsor. but you can make it easy for them to pick you
+- **[tiktok]** you don't actually get to pick your sponsor
+
+---
+
+### moment 3 · 21:57
+why: flips the "provide value" script by naming the problem younger people feel—that they have nothing to offer—then reframes asking for help as giving someone else value.
+- **[youtube]** why asking for help IS providing VALUE | #networking #mentorship
+- **[instagram]** there's value in having problems that other people can help you solve
+- **[tiktok]** you're not exploiting people by asking for help
+
+---
+
+### moment 4 · 27:53
+why: surprising unlock—gen z's undervalued currency is generational insight, not skills; validates what younger people dismiss about themselves.
+- **[youtube]** the VALUE gen z doesn't realize they have | #genz #careeradvice
+- **[instagram]** as a gen z, you are qualified to speak to your experience
+- **[tiktok]** gen z: you have more value than you think
+
+---
+
+### moment 5 · 32:50
+why: exposes the invisible framing trap—who we describe as disadvantaged vs. privileged determines who we try to fix; makes inequality conversations feel less like dead ends.
+- **[youtube]** why we don't have programs to fix MEN | #inequality #workplace
+- **[instagram]** we don't see men as the problem, which is why we don't have programming for them
+- **[tiktok]** we try to fix women, not men
+
+---
+
+### moment 6 · 42:50
+why: personal vulnerability—wishing she'd been more secure not in self-esteem but in seeing others; lands as a gift younger listeners can act on today.
+- **[youtube]** the SUPERPOWER i wish i developed earlier | #careeradvice #20s
+- **[instagram]** seeing what other people's superpowers are and being able to name them
+- **[tiktok]** this is the superpower i wish i had at 22
