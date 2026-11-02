@@ -1103,3 +1103,149 @@ why: personal vulnerability—wishing she'd been more secure not in self-esteem 
 - **[youtube]** the SUPERPOWER i wish i developed earlier | #careeradvice #20s
 - **[instagram]** seeing what other people's superpowers are and being able to name them
 - **[tiktok]** this is the superpower i wish i had at 22
+
+## ep 224 · 224. stop ‘shoulding’ + shaming yourself
+
+### moment 1 · 0:24
+why: opens with the core paradox—rejecting help because "i should do this alone"—that anyone with mental health goals will recognize. clear premise, no setup needed.
+- [youtube] when you refuse help because you "should do it alone" #mentalhealth #selfimprovement
+- [instagram] not accepting help because you feel like you should be able to do this alone
+- [tiktok] you refuse help because you SHOULD do it alone
+
+---
+
+### moment 2 · 6:39
+why: perfectly captures the shame spiral: "i should do this + i won't accept help + i'll just struggle." lands as self-awareness, not complaint.
+- [youtube] accepting you can't do it alone #shame #dbt
+- [instagram] not only am i accepting that i can't do this by myself, but i'm not going to accept the help
+- [tiktok] you can't do it alone AND you won't accept help
+
+---
+
+### moment 3 · 8:52
+why: the DBT teaching moment—shame "fits the facts" or it doesn't—gives people a tool to evaluate their own feelings without jargon overload.
+- [youtube] does your SHAME fit the facts? #dbt #emotions
+- [instagram] in dbt, emotions either fit the facts or they don't. shame fits the facts when…
+- [tiktok] does your shame FIT the facts?
+
+---
+
+### moment 4 · 12:13
+why: meta moment where sadie realizes she's doing opposite action live. funny, human, and sneaks in the skill definition for anyone unfamiliar.
+- [youtube] i'm doing opposite action for SHAME right now #dbt #mentalhealth
+- [instagram] i'm literally doing the opposite action to shame with this podcast episode
+- [tiktok] wait i'm doing opposite action rn
+
+---
+
+### moment 5 · 13:45
+why: concrete shame protocol—don't apologize, repeat the behavior, change posture. actionable without being a listicle, and the coffee example keeps it grounded.
+- [youtube] opposite action for SHAME #dbt #selfimprovement
+- [instagram] the opposite action for shame: repeat the behavior causing the shame over and over again
+- [tiktok] opposite action for shame
+
+---
+
+### moment 6 · 17:45
+why: guilt vs shame distilled to one line—"i did something wrong" vs "i am wrong." clean reframe that shifts how people talk to themselves.
+- [youtube] guilt vs SHAME explained #dbt #emotions
+- [instagram] guilt is i did something wrong. shame is i am wrong.
+- [tiktok] guilt vs shame
+
+## ep 223 · 223. no one tells you this career advice (how to *actually* get ahead at work) feat. dr. rosalind chow
+
+### moment 1 · 1:37
+why: rosalind flips the script on mentorship—it's not about fixing yourself, it's about changing how others see you. clean reframe, useful without backstory.
+- [youtube] no one tells you this about mentors vs SPONSORS #career #mentorship
+- [instagram] turns out mentorship and sponsorship are NOT the same thing
+- [tiktok] mentors change YOU. sponsors change OTHERS.
+
+---
+
+### moment 2 · 6:37
+why: concrete definition of sponsorship that travels—acting on someone else's behalf, not coaching them. solves confusion.
+- [youtube] the difference between a MENTOR and a sponsor #workadvice #20s
+- [instagram] mentorship changes you. sponsorship changes how people see you.
+- [tiktok] sponsors don't change you—they change others
+
+---
+
+### moment 3 · 16:36
+why: reverses the pressure to "bring value"—you don't get to pick your sponsor, you make yourself easy to pick. relieves anxiety.
+- [youtube] you don't GET to pick your sponsor (here's what to do) #career #networking
+- [instagram] stop trying to find a sponsor. make it easy for them to pick you.
+- [tiktok] you don't pick sponsors. they pick you.
+
+---
+
+### moment 4 · 21:10
+why: tactical shift from chasing sponsors to showing shared values—passion hooks people more than résumés. personal, actionable.
+- [youtube] how to get a SPONSOR without feeling gross about it #networking #20s
+- [instagram] people sponsor you when they see what you're passionate about
+- [tiktok] sponsors want passion, not perfection
+
+---
+
+### moment 5 · 23:54
+why: flips networking advice—you provide value by *having* problems people can solve, not just solving theirs. counterintuitive, sticky.
+- [youtube] the networking advice no one tells you (it WORKS) #career #workadvice
+- [instagram] you provide value by having problems people want to solve
+- [tiktok] let people help you. that's networking.
+
+---
+
+### moment 6 · 34:31
+why: explains zero-sum thinking at work—we need to believe effort = outcome, so we resist change. validates frustration, applies beyond careers.
+- [youtube] why workplace inequality is so hard to CHANGE #psychology #career
+- [instagram] we want to believe we earned what we have. that's why change is hard.
+- [tiktok] why we resist fixing workplace inequality
+
+## ep 222 · 222. building your dream life is possible: here’s how feat. dr. emily anhalt
+
+# Social Editor's Clip Sheet: Episode 222
+
+### moment 1 · 2:04
+why: reframes gen z criticism as a meaning-making generation dealt a tough hand—validating and clarifying a cultural flashpoint.
+- [youtube] gen z isn't LAZY, here's what's actually happening #genz #mentalhealth
+- [instagram] gen z was dealt a really tough hand. they're a meaning-making generation—they want work that matters
+- [tiktok] gen z isn't lazy, here's what's really happening
+
+---
+
+### moment 2 · 7:41
+why: concrete idea—imposter syndrome is a mismatch between your inner voice and external feedback, not just self-doubt.
+- [youtube] what imposter syndrome ACTUALLY is (psychology explained) #impostersyndrome #psychology
+- [instagram] if your inner voice doesn't match what people say to you, that's imposter syndrome. you'd rather convince yourself they're lying than change the voice inside
+- [tiktok] what imposter syndrome ACTUALLY is
+
+---
+
+### moment 3 · 14:37
+why: sharp reframe of the "find a job you love" myth—confronts all-or-nothing thinking head-on with real talk.
+- [youtube] "find a job you love" is BULLSHIT—here's why #careeradvice #20s
+- [instagram] find the right job and it'll never feel like work? that's bullshit. anything you want is on the other side of some struggle
+- [tiktok] "find a job you love" is actually bullshit
+
+---
+
+### moment 4 · 24:54
+why: practical tool—the self-esteem file/win bin trick; listeners can start today.
+- [youtube] start a self-esteem file (best tool for imposter syndrome) #selfesteem #impostersyndrome
+- [instagram] start a self-esteem file. every time you get positive feedback, write it down. when you feel crappy, go through that file
+- [tiktok] the self-esteem file trick changed everything
+
+---
+
+### moment 5 · 31:50
+why: nuanced take on feedback—"any feedback a person gives you is at least partly to do with them"—frees listeners from over-responsibility.
+- [youtube] any feedback you get is partly about THEM, not you #emotionalintelligence #boundaries
+- [instagram] any feedback a person gives you is at least partly to do with them. how much of this is actually mine? what responsibility do i hold here?
+- [tiktok] feedback is partly about them, not just you
+
+---
+
+### moment 6 · 46:57
+why: simple substitution—replace "should" with "could"—instantly actionable and reframes shame into possibility.
+- [youtube] stop saying "should"—say this instead #mentalhealth #selfcompassion
+- [instagram] stop shitting all over yourself. replace "should" with "could." i could have a better job if i took these actions. i could have worked last night, but i decided to rest
+- [tiktok] stop saying "should"—say this instead
