@@ -1249,3 +1249,147 @@ why: simple substitution—replace "should" with "could"—instantly actionable 
 - [youtube] stop saying "should"—say this instead #mentalhealth #selfcompassion
 - [instagram] stop shitting all over yourself. replace "should" with "could." i could have a better job if i took these actions. i could have worked last night, but i decided to rest
 - [tiktok] stop saying "should"—say this instead
+
+## ep 221 · 221. two psych majors tell ALL: GPAs, grad school, & so much more!
+
+### moment 1 · 1:04
+why: framing psych-major GPA as a strategic calculation—"in-major vs. non-major matters"—reframes grades from absolute to contextual, practical without hype.
+- [youtube] your in-major GPA matters MORE than overall #psychology #college
+- [instagram] your in-major GPA matters MORE than your overall
+- [tiktok] in-major GPA > overall GPA
+
+---
+
+### moment 2 · 2:37
+why: "is it worth the investment for your goals?" flips the 4.0 pressure into cost-benefit, relatable pushback on perfectionism culture.
+- [youtube] don't get straight A's because you "should" #gradschool #college
+- [instagram] don't get straight A's because you "should"
+- [tiktok] are you doing it for YOU?
+
+---
+
+### moment 3 · 8:22
+why: raw vulnerability ("I didn't even make it past the first thing") on rejection resonates; rushing Greek life is a shared stress test.
+- [youtube] I tried to rush TWICE and got cut #greelife #college
+- [instagram] I tried to rush TWICE and got cut both times
+- [tiktok] I got cut from rush twice
+
+---
+
+### moment 4 · 12:48
+why: "I don't have 20 sorority girls to go on a trip" names the social FOMO no one admits—concrete, relatable, permission-giving.
+- [youtube] the FOMO of not having a big friend group #mentalhealth #college
+- [instagram] I don't have 20 sorority girls to go on a spring break trip
+- [tiktok] college social FOMO is real
+
+---
+
+### moment 5 · 18:44
+why: "you probably won't be a first author as an undergrad" sets realistic expectations; demystifies what "getting published" means.
+- [youtube] getting published as a psych major EXPLAINED #research #college
+- [instagram] you probably won't be a first author as an undergrad
+- [tiktok] published ≠ first author
+
+---
+
+### moment 6 · 27:03
+why: "if you think you have a chance, you should do it"—decisive, empowering permission to apply despite gatekeeping; trust-yourself frame.
+- [youtube] why two psych majors applied to grad school EARLY #gradschool #college
+- [instagram] if you think you have a chance applying to grad school, DO it
+- [tiktok] listen to yourself, not gatekeepers
+
+## ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+
+### moment 1 · 7:45
+why: names an academic rite of passage—intro psych classes are test-based memorization, not problem-solving—and flips a high-school assumption. "it's mainly memorize these DSM disorders" is immediately searchable.
+- [youtube] intro psych classes are mainly MEMORIZATION #psychology #college
+- [instagram] intro psych classes are mainly memorization. not problem-solving like AP chem.
+- [tiktok] intro psych = memorization, not problem-solving
+
+---
+
+### moment 2 · 11:51
+why: actionable permission to skip readings, a core college anxiety. "you can't do all the readings and not burn out" is a concrete reframe from a mom's friend—peer-validated wisdom travels.
+- [youtube] you can't do ALL the readings (psych major advice) #collegetips #psychology
+- [instagram] you can't do all the readings and not burn out. pick and choose which ones matter.
+- [tiktok] you can't do all the readings & survive
+
+---
+
+### moment 3 · 20:16
+why: clarifies a confusing requirement—research isn't optional, it's the currency of psychology careers. "everything in psychology is research" lands as a declarative truth, not advice.
+- [youtube] everything in psychology is RESEARCH #psychmajor #gradschool
+- [instagram] everything in psychology is research. even if you want to do just clinical work.
+- [tiktok] everything in psych is research, even therapy
+
+---
+
+### moment 4 · 32:31
+why: corrects a freshman assumption—small labs don't guarantee face time; hands-on professors do. "the type of professor running the lab" matters more than size, a portable interview tip.
+- [youtube] small lab ≠ better mentorship (psych research advice) #college #research
+- [instagram] small lab doesn't mean better mentorship. the professor's style matters more.
+- [tiktok] small lab ≠ seeing your professor more
+
+---
+
+### moment 5 · 37:50
+why: reframes the power dynamic—5–10 hours/week is reasonable and you deserve something in return. "you are helping them" normalizes boundaries for unpaid labor.
+- [youtube] you're helping THEM (psych lab boundaries) #collegeadvice #research
+- [instagram] you're helping them. 5–10 hours/week is reasonable and you deserve something back.
+- [tiktok] you're helping them, not just learning
+
+---
+
+### moment 6 · 45:35
+why: a bizarre moral dilemma that stops scrollers cold—the dopamine vial story. high shareability for debate, earns comments and duets, even if niche.
+- [youtube] would you save your brother's LIFE this way? #philosophy #psychology
+- [instagram] your brother's dopamine vial breaks on a hike. the only way to save him is…
+- [tiktok] would you do it to save his life?
+
+## ep 219 · 219: feeling like you don’t belong in school is the norm… let’s change it feat. dr. greg walton
+
+### moment 1 · 22:15
+why: walks through the belonging crisis in concrete terms—college as a place you're *becoming*, not just attending—that reframe lifts both the stakes and the hope.
+- [youtube] to belong in college is to belong to who you're BECOMING #belonging #college
+- [instagram] to belong in college is to belong to the journey of who you're becoming. that's why exclusion hurts so much
+- [tiktok] belonging = becoming who you want to be
+
+---
+
+### moment 2 · 3:33
+why: the lab finding that representation can make inequalities appear or disappear is jaw-dropping, works as its own proof of concept, and invites curiosity.
+- [youtube] how a stereotype can make test gaps appear or DISAPPEAR #stereotypethreat #psychology
+- [instagram] changing how you represent a test can make inequalities appear or disappear. that's how powerful framing is
+- [tiktok] stereotypes can create gaps that weren't there
+
+---
+
+### moment 3 · 13:51
+why: the In-N-Out story lands as personal, relatable belonging doubt plus the concrete intervention—"i could have asked"—that shifts it.
+- [youtube] dr. greg walton on how BELONGING doubts isolate us #stanfordresearch #belonging
+- [instagram] he stood alone while everyone got in-n-out. if he'd known everyone was new, he could have asked. that's belonging
+- [tiktok] belonging doubts keep you from asking questions
+
+---
+
+### moment 4 · 16:01
+why: the belonging intervention's spiral mechanism—how one story stops downward cascades and builds real relationships—hits like magic and strategy at once.
+- [youtube] this INTERVENTION stops students from spiraling in college #belongingintervention #mentalhealth
+- [instagram] when you learn worries about belonging are normal, you stay engaged. you study more, make mentors, succeed years later
+- [tiktok] one story can stop a spiral
+
+---
+
+### moment 5 · 26:45
+why: critiques the diagnostic system we swim in without naming villains—just the structural problem of starting on the back foot—and offers the gymnast example as the alternative.
+- [youtube] the problem of DIAGNOSING people to get them help #mentalhealth #therapy
+- [instagram] the mental health system is built on diagnosing something wrong with you to get treatment. but sometimes it's just the situation
+- [tiktok] diagnosis puts you on the back foot
+
+---
+
+### moment 6 · 31:55
+why: the identity inversion technique—finding strength in depression—is practical, surprising, and delivers the story of people making progress on real goals.
+- [youtube] how finding STRENGTH in depression helps you reach goals #identityinversion #depression
+- [instagram] when people reflected on strengths they developed from depression, they made more progress on personal goals
+- [tiktok] your depression might be a source of strength
