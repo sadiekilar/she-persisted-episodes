@@ -1393,3 +1393,136 @@ why: the identity inversion technique—finding strength in depression—is prac
 - [youtube] how finding STRENGTH in depression helps you reach goals #identityinversion #depression
 - [instagram] when people reflected on strengths they developed from depression, they made more progress on personal goals
 - [tiktok] your depression might be a source of strength
+
+## ep 218 · 218: is social media causing the mental health crisis?! (probably not) feat. dr. emily weinstein
+
+### moment 1 · 0:27
+why: sharp pushback on the "tech = crisis" framing using specific, relatable examples—AP chem, McDonald's—that teens can feel. the claim travels because it names the frustration with oversimplification.
+- [youtube] is social media causing the mental health CRISIS? #genz #mentalhealth
+- [instagram] we could ask if AP chem helps your mental health. would you say yes? probably not.
+- [tiktok] does your phone help your mental health? no. neither does AP chem.
+
+### moment 2 · 8:37
+why: emily names a pattern everyone experiences (being left on read → spiral) but reframes it as a cognitive distortion. concrete, validating, gives teens language.
+- [youtube] being left on read is actually a THINKING trap #cognitivedistortions #socialmedia
+- [instagram] you see someone read your message and don't respond. suddenly you're spiraling. that's mind reading.
+- [tiktok] being left on read → anxious spiral = mind reading
+
+### moment 3 · 18:20
+why: the snap score detail is visceral and specific—teens will recognize the behavior instantly. emily connects design to distortion without moralizing.
+- [youtube] this snapchat feature makes you MORE anxious #snapchat #socialmedia
+- [instagram] it's not snapchat. it's that you can see their snap score going up while they ignore you.
+- [tiktok] the snap score going up while they ignore you
+
+### moment 4 · 29:48
+why: sadie names the game plan pressure from lived experience—LinkedIn, high school teaching, sibling college apps. personal and structural at once.
+- [youtube] why does every high schooler need a CAREER plan? #gamePlanPressure #genz
+- [instagram] i'm teaching high schoolers to pick career A, B, and C. they're 16. that pressure is insane.
+- [tiktok] career A, B, and C. in high school. insane.
+
+### moment 5 · 42:10
+why: emily names the body image "perfect storm" and sadie counters with the human version (girls on tiktok photoshopping strangers). shows tech amplifies, not invents.
+- [youtube] social media didn't CREATE body image issues #bodyImage #socialmedia
+- [instagram] there's a girl on tiktok who photoshops strangers and recommends surgery. it happens without AI too.
+- [tiktok] she photoshops strangers and recommends surgery
+
+### moment 6 · 56:46
+why: emily's magic wand answer is permission to opt out + mattering. it's warm, systemic, hopeful—lands as advice without being prescriptive.
+- [youtube] what gen z needs most from TECH (hint: it's not willpower) #digitalWellbeing #genz
+- [instagram] i wish everyone felt like they could opt out of tech when they need to and it would be okay.
+- [tiktok] permission to opt out when you need to
+
+## ep 217 · 217. mental health book club series: lost connections by johann hari
+
+### moment 1 · 0:22
+why: the "propagandized" line reframes depression as a societal setup, not personal failure—punchy, unexpected, travels without context.
+- [youtube] we're PROPAGANDIZED to be depressed #mentalhealth #depression
+- [instagram] we're being propagandized to live in a way that doesn't meet our basic psychological NEEDS.
+- [tiktok] we're PROPAGANDIZED to be depressed
+
+---
+
+### moment 2 · 2:23
+why: "my life was good… certainly not this unhappy" is universally relatable—names the confusing guilt around depression.
+- [youtube] this is why you feel depressed for NO reason #depression #mentalhealth
+- [instagram] my life was good. i had no reason to be unhappy. certainly not THIS unhappy.
+- [tiktok] depressed even though your life is GOOD
+
+---
+
+### moment 3 · 13:24
+why: the chemical imbalance takedown is the episode's core claim—concrete, controversial, stands alone as a fact check.
+- [youtube] the chemical IMBALANCE theory has no scientific basis #depression #mentalhealth
+- [instagram] there's no scientific basis to the chemical imbalance. it was marketing copy.
+- [tiktok] chemical imbalance? no scientific BASIS
+
+---
+
+### moment 4 · 27:14
+why: "do we feel like we made a difference in anyone's life today" is an actionable diagnostic—simple, sticky question.
+- [youtube] this question shows if you're DISCONNECTED from meaning #depression #mentalhealth
+- [instagram] do we feel like we made a difference in anyone's LIFE today?
+- [tiktok] this question predicts DEPRESSION
+
+---
+
+### moment 5 · 35:00
+why: the confidants stat (three → none) is shocking, visual, explains loneliness epidemic in one data point.
+- [instagram] in 2004 the most common answer was NONE. no confidants. no one to turn to.
+- [tiktok] how many confidants do you have? NONE
+
+---
+
+### moment 6 · 57:02
+why: "it's no measure of health to be well adjusted to a sick society" is a perfect closer—reframes "normal" as the problem.
+- [youtube] this quote about depression will SHIFT how you see mental health #mentalhealth #depression
+- [instagram] it's no measure of health to be well adjusted to a SICK society.
+- [tiktok] well adjusted to a SICK society
+
+## ep 216 · 216. your 20s are for healing childhood wounds feat. kelly u
+
+### moment 1 · 2:22
+why: direct statement about hitting bottom to create change—reframes rock bottom as necessity, not failure. travelers because it names the cycle gen z feels stuck in (wanting change without consequences driving it).
+- [youtube] I wasn't READY to heal until I hit rock bottom #healing #recovery
+- [instagram] i wasn't ready to heal until i hit rock bottom. and that's not something i recommend, but it's how the cycle works—until there's a consequence, why change?
+- [tiktok] i wasn't ready until i hit ROCK BOTTOM
+
+---
+
+### moment 2 · 4:36
+why: childhood roots claim—connects disordered eating at 10 to family dynamics, which flips the "it's just about food" frame. lands because it names what listeners suspect but haven't vocalized.
+- [youtube] my eating disorder started at 10—here's what it was REALLY about #eatingdisorder #childhood
+- [instagram] my eating disorder started when i was 10. i thought it was about the food, but it was really about feeling powerless in my family.
+- [tiktok] my ED started at 10—it wasn't about FOOD
+
+---
+
+### moment 3 · 6:38
+why: addiction redefinition—"you can become sober from anything" reframes weed (or any behavior) as valid addiction if it numbs feelings. concrete, surprising take that travels because it's both permission and challenge.
+- [youtube] you can become SOBER from anything—here's why #sobriety #mentalhealth
+- [instagram] you can become sober from anything. being addicted means you use it to not feel things—and you use it because you can't deal with the real thing.
+- [tiktok] you can be SOBER from anything
+
+---
+
+### moment 4 · 17:44
+why: "why we keep the unhealthy things"—explains behavior as need-meeting, not failure. concrete tip (find better ways to meet needs) wrapped in validation. short, clear, actionable.
+- [youtube] why we keep UNHEALTHY things in our lives #coping #selfimprovement
+- [instagram] we keep unhealthy things because we're meeting a need. the emotion is too distressing to tolerate, so we cope—until the cons outweigh the pros.
+- [tiktok] why we keep UNHEALTHY things in our life
+
+---
+
+### moment 5 · 22:32
+why: safe relationships feel boring—names the quiet panic of healthy love after chaos. surprising, relatable line ("i'm a little bored") that gen z in new relationships or healing will screenshot.
+- [youtube] healthy relationships feel BORING after chaos #relationships #healing
+- [instagram] i told my therapist i'm a little bored in my healthy relationship. i'm not getting the highs and lows. and i had to learn that peace isn't boring—it's different.
+- [tiktok] healthy love feels BORING after chaos
+
+---
+
+### moment 6 · 36:44
+why: IBS and mental health connection—"your gut is connected to your brain" with concrete science (fight-or-flight stops digestion). practical, under-discussed, hits the TikTok feed overlap.
+- [youtube] how STRESS causes digestive issues (IBS explained) #IBS #mentalhealth
+- [instagram] when you're in fight-or-flight, your digestion literally stops. your brain diverts all energy to running or fighting—even if the stressor is just an email.
+- [tiktok] fight or flight STOPS your digestion

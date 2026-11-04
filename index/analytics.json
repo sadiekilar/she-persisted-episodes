@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-03T13:22:19.099Z",
+ "generatedAt": "2026-11-04T13:33:46.469Z",
  "rule": "youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads",
  "playlist": "PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu",
- "snapshots": 10,
+ "snapshots": 11,
  "first": "2026-10-25",
- "latest": "2026-11-03",
+ "latest": "2026-11-04",
  "episodes": [
   {
    "number": 265,
@@ -19,7 +19,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 7932
+    "views": 8071
    },
    "minis": {
     "count": 0,
@@ -59,7 +59,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 4339
+    "views": 4341
    },
    "minis": {
     "count": 0,
@@ -133,7 +133,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 8398
+    "views": 8399
    },
    "minis": {
     "count": 0,
@@ -170,7 +170,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 4362
+    "views": 4363
    },
    "minis": {
     "count": 0,
@@ -910,7 +910,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 14,
-    "views": 13540
+    "views": 13541
    },
    "minis": {
     "count": 0,
@@ -3944,7 +3944,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 943
+    "views": 945
    },
    "minis": {
     "count": 0,
@@ -4351,7 +4351,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2331
+    "views": 2332
    },
    "minis": {
     "count": 0,
@@ -4392,7 +4392,7 @@
    },
    "minis": {
     "count": 1,
-    "views": 150
+    "views": 153
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -4462,7 +4462,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 3973
+    "views": 3974
    },
    "minis": {
     "count": 0,
@@ -4536,7 +4536,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 6908
+    "views": 6917
    },
    "minis": {
     "count": 1,
@@ -4647,7 +4647,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 12,
-    "views": 6095
+    "views": 6096
    },
    "minis": {
     "count": 0,
@@ -4721,7 +4721,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 7167
+    "views": 7168
    },
    "minis": {
     "count": 0,
@@ -4762,7 +4762,7 @@
    },
    "minis": {
     "count": 1,
-    "views": 29
+    "views": 30
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -5128,7 +5128,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 3339
+    "views": 3340
    },
    "minis": {
     "count": 0,
@@ -5165,7 +5165,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 10782
+    "views": 10783
    },
    "minis": {
     "count": 0,
@@ -5535,7 +5535,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 773
+    "views": 775
    },
    "minis": {
     "count": 0,
@@ -5942,7 +5942,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 4893
+    "views": 4895
    },
    "minis": {
     "count": 0,
@@ -6052,7 +6052,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 2,
-    "views": 1120
+    "views": 1122
    },
    "minis": {
     "count": 0,
@@ -6163,7 +6163,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 2846
+    "views": 2848
    },
    "minis": {
     "count": 0,
@@ -6237,11 +6237,11 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 2931
+    "views": 2932
    },
    "minis": {
     "count": 1,
-    "views": 95
+    "views": 96
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -6644,7 +6644,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 1697
+    "views": 1698
    },
    "minis": {
     "count": 0,
