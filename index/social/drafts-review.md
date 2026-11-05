@@ -1526,3 +1526,147 @@ why: IBS and mental health connection—"your gut is connected to your brain" wi
 - [youtube] how STRESS causes digestive issues (IBS explained) #IBS #mentalhealth
 - [instagram] when you're in fight-or-flight, your digestion literally stops. your brain diverts all energy to running or fighting—even if the stressor is just an email.
 - [tiktok] fight or flight STOPS your digestion
+
+## ep 215 · 215. i interviewed my THERAPIST?!! validation, dbt, stigma + more feat. dr. caroline fleck
+
+### moment 1 · 5:58
+why: the insight that depression treatment felt invalidating and punishing—from the therapist herself—reframes stigma and gives permission to name what doesn't work.
+- **[youtube]** when THERAPY made my depression worse #stigma #mentalhealth
+- **[instagram]** i found many of the providers i spoke with to be invalidating. therapy often was punishing, confusing, and not helpful
+- **[tiktok]** therapy felt PUNISHING when i was depressed
+
+---
+
+### moment 2 · 13:52
+why: depression as biologically negative goggles—not a moral failing—lands as both validating and surprising; concrete science makes it shareable.
+- **[youtube]** how DEPRESSION changes what you see #science #stigma
+- **[instagram]** when you're depressed, you spend statistically longer staring at negative stimuli. that's the disease, not you
+- **[tiktok]** depressed brains LITERALLY see differently
+
+---
+
+### moment 3 · 20:14
+why: the dialectic—accept yourself *and* do better—is DBT's whole engine; this moment names it plainly and travels without jargon.
+- **[youtube]** you're doing the best you can AND need to do better #dbt
+- **[instagram]** the motto of dbt: you're doing the best you can, and you need to do better. both at once
+- **[tiktok]** accept yourself AND change. both.
+
+---
+
+### moment 4 · 24:34
+why: validation ≠ agreement is the unlock; the kernel-of-truth frame gives a tool you can use immediately.
+- **[youtube]** you can VALIDATE without agreeing with someone #relationships #validation
+- **[instagram]** i can validate your emotions without validating your thoughts or behaviors. find the kernel of truth
+- **[tiktok]** validation isn't AGREEMENT
+
+---
+
+### moment 5 · 31:02
+why: loneliness = not feeling seen—a reframe that cuts through every gen z audience conversation about connection and screens.
+- **[youtube]** loneliness isn't being ALONE | dbt expert explains #connection #validation
+- **[instagram]** loneliness comes from not feeling seen and heard. it's not about who's around you
+- **[tiktok]** loneliness = not feeling SEEN
+
+---
+
+### moment 6 · 56:25
+why: the choice to make meaning from suffering—concrete, hopeful, agency-restoring—works as both validation and a road map forward.
+- **[youtube]** how SUFFERING can add value to your life #mentalhealth #purpose
+- **[instagram]** you have to make meaning out of suffering. if you don't, it's just suffering and it was for nothing
+- **[tiktok]** make MEANING out of suffering
+
+## ep 214 · 214. unfiltered college advice: social anxiety, burnout, school stress, + more
+
+### moment 1 · 0:27
+why: direct reframe on self-blame → college structure problem. concrete takeaway (know your habits) travels beyond semester stress.
+- [youtube] you're not bad at mental health, COLLEGE is | Ep. 214 #college #mentalhealth
+- [instagram] if you're in college, you're put in a situation where you have to do this all for yourself for the first time
+- [tiktok] college doesn't teach you mental health skills
+
+---
+
+### moment 2 · 1:37
+why: everyone's been the odd one out in group work. the immediate panic is universal and highly shareable.
+- [youtube] the immediate PANIC when the professor says form groups | Ep. 214 #anxiety
+- [instagram] the immediate panic when the professor tells you to form a group of four. i'm in my third year. i still have not learned how to cope
+- [tiktok] when the professor says "form groups of four"
+
+---
+
+### moment 3 · 28:41
+why: concrete stat (200 hours) reframes loneliness as a time problem, not a you problem. removes shame.
+- [youtube] how long it ACTUALLY takes to make close friends in college | Ep. 214 feat. dr. jeffrey hall #friendship
+- [instagram] it takes more than 200 hours before you consider someone your close friend. if you're a freshman, you probably haven't had that time yet
+- [tiktok] it takes 200 hours to make a close friend
+
+---
+
+### moment 4 · 42:19
+why: practical seniors-only advice that underclassmen will save. fills a gap most students don't realize exists.
+- [youtube] what i wish someone told me FRESHMAN year as a psych major | Ep. 214 #college
+- [instagram] if you want to be a clinical psychologist, start your CV right now. i didn't start mine until senior year and mentally trying to remember what i did
+- [tiktok] start your CV freshman year, not senior year
+
+---
+
+### moment 5 · 46:36
+why: names the invisible problem (college = first time managing mental health alone) that makes burnout make sense.
+- [youtube] why college is the first time people STRUGGLE with mental health | Ep. 214 #mentalhealth
+- [instagram] college is the first time a lot of people are solely responsible for their mental health. in high school, there's a lot of things in place to set you up for success
+- [tiktok] college is optimized for avoidance
+
+---
+
+### moment 6 · 51:57
+why: single behavior change (sleep = non-negotiable) that's actionable today. physical anchor for abstract stress.
+- [youtube] the one thing that will improve your SLEEP in college | Ep. 214 #burnout
+- [instagram] your sleep is no longer decided for you by your schedule. you're going to have to be the one that wakes up before your 3 pm class
+- [tiktok] your sleep is a non-negotiable in college
+
+## ep 213 · 213. breaking through struggle & self-doubt feat. john r. miles
+
+### moment 1 · 0:32
+why: guest's core theory on why people feel stuck—actual self vs ought self vs ideal self—reframes the "lost twenties" crisis as a structural problem, not a personal failing. relatable pivot point for gen z listeners.
+- [youtube] how to stop living for OTHERS | Ep. 213 John R. Miles #selfimprovement #20s
+- [instagram] why so many 20-somethings feel stuck living someone else's life
+- [tiktok] stuck? you're living your OUGHT self
+
+---
+
+### moment 2 · 10:33
+why: punchy one-liner—"help the person you once were"—gives concrete career direction to listeners wondering what to do with their lives. pairs well with sadie's origin story.
+- [youtube] this is how to find your PURPOSE | Ep. 213 feat. John R. Miles #career #purpose
+- [instagram] the fastest way to find purpose? help the person you once were.
+- [tiktok] best positioned to help who you once were
+
+---
+
+### moment 3 · 14:20
+why: practical entry point—name your biggest fear or self-doubt—cuts through the "where do i start?" paralysis. vulnerable framing lands with younger audience.
+- [youtube] where to start healing TRAUMA | Ep. 213 John R. Miles #mentalhealth #healing
+- [instagram] stuck? ask yourself: what's the biggest fear holding you back right now?
+- [tiktok] start with your biggest FEAR holding you back
+
+---
+
+### moment 4 · 16:16
+why: research-backed claim from seligman that acts of service boost mood fastest. ties self-improvement to mental health, shows ROI for taking action.
+- [youtube] fastest way to boost your MOOD | Ep. 213 feat. John R. Miles #wellbeing #service
+- [instagram] dr. seligman says acts of service boost your mood faster than anything else
+- [tiktok] acts of service boost mood FASTEST—seligman
+
+---
+
+### moment 5 · 31:00
+why: the mirror metaphor—you're both the most incredible person and your biggest critic—is visceral, sticky, and screenshot-worthy. teen/twenties self-talk crisis in one line.
+- [youtube] your biggest COMPETITOR | Ep. 213 John R. Miles #selftalk #confidence
+- [instagram] the person in the mirror is both the most incredible and the biggest critic you'll meet
+- [tiktok] mirror = biggest critic + most incredible person
+
+---
+
+### moment 6 · 32:44
+why: the stat (4.5–5 hrs/day on social) calls out screen time as self-sabotage without shame. "visionary arsonist" phrase is fresh, lands the comparison-trap warning.
+- [youtube] signs you're getting in your own WAY | Ep. 213 John R. Miles #socialmedia #distraction
+- [instagram] spending 5 hours a day on social? you might be a "visionary arsonist"
+- [tiktok] are you a visionary ARSONIST? 5hrs on social
