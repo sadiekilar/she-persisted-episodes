@@ -1,138 +1,138 @@
 # social insights
 
-Generated 2026-11-06 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-11-07 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
-## youtube:episode (204 posts with a lift; baseline 128 views)
+## youtube:episode (204 posts with a lift; baseline 129.5 views)
 
 **hook_type**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| i wish i knew | 3 | 1.9 | 67% |
-| numbered list | 4 | 1.82 | 50% |
-| statement | 113 | 0.92 | 47% |
-| question | 15 | 0.72 | 27% |
+| i wish i knew | 3 | 1.88 | 67% |
+| numbered list | 4 | 1.8 | 50% |
+| statement | 113 | 0.92 | 46% |
+| question | 15 | 0.71 | 27% |
 | you / your | 65 | 0.66 | 31% |
-| the truth / secret | 3 | 0.65 | 33% |
+| the truth / secret | 3 | 0.64 | 33% |
 
 **is_question**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | false | 189 | 0.79 | 41% |
-| true | 15 | 0.72 | 27% |
+| true | 15 | 0.71 | 27% |
 
 **addresses_you**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| false | 131 | 0.92 | 46% |
-| true | 73 | 0.64 | 30% |
+| false | 131 | 0.91 | 45% |
+| true | 73 | 0.63 | 30% |
 
 **caps_words**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| 0 | 141 | 0.74 | 40% |
-| 1 | 39 | 0.92 | 46% |
-| 2 | 12 | 1 | 50% |
-| 3 | 7 | 0.7 | 14% |
+| 0 | 141 | 0.73 | 39% |
+| 1 | 39 | 0.91 | 46% |
+| 2 | 12 | 0.99 | 50% |
+| 3 | 7 | 0.69 | 14% |
 | 4+ | 5 | 0.46 | 20% |
 
 **length**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| long (12+) | 159 | 0.84 | 43% |
-| medium (7–11) | 42 | 0.75 | 31% |
-| short (≤6 words) | 3 | 0.41 | 0% |
+| long (12+) | 159 | 0.83 | 43% |
+| medium (7–11) | 42 | 0.74 | 31% |
+| short (≤6 words) | 3 | 0.4 | 0% |
 
 **has_number**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| yes | 204 | 0.78 | 40% |
+| yes | 204 | 0.79 | 40% |
 
 **hashtags**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| 0 | 204 | 0.78 | 40% |
+| 0 | 204 | 0.79 | 40% |
 
 **duration**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| >60s | 204 | 0.78 | 40% |
+| >60s | 204 | 0.79 | 40% |
 
 **format**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| guest | 138 | 0.92 | 46% |
-| solo | 64 | 0.65 | 28% |
+| guest | 138 | 0.91 | 46% |
+| solo | 64 | 0.64 | 28% |
 
 **topic**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| sadie recommends | 3 | 42.88 | 100% |
-| adhd | 4 | 2.88 | 100% |
-| troubled teen industry | 11 | 1.42 | 64% |
-| trauma | 17 | 1.38 | 53% |
-| body image | 12 | 1.06 | 58% |
-| depression | 42 | 0.99 | 50% |
-| teen mental health | 50 | 0.84 | 42% |
-| career | 11 | 0.78 | 45% |
-| dbt | 32 | 0.77 | 38% |
+| sadie recommends | 3 | 42.4 | 100% |
+| adhd | 4 | 2.85 | 100% |
+| troubled teen industry | 11 | 1.41 | 64% |
+| trauma | 17 | 1.37 | 53% |
+| body image | 12 | 1.05 | 50% |
+| depression | 42 | 0.98 | 50% |
+| teen mental health | 50 | 0.86 | 42% |
+| dbt | 32 | 0.79 | 38% |
+| career | 11 | 0.79 | 45% |
 | relationships | 36 | 0.76 | 36% |
 | social media | 12 | 0.75 | 33% |
-| anxiety | 29 | 0.72 | 34% |
-| emotions | 24 | 0.7 | 38% |
-| self-improvement | 37 | 0.66 | 32% |
-| college | 28 | 0.6 | 32% |
+| anxiety | 29 | 0.71 | 34% |
+| emotions | 24 | 0.69 | 38% |
+| self-improvement | 37 | 0.65 | 32% |
 | 20s | 13 | 0.59 | 23% |
+| college | 28 | 0.59 | 32% |
 | sleep | 4 | 0.47 | 25% |
 
 **weekday**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| mon | 22 | 0.91 | 41% |
-| wed | 12 | 0.91 | 50% |
-| sat | 37 | 0.88 | 43% |
-| fri | 37 | 0.84 | 46% |
-| thu | 41 | 0.78 | 37% |
+| mon | 22 | 0.9 | 41% |
+| wed | 12 | 0.9 | 50% |
+| sat | 37 | 0.88 | 41% |
+| fri | 37 | 0.83 | 46% |
+| thu | 41 | 0.79 | 37% |
 | sun | 25 | 0.66 | 32% |
 | tue | 30 | 0.64 | 37% |
 
 **top posts**
 
-- 65.41× · 8372 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
-- 42.88× · 5488 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 27.59× · 3532 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 26.67× · 3414 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 26.53× · 3396 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 23.64× · 3026 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
-- 9.79× · 1253 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
-- 9.55× · 1222 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
-- 9.09× · 1164 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
-- 8.61× · 1102 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 6.96× · 891 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
-- 6.75× · 864 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
+- 64.68× · 8376 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 42.4× · 5491 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
+- 27.31× · 3536 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 26.6× · 3445 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 26.25× · 3400 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 23.45× · 3037 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 9.68× · 1253 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
+- 9.44× · 1222 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
+- 9.2× · 1192 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
+- 8.51× · 1102 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
+- 6.9× · 893 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 6.68× · 865 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
 
 - 0.09× · 12 views · ep 71 · 71. 1st Month of College DEBRIEF: Tips for Move-In, Socializing, Productivity, Studying, and more!
 - 0.12× · 15 views · ep 67 · 67. High School RECAP
-- 0.13× · 16 views · ep 123 · 123. Q+A: Staying Healthy in College, Eating Habits, Starting Therapy, & More!
+- 0.12× · 16 views · ep 123 · 123. Q+A: Staying Healthy in College, Eating Habits, Starting Therapy, & More!
 - 0.14× · 18 views · ep 83 · 83. Freeing Yourself from Stress + Struggle by Understanding the Human Experience feat. Beth Segaloff
 - 0.18× · 23 views · ep 140 · 140. Q+A: Trusting Yourself, Willfulness, Advocating for Your Needs, & Building Healthy Relationships
+- 0.19× · 25 views · ep 130 · 130. Making Goals and Getting Motivated: Easy Ways to Increase Productivity & Achieve Your Ambitions feat. Kate Stone
 - 0.2× · 26 views · ep 126 · 126. YOUR MENTAL HEALTH TOOLKIT for the Holiday Season (Navigating Finals Stress, Family Relationships, Seasonal Depression, + Body Image)
-- 0.2× · 25 views · ep 130 · 130. Making Goals and Getting Motivated: Easy Ways to Increase Productivity & Achieve Your Ambitions feat. Kate Stone
 - 0.21× · 27 views · ep 129 · 129. New Years Resolutions For Your Mental Health: SMART Goals, My 2023 Intentions, + More
 
-## youtube:short (562 posts with a lift; baseline 1027 views)
+## youtube:short (563 posts with a lift; baseline 1028 views)
 
 **hook_type**
 
@@ -142,7 +142,7 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | my story | 4 | 0.88 | 25% |
 | the truth / secret | 13 | 0.79 | 46% |
 | why | 45 | 0.61 | 33% |
-| question | 54 | 0.37 | 30% |
+| question | 55 | 0.39 | 31% |
 | statement | 300 | 0.35 | 26% |
 | you / your | 85 | 0.33 | 24% |
 | how to | 32 | 0.27 | 25% |
@@ -153,7 +153,7 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| true | 65 | 0.43 | 29% |
+| true | 66 | 0.5 | 30% |
 | false | 497 | 0.37 | 28% |
 
 **addresses_you**
@@ -161,14 +161,14 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | false | 398 | 0.4 | 29% |
-| true | 164 | 0.35 | 27% |
+| true | 165 | 0.35 | 27% |
 
 **caps_words**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | 0 | 186 | 0.28 | 24% |
-| 1 | 193 | 0.8 | 41% |
+| 1 | 194 | 0.81 | 42% |
 | 2 | 89 | 0.18 | 25% |
 | 3 | 58 | 0.25 | 10% |
 | 4+ | 36 | 0.24 | 14% |
@@ -178,14 +178,14 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | short (≤6 words) | 62 | 0.95 | 47% |
-| medium (7–11) | 394 | 0.42 | 31% |
+| medium (7–11) | 395 | 0.42 | 31% |
 | long (12+) | 106 | 0.13 | 8% |
 
 **has_number**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| no | 190 | 1 | 51% |
+| no | 191 | 1 | 51% |
 | yes | 372 | 0.17 | 17% |
 
 **hashtags**
@@ -193,7 +193,7 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | 0 | 367 | 0.17 | 17% |
-| 1–2 | 195 | 0.98 | 50% |
+| 1–2 | 196 | 0.99 | 50% |
 
 **duration**
 
@@ -201,14 +201,14 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | --- | ---: | ---: | ---: |
 | ≤20s | 125 | 0.4 | 34% |
 | 21–40s | 286 | 0.39 | 27% |
-| 41–60s | 150 | 0.34 | 25% |
+| 41–60s | 151 | 0.34 | 26% |
 
 **format**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| solo | 206 | 0.4 | 29% |
-| guest | 356 | 0.36 | 28% |
+| solo | 206 | 0.39 | 29% |
+| guest | 357 | 0.37 | 28% |
 
 **topic**
 
@@ -221,10 +221,10 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | career | 12 | 0.84 | 42% |
 | depression | 122 | 0.8 | 41% |
 | relationships | 133 | 0.79 | 41% |
-| dbt | 118 | 0.74 | 41% |
+| dbt | 119 | 0.74 | 41% |
 | adhd | 8 | 0.69 | 38% |
 | teen mental health | 150 | 0.51 | 33% |
-| emotions | 89 | 0.4 | 29% |
+| emotions | 90 | 0.41 | 30% |
 | college | 50 | 0.33 | 14% |
 | self-improvement | 110 | 0.23 | 21% |
 | anxiety | 47 | 0.21 | 13% |
@@ -237,10 +237,10 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | fri | 81 | 0.49 | 31% |
+| sun | 74 | 0.41 | 30% |
 | mon | 73 | 0.41 | 27% |
 | sat | 89 | 0.4 | 31% |
 | tue | 70 | 0.39 | 26% |
-| sun | 73 | 0.39 | 29% |
 | thu | 84 | 0.34 | 24% |
 | wed | 92 | 0.3 | 28% |
 
@@ -250,13 +250,13 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 - 2.77× · 2848 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
 - 2.72× · 2794 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
 - 2.62× · 2689 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.55× · 2616 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
+- 2.54× · 2616 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
 - 2.52× · 2592 views · ep 258 · how our CHILDHOOD affects our current emotions
 - 2.46× · 2528 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
 - 2.46× · 2526 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
 - 2.44× · 2509 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
 - 2.38× · 2449 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
-- 2.35× · 2409 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
+- 2.34× · 2409 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
 - 2.33× · 2394 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
 
 **bottom posts**
@@ -314,7 +314,7 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| yes | 7 | 4.05 | 86% |
+| yes | 7 | 4.11 | 86% |
 | no | 21 | 1 | 52% |
 
 **hashtags**
@@ -363,7 +363,7 @@ Generated 2026-11-06 from index/social/posts.json. lift = views / median views o
 - 16.34× · 621 views · ep 202 · MINI: 5 Ways to Form a SECURE ATTACHMENT in 5 Mins!
 - 12.29× · 467 views · ep 172 · MINI: How do I set boundaries?
 - 4.42× · 168 views · ep 187 · MINI: why your 20s can be so lonely
-- 4.05× · 154 views · ep 146 · MINI: a dbt crash course– everything you need to know about this therapy in 5 mins!
+- 4.11× · 156 views · ep 146 · MINI: a dbt crash course– everything you need to know about this therapy in 5 mins!
 - 2.53× · 96 views · ep 96 · MINI: a day in the life in mental health residential treatment?!!
 - 2.39× · 91 views · ep 86 · MINI: Fix Your Self-Confidence in Five Minutes!
 - 2.37× · 90 views · ep 113 · MINI: Friendship Guide for SOCIAL ANXIETY!

@@ -2,8 +2,9 @@
 
 Long-form videos match by the episode number at the start of the title (or "ep. NNN"), else by title similarity. Shorts match by "ep. NNN" / "episode NNN" in the description or title. To fix one, add the episode number to the video's title or description on YouTube.
 
-## long-form (5)
+## long-form (6)
 
+- [i thought college would make me happier (what i wish i knew)](https://www.youtube.com/watch?v=IEX2Kmi7P1o) (2026-11-07, 35 min) — closest title: 205 (47%)
 - [stop saying this to someone with depression (what actually helps)](https://www.youtube.com/watch?v=PGR7VERJCJI) (2026-11-02, 4 min) — closest title: 259 (24%)
 - [Sadie Sutton & Dr. Emily Weinstein: How to Decode Teen Slange & Emojis | NBC NEWS](https://www.youtube.com/watch?v=aGYLO2W-UCM) (2025-05-15, 5 min) — closest title: 218 (16%)
 - [Sadie Sutton & Dr. Emily Weinstein: Talking to Kids About Their Online Lives | NBC NEWS](https://www.youtube.com/watch?v=iilJBgylQP0) (2025-05-14, 5 min) — closest title: 218 (15%)
