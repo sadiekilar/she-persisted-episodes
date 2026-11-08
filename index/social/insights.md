@@ -1,6 +1,144 @@
 # social insights
 
-Generated 2026-11-07 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-11-08 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+
+## youtube:short (564 posts with a lift; baseline 1027 views)
+
+**hook_type**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| this is | 13 | 1.25 | 85% |
+| my story | 4 | 0.88 | 25% |
+| the truth / secret | 13 | 0.79 | 46% |
+| why | 45 | 0.61 | 33% |
+| question | 55 | 0.39 | 31% |
+| statement | 301 | 0.35 | 26% |
+| you / your | 85 | 0.33 | 24% |
+| how to | 32 | 0.27 | 25% |
+| stop / never | 6 | 0.2 | 33% |
+| watch this if | 7 | 0.07 | 0% |
+
+**is_question**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| true | 66 | 0.5 | 30% |
+| false | 498 | 0.38 | 28% |
+
+**addresses_you**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| false | 399 | 0.4 | 29% |
+| true | 165 | 0.35 | 27% |
+
+**caps_words**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| 0 | 186 | 0.28 | 24% |
+| 1 | 195 | 0.8 | 42% |
+| 2 | 89 | 0.18 | 25% |
+| 3 | 58 | 0.25 | 10% |
+| 4+ | 36 | 0.24 | 14% |
+
+**length**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| short (≤6 words) | 62 | 0.95 | 47% |
+| medium (7–11) | 396 | 0.43 | 31% |
+| long (12+) | 106 | 0.13 | 8% |
+
+**has_number**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| no | 192 | 1 | 51% |
+| yes | 372 | 0.17 | 17% |
+
+**hashtags**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| 0 | 367 | 0.17 | 17% |
+| 1–2 | 197 | 0.98 | 50% |
+
+**duration**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| ≤20s | 125 | 0.41 | 34% |
+| 21–40s | 287 | 0.39 | 27% |
+| 41–60s | 151 | 0.34 | 26% |
+
+**format**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| solo | 206 | 0.4 | 29% |
+| guest | 358 | 0.38 | 28% |
+
+**topic**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| social media | 34 | 1.06 | 50% |
+| sadie recommends | 27 | 1.03 | 59% |
+| troubled teen industry | 28 | 0.96 | 46% |
+| 20s | 40 | 0.93 | 43% |
+| career | 12 | 0.84 | 42% |
+| depression | 122 | 0.8 | 41% |
+| relationships | 133 | 0.79 | 41% |
+| dbt | 120 | 0.74 | 41% |
+| adhd | 8 | 0.69 | 38% |
+| teen mental health | 151 | 0.55 | 32% |
+| emotions | 90 | 0.41 | 30% |
+| college | 50 | 0.33 | 14% |
+| self-improvement | 110 | 0.23 | 21% |
+| anxiety | 47 | 0.21 | 13% |
+| sleep | 15 | 0.2 | 20% |
+| body image | 34 | 0.19 | 18% |
+| trauma | 29 | 0.08 | 17% |
+
+**weekday**
+
+| value | n | median lift | above baseline |
+| --- | ---: | ---: | ---: |
+| fri | 81 | 0.49 | 31% |
+| mon | 74 | 0.42 | 27% |
+| sun | 74 | 0.41 | 30% |
+| sat | 89 | 0.4 | 31% |
+| tue | 70 | 0.39 | 26% |
+| thu | 84 | 0.34 | 24% |
+| wed | 92 | 0.3 | 28% |
+
+**top posts**
+
+- 2.84× · 2915 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
+- 2.77× · 2848 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
+- 2.72× · 2794 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
+- 2.62× · 2689 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
+- 2.55× · 2616 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
+- 2.52× · 2592 views · ep 258 · how our CHILDHOOD affects our current emotions
+- 2.46× · 2528 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.46× · 2527 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
+- 2.44× · 2509 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.38× · 2449 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
+- 2.35× · 2409 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
+- 2.33× · 2394 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
+
+**bottom posts**
+
+- 0× · 5 views · ep 100 · EMOTIONS don't have to be ISOLATING | Ep. 100
+- 0× · 3 views · ep 111 · GRATITUDE JARS | Ep. 111 Ashley Blaine Featherson-Jenkins
+- 0.01× · 13 views · ep 85 · 10 Coping Skills You NEED to Know | SOLO Ep. 132
+- 0.01× · 8 views · ep 87 · WHY you should’ve advocating at SCHOOL | Ep. 87 feat. Sarah Hernholm
+- 0.01× · 12 views · ep 87 · AGE is not a determinant of WORK ETHIC | Ep. 87 feat. Sarah Hernholm
+- 0.01× · 11 views · ep 100 · PREVENTATIVE MENTAL HEALTH CARE | Ep. 100
+- 0.01× · 10 views · ep 103 · THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103 Emmalee Bierly + Jennifer Chaiken
+- 0.01× · 13 views · ep 104 · EXTERNAL FACTORS IMPACTING SLEEP? | Ep. 104 Heather Turgeon + Julie Wright
 
 ## youtube:episode (204 posts with a lift; baseline 129.5 views)
 
@@ -108,17 +246,17 @@ Generated 2026-11-07 from index/social/posts.json. lift = views / median views o
 
 **top posts**
 
-- 64.68× · 8376 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 64.79× · 8390 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
 - 42.4× · 5491 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 27.31× · 3536 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 26.6× · 3445 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 26.25× · 3400 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 23.45× · 3037 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 27.35× · 3542 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 26.78× · 3468 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 26.29× · 3404 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 23.49× · 3042 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
 - 9.68× · 1253 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
+- 9.44× · 1223 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
 - 9.44× · 1222 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
-- 9.2× · 1192 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
-- 8.51× · 1102 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 6.9× · 893 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 8.52× · 1103 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
+- 6.9× · 894 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 - 6.68× · 865 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
@@ -132,144 +270,6 @@ Generated 2026-11-07 from index/social/posts.json. lift = views / median views o
 - 0.2× · 26 views · ep 126 · 126. YOUR MENTAL HEALTH TOOLKIT for the Holiday Season (Navigating Finals Stress, Family Relationships, Seasonal Depression, + Body Image)
 - 0.21× · 27 views · ep 129 · 129. New Years Resolutions For Your Mental Health: SMART Goals, My 2023 Intentions, + More
 
-## youtube:short (563 posts with a lift; baseline 1028 views)
-
-**hook_type**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| this is | 13 | 1.25 | 85% |
-| my story | 4 | 0.88 | 25% |
-| the truth / secret | 13 | 0.79 | 46% |
-| why | 45 | 0.61 | 33% |
-| question | 55 | 0.39 | 31% |
-| statement | 300 | 0.35 | 26% |
-| you / your | 85 | 0.33 | 24% |
-| how to | 32 | 0.27 | 25% |
-| stop / never | 6 | 0.2 | 33% |
-| watch this if | 7 | 0.07 | 0% |
-
-**is_question**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| true | 66 | 0.5 | 30% |
-| false | 497 | 0.37 | 28% |
-
-**addresses_you**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| false | 398 | 0.4 | 29% |
-| true | 165 | 0.35 | 27% |
-
-**caps_words**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| 0 | 186 | 0.28 | 24% |
-| 1 | 194 | 0.81 | 42% |
-| 2 | 89 | 0.18 | 25% |
-| 3 | 58 | 0.25 | 10% |
-| 4+ | 36 | 0.24 | 14% |
-
-**length**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| short (≤6 words) | 62 | 0.95 | 47% |
-| medium (7–11) | 395 | 0.42 | 31% |
-| long (12+) | 106 | 0.13 | 8% |
-
-**has_number**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| no | 191 | 1 | 51% |
-| yes | 372 | 0.17 | 17% |
-
-**hashtags**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| 0 | 367 | 0.17 | 17% |
-| 1–2 | 196 | 0.99 | 50% |
-
-**duration**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| ≤20s | 125 | 0.4 | 34% |
-| 21–40s | 286 | 0.39 | 27% |
-| 41–60s | 151 | 0.34 | 26% |
-
-**format**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| solo | 206 | 0.39 | 29% |
-| guest | 357 | 0.37 | 28% |
-
-**topic**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| social media | 34 | 1.06 | 50% |
-| sadie recommends | 27 | 1.03 | 59% |
-| troubled teen industry | 28 | 0.96 | 46% |
-| 20s | 40 | 0.93 | 43% |
-| career | 12 | 0.84 | 42% |
-| depression | 122 | 0.8 | 41% |
-| relationships | 133 | 0.79 | 41% |
-| dbt | 119 | 0.74 | 41% |
-| adhd | 8 | 0.69 | 38% |
-| teen mental health | 150 | 0.51 | 33% |
-| emotions | 90 | 0.41 | 30% |
-| college | 50 | 0.33 | 14% |
-| self-improvement | 110 | 0.23 | 21% |
-| anxiety | 47 | 0.21 | 13% |
-| sleep | 15 | 0.2 | 20% |
-| body image | 34 | 0.19 | 18% |
-| trauma | 29 | 0.08 | 17% |
-
-**weekday**
-
-| value | n | median lift | above baseline |
-| --- | ---: | ---: | ---: |
-| fri | 81 | 0.49 | 31% |
-| sun | 74 | 0.41 | 30% |
-| mon | 73 | 0.41 | 27% |
-| sat | 89 | 0.4 | 31% |
-| tue | 70 | 0.39 | 26% |
-| thu | 84 | 0.34 | 24% |
-| wed | 92 | 0.3 | 28% |
-
-**top posts**
-
-- 2.84× · 2915 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
-- 2.77× · 2848 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.72× · 2794 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
-- 2.62× · 2689 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.54× · 2616 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
-- 2.52× · 2592 views · ep 258 · how our CHILDHOOD affects our current emotions
-- 2.46× · 2528 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.46× · 2526 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
-- 2.44× · 2509 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.38× · 2449 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
-- 2.34× · 2409 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
-- 2.33× · 2394 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
-
-**bottom posts**
-
-- 0× · 5 views · ep 100 · EMOTIONS don't have to be ISOLATING | Ep. 100
-- 0× · 3 views · ep 111 · GRATITUDE JARS | Ep. 111 Ashley Blaine Featherson-Jenkins
-- 0.01× · 13 views · ep 85 · 10 Coping Skills You NEED to Know | SOLO Ep. 132
-- 0.01× · 8 views · ep 87 · WHY you should’ve advocating at SCHOOL | Ep. 87 feat. Sarah Hernholm
-- 0.01× · 12 views · ep 87 · AGE is not a determinant of WORK ETHIC | Ep. 87 feat. Sarah Hernholm
-- 0.01× · 11 views · ep 100 · PREVENTATIVE MENTAL HEALTH CARE | Ep. 100
-- 0.01× · 10 views · ep 103 · THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103 Emmalee Bierly + Jennifer Chaiken
-- 0.01× · 13 views · ep 104 · EXTERNAL FACTORS IMPACTING SLEEP? | Ep. 104 Heather Turgeon + Julie Wright
-
 ## youtube:mini (28 posts with a lift; baseline 38 views)
 
 **hook_type**
@@ -278,7 +278,7 @@ Generated 2026-11-07 from index/social/posts.json. lift = views / median views o
 | --- | ---: | ---: | ---: |
 | question | 3 | 2.53 | 100% |
 | numbered list | 3 | 1.45 | 67% |
-| you / your | 12 | 1.04 | 58% |
+| you / your | 12 | 1.06 | 58% |
 | statement | 10 | 0.9 | 50% |
 
 **is_question**
@@ -286,7 +286,7 @@ Generated 2026-11-07 from index/social/posts.json. lift = views / median views o
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | true | 3 | 2.53 | 100% |
-| false | 25 | 1 | 56% |
+| false | 25 | 1.03 | 56% |
 
 **addresses_you**
 
@@ -334,7 +334,7 @@ Generated 2026-11-07 from index/social/posts.json. lift = views / median views o
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | guest | 20 | 1.14 | 60% |
-| solo | 8 | 1.04 | 63% |
+| solo | 8 | 1.06 | 63% |
 
 **topic**
 

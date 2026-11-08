@@ -1,6 +1,16 @@
 # she persisted — episode summaries
 
-258 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+259 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+
+## 266. i thought college would make me happier (what i wish i knew)
+
+- date: 2026-11-07
+- tags: college, 20s
+- guests: not extracted yet
+- url: https://shepersistedpodcast.com/episodes/266
+- transcript: episodes/ep-266.md (partial)
+
+if you’ve just started college and are wondering why everyone seems happier or better adjusted than you are, then this episode is for YOU! in this solo episode, i break down what i wish i’d known when i started college— including what to do if college isn’t feeling as fun or life-changing as you’d expected. whether you’re figuring out your major or struggling with your social life, this episode is full of practical tips on adjusting to college life. so, if comparing yourself to others in college makes you always feel like you’re falling short, this episode is your guide to forming new, healthy habits!
 
 ## 265. why does it take a crisis to be taken seriously?
 

@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-07T12:11:40.683Z",
+ "generatedAt": "2026-11-08T12:32:13.657Z",
  "note": "lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.",
  "baselines": {
-  "youtube:short": {
-   "median_views": 1028,
-   "posts": 193
-  },
   "youtube:episode": {
    "median_views": 129.5,
    "posts": 46
+  },
+  "youtube:short": {
+   "median_views": 1027,
+   "posts": 194
   },
   "youtube:mini": {
    "median_views": 38,
@@ -16,6 +16,517 @@
   }
  },
  "platforms": {
+  "youtube:short": {
+   "posts": 564,
+   "features": {
+    "hook_type": {
+     "this is": {
+      "n": 13,
+      "median_lift": 1.25,
+      "share_above_1": 85
+     },
+     "i wish i knew": {
+      "n": 1,
+      "median_lift": 1.02,
+      "share_above_1": 100
+     },
+     "my story": {
+      "n": 4,
+      "median_lift": 0.88,
+      "share_above_1": 25
+     },
+     "the truth / secret": {
+      "n": 13,
+      "median_lift": 0.79,
+      "share_above_1": 46
+     },
+     "why": {
+      "n": 45,
+      "median_lift": 0.61,
+      "share_above_1": 33
+     },
+     "question": {
+      "n": 55,
+      "median_lift": 0.39,
+      "share_above_1": 31
+     },
+     "what if": {
+      "n": 1,
+      "median_lift": 0.36,
+      "share_above_1": 0
+     },
+     "statement": {
+      "n": 301,
+      "median_lift": 0.35,
+      "share_above_1": 26
+     },
+     "you / your": {
+      "n": 85,
+      "median_lift": 0.33,
+      "share_above_1": 24
+     },
+     "how to": {
+      "n": 32,
+      "median_lift": 0.27,
+      "share_above_1": 25
+     },
+     "stop / never": {
+      "n": 6,
+      "median_lift": 0.2,
+      "share_above_1": 33
+     },
+     "numbered list": {
+      "n": 1,
+      "median_lift": 0.11,
+      "share_above_1": 0
+     },
+     "watch this if": {
+      "n": 7,
+      "median_lift": 0.07,
+      "share_above_1": 0
+     }
+    },
+    "is_question": {
+     "true": {
+      "n": 66,
+      "median_lift": 0.5,
+      "share_above_1": 30
+     },
+     "false": {
+      "n": 498,
+      "median_lift": 0.38,
+      "share_above_1": 28
+     }
+    },
+    "addresses_you": {
+     "false": {
+      "n": 399,
+      "median_lift": 0.4,
+      "share_above_1": 29
+     },
+     "true": {
+      "n": 165,
+      "median_lift": 0.35,
+      "share_above_1": 27
+     }
+    },
+    "caps_words": {
+     "0": {
+      "n": 186,
+      "median_lift": 0.28,
+      "share_above_1": 24
+     },
+     "1": {
+      "n": 195,
+      "median_lift": 0.8,
+      "share_above_1": 42
+     },
+     "2": {
+      "n": 89,
+      "median_lift": 0.18,
+      "share_above_1": 25
+     },
+     "3": {
+      "n": 58,
+      "median_lift": 0.25,
+      "share_above_1": 10
+     },
+     "4+": {
+      "n": 36,
+      "median_lift": 0.24,
+      "share_above_1": 14
+     }
+    },
+    "length": {
+     "short (≤6 words)": {
+      "n": 62,
+      "median_lift": 0.95,
+      "share_above_1": 47
+     },
+     "medium (7–11)": {
+      "n": 396,
+      "median_lift": 0.43,
+      "share_above_1": 31
+     },
+     "long (12+)": {
+      "n": 106,
+      "median_lift": 0.13,
+      "share_above_1": 8
+     }
+    },
+    "has_number": {
+     "no": {
+      "n": 192,
+      "median_lift": 1,
+      "share_above_1": 51
+     },
+     "yes": {
+      "n": 372,
+      "median_lift": 0.17,
+      "share_above_1": 17
+     }
+    },
+    "hashtags": {
+     "0": {
+      "n": 367,
+      "median_lift": 0.17,
+      "share_above_1": 17
+     },
+     "1–2": {
+      "n": 197,
+      "median_lift": 0.98,
+      "share_above_1": 50
+     }
+    },
+    "duration": {
+     "≤20s": {
+      "n": 125,
+      "median_lift": 0.41,
+      "share_above_1": 34
+     },
+     "21–40s": {
+      "n": 287,
+      "median_lift": 0.39,
+      "share_above_1": 27
+     },
+     "41–60s": {
+      "n": 151,
+      "median_lift": 0.34,
+      "share_above_1": 26
+     },
+     ">60s": {
+      "n": 1,
+      "median_lift": 0.15,
+      "share_above_1": 0
+     }
+    },
+    "format": {
+     "solo": {
+      "n": 206,
+      "median_lift": 0.4,
+      "share_above_1": 29
+     },
+     "guest": {
+      "n": 358,
+      "median_lift": 0.38,
+      "share_above_1": 28
+     }
+    },
+    "topic": {
+     "social media": {
+      "n": 34,
+      "median_lift": 1.06,
+      "share_above_1": 50
+     },
+     "sadie recommends": {
+      "n": 27,
+      "median_lift": 1.03,
+      "share_above_1": 59
+     },
+     "troubled teen industry": {
+      "n": 28,
+      "median_lift": 0.96,
+      "share_above_1": 46
+     },
+     "20s": {
+      "n": 40,
+      "median_lift": 0.93,
+      "share_above_1": 43
+     },
+     "career": {
+      "n": 12,
+      "median_lift": 0.84,
+      "share_above_1": 42
+     },
+     "depression": {
+      "n": 122,
+      "median_lift": 0.8,
+      "share_above_1": 41
+     },
+     "relationships": {
+      "n": 133,
+      "median_lift": 0.79,
+      "share_above_1": 41
+     },
+     "dbt": {
+      "n": 120,
+      "median_lift": 0.74,
+      "share_above_1": 41
+     },
+     "adhd": {
+      "n": 8,
+      "median_lift": 0.69,
+      "share_above_1": 38
+     },
+     "parents": {
+      "n": 1,
+      "median_lift": 0.67,
+      "share_above_1": 0
+     },
+     "teen mental health": {
+      "n": 151,
+      "median_lift": 0.55,
+      "share_above_1": 32
+     },
+     "emotions": {
+      "n": 90,
+      "median_lift": 0.41,
+      "share_above_1": 30
+     },
+     "college": {
+      "n": 50,
+      "median_lift": 0.33,
+      "share_above_1": 14
+     },
+     "self-improvement": {
+      "n": 110,
+      "median_lift": 0.23,
+      "share_above_1": 21
+     },
+     "anxiety": {
+      "n": 47,
+      "median_lift": 0.21,
+      "share_above_1": 13
+     },
+     "sleep": {
+      "n": 15,
+      "median_lift": 0.2,
+      "share_above_1": 20
+     },
+     "body image": {
+      "n": 34,
+      "median_lift": 0.19,
+      "share_above_1": 18
+     },
+     "trauma": {
+      "n": 29,
+      "median_lift": 0.08,
+      "share_above_1": 17
+     }
+    },
+    "weekday": {
+     "fri": {
+      "n": 81,
+      "median_lift": 0.49,
+      "share_above_1": 31
+     },
+     "mon": {
+      "n": 74,
+      "median_lift": 0.42,
+      "share_above_1": 27
+     },
+     "sun": {
+      "n": 74,
+      "median_lift": 0.41,
+      "share_above_1": 30
+     },
+     "sat": {
+      "n": 89,
+      "median_lift": 0.4,
+      "share_above_1": 31
+     },
+     "tue": {
+      "n": 70,
+      "median_lift": 0.39,
+      "share_above_1": 26
+     },
+     "thu": {
+      "n": 84,
+      "median_lift": 0.34,
+      "share_above_1": 24
+     },
+     "wed": {
+      "n": 92,
+      "median_lift": 0.3,
+      "share_above_1": 28
+     }
+    }
+   },
+   "top": [
+    {
+     "id": "yt:raNod3j2dVA",
+     "episode": 121,
+     "hook": "just keep going | Ep. 121. feat. Mary's Cup of Tea",
+     "lift": 2.84,
+     "views": 2915,
+     "published": "2022-11-15",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:SYQcPxVRAkA",
+     "episode": 125,
+     "hook": "Ep. 125: Tips for Teens feat. Talk With Zach",
+     "lift": 2.77,
+     "views": 2848,
+     "published": "2022-12-10",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:TO-8WWLqxm0",
+     "episode": 172,
+     "hook": "The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole",
+     "lift": 2.72,
+     "views": 2794,
+     "published": "2024-01-06",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:GDMks3SfXrQ",
+     "episode": 125,
+     "hook": "Ep. 125: Tips for Teens feat. Talk With Zach",
+     "lift": 2.62,
+     "views": 2689,
+     "published": "2022-12-08",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:QHJBd1G_irw",
+     "episode": 104,
+     "hook": "TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright",
+     "lift": 2.55,
+     "views": 2616,
+     "published": "2022-07-25",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:ox-V-JAik8Y",
+     "episode": 258,
+     "hook": "how our CHILDHOOD affects our current emotions",
+     "lift": 2.52,
+     "views": 2592,
+     "published": "2026-08-09",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:fVViVg3T1MY",
+     "episode": 172,
+     "hook": "Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole",
+     "lift": 2.46,
+     "views": 2528,
+     "published": "2024-01-09",
+     "hook_type": "you / your"
+    },
+    {
+     "id": "yt:w_bajwGeg3Y",
+     "episode": 154,
+     "hook": "RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar",
+     "lift": 2.46,
+     "views": 2527,
+     "published": "2023-09-30",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:khnpdxHPNlg",
+     "episode": 172,
+     "hook": "A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole",
+     "lift": 2.44,
+     "views": 2509,
+     "published": "2024-01-24",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:mzEefjw6j9Q",
+     "episode": 120,
+     "hook": "ANXIETY 101 | Ep. 120 SOLO EP",
+     "lift": 2.38,
+     "views": 2449,
+     "published": "2022-12-11",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:K3_Bj5h7GMs",
+     "episode": 130,
+     "hook": "Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone",
+     "lift": 2.35,
+     "views": 2409,
+     "published": "2023-01-16",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:J9afb2zks4U",
+     "episode": 134,
+     "hook": "Ellie Zeiler’s Advice for Teens | Ep. 134",
+     "lift": 2.33,
+     "views": 2394,
+     "published": "2023-02-09",
+     "hook_type": "statement"
+    }
+   ],
+   "bottom": [
+    {
+     "id": "yt:1tpZ39KdB0w",
+     "episode": 100,
+     "hook": "EMOTIONS don't have to be ISOLATING | Ep. 100",
+     "lift": 0,
+     "views": 5,
+     "published": "2022-06-18",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:JPXiVt1Dw1U",
+     "episode": 111,
+     "hook": "GRATITUDE JARS | Ep. 111 Ashley Blaine Featherson-Jenkins",
+     "lift": 0,
+     "views": 3,
+     "published": "2022-10-06",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:ieyxbAkQpaY",
+     "episode": 85,
+     "hook": "10 Coping Skills You NEED to Know | SOLO Ep. 132",
+     "lift": 0.01,
+     "views": 13,
+     "published": "2023-01-30",
+     "hook_type": "you / your"
+    },
+    {
+     "id": "yt:Ro1fZJs6DS4",
+     "episode": 87,
+     "hook": "WHY you should’ve advocating at SCHOOL | Ep. 87 feat. Sarah Hernholm",
+     "lift": 0.01,
+     "views": 8,
+     "published": "2022-02-22",
+     "hook_type": "why"
+    },
+    {
+     "id": "yt:nCkYbdRMP-w",
+     "episode": 87,
+     "hook": "AGE is not a determinant of WORK ETHIC | Ep. 87 feat. Sarah Hernholm",
+     "lift": 0.01,
+     "views": 12,
+     "published": "2022-02-22",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:N2uHWAK9iAo",
+     "episode": 100,
+     "hook": "PREVENTATIVE MENTAL HEALTH CARE | Ep. 100",
+     "lift": 0.01,
+     "views": 11,
+     "published": "2022-06-18",
+     "hook_type": "statement"
+    },
+    {
+     "id": "yt:pzZpPqnZvgw",
+     "episode": 103,
+     "hook": "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103 Emmalee Bierly + Jennifer Chaiken",
+     "lift": 0.01,
+     "views": 10,
+     "published": "2022-07-14",
+     "hook_type": "question"
+    },
+    {
+     "id": "yt:FxcCQO3bbfQ",
+     "episode": 104,
+     "hook": "EXTERNAL FACTORS IMPACTING SLEEP? | Ep. 104 Heather Turgeon + Julie Wright",
+     "lift": 0.01,
+     "views": 13,
+     "published": "2022-07-23",
+     "hook_type": "question"
+    }
+   ]
+  },
   "youtube:episode": {
    "posts": 204,
    "features": {
@@ -297,8 +808,8 @@
      "id": "yt:CWCjSR8_f20",
      "episode": 228,
      "hook": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
-     "lift": 64.68,
-     "views": 8376,
+     "lift": 64.79,
+     "views": 8390,
      "published": "2025-08-17",
      "hook_type": "statement"
     },
@@ -315,8 +826,8 @@
      "id": "yt:2QpD5ZiqxpM",
      "episode": 96,
      "hook": "96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial",
-     "lift": 27.31,
-     "views": 3536,
+     "lift": 27.35,
+     "views": 3542,
      "published": "2022-04-21",
      "hook_type": "statement"
     },
@@ -324,8 +835,8 @@
      "id": "yt:I1sqLxG8BTQ",
      "episode": 220,
      "hook": "220. how to succeed as a psychology major (& what we wish we knew sooner)",
-     "lift": 26.6,
-     "views": 3445,
+     "lift": 26.78,
+     "views": 3468,
      "published": "2025-05-13",
      "hook_type": "statement"
     },
@@ -333,8 +844,8 @@
      "id": "yt:d9ffkCTrPpE",
      "episode": 198,
      "hook": "198. Chrysalis School Montana: My Troubled Teen Industry Experience",
-     "lift": 26.25,
-     "views": 3400,
+     "lift": 26.29,
+     "views": 3404,
      "published": "2024-08-18",
      "hook_type": "statement"
     },
@@ -342,8 +853,8 @@
      "id": "yt:YnrQOydrUpU",
      "episode": 197,
      "hook": "197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler",
-     "lift": 23.45,
-     "views": 3037,
+     "lift": 23.49,
+     "views": 3042,
      "published": "2024-08-02",
      "hook_type": "statement"
     },
@@ -357,6 +868,15 @@
      "hook_type": "statement"
     },
     {
+     "id": "yt:_oLo33Ndc7Q",
+     "episode": 254,
+     "hook": "254. how to help someone who doesn’t want help (without making it worse)",
+     "lift": 9.44,
+     "views": 1223,
+     "published": "2026-04-04",
+     "hook_type": "statement"
+    },
+    {
      "id": "yt:WEuYWY27Prk",
      "episode": 211,
      "hook": "211. grit (I took angela duckworth's class at upenn)",
@@ -366,20 +886,11 @@
      "hook_type": "statement"
     },
     {
-     "id": "yt:_oLo33Ndc7Q",
-     "episode": 254,
-     "hook": "254. how to help someone who doesn’t want help (without making it worse)",
-     "lift": 9.2,
-     "views": 1192,
-     "published": "2026-04-04",
-     "hook_type": "statement"
-    },
-    {
      "id": "yt:mYC7M1NxUl8",
      "episode": 86,
      "hook": "86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen",
-     "lift": 8.51,
-     "views": 1102,
+     "lift": 8.52,
+     "views": 1103,
      "published": "2022-02-08",
      "hook_type": "statement"
     },
@@ -388,7 +899,7 @@
      "episode": 60,
      "hook": "60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski",
      "lift": 6.9,
-     "views": 893,
+     "views": 894,
      "published": "2021-04-10",
      "hook_type": "statement"
     },
@@ -477,512 +988,6 @@
     }
    ]
   },
-  "youtube:short": {
-   "posts": 563,
-   "features": {
-    "hook_type": {
-     "this is": {
-      "n": 13,
-      "median_lift": 1.25,
-      "share_above_1": 85
-     },
-     "i wish i knew": {
-      "n": 1,
-      "median_lift": 1.02,
-      "share_above_1": 100
-     },
-     "my story": {
-      "n": 4,
-      "median_lift": 0.88,
-      "share_above_1": 25
-     },
-     "the truth / secret": {
-      "n": 13,
-      "median_lift": 0.79,
-      "share_above_1": 46
-     },
-     "why": {
-      "n": 45,
-      "median_lift": 0.61,
-      "share_above_1": 33
-     },
-     "question": {
-      "n": 55,
-      "median_lift": 0.39,
-      "share_above_1": 31
-     },
-     "what if": {
-      "n": 1,
-      "median_lift": 0.36,
-      "share_above_1": 0
-     },
-     "statement": {
-      "n": 300,
-      "median_lift": 0.35,
-      "share_above_1": 26
-     },
-     "you / your": {
-      "n": 85,
-      "median_lift": 0.33,
-      "share_above_1": 24
-     },
-     "how to": {
-      "n": 32,
-      "median_lift": 0.27,
-      "share_above_1": 25
-     },
-     "stop / never": {
-      "n": 6,
-      "median_lift": 0.2,
-      "share_above_1": 33
-     },
-     "numbered list": {
-      "n": 1,
-      "median_lift": 0.11,
-      "share_above_1": 0
-     },
-     "watch this if": {
-      "n": 7,
-      "median_lift": 0.07,
-      "share_above_1": 0
-     }
-    },
-    "is_question": {
-     "true": {
-      "n": 66,
-      "median_lift": 0.5,
-      "share_above_1": 30
-     },
-     "false": {
-      "n": 497,
-      "median_lift": 0.37,
-      "share_above_1": 28
-     }
-    },
-    "addresses_you": {
-     "false": {
-      "n": 398,
-      "median_lift": 0.4,
-      "share_above_1": 29
-     },
-     "true": {
-      "n": 165,
-      "median_lift": 0.35,
-      "share_above_1": 27
-     }
-    },
-    "caps_words": {
-     "0": {
-      "n": 186,
-      "median_lift": 0.28,
-      "share_above_1": 24
-     },
-     "1": {
-      "n": 194,
-      "median_lift": 0.81,
-      "share_above_1": 42
-     },
-     "2": {
-      "n": 89,
-      "median_lift": 0.18,
-      "share_above_1": 25
-     },
-     "3": {
-      "n": 58,
-      "median_lift": 0.25,
-      "share_above_1": 10
-     },
-     "4+": {
-      "n": 36,
-      "median_lift": 0.24,
-      "share_above_1": 14
-     }
-    },
-    "length": {
-     "short (≤6 words)": {
-      "n": 62,
-      "median_lift": 0.95,
-      "share_above_1": 47
-     },
-     "medium (7–11)": {
-      "n": 395,
-      "median_lift": 0.42,
-      "share_above_1": 31
-     },
-     "long (12+)": {
-      "n": 106,
-      "median_lift": 0.13,
-      "share_above_1": 8
-     }
-    },
-    "has_number": {
-     "no": {
-      "n": 191,
-      "median_lift": 1,
-      "share_above_1": 51
-     },
-     "yes": {
-      "n": 372,
-      "median_lift": 0.17,
-      "share_above_1": 17
-     }
-    },
-    "hashtags": {
-     "0": {
-      "n": 367,
-      "median_lift": 0.17,
-      "share_above_1": 17
-     },
-     "1–2": {
-      "n": 196,
-      "median_lift": 0.99,
-      "share_above_1": 50
-     }
-    },
-    "duration": {
-     "≤20s": {
-      "n": 125,
-      "median_lift": 0.4,
-      "share_above_1": 34
-     },
-     "21–40s": {
-      "n": 286,
-      "median_lift": 0.39,
-      "share_above_1": 27
-     },
-     "41–60s": {
-      "n": 151,
-      "median_lift": 0.34,
-      "share_above_1": 26
-     },
-     ">60s": {
-      "n": 1,
-      "median_lift": 0.15,
-      "share_above_1": 0
-     }
-    },
-    "format": {
-     "solo": {
-      "n": 206,
-      "median_lift": 0.39,
-      "share_above_1": 29
-     },
-     "guest": {
-      "n": 357,
-      "median_lift": 0.37,
-      "share_above_1": 28
-     }
-    },
-    "topic": {
-     "social media": {
-      "n": 34,
-      "median_lift": 1.06,
-      "share_above_1": 50
-     },
-     "sadie recommends": {
-      "n": 27,
-      "median_lift": 1.03,
-      "share_above_1": 59
-     },
-     "troubled teen industry": {
-      "n": 28,
-      "median_lift": 0.96,
-      "share_above_1": 46
-     },
-     "20s": {
-      "n": 40,
-      "median_lift": 0.93,
-      "share_above_1": 43
-     },
-     "career": {
-      "n": 12,
-      "median_lift": 0.84,
-      "share_above_1": 42
-     },
-     "depression": {
-      "n": 122,
-      "median_lift": 0.8,
-      "share_above_1": 41
-     },
-     "relationships": {
-      "n": 133,
-      "median_lift": 0.79,
-      "share_above_1": 41
-     },
-     "dbt": {
-      "n": 119,
-      "median_lift": 0.74,
-      "share_above_1": 41
-     },
-     "adhd": {
-      "n": 8,
-      "median_lift": 0.69,
-      "share_above_1": 38
-     },
-     "teen mental health": {
-      "n": 150,
-      "median_lift": 0.51,
-      "share_above_1": 33
-     },
-     "emotions": {
-      "n": 90,
-      "median_lift": 0.41,
-      "share_above_1": 30
-     },
-     "college": {
-      "n": 50,
-      "median_lift": 0.33,
-      "share_above_1": 14
-     },
-     "self-improvement": {
-      "n": 110,
-      "median_lift": 0.23,
-      "share_above_1": 21
-     },
-     "anxiety": {
-      "n": 47,
-      "median_lift": 0.21,
-      "share_above_1": 13
-     },
-     "sleep": {
-      "n": 15,
-      "median_lift": 0.2,
-      "share_above_1": 20
-     },
-     "body image": {
-      "n": 34,
-      "median_lift": 0.19,
-      "share_above_1": 18
-     },
-     "trauma": {
-      "n": 29,
-      "median_lift": 0.08,
-      "share_above_1": 17
-     }
-    },
-    "weekday": {
-     "fri": {
-      "n": 81,
-      "median_lift": 0.49,
-      "share_above_1": 31
-     },
-     "sun": {
-      "n": 74,
-      "median_lift": 0.41,
-      "share_above_1": 30
-     },
-     "mon": {
-      "n": 73,
-      "median_lift": 0.41,
-      "share_above_1": 27
-     },
-     "sat": {
-      "n": 89,
-      "median_lift": 0.4,
-      "share_above_1": 31
-     },
-     "tue": {
-      "n": 70,
-      "median_lift": 0.39,
-      "share_above_1": 26
-     },
-     "thu": {
-      "n": 84,
-      "median_lift": 0.34,
-      "share_above_1": 24
-     },
-     "wed": {
-      "n": 92,
-      "median_lift": 0.3,
-      "share_above_1": 28
-     }
-    }
-   },
-   "top": [
-    {
-     "id": "yt:raNod3j2dVA",
-     "episode": 121,
-     "hook": "just keep going | Ep. 121. feat. Mary's Cup of Tea",
-     "lift": 2.84,
-     "views": 2915,
-     "published": "2022-11-15",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:SYQcPxVRAkA",
-     "episode": 125,
-     "hook": "Ep. 125: Tips for Teens feat. Talk With Zach",
-     "lift": 2.77,
-     "views": 2848,
-     "published": "2022-12-10",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:TO-8WWLqxm0",
-     "episode": 172,
-     "hook": "The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole",
-     "lift": 2.72,
-     "views": 2794,
-     "published": "2024-01-06",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:GDMks3SfXrQ",
-     "episode": 125,
-     "hook": "Ep. 125: Tips for Teens feat. Talk With Zach",
-     "lift": 2.62,
-     "views": 2689,
-     "published": "2022-12-08",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:QHJBd1G_irw",
-     "episode": 104,
-     "hook": "TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright",
-     "lift": 2.54,
-     "views": 2616,
-     "published": "2022-07-25",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:ox-V-JAik8Y",
-     "episode": 258,
-     "hook": "how our CHILDHOOD affects our current emotions",
-     "lift": 2.52,
-     "views": 2592,
-     "published": "2026-08-09",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:fVViVg3T1MY",
-     "episode": 172,
-     "hook": "Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole",
-     "lift": 2.46,
-     "views": 2528,
-     "published": "2024-01-09",
-     "hook_type": "you / your"
-    },
-    {
-     "id": "yt:w_bajwGeg3Y",
-     "episode": 154,
-     "hook": "RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar",
-     "lift": 2.46,
-     "views": 2526,
-     "published": "2023-09-30",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:khnpdxHPNlg",
-     "episode": 172,
-     "hook": "A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole",
-     "lift": 2.44,
-     "views": 2509,
-     "published": "2024-01-24",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:mzEefjw6j9Q",
-     "episode": 120,
-     "hook": "ANXIETY 101 | Ep. 120 SOLO EP",
-     "lift": 2.38,
-     "views": 2449,
-     "published": "2022-12-11",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:K3_Bj5h7GMs",
-     "episode": 130,
-     "hook": "Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone",
-     "lift": 2.34,
-     "views": 2409,
-     "published": "2023-01-16",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:J9afb2zks4U",
-     "episode": 134,
-     "hook": "Ellie Zeiler’s Advice for Teens | Ep. 134",
-     "lift": 2.33,
-     "views": 2394,
-     "published": "2023-02-09",
-     "hook_type": "statement"
-    }
-   ],
-   "bottom": [
-    {
-     "id": "yt:1tpZ39KdB0w",
-     "episode": 100,
-     "hook": "EMOTIONS don't have to be ISOLATING | Ep. 100",
-     "lift": 0,
-     "views": 5,
-     "published": "2022-06-18",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:JPXiVt1Dw1U",
-     "episode": 111,
-     "hook": "GRATITUDE JARS | Ep. 111 Ashley Blaine Featherson-Jenkins",
-     "lift": 0,
-     "views": 3,
-     "published": "2022-10-06",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:ieyxbAkQpaY",
-     "episode": 85,
-     "hook": "10 Coping Skills You NEED to Know | SOLO Ep. 132",
-     "lift": 0.01,
-     "views": 13,
-     "published": "2023-01-30",
-     "hook_type": "you / your"
-    },
-    {
-     "id": "yt:Ro1fZJs6DS4",
-     "episode": 87,
-     "hook": "WHY you should’ve advocating at SCHOOL | Ep. 87 feat. Sarah Hernholm",
-     "lift": 0.01,
-     "views": 8,
-     "published": "2022-02-22",
-     "hook_type": "why"
-    },
-    {
-     "id": "yt:nCkYbdRMP-w",
-     "episode": 87,
-     "hook": "AGE is not a determinant of WORK ETHIC | Ep. 87 feat. Sarah Hernholm",
-     "lift": 0.01,
-     "views": 12,
-     "published": "2022-02-22",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:N2uHWAK9iAo",
-     "episode": 100,
-     "hook": "PREVENTATIVE MENTAL HEALTH CARE | Ep. 100",
-     "lift": 0.01,
-     "views": 11,
-     "published": "2022-06-18",
-     "hook_type": "statement"
-    },
-    {
-     "id": "yt:pzZpPqnZvgw",
-     "episode": 103,
-     "hook": "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103 Emmalee Bierly + Jennifer Chaiken",
-     "lift": 0.01,
-     "views": 10,
-     "published": "2022-07-14",
-     "hook_type": "question"
-    },
-    {
-     "id": "yt:FxcCQO3bbfQ",
-     "episode": 104,
-     "hook": "EXTERNAL FACTORS IMPACTING SLEEP? | Ep. 104 Heather Turgeon + Julie Wright",
-     "lift": 0.01,
-     "views": 13,
-     "published": "2022-07-23",
-     "hook_type": "question"
-    }
-   ]
-  },
   "youtube:mini": {
    "posts": 28,
    "features": {
@@ -999,7 +1004,7 @@
      },
      "you / your": {
       "n": 12,
-      "median_lift": 1.04,
+      "median_lift": 1.06,
       "share_above_1": 58
      },
      "statement": {
@@ -1016,7 +1021,7 @@
      },
      "false": {
       "n": 25,
-      "median_lift": 1,
+      "median_lift": 1.03,
       "share_above_1": 56
      }
     },
@@ -1100,7 +1105,7 @@
      },
      "solo": {
       "n": 8,
-      "median_lift": 1.04,
+      "median_lift": 1.06,
       "share_above_1": 63
      }
     },
