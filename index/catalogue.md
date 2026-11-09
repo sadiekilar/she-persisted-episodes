@@ -8,7 +8,8 @@ tags: self-improvement (76), depression (64), anxiety (63), relationships (58), 
 date: 2026-11-07 | https://shepersistedpodcast.com/episodes/266 | 35 min | video
 tags: college, 20s
 format: solo
-summary: -
+summary: if you’ve just started college and are wondering why everyone seems happier or better adjusted than you are, then this episode is for YOU! in this solo episode, i break down what i wish i’d known when i started college— including what to do if college isn’t feeling as fun or life-changing as you’d expected. whether you’re figuring out your major or struggling with your social life, this episode is full of practical tips on adjusting to college life. so, if comparing yourself to others in college makes you always feel like you’re falling short, this episode is your guide to forming new, healthy habits!
+quote: LOOKING adjusted and FEELING adjusted are not the SAME THING.
 chapters: what i learned from my first few months at college; finding your friend group (+ why it can be so tricky); when your college expectations don’t match the reality; feeling jealousy over social opportunities; freedom in college + building a routine; a journal prompt for college burnout
 
 ## 265. why does it take a crisis to be taken seriously?

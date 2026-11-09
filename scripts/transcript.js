@@ -24,6 +24,9 @@ function transcriptParagraphs(body) {
     if (sp) { speaker = sp[1].trim().toLowerCase(); text = text.slice(sp[0].length); }
     const lead = LEAD.exec(text);
     if (lead) { t = seconds(lead[1], lead[2], lead[3]); text = text.slice(lead[0].length); }
+    // Descript puts the label after the stamp: "[00:00:00] **Sadie:** ..."
+    const sp2 = !speaker && SPEAKER.exec(text);
+    if (sp2) { speaker = sp2[1].trim().toLowerCase(); text = text.slice(sp2[0].length); }
     const inline = [...text.matchAll(INLINE)];
     if (t == null && inline.length) t = seconds(inline[0][1], inline[0][2], inline[0][3]);
     text = text.replace(INLINE, '').replace(/\s+/g, ' ').trim();

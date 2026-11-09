@@ -13,4 +13,4 @@ none
 
 | episode | words | flags |
 | --- | ---: | --- |
-| [266. i thought college would make me happier (what i wish i knew)](https://shepersistedpodcast.com/episodes/266) | 7482 | ends mid-sentence |
+| [266. i thought college would make me happier (what i wish i knew)](https://shepersistedpodcast.com/episodes/266) | 7278 | ends mid-sentence |

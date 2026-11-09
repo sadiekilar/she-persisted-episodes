@@ -92,7 +92,8 @@ fs.mkdirSync(epDir, { recursive: true });
 const keep = new Set();
 for (const ep of episodes) {
   const m = ep.meta;
-  const paragraphs = transcriptParagraphs(ep.body);
+  // a solo episode has one voice; a speaker label there is just Descript's default
+  const paragraphs = transcriptParagraphs(ep.body).map((p) => (formatOf(m) === 'solo' ? { ...p, speaker: null } : p));
   const name = `ep-${String(m.number).padStart(3, '0')}.json`;
   keep.add(name);
   // chapter titles come from bullet lists and AI: drop a leading "and"/ellipsis, lowercase the first letter on the lowercase-era posts

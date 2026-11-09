@@ -94,6 +94,10 @@ Each post is rebuilt from `index/episodes/ep-NNN.json`: back link, episode numbe
 
 **Corrections** that Squarespace doesn't have yet can be kept in the episode file; a re-import leaves them alone: `excerpt_override` (replaces the Squarespace excerpt wherever the index uses it), `description_override_html` (replaces the description on the episode page) and `note_html` (a note shown under the description, e.g. a correction). Remove an override once the post itself is fixed in Squarespace.
 
+A quote can also be written into the post: `pull quote:` followed by the quote, on the same line or the next. It counts as approved and skips the issue.
+
+**One block or two**: the show notes and a pasted Descript transcript can share one text block; the importer splits it at the first-minute stamp (`[00:00:00]`). A transcript continued across several blocks is left as it is.
+
 **Emphasis** in pull quotes is decided by hand: `index/quotes-emphasis.md` lists every approved quote in lowercase; capitalise the words to emphasise and commit. (A `pull quote:` line in a post can carry CAPS directly.)
 
 **Chapters** need "we/i talk about" bullets and a transcript with timestamps (Descript's `[00:27:00]` markers); `chapters.js` then asks Claude where each bullet starts. Timestamps are the usual blocker, see `completeness.md`.

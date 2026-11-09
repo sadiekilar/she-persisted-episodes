@@ -1,7 +1,8 @@
 # pull quote emphasis
 
-251 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
+252 approved quotes. Capitalise the words to emphasise (2 to 5 words, one phrase), commit, and the next refresh shows them upright in CAPS; the rest of the quote stays lowercase italic. A line with no CAPS shows the whole quote in italic. Don't change the words themselves here; edit the quote on the episode instead.
 
+- 266: LOOKING adjusted and FEELING adjusted are not the SAME THING.
 - 265: the squeaky wheel gets the grease, so it’s the kid who has ESCALATED their cries for DISTRESS that finally gets taken SERIOUSLY because families are BUSY, HECTIC, and STRAINED a lot of the time
 - 264: it takes a while to CHANGE. in six months, your life won’t be entirely different, let’s be REALISTIC, but let’s see what COULD you ACCOMPLISH in that period of time.
 - 263: there's no PRIZE for waiting until your mental health becomes an EMERGENCY.

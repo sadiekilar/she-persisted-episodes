@@ -55,6 +55,7 @@ function isHeading(el) { return /^h[1-6]$/.test(el.tag) || (el.tag === 'p' && /^
 function markerOf(el) {
   const raw = el.text.trim();
   const t = raw.replace(/^[\s*:\u2013\u2026-]+|[\s*:\u2013\u2026-]+$/g, '');
+  if (/^pull ?quote\s*[:\u2013-]/i.test(t)) return 'quote'; // "pull quote: ..." with the quote inline, however long
   if (t.length > 160) return null; // markers are headings or short lead-ins, never paragraphs
   // a plain paragraph only counts as a lead-in when it is short or ends in a colon; a sentence of the
   // description that happens to say "let's talk about it!" is not a marker
@@ -64,6 +65,8 @@ function markerOf(el) {
 }
 // the post's own outro and copyright line are never description
 const BOILERPLATE = /^\s*(\u00a9|\(c\))\s?\d{4}|she persisted llc reserves|^if you enjoyed this episode|^\s*ps:/i; // a "PS:" line is a promo, not description
+// the sign-off newer posts end their notes with: subscribe, ask a question, socials, email
+const FOOTER = /^\W*(subscribe on|ask me a question|@shepersistedpodcast\b|(https?:\/\/)?(www\.)?shepersistedpodcast\.com\s*$|hello@shepersistedpodcast\.com)/i;
 const PLATFORM = /podcasts\.apple\.com|open\.spotify\.com|youtube\.com|music\.amazon|castbox|iheart|goodpods|stitcher|overcast|pocketcasts/gi;
 // the "listen on" row: several platform links, or one with hardly any text around it. A description
 // paragraph that links to a guest's podcast on Apple is not it.
@@ -88,11 +91,22 @@ function cleanHtml(html) {
     .trim());
 }
 
+// The post's Squarespace blocks, in order. A text block holding the show notes and a pasted Descript
+// transcript together is split where the transcript starts (a paragraph stamped in its first minute,
+// "[00:00:00]"), so the notes are still read as notes. Later stamps are a transcript continued across blocks.
+const STAMPED_P = /<p\b[^>]*>(?:\s|<[^>]+>)*\[(?:0?0:)?00:[0-5]\d\]/i;
+function splitBlocks(bodyHtml) {
+  const words = (html) => htmlToText(html.replace(/<(script|style)\b[\s\S]*?<\/\1>/gi, '')).split(/\s+/).filter(Boolean).length;
+  return bodyHtml.split(/(?=<div class="sqs-block )/).slice(1).flatMap((html) => {
+    const cls = (/^<div class="sqs-block ([^"]+)"/.exec(html) || [, ''])[1];
+    const m = /\b(html-block|sqs-block-html)\b/.test(cls) && STAMPED_P.exec(html);
+    if (!m || words(html.slice(0, m.index)) < 20 || words(html.slice(m.index)) < 1500) return [{ cls, html }];
+    return [{ cls, html: html.slice(0, m.index) }, { cls, html: html.slice(m.index) }];
+  });
+}
+
 function extract(bodyHtml) {
-  const blocks = bodyHtml.split(/(?=<div class="sqs-block )/).slice(1).map((html) => ({
-    cls: (/^<div class="sqs-block ([^"]+)"/.exec(html) || [, ''])[1],
-    html,
-  }));
+  const blocks = splitBlocks(bodyHtml);
   const textBlocks = blocks.filter((b) => /\b(html-block|sqs-block-html|markdown-block|sqs-block-markdown)\b/.test(b.cls));
   const videoBlocks = blocks.filter((b) => /\b(video-block|embed-block)\b/.test(b.cls));
 
@@ -138,7 +152,7 @@ function extract(bodyHtml) {
   const description = [], mentioned = [];
   let quote = '';
   let talkAbout = [], talkFromList = false;
-  const isBullet = (el) => el && el.tag === 'p' && /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)])\s/.test(el.text || '');
+  const isBullet = (el) => el && el.tag === 'p' && /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)]|\d{1,2}:\d{2}(?::\d{2})?)\s/.test(el.text || '');
   const isLinkLine = (el) => el && (/https?:\/\/|\bwww\.|\d{3}[-.]\d{3}[-.]\d{4}|\bhotline\b|\btext \w+ to \d{3,6}/i.test(el.text || '') || /<a\b/i.test(el.html || ''));
   for (let ei = 0; ei < els.length; ei++) {
     const el = els[ei];
@@ -182,12 +196,13 @@ function extract(bodyHtml) {
       if (el.tag === 'ul' || el.tag === 'ol') { if (!talkFromList) { talkAbout = listItems(el.html); talkFromList = true; } continue; }
       if (isHeading(el)) { state = 'other'; continue; }
       // older posts write the list as paragraphs: "+ item", "- item", "\u2192 item"
-      const bullet = /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)])\s*(.+)$/.exec(el.text || '');
+      const bullet = /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)]|\d{1,2}:\d{2}(?::\d{2})?\s)\s*(.+)$/.exec(el.text || '');
       if (bullet) talkAbout.push(bullet[1].trim());
       else if (el.text && !talkAbout.length) talkAbout.push(el.text);
       else if (el.text && talkAbout.length) state = 'other';
     } else if (state === 'mentioned') {
       if (isHeading(el) && !/^(call|text|visit|go to)\b/i.test(el.text)) { state = 'other'; continue; }
+      if (FOOTER.test(el.text) || BOILERPLATE.test(el.text)) { state = 'other'; continue; }
       if (el.text) mentioned.push(el);
     }
   }
@@ -208,4 +223,4 @@ function extract(bodyHtml) {
   };
 }
 
-module.exports = { extract };
+module.exports = { extract, splitBlocks };

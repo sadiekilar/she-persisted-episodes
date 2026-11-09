@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { SITE, COLLECTION, INDEX_DIR, sleep, fetchJson, htmlToText, htmlToMarkdown, wordCount, decodeEntities, episodeFile, readEpisodes, parseEpisode, writeEpisode, transcriptOf } = require('./lib');
-const { extract } = require('./sections');
+const { extract, splitBlocks } = require('./sections');
 const { withTranscript } = require('./flightcast');
 
 const DELAY_MS = 600;
@@ -30,13 +30,6 @@ function normalize(item) {
     publishOn: item.publishOn || item.addedOn || 0,
     bodyHtml: item.body || '',
   };
-}
-
-function splitBlocks(bodyHtml) {
-  return bodyHtml.split(/(?=<div class="sqs-block )/).slice(1).map((html) => ({
-    cls: (/^<div class="sqs-block ([^"]+)"/.exec(html) || [, ''])[1],
-    html,
-  }));
 }
 
 function audioUrl(bodyHtml) {
