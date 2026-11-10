@@ -21,6 +21,7 @@ const clip = (s, n) => {
 // Corrections kept in the repo (they survive a re-import, which only refreshes Squarespace's fields):
 //   excerpt_override            replaces the Squarespace excerpt everywhere the index uses it
 //   description_override_html   replaces the post description on the episode page
+//   mentioned_override_html     replaces the post's "mentioned" links on the episode page
 //   note_html                   a note shown under the description (e.g. a correction)
 // Remove an override once the post itself has been fixed in Squarespace.
 const HIDDEN_TAGS = ['teen mental health', 'sleep'];
@@ -31,6 +32,7 @@ const episodes = readEpisodes().map((e) => {
   e.meta = { ...e.meta, tags };
   if (e.meta.excerpt_override) e.meta.excerpt = e.meta.excerpt_override;
   if (e.meta.description_override_html) e.meta.description_html = e.meta.description_override_html;
+  if (e.meta.mentioned_override_html) e.meta.mentioned_html = e.meta.mentioned_override_html;
   return e;
 });
 

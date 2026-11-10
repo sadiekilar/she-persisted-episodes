@@ -242,8 +242,9 @@
   function glyph(url, cls) { return '<span class="sp-glyph' + (cls ? ' ' + cls : '') + '" style="--icon:url(' + url + ')" aria-hidden="true"></span>'; }
   function fmtDate(iso) { var d = new Date(iso + 'T00:00:00'); return isNaN(d) ? '' : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).toLowerCase(); }
   // Quote markup: words written in CAPS are the emphasis (upright, uppercase); the rest is lowercase italic.
+  // Punctuation right after a CAPS run stays upright with it: an italic period tucks under the last capital and disappears.
   function quoteHtml(q) {
-    var out = '', re = /\b[A-Z][A-Z0-9'\u2019-]*(?:\s+[A-Z][A-Z0-9'\u2019-]*)*\b/g, last = 0, m;
+    var out = '', re = /\b[A-Z][A-Z0-9'\u2019-]*(?:\s+[A-Z][A-Z0-9'\u2019-]*)*\b[.,;:!?\u2026]*/g, last = 0, m;
     while ((m = re.exec(q))) {
       if (m[0].replace(/[^A-Z]/g, '').length < 2) continue; // a lone "I" isn't emphasis
       out += esc(q.slice(last, m.index).toLowerCase()) + '<b>' + esc(m[0]) + '</b>';

@@ -92,7 +92,7 @@ Each post is rebuilt from `index/episodes/ep-NNN.json`: back link, episode numbe
 
 **Tags** for posts that have none in Squarespace are suggested by `tags.js` from the existing tag list and kept in the repo only (`tags_override`, listed in `index/tags-review.md`, editable). Squarespace tags always win once a post has any. `tags.js` also hides `HIDDEN` tags and proposes the site-only `EXTRA` tags (therapy & treatment, parents, high school) per episode; adding a tag to `EXTRA` re-checks every episode on the next run. Suggestions require the episode to be substantially about the topic, not a passing mention.
 
-**Corrections** that Squarespace doesn't have yet can be kept in the episode file; a re-import leaves them alone: `excerpt_override` (replaces the Squarespace excerpt wherever the index uses it), `description_override_html` (replaces the description on the episode page) and `note_html` (a note shown under the description, e.g. a correction). Remove an override once the post itself is fixed in Squarespace.
+**Corrections** that Squarespace doesn't have yet can be kept in the episode file; a re-import leaves them alone: `excerpt_override` (replaces the Squarespace excerpt wherever the index uses it), `description_override_html` (replaces the description on the episode page), `mentioned_override_html` (replaces the "mentioned" links) and `note_html` (a note shown under the description, e.g. a correction). Remove an override once the post itself is fixed in Squarespace.
 
 A quote can also be written into the post: `pull quote:` followed by the quote, on the same line or the next. It counts as approved and skips the issue.
 

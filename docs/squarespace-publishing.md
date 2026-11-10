@@ -49,6 +49,25 @@ These few are in the Squarespace text itself. The episode pages already show the
 - **88**, description and excerpt: `an M.S in` → `an M.S. in`, and `(bit and little t)` → `(big and little t)`
 - **199**, excerpt only (Settings → Options → Excerpt): `work,The Breakthrough Years` → `work, The Breakthrough Years`
 
+## 4b. copy fixes from the 2026-11-10 review
+
+Also already corrected on the episode pages (`description_override_html`, `excerpt_override`, `mentioned_override_html`); make the same change in each post:
+
+- **245** and **244**, mentioned: link the whole phrase `grit lab recap ep` (only `grit lab recap` is linked)
+- **240**, description: `marriage and family Therapy` → `marriage and family therapy`
+- **235**, description: `kara loewentheil—a nyt` → `kara loewentheil— a nyt`
+- **234**, description: `anxiety, SI, depression` → `anxiety, si, depression`
+- **233**, description: make `options` bold with the rest of `why adolescents deserve better mental health care options`
+- **265**, description and excerpt: `brief mentions of SH` → `brief mentions of sh`
+- **224**, mentioned: `DBT handout on shame` and `DBT skills for shame` → `dbt …`
+- **222**, description and excerpt: `anhalt—clinical` → `anhalt— clinical`, `fit—and` → `fit— and`
+- **260**, description: `conference—the` → `conference— the`; excerpt: the same, plus `hardcastle—a` → `hardcastle— a`
+- **261** and **262**, description and excerpt: `aguirre—an` → `aguirre— an`
+- **263**, excerpt: `better”—mostly` → `better”— mostly`, `recovery—and` → `recovery— and`
+- **53**, description: the instagram link covers `@camilavol`; extend it to `@camilavola`
+
+The quote periods (230, 232, 233, 237, 240) needed no post change: `site/episode.js` now keeps punctuation after a CAPS word upright, so it no longer hides under the last capital.
+
 ## 5. afterwards: re-sync and drop the repo-side overrides
 
 The nightly job only looks at the newest page of posts, so after editing the posts run:
@@ -57,4 +76,4 @@ The nightly job only looks at the newest page of posts, so after editing the pos
 npm run import:all && npm run build
 ```
 
-Then remove `excerpt_override` from `episodes/ep-244.md` and `excerpt_override` + `description_override_html` from `episodes/ep-249.md` (keep `note_html`), and the overrides from step 4 (`description_override_html` in 261, 243, 188 and 88; `excerpt_override` in 88 and 199) once those posts are fixed. Run `npm run build` again and push.
+Then remove `excerpt_override` from `episodes/ep-244.md` and `excerpt_override` + `description_override_html` from `episodes/ep-249.md` (keep `note_html`), and the overrides from step 4 (`description_override_html` in 261, 243, 188 and 88; `excerpt_override` in 88 and 199) once those posts are fixed, and the 4b overrides the same way. Run `npm run build` again and push.
