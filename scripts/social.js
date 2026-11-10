@@ -219,7 +219,8 @@ async function claude(system, user) {
     if ((res.status === 429 || res.status >= 500) && attempt < 5) { await sleep(5000 * attempt); continue; }
     if (!res.ok) throw new Error(`Claude API ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const data = await res.json();
-    return claudeText(data);
+    // both replies are markdown; Sonnet 5.5 sometimes wraps one in a ```markdown fence
+    return claudeText(data).trim().replace(/^```(?:markdown|md)?\s*\n([\s\S]*?)\n```$/, '$1');
   }
 }
 const VOICE = `"she persisted" is a gen z mental health podcast hosted by sadie sutton; the audience is women 15–25. The show writes in lowercase with a few CAPS words for emphasis, plain and warm, no hype, no emojis.`;

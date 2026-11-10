@@ -4,7 +4,6 @@ Generated 2026-11-10 from index/social/posts.json. lift = views / median views o
 
 ## playbook (Claude's read of the numbers)
 
-```markdown
 **what travels** (youtube shorts, baseline median 1,030 views; lift = x baseline)
 
 - **"this is" openers** beat baseline: n=13, lift 1.24, 85% of posts above 1x. the best-performing hook type by far, though n is small.
@@ -41,7 +40,6 @@ Generated 2026-11-10 from index/social/posts.json. lift = views / median views o
 - she drops the hashtags from drafts, though 1–2 hashtags are linked to higher lift.
 - she keeps exactly one CAPS word, which matches the data.
 - she often moves toward a broader or more informational angle, and in two cases adds "!!". n=8 edits, so this is a tendency, not a rule.
-```
 
 ## youtube:short (566 posts with a lift; baseline 1030.5 views)
 
