@@ -135,9 +135,25 @@ function writeEpisode(file, meta, body) {
 }
 
 // Everything under the "## transcript" heading that import.js inserts.
+// Claude API, shared by summarize / tags / topics / chapters / social. Claude Sonnet 5.5 thinks before it
+// answers and the thinking counts toward max_tokens, so the cap leaves room for it; low effort keeps it short.
+// A request the model declines is re-run on a fallback model ("default" picks one by the reason it declined).
+const CLAUDE_URL = 'https://api.anthropic.com/v1/messages';
+const CLAUDE_MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-5-5';
+const claudeRequest = (key, system, user) => ({
+  method: 'POST',
+  headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01', 'anthropic-beta': 'server-side-fallback-2026-07-01' },
+  body: JSON.stringify({ model: CLAUDE_MODEL, max_tokens: 16000, output_config: { effort: 'low' }, fallbacks: 'default', system, messages: [{ role: 'user', content: user }] }),
+});
+// The reply's text; thinking and fallback blocks are skipped. A request declined all the way down is an error.
+function claudeText(data) {
+  if (data.stop_reason === 'refusal') throw new Error(`Claude declined (${(data.stop_details && data.stop_details.category) || 'no category'})`);
+  return (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('');
+}
+
 function transcriptOf(body) {
   const i = body.search(/^## transcript\s*$/m);
   return i < 0 ? '' : body.slice(i).replace(/^## transcript\s*/, '').trim();
 }
 
-module.exports = { SITE, COLLECTION, ROOT, EPISODES_DIR, INDEX_DIR, sleep, fetchJson, decodeEntities, tidyHtml, htmlToText, htmlToMarkdown, wordCount, parseEpisode, serializeEpisode, episodeFile, readEpisodes, writeEpisode, transcriptOf };
+module.exports = { CLAUDE_URL, claudeRequest, claudeText, SITE, COLLECTION, ROOT, EPISODES_DIR, INDEX_DIR, sleep, fetchJson, decodeEntities, tidyHtml, htmlToText, htmlToMarkdown, wordCount, parseEpisode, serializeEpisode, episodeFile, readEpisodes, writeEpisode, transcriptOf };

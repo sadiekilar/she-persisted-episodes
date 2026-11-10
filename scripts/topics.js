@@ -7,9 +7,8 @@
 //   ANTHROPIC_API_KEY=… node scripts/topics.js [--limit N]
 const fs = require('fs');
 const path = require('path');
-const { INDEX_DIR, readEpisodes, writeEpisode, htmlToText, sleep } = require('./lib');
+const { CLAUDE_URL, claudeRequest, claudeText, INDEX_DIR, readEpisodes, writeEpisode, htmlToText, sleep } = require('./lib');
 
-const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
 const reviewFile = path.join(INDEX_DIR, 'topics-review.md');
 const COVERS = /\b(discuss|talk(ed)? about|cover|dive into|share|explain|answer|walk through|break down|unpack)\w*\b/i;
 const shortTitle = (m) => m.title.replace(/^\d+[.:]\s*/, '').slice(0, 70);
@@ -28,18 +27,11 @@ function readReview() {
 }
 
 async function ask(ep, key) {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
-    body: JSON.stringify({
-      model: MODEL, max_tokens: 400,
-      system: 'A podcast episode description says in prose what the episode covers. Turn that into the list of topics, in the order mentioned: 3 to 10 short chapter titles, lowercase, each a phrase lifted from the description (never a topic the description does not mention; never the guest bio or the host\'s outro). Return only a JSON array of strings; return [] if the description does not say what is covered.',
-      messages: [{ role: 'user', content: `title: ${ep.meta.title}\ndescription: ${text(ep.meta)}` }],
-    }),
-  });
+  const SYSTEM = 'A podcast episode description says in prose what the episode covers. Turn that into the list of topics, in the order mentioned: 3 to 10 short chapter titles, lowercase, each a phrase lifted from the description (never a topic the description does not mention; never the guest bio or the host\'s outro). Return only a JSON array of strings; return [] if the description does not say what is covered.';
+  const res = await fetch(CLAUDE_URL, claudeRequest(key, SYSTEM, `title: ${ep.meta.title}\ndescription: ${text(ep.meta)}`));
   if (!res.ok) throw new Error(`Claude API ${res.status}`);
   const data = await res.json();
-  const out = (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('');
+  const out = claudeText(data);
   const m = /\[[\s\S]*\]/.exec(out);
   return (m ? JSON.parse(m[0]) : []).map((t) => String(t).trim().replace(/[.;]+$/, '')).filter((t) => t && t.length <= 120).slice(0, 10);
 }

@@ -4,9 +4,8 @@
 //   ANTHROPIC_API_KEY=… node scripts/summarize.js [--limit N]
 // Episodes summarized before their Flightcast transcript existed got no quotes; those are
 // re-asked for quotes only (once, marked quotes_checked) now that the transcript is there.
-const { readEpisodes, writeEpisode, sleep } = require('./lib');
+const { CLAUDE_URL, claudeRequest, claudeText, readEpisodes, writeEpisode, sleep } = require('./lib');
 
-const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
 const MAX_CHARS = 150000;
 
 const SYSTEM = `You write archive metadata for "she persisted", a gen z mental health podcast hosted by sadie sutton. The audience is women 15–25. Write in the show's voice: all lowercase, plain, warm, no hype.
@@ -19,15 +18,11 @@ Return only a JSON object with these keys:
 async function summarize(ep, key) {
   const user = `title: ${ep.meta.title}\ndate: ${ep.meta.date}\ntags: ${(ep.meta.tags || []).join(', ')}\nexcerpt: ${ep.meta.excerpt || ''}\n\nshow notes and transcript:\n\n${ep.body.slice(0, MAX_CHARS)}`;
   for (let attempt = 1; ; attempt++) {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
-      body: JSON.stringify({ model: MODEL, max_tokens: 1024, system: SYSTEM, messages: [{ role: 'user', content: user }] }),
-    });
+    const res = await fetch(CLAUDE_URL, claudeRequest(key, SYSTEM, user));
     if ((res.status === 429 || res.status >= 500) && attempt < 5) { await sleep(5000 * attempt); continue; }
     if (!res.ok) throw new Error(`Claude API ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const data = await res.json();
-    const text = (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('');
+    const text = claudeText(data);
     const m = /\{[\s\S]*\}/.exec(text);
     if (!m) throw new Error('no JSON in response');
     const out = JSON.parse(m[0]);

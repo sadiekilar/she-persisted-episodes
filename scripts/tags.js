@@ -7,9 +7,8 @@
 //   ANTHROPIC_API_KEY=… node scripts/tags.js [--limit N]
 const fs = require('fs');
 const path = require('path');
-const { INDEX_DIR, readEpisodes, writeEpisode, sleep } = require('./lib');
+const { CLAUDE_URL, claudeRequest, claudeText, INDEX_DIR, readEpisodes, writeEpisode, sleep } = require('./lib');
 
-const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
 const NOT_TOPICS = new Set(['sadie recommends']);
 const HIDDEN = ['teen mental health', 'sleep'];
 const EXTRA = {
@@ -57,14 +56,10 @@ function readReview(byNumber) {
 }
 
 async function ask(system, user, key) {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
-    body: JSON.stringify({ model: MODEL, max_tokens: 200, system, messages: [{ role: 'user', content: user }] }),
-  });
+  const res = await fetch(CLAUDE_URL, claudeRequest(key, system, user));
   if (!res.ok) throw new Error(`Claude API ${res.status}`);
   const data = await res.json();
-  const text = (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('');
+  const text = claudeText(data);
   const m = /\[[\s\S]*\]/.exec(text);
   return (m ? JSON.parse(m[0]) : []).map((t) => String(t).toLowerCase().trim());
 }

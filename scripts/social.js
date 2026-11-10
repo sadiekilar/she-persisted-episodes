@@ -22,7 +22,7 @@
 //   episode is optional: "ep. 212" in the caption, or a hook matching a known YouTube Short, fills it.
 const fs = require('fs');
 const path = require('path');
-const { INDEX_DIR, readEpisodes, sleep } = require('./lib');
+const { CLAUDE_URL, claudeRequest, claudeText, INDEX_DIR, readEpisodes, sleep } = require('./lib');
 const { formatOf } = require('./format');
 
 const ROOT = path.join(__dirname, '..');
@@ -30,7 +30,6 @@ const SNAP_DIR = path.join(ROOT, 'analytics', 'youtube');
 const IMPORT_DIR = path.join(ROOT, 'analytics', 'imports', 'social');
 const OUT = path.join(INDEX_DIR, 'social');
 const KEY = process.env.ANTHROPIC_API_KEY;
-const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
 const today = new Date().toISOString().slice(0, 10);
 const DAY = 86400e3;
 
@@ -214,20 +213,20 @@ function insightsMarkdown(ins, playbook) {
 }
 
 // ---------- Claude ----------
-async function claude(system, user, maxTokens) {
+async function claude(system, user) {
   for (let attempt = 1; ; attempt++) {
-    const res = await fetch('https://api.anthropic.com/v1/messages', { method: 'POST', headers: { 'content-type': 'application/json', 'x-api-key': KEY, 'anthropic-version': '2023-06-01' }, body: JSON.stringify({ model: MODEL, max_tokens: maxTokens, system, messages: [{ role: 'user', content: user }] }) });
+    const res = await fetch(CLAUDE_URL, claudeRequest(KEY, system, user));
     if ((res.status === 429 || res.status >= 500) && attempt < 5) { await sleep(5000 * attempt); continue; }
     if (!res.ok) throw new Error(`Claude API ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const data = await res.json();
-    return (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('');
+    return claudeText(data);
   }
 }
 const VOICE = `"she persisted" is a gen z mental health podcast hosted by sadie sutton; the audience is women 15–25. The show writes in lowercase with a few CAPS words for emphasis, plain and warm, no hype, no emojis.`;
 async function playbook(ins, edits) {
   const sys = `You are the show's social editor. ${VOICE}\n\nYou are given per-feature lift tables and the top and bottom posts per platform, plus a log of how sadie edited past draft hooks before posting. Write a short playbook in markdown (no title), lowercase, under 450 words:\n1. "what travels": 4–7 bullets on which hook types, lengths, phrasings and topics beat the baseline, each citing n and lift and quoting one real hook.\n2. "what sinks": 2–4 bullets.\n3. "phrasings to reuse": 6–10 reusable hook templates in the show's voice, derived from the winners, with a blank like ___ where the topic goes.\n4. "how sadie edits": 2–4 bullets on what her edits to drafts have in common, if there are any edits; otherwise say there are none yet.\nOnly claim a pattern where n ≥ 8. Say when the data is thin.`;
   const user = `insights:\n${JSON.stringify(ins, null, 0).slice(0, 60000)}\n\nedits log (draft → what was actually posted):\n${JSON.stringify((edits || []).slice(-40), null, 0)}`;
-  return claude(sys, user, 1800);
+  return claude(sys, user);
 }
 
 // ---------- drafts and edits ----------
@@ -273,7 +272,7 @@ async function drafts(episodes, posts, playbookText, edits) {
     if (!paras) continue;
     const user = `episode ${ep.meta.number}: ${ep.meta.title}\nformat: ${ep.meta.format || ''}; tags: ${(ep.meta.tags || []).join(', ')}\n\nplaybook:\n${playbookText || '(none yet: use clear, specific, second-person hooks)'}\n\nhow sadie edited past drafts (draft → posted):\n${(edits || []).filter((e) => e.edited).slice(-15).map((e) => `- ${e.draft} → ${e.posted}`).join('\n') || '(no edits yet)'}\n\ntranscript:\n${paras.slice(0, 120000)}`;
     try {
-      const md = await claude(sys, user, 2500);
+      const md = await claude(sys, user);
       blocks += `\n## ep ${ep.meta.number} · ${ep.meta.title}\n\n${md.trim()}\n`;
       added++;
     } catch (e) { console.error(`social: drafts for ${ep.meta.number} failed: ${e.message}`); }

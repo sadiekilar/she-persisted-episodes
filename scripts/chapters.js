@@ -3,10 +3,9 @@
 // topic starts, via the Claude API. Only for episodes whose transcript paragraphs carry
 // timestamps and that have bullets but no chapters yet.
 //   ANTHROPIC_API_KEY=… node scripts/chapters.js [--limit N]
-const { readEpisodes, writeEpisode, sleep } = require('./lib');
+const { CLAUDE_URL, claudeRequest, claudeText, readEpisodes, writeEpisode, sleep } = require('./lib');
 const { transcriptParagraphs } = require('./transcript');
 
-const MODEL = process.env.SUMMARY_MODEL || 'claude-sonnet-4-5';
 const fmt = (t) => `${Math.floor(t / 60)}:${String(t % 60).padStart(2, '0')}`;
 
 const SYSTEM = `You align podcast show-notes bullets to a timestamped transcript. For each bullet, find the paragraph where that topic genuinely begins. Return only a JSON array of objects {"title": <bullet, verbatim>, "t": <seconds, an integer taken from the paragraph timestamps>} in the order the topics occur in the episode. Chapters must have strictly increasing t; the first chapter may use t = 0 if its topic opens the episode. If a bullet never clearly starts anywhere, leave it out.`;
@@ -14,14 +13,10 @@ const SYSTEM = `You align podcast show-notes bullets to a timestamped transcript
 async function align(ep, paragraphs, key) {
   const lines = paragraphs.filter((p) => p.t != null).map((p) => `[${p.t}s ${fmt(p.t)}] ${p.text.slice(0, 400)}`).join('\n');
   const user = `bullets:\n${ep.meta.talk_about.map((b) => `- ${b}`).join('\n')}\n\ntranscript (timestamp in seconds, then text):\n${lines.slice(0, 180000)}`;
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
-    body: JSON.stringify({ model: MODEL, max_tokens: 1500, system: SYSTEM, messages: [{ role: 'user', content: user }] }),
-  });
+  const res = await fetch(CLAUDE_URL, claudeRequest(key, SYSTEM, user));
   if (!res.ok) throw new Error(`Claude API ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
-  const text = (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('');
+  const text = claudeText(data);
   const m = /\[[\s\S]*\]/.exec(text);
   if (!m) throw new Error('no JSON in response');
   const out = JSON.parse(m[0]).map((c) => ({ t: Math.max(0, Math.round(+c.t || 0)), title: String(c.title || '').trim() })).filter((c) => c.title);
