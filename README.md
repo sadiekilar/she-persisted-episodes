@@ -53,7 +53,7 @@ The nightly job only looks at the newest page of posts. If you change tags or ti
 
 1. **GitHub**: create a public repo named `she-persisted-episodes`, push this folder to `main`.
 2. **Pages**: Settings → Pages → deploy from branch `main`, folder `/ (root)`.
-3. **Secrets**: Settings → Secrets and variables → Actions → add `ANTHROPIC_API_KEY` and `YOUTUBE_API_KEY`.
+3. **Secrets**: Settings → Secrets and variables → Actions → add `ANTHROPIC_API_KEY_2` (the workflow passes it to the scripts as `ANTHROPIC_API_KEY`) and `YOUTUBE_API_KEY`.
 4. **Embed**: in `site/embed.html`, `PAGES_BASE` is set to `https://sadiekilar.github.io/she-persisted-episodes/`; change it if the repo moves. Commit and push.
 5. **Squarespace, episodes page**: edit the `/episodes` page, add a section above the blog list, add a Code Block (mode HTML, "display source" off) and paste in all of `site/embed.html`. Scripts in Code Blocks do not run while you are logged in and editing; check the result in a private window.
 6. **Squarespace, episode posts**: Settings → Developer tools → Code Injection → **Header**, paste (and remove any older copy from the Footer box):
