@@ -2,6 +2,43 @@
 
 Generated 2026-11-10 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
+## playbook (Claude's read of the numbers)
+
+**what travels**
+
+- **short hooks (≤6 words)** beat baseline on shorts, 0.94× lift, n=62, 47% above baseline. "just keep going | Ep. 121. feat. Mary's Cup of Tea"
+- **exactly 1 CAPS word** lifts shorts to 0.82× (n=197, 42% above baseline) vs. no caps at 0.28×. episode titles also do well with 1–2 caps words.
+- **"this is" framing** on shorts: 1.24× lift, n=13, 85% above baseline. declarative, not prescriptive.
+- **1–2 hashtags** on shorts lift to 1.0× (n=199, 50% above) vs. zero hashtags at 0.16×. clean but not hashtag-stuffed.
+- **social media, sadie recommends, troubled teen industry, 20s, depression, relationships** all travel on shorts (lifts 0.78× to 1.11×, n=8–153). anxiety, self-improvement, trauma sink.
+- **numbered lists + "i wish i knew"** work on episodes (1.82× and 1.91× lift) but sample sizes are tiny (n=3–4).
+- **long titles (12+ words)** on episodes beat short ones: 0.84× vs. 0.40×, n=159. room to tell the story.
+
+**what sinks**
+
+- **questions and "you/your" addressing** both underperform on shorts (lifts 0.39–0.50× vs. statements at 0.36×, but statements also struggle). direct address doesn't help.
+- **numbers in the hook** tank shorts: 0.17× lift (n=372) vs. no number at 1.0× (n=194). the exception is mini eps where numbers help (4.05× lift, n=7).
+- **long shorts (12+ words)** get 0.13× lift, n=107, only 8% above baseline. brevity wins.
+
+**phrasings to reuse**
+
+- just ___ (plain truth, no hype)
+- how ___ affects ___
+- the problem of ___ 
+- ___ 101
+- a therapist's advice on ___
+- tips for ___
+- red flags that ___
+- what you need to know about ___
+- why ___ can be so ___
+- ___ saved ___, not just ___
+
+**how sadie edits**
+
+- she rewrites vague concepts into specific topics: "we don't apply the same thinking to our own goals" → "how to achieve your goals this year using PSYCHOLOGY"
+- she swaps first-person observation ("teens open up when you DON'T tell them what's wrong") for broader framing that names the audience or payoff ("what teens ACTUALLY say when they start therapy")
+- she drops hashtags and reframes with question marks or exclamation points instead of inline tags
+
 ## youtube:short (566 posts with a lift; baseline 1030.5 views)
 
 **hook_type**
@@ -247,7 +284,7 @@ Generated 2026-11-10 from index/social/posts.json. lift = views / median views o
 
 **top posts**
 
-- 65.56× · 8424 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 65.57× · 8426 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
 - 42.73× · 5491 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
 - 27.67× · 3555 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
 - 27.58× · 3544 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
@@ -257,8 +294,8 @@ Generated 2026-11-10 from index/social/posts.json. lift = views / median views o
 - 9.76× · 1254 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
 - 9.51× · 1222 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
 - 8.6× · 1105 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 6.96× · 895 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
-- 6.75× · 868 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
+- 6.97× · 896 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 6.75× · 867 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
 

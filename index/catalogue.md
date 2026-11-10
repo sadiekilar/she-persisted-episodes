@@ -2,13 +2,13 @@
 
 259 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (39), college (36), high school (34), trauma (22), social media (19), body image (17), 20s (16), career (16), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (39), college (36), high school (35), trauma (22), social media (19), body image (17), 20s (16), career (16), troubled teen industry (15), adhd (6)
 
 ## 266. i thought college would make me happier (what i wish i knew)
 date: 2026-11-07 | https://shepersistedpodcast.com/episodes/266 | 35 min | video
-tags: college, 20s
+tags: college, 20s, high school
 format: solo
-summary: if you’ve just started college and are wondering why everyone seems happier or better adjusted than you are, then this episode is for YOU! in this solo episode, i break down what i wish i’d known when i started college— including what to do if college isn’t feeling as fun or life-changing as you’d expected. whether you’re figuring out your major or struggling with your social life, this episode is full of practical tips on adjusting to college life. so, if comparing yourself to others in college makes you always feel like you’re falling short, this episode is your guide to forming new, healthy habits!
+summary: sadie reflects on her first year of college and what she wishes she'd known about the adjustment process. she covers why everyone seems more adjusted than they are, the reality that looking comfortable and feeling comfortable aren't the same, and how college won't magically fix the things you struggled with before. she talks through finding your people (not just a group), managing the exhaustion of constant choice, and separating what you actually want from what seems like you should want it. if you're a few months in and college doesn't feel how you expected, this episode offers practical reframes and steps forward.
 quote: LOOKING adjusted and FEELING adjusted are not the SAME THING.
 chapters: what i learned from my first few months at college; finding your friend group (+ why it can be so tricky); when your college expectations don’t match the reality; feeling jealousy over social opportunities; freedom in college + building a routine; a journal prompt for college burnout
 

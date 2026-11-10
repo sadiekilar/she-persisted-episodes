@@ -5,12 +5,16 @@
 ## 266. i thought college would make me happier (what i wish i knew)
 
 - date: 2026-11-07
-- tags: college, 20s
-- guests: not extracted yet
+- tags: college, 20s, high school
+- guests: none (solo)
 - url: https://shepersistedpodcast.com/episodes/266
 - transcript: episodes/ep-266.md (partial)
 
-if you’ve just started college and are wondering why everyone seems happier or better adjusted than you are, then this episode is for YOU! in this solo episode, i break down what i wish i’d known when i started college— including what to do if college isn’t feeling as fun or life-changing as you’d expected. whether you’re figuring out your major or struggling with your social life, this episode is full of practical tips on adjusting to college life. so, if comparing yourself to others in college makes you always feel like you’re falling short, this episode is your guide to forming new, healthy habits!
+sadie reflects on her first year of college and what she wishes she'd known about the adjustment process. she covers why everyone seems more adjusted than they are, the reality that looking comfortable and feeling comfortable aren't the same, and how college won't magically fix the things you struggled with before. she talks through finding your people (not just a group), managing the exhaustion of constant choice, and separating what you actually want from what seems like you should want it. if you're a few months in and college doesn't feel how you expected, this episode offers practical reframes and steps forward.
+
+> looking adjusted and feeling adjusted are not the same thing.
+> you can genuinely like your school and still feel bad sometimes.
+> structure isn't the opposite of freedom. it is what allows you to then exercise that autonomy and that choice.
 
 ## 265. why does it take a crisis to be taken seriously?
 

@@ -1670,3 +1670,139 @@ why: the stat (4.5–5 hrs/day on social) calls out screen time as self-sabotage
 - [youtube] signs you're getting in your own WAY | Ep. 213 John R. Miles #socialmedia #distraction
 - [instagram] spending 5 hours a day on social? you might be a "visionary arsonist"
 - [tiktok] are you a visionary ARSONIST? 5hrs on social
+
+## ep 266 · 266. i thought college would make me happier (what i wish i knew)
+
+### moment 1 · 0:28
+why: names the invisible experience everyone hides—you see the posed group but not the solo dinner or the doubt. ultra-relatable for anyone comparing their mess to someone's highlight reel.
+- [youtube] you don't see them eat dinner alone last night #college #mentalhealth
+- [instagram] you're not seeing the moments where they ate dinner by themselves last night
+- [tiktok] you didn't see them eat alone last night
+
+### moment 2 · 4:04
+why: clean reframe: looking adjusted ≠ feeling adjusted. stops the comparison spiral in one line, travels as a copyable mantra.
+- [youtube] looking adjusted and feeling adjusted aren't the same #college #20s
+- [instagram] looking adjusted and feeling adjusted are not the same thing
+- [tiktok] looking adjusted ≠ feeling adjusted
+
+### moment 3 · 9:26
+why: unpacks the early-college friendship trap—groups form fast but closeness takes time. gives permission to skip the convenient crowd.
+- [youtube] a group is really visible but closeness isn't #college #relationships
+- [instagram] a group is really visible. closeness isn't
+- [tiktok] a group is visible. closeness isn't
+
+### moment 4 · 13:56
+why: lands the punch: college won't fix what you brought with you. shifts blame off the place, puts agency back on growth.
+- [youtube] you're just you in a new place #college #20s
+- [instagram] you're just kind of you in a new place
+- [tiktok] you're just you in a new place
+
+### moment 5 · 22:32
+why: concrete decision tree for jealousy—if no one knew, would you still want it? separates fomo from real desire.
+- [youtube] if no one else knew would you still want to go #college #20s
+- [instagram] if no one else knew that this was going on would you still wanna go?
+- [tiktok] if no one knew would you still want it?
+
+### moment 6 · 27:07
+why: flips the script on structure vs freedom—routine isn't the enemy, it's the foundation. actionable for burnt-out freshmen.
+- [youtube] structure isn't the opposite of freedom #college #20s
+- [instagram] structure isn't the opposite of freedom. it is what allows you to exercise that choice
+- [tiktok] structure isn't the opposite of freedom
+
+## ep 215 · 215. i interviewed my THERAPIST?!! validation, dbt, stigma + more feat. dr. caroline fleck
+
+### moment 1 · 5:50
+why: challenges the self-help "just change" model—many depressed people find therapy invalidating, not healing. relatable if you've felt like treatment wasn't helping.
+- [youtube] why therapy can feel INVALIDATING when you're depressed #mentalhealth #depression
+- [instagram] i found therapy punishing when i was depressed, not helpful
+- [tiktok] therapy felt punishing when i was depressed
+
+---
+
+### moment 2 · 24:38
+why: clean reframe: validation ≠ agreement. you can validate someone's emotion without endorsing their thought or behavior—a skill anyone can use.
+- [youtube] you can validate someone's EMOTIONS without agreeing #validation #relationships
+- [instagram] you can validate someone's emotions without agreeing with their thoughts or behavior
+- [tiktok] validation doesn't mean you agree
+
+---
+
+### moment 3 · 33:57
+why: surprising claim: we don't model self-validation as a society, we only model problem-solving. explains why so many people lack the skill.
+- [youtube] we don't model self-VALIDATION, only problem solving #genZ #mentalhealth
+- [instagram] we model problem-solving for our kids, not self-validation—and they never learn it
+- [tiktok] we never learned to validate ourselves
+
+---
+
+### moment 4 · 42:11
+why: the 24-hour rule in DBT is radical and travels—don't give attention after self-harm because attention reinforces it. hard boundary, clear why.
+- [youtube] why DBT therapists don't talk to clients for 24 HOURS after self-harm #DBT #therapy
+- [instagram] in dbt, therapists don't respond for 24 hours after self-harm—and here's why
+- [tiktok] dbt's 24-hour rule after self-harm
+
+---
+
+### moment 5 · 46:59
+why: concrete advice for friends in crisis: you're not betraying them by stepping back, you're helping them get real support. validates the fear, then reframes.
+- [youtube] how to support a friend in CRISIS without becoming their therapist #mentalhealth #boundaries
+- [instagram] if a friend is in crisis, the best thing you can do is help them get professional support—not become their therapist
+- [tiktok] you're not their therapist, help them find one
+
+---
+
+### moment 6 · 56:25
+why: personal and powerful—you have to make meaning out of suffering or it was for nothing. a choice everyone can make, and sadie's framework for the show.
+- [youtube] you have to make MEANING out of suffering or it was for nothing #mentalhealth #purpose
+- [instagram] if you don't make meaning out of suffering, it's just suffering—and it was for nothing
+- [tiktok] make meaning or it was for nothing
+
+## ep 212 · 212. how to be more resilient feat. dr. glenn schiraldi
+
+# Social Clips – Episode 212
+
+### moment 1 · 0:38
+why: shocking reframe—bright, popular people can still dislike themselves, and ACEs explain why. concrete hook that names the paradox without diagnosis jargon.
+- **[youtube]** why bright people don't like themselves #mentalhealth #trauma
+- **[instagram]** have you ever known somebody who's really sharp, bright, popular—and they don't like themselves?
+- **[tiktok]** bright people who don't like themselves
+
+---
+
+### moment 2 · 22:29
+why: crisp distinction between information and skills—piano/basketball analogy travels, plus the therapist dependency callout.
+- **[youtube]** information vs. SKILLS | resilience 101 #selfhelp #psychology
+- **[instagram]** you can read a beautiful book on basketball, but that doesn't make you good at it. mental health is the same.
+- **[tiktok]** reading about mental health ≠ skills
+
+---
+
+### moment 3 · 16:36
+why: ACE score primer with the 20-year lifespan stat—concrete, alarming, and names the unaddressed crisis.
+- **[youtube]** ACE scores can cost you 20 YEARS of life #aces #trauma
+- **[instagram]** adverse childhood experiences: the most important unaddressed public health problem facing our nation today.
+- **[tiktok]** ACEs can cost you 20 years of life
+
+---
+
+### moment 4 · 21:20
+why: right-brain trauma lodges below language—explains why "just get over it" fails. accessible neuroscience.
+- **[youtube]** why you can't just "get over" CHILDHOOD trauma #rightbrain #healing
+- **[instagram]** trauma doesn't register in the verbal brain. it's a felt sense in your body—and you can't talk your way out of it.
+- **[tiktok]** trauma isn't in your thoughts
+
+---
+
+### moment 5 · 29:44
+why: shame as a felt sense, not a thought—names the dread adults carry without knowing why. relatable mystery solved.
+- **[youtube]** shame gets imprinted EARLY in the right brain #selfesteem #childhoodtrauma
+- **[instagram]** shame gets imprinted in the right brain early on. people can't get talked out of it—you have to go deeper.
+- **[tiktok]** shame is a felt sense, not a thought
+
+---
+
+### moment 6 · 38:33
+why: unconditional worth vs. market worth—clear values claim, plus the kindness over punishment closer that reframes self-improvement.
+- **[youtube]** unconditional WORTH vs. market worth #selfesteem #resilience
+- **[instagram]** self-esteem isn't about your job or your car. it's the quiet feeling you get when you look in the mirror.
+- **[tiktok]** unconditional worth > market worth

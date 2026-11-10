@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T14:02:07.052Z",
+ "generatedAt": "2026-11-10T14:40:02.930Z",
  "snapshots": 17,
  "posts": 804,
  "with_stats": 804,
@@ -33,7 +33,7 @@
    "first_seen": "2026-11-08",
    "stats": {
     "as_of": "2026-11-10",
-    "views": 129,
+    "views": 128,
     "likes": 3,
     "comments": 0,
     "views_7d": null,
@@ -56,7 +56,7 @@
     "weekday": "sat"
    },
    "age_days": 4,
-   "views_per_day": 32.3,
+   "views_per_day": 32,
    "lift": null
   },
   {
@@ -10369,10 +10369,10 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-10",
-    "views": 8424,
+    "views": 8426,
     "likes": 172,
     "comments": 7,
-    "views_7d": 76,
+    "views_7d": 78,
     "views_30d": null
    },
    "features": {
@@ -10395,7 +10395,7 @@
    },
    "age_days": 451,
    "views_per_day": 18.7,
-   "lift": 65.56
+   "lift": 65.57
   },
   {
    "id": "yt:iSIwGO3DnpU",
@@ -26314,7 +26314,7 @@
    "stats": {
     "as_of": "2026-11-10",
     "views": 411,
-    "likes": 15,
+    "likes": 16,
     "comments": 0,
     "views_7d": 2,
     "views_30d": null
@@ -26393,10 +26393,10 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-10",
-    "views": 419,
+    "views": 420,
     "likes": 5,
     "comments": 0,
-    "views_7d": 2,
+    "views_7d": 3,
     "views_30d": null
    },
    "features": {
@@ -27853,10 +27853,10 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-10",
-    "views": 868,
+    "views": 867,
     "likes": 12,
     "comments": 2,
-    "views_7d": 7,
+    "views_7d": 6,
     "views_30d": null
    },
    "features": {
@@ -32019,10 +32019,10 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-10",
-    "views": 895,
+    "views": 896,
     "likes": 18,
     "comments": 1,
-    "views_7d": 5,
+    "views_7d": 6,
     "views_30d": null
    },
    "features": {
@@ -32043,7 +32043,7 @@
    },
    "age_days": 2041,
    "views_per_day": 0.4,
-   "lift": 6.96
+   "lift": 6.97
   },
   {
    "id": "yt:-wA8MG9-TTc",

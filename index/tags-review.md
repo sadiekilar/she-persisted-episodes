@@ -6,6 +6,7 @@ Hidden on the site (still in Squarespace): teen mental health, sleep.
 
 therapy & treatment, parents, high school are site-only tags, proposed per episode from its summary. Edit the tags after the "+" and commit to change one; leave it empty to remove them.
 
+- 266. i thought college would make me happier (what i wish i knew) + high school
 - 265. why does it take a crisis to be taken seriously? + therapy & treatment, parents
 - 263. what i wish i knew when i didn’t want to be alive + therapy & treatment
 - 262. your life isn’t going to feel like this forever (feat. dr. blaise agui + therapy & treatment, parents

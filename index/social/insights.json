@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T14:02:07.065Z",
+ "generatedAt": "2026-11-10T14:40:02.946Z",
  "note": "lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.",
  "baselines": {
   "youtube:episode": {
@@ -808,8 +808,8 @@
      "id": "yt:CWCjSR8_f20",
      "episode": 228,
      "hook": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
-     "lift": 65.56,
-     "views": 8424,
+     "lift": 65.57,
+     "views": 8426,
      "published": "2025-08-17",
      "hook_type": "statement"
     },
@@ -898,8 +898,8 @@
      "id": "yt:cBV3la9fqbE",
      "episode": 60,
      "hook": "60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski",
-     "lift": 6.96,
-     "views": 895,
+     "lift": 6.97,
+     "views": 896,
      "published": "2021-04-10",
      "hook_type": "statement"
     },
@@ -908,7 +908,7 @@
      "episode": 106,
      "hook": "106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop",
      "lift": 6.75,
-     "views": 868,
+     "views": 867,
      "published": "2022-07-10",
      "hook_type": "statement"
     }
