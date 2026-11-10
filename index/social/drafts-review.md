@@ -1806,3 +1806,117 @@ why: unconditional worth vs. market worth—clear values claim, plus the kindnes
 - **[youtube]** unconditional WORTH vs. market worth #selfesteem #resilience
 - **[instagram]** self-esteem isn't about your job or your car. it's the quiet feeling you get when you look in the mirror.
 - **[tiktok]** unconditional worth > market worth
+
+## ep 212 · 212. how to be more resilient feat. dr. glenn schiraldi
+
+### moment 1 · 21:20
+why: a relatable opener ("sharp, popular, doesn't like themselves") that lands on a clear reframe: shame is imprinted early in the right brain, so you can't think your way out of it.
+- [youtube] this is why you can't talk yourself out of SHAME #trauma #selfesteem
+- [instagram] you're not failing at positive thinking. shame lives somewhere words can't reach.
+- [tiktok] why you can't think your way out of SHAME
+
+### moment 2 · 19:37
+why: it explains why talk therapy alone sometimes doesn't work on early trauma, and what to try first instead. it's a clear claim that validates anyone who feels stuck.
+- [youtube] this is why talk therapy doesn't always work for TRAUMA #therapy #healing
+- [instagram] if you've felt stuck in therapy, this might be why. trauma registers in the body first.
+- [tiktok] why talking about it isn't helping
+
+### moment 3 · 12:12
+why: a concrete, low-effort tip that people can try as they watch. it works for busy people and is easy to follow.
+- [youtube] this is a 5 minute reset for when you're STRESSED #stress #resilience
+- [instagram] a quick body-based reset for when your stress is too high to think straight.
+- [tiktok] a 5-minute reset for a stressed brain
+
+### moment 4 · 13:54
+why: it shows how to turn a coping skill into a habit: log it, start in low-stress moments, then try it in hard ones. it's practical and easy to start today.
+- [youtube] this is how to make a coping skill ACTUALLY work #anxiety #copingskills
+- [instagram] reading about coping skills won't help. practicing them in small, low-stress moments will.
+- [tiktok] practice it when you're calm first
+
+### moment 5 · 36:09
+why: a surprising stat (99% of people have regrets) with a gentle, memorable line about self-compassion. it's quick, warm and easy to share.
+- [youtube] 99% of people have REGRETS and that's normal #selfcompassion #mentalhealth
+- [instagram] regret doesn't make you worthless. dr. schiraldi on being kind to yourself after a mistake.
+- [tiktok] 99% of people have regrets
+
+### moment 6 · 37:21
+why: it reframes self-worth as something quiet and internal, not tied to looks, money or achievements. it's a personal, comforting line for an audience under a lot of pressure.
+- [youtube] this is what real self-WORTH feels like #selfesteem #resilience
+- [instagram] worth isn't what you achieve. it's being quietly glad to be who you are.
+- [tiktok] worth doesn't come from achievement
+
+## ep 211 · 211. grit (I took angela duckworth's class at upenn)
+
+### moment 1 · 7:20
+why: a clear, surprising claim: the thing that predicts who quits isn't talent, it's attitude, and the west point example makes it concrete without needing the rest of the episode.
+- [youtube] this is what predicts who QUITS #grit #psychology
+- [instagram] west point picked the most talented people. 20% still dropped out.
+- [tiktok] talent doesn't predict who quits
+
+### moment 2 · 8:51
+why: a quotable one-line reframe, "our potential is one thing, what we do with it is another," that works as a standalone thought for anyone feeling behind.
+- [youtube] this is potential vs what you DO with it #grit #mindset
+- [instagram] our potential is one thing. what we do with it is another.
+- [tiktok] potential is only half of it
+
+### moment 3 · 12:15
+why: clears up the common confusion between grit and self-control, and gives the plain-language line that grit isn't white-knuckling through things you hate.
+- [youtube] this is grit, and it's not WHITE-KNUCKLING #grit #selfcontrol
+- [instagram] grit is not about doing things you don't want to do. that's self-control.
+- [tiktok] grit is not forcing yourself
+
+### moment 4 · 20:26
+why: a concrete, reassuring reframe for anyone stressed about plans: be flexible on small goals and rigid about the big one. it also introduces goal fusion as a tip for tedious tasks.
+- [youtube] this is how to stay FLEXIBLE with your goals #goals #grit
+- [instagram] be flexible with the small goals. be rigid with the big one.
+- [tiktok] flexible on small goals, firm on big
+
+### moment 5 · 30:15
+why: it directly contradicts a trend the audience sees daily ("never tell anyone your goal") with a research-backed counterpoint and a number.
+- [youtube] this is why you should TELL people your goals #goals #selfimprovement
+- [instagram] "never tell anyone your goal" is everywhere. the research says the opposite.
+- [tiktok] stop hiding your goals, tell people
+
+### moment 6 · 28:24
+why: a personal line from sadie about her biggest takeaway, and a gentler way to think about success: change the situation you're in rather than blaming yourself.
+- [youtube] this is the biggest takeaway from DUCKWORTH's class #grit #upenn
+- [instagram] the biggest thing i learned in angela duckworth's class wasn't about willpower.
+- [tiktok] it's not willpower, it's your setup
+
+## ep 210 · 210. why you’re feeling suicidal + a therapist’s advice on how to cope feat. kathryn gordon
+
+### moment 1 · 10:58
+why: a clear reframe that explains why "just do these things" backfires on someone who is hopeless, and it works for both the person struggling and the people around them.
+- [youtube] this is why advice can BACKFIRE #mentalhealth #depression
+- [instagram] when someone is hopeless, "why don't you just…" can make the shame WORSE
+- [tiktok] why "just do it" makes it WORSE
+
+### moment 2 · 8:19
+why: a plain-language answer to the question most people never get answered, which is why suicidal thoughts happen, and it covers isolation, feeling like a burden, and hopelessness.
+- [youtube] this is why suicidal thoughts HAPPEN #mentalhealth #depression
+- [instagram] a psychologist explains why isolation and feeling like a BURDEN raise suicidal thoughts
+- [tiktok] why suicidal thoughts HAPPEN
+
+### moment 3 · 16:06
+why: it busts a common fear with a direct, research-backed claim, and it's useful for anyone unsure whether to ask a friend how they're really doing.
+- [youtube] asking about suicide doesn't CAUSE it #suicideprevention #mentalhealth
+- [instagram] asking about suicide does NOT plant the idea, and it can ease distress
+- [tiktok] asking won't PLANT the idea
+
+### moment 4 · 19:35
+why: a concrete, relieving tip for friends, which is to ask, show up, gently point toward help, and remember it isn't your job to fix it.
+- [youtube] a therapist's advice on helping a FRIEND #mentalhealth #depression
+- [instagram] your job as a friend is to listen and stay close, not to FIX it
+- [tiktok] you can't FIX it for them
+
+### moment 5 · 34:40
+why: a surprising, practical list of crisis coping ideas, with a funny and memorable line about horror movies and jump scares.
+- [youtube] this is why HORROR movies help #mentalhealth #depression
+- [instagram] in a crisis, distraction is the point: comedy, a walk, a hot shower, a HORROR movie
+- [tiktok] you can't be sad during a JUMPSCARE
+
+### moment 6 · 38:34
+why: a hopeful, concrete fact that the most intense peak often eases within hours, paired with the idea of having a plan and people in place before it hits.
+- [youtube] intense suicidal thoughts often FADE #suicideprevention #mentalhealth
+- [instagram] research says the most intense suicidal thoughts often ease within HOURS
+- [tiktok] the peak often passes in HOURS

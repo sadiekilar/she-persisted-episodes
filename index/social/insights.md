@@ -4,40 +4,44 @@ Generated 2026-11-10 from index/social/posts.json. lift = views / median views o
 
 ## playbook (Claude's read of the numbers)
 
-**what travels**
+```markdown
+**what travels** (youtube shorts, baseline median 1,030 views; lift = x baseline)
 
-- **short hooks (≤6 words)** beat baseline on shorts, 0.94× lift, n=62, 47% above baseline. "just keep going | Ep. 121. feat. Mary's Cup of Tea"
-- **exactly 1 CAPS word** lifts shorts to 0.82× (n=197, 42% above baseline) vs. no caps at 0.28×. episode titles also do well with 1–2 caps words.
-- **"this is" framing** on shorts: 1.24× lift, n=13, 85% above baseline. declarative, not prescriptive.
-- **1–2 hashtags** on shorts lift to 1.0× (n=199, 50% above) vs. zero hashtags at 0.16×. clean but not hashtag-stuffed.
-- **social media, sadie recommends, troubled teen industry, 20s, depression, relationships** all travel on shorts (lifts 0.78× to 1.11×, n=8–153). anxiety, self-improvement, trauma sink.
-- **numbered lists + "i wish i knew"** work on episodes (1.82× and 1.91× lift) but sample sizes are tiny (n=3–4).
-- **long titles (12+ words)** on episodes beat short ones: 0.84× vs. 0.40×, n=159. room to tell the story.
+- **"this is" openers** beat baseline: n=13, lift 1.24, 85% of posts above 1x. the best-performing hook type by far, though n is small.
+- **short hooks, 6 words or fewer**: n=62, lift 0.94 vs 0.13 for 12+ words (n=107). example: "ANXIETY 101".
+- **exactly one CAPS word**: n=197, lift 0.82. zero caps gets 0.28, and two or more falls to 0.25 or lower. example: "how our CHILDHOOD affects our current emotions" (2.52).
+- **1–2 hashtags**: n=199, lift 1.00 vs 0.16 with none (n=367). this is a big gap, but it may overlap with newer posts, so read it with care.
+- **no number in the hook**: n=194, lift 1.00 vs 0.17 with one (n=372). likely partly an artifact of episode numbers in older titles.
+- **topics**: social media (n=34, 1.06), sadie recommends (n=27, 1.03), troubled teen industry (n=28, 0.96), 20s (n=40, 0.93). example: "A Therapist's Advice on BOUNDARIES".
+- **episodes**: troubled teen industry (n=11, 1.42) and trauma (n=17, 1.38) beat the 0.79 baseline.
 
 **what sinks**
 
-- **questions and "you/your" addressing** both underperform on shorts (lifts 0.39–0.50× vs. statements at 0.36×, but statements also struggle). direct address doesn't help.
-- **numbers in the hook** tank shorts: 0.17× lift (n=372) vs. no number at 1.0× (n=194). the exception is mini eps where numbers help (4.05× lift, n=7).
-- **long shorts (12+ words)** get 0.13× lift, n=107, only 8% above baseline. brevity wins.
+- **long hooks, 12+ words**: n=107, lift 0.13, only 8% above 1x.
+- **3 or more CAPS words**: n=94 combined, lift about 0.25. example: "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?!" (0.01).
+- **"watch this if", "stop / never", "how to"**: lifts of 0.07, 0.20 and 0.27. only "how to" has n≥8 (n=33).
+- **trauma, body image, anxiety and self-improvement on shorts**: lifts of 0.08 to 0.23 (n=29 to 110).
+- **mini and episode hook types are thin**, with n under 8 for most, so i won't claim patterns there.
 
 **phrasings to reuse**
 
-- just ___ (plain truth, no hype)
-- how ___ affects ___
-- the problem of ___ 
+- this is ___
 - ___ 101
 - a therapist's advice on ___
-- tips for ___
-- red flags that ___
-- what you need to know about ___
-- why ___ can be so ___
-- ___ saved ___, not just ___
+- how our ___ affects our current emotions
+- red flags that you don't have enough ___
+- ___ in treatment
+- just keep going
+- what if part of you doesn't want ___?
+- ___ (i wish i knew sooner)
 
 **how sadie edits**
 
-- she rewrites vague concepts into specific topics: "we don't apply the same thinking to our own goals" → "how to achieve your goals this year using PSYCHOLOGY"
-- she swaps first-person observation ("teens open up when you DON'T tell them what's wrong") for broader framing that names the audience or payoff ("what teens ACTUALLY say when they start therapy")
-- she drops hashtags and reframes with question marks or exclamation points instead of inline tags
+- she swaps quoted, emotional lines for plain "how to / signs / what" framings (6 of 8 edits), which the shorts data says tends to underperform, so this is worth a look.
+- she drops the hashtags from drafts, though 1–2 hashtags are linked to higher lift.
+- she keeps exactly one CAPS word, which matches the data.
+- she often moves toward a broader or more informational angle, and in two cases adds "!!". n=8 edits, so this is a tendency, not a rule.
+```
 
 ## youtube:short (566 posts with a lift; baseline 1030.5 views)
 

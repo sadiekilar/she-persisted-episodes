@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T14:40:02.946Z",
+ "generatedAt": "2026-11-10T15:13:21.204Z",
  "note": "lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.",
  "baselines": {
   "youtube:episode": {
