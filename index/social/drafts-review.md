@@ -1920,3 +1920,117 @@ why: a hopeful, concrete fact that the most intense peak often eases within hour
 - [youtube] intense suicidal thoughts often FADE #suicideprevention #mentalhealth
 - [instagram] research says the most intense suicidal thoughts often ease within HOURS
 - [tiktok] the peak often passes in HOURS
+
+## ep 209 · 209. How to Set Habits You'll ACTUALLY Use [Solo]
+
+### moment 1 · 0:58
+why: a clear, contrarian claim that answers a trend the audience sees on their feeds, and it needs no episode context.
+- [youtube] never tell anyone your goals? this is WRONG #psychology #goals
+- [instagram] the "build in private" advice has it backwards, and the research says so
+- [tiktok] this is why "build in private" fails
+
+### moment 2 · 4:42
+why: a concrete tip that fits in one breath. the when-then formula is easy to copy and use the same day.
+- [youtube] this is the when-then plan #habits #psychology
+- [instagram] a goal that says "when" and "then" is more likely to happen than one that doesn't
+- [tiktok] the when-then trick for goals
+
+### moment 3 · 9:11
+why: the flu shot card study is a surprising, easy-to-picture proof that specific plans beat good intentions.
+- [youtube] this is the flu shot study #psychology #habits
+- [instagram] same reminder, two cards. one got 71% of people to show up, the other got 32%
+- [tiktok] this is why vague plans fail
+
+### moment 4 · 16:36
+why: a personal, relatable example of changing where you work rather than forcing willpower. it works as a tip for any student.
+- [youtube] this is why you can't study in your ROOM #studytips #habits
+- [instagram] i've tried doing homework in my dorm. it just doesn't happen, so i stopped trying
+- [tiktok] this is why i never study in my room
+
+### moment 5 · 21:48
+why: a reframe that takes the pressure off. knowing what to do isn't the same as doing it, and it speaks to the guilt of consuming self-improvement content.
+- [youtube] the KNOWLEDGE problem nobody talks about #habits #selfimprovement
+- [instagram] knowing what to do doesn't make you do it, and that's not a flaw in you
+- [tiktok] the knowing-isn't-doing problem
+
+### moment 6 · 31:49
+why: a warm, personal line that gives permission to struggle with habits. it's the emotional center of the episode and gives the audience something to share.
+- [youtube] this is why habits feel so HARD #mentalhealth #habits
+- [instagram] building a new habit is hard because your whole body is wired against it
+- [tiktok] this is why habits feel so hard
+
+## ep 208 · 208. How to Be a Mental Health ADVOCATE feat. Active Minds
+
+### moment 1 · 16:07
+why: the sore throat comparison is a clear reframe, and it makes "how are you" feel like a small, doable first step toward vulnerability.
+- [youtube] this is why we wait for rock bottom #mentalhealth #activeminds
+- [instagram] we tell people our throat hurts. why not our mental health?
+- [tiktok] this is the sore throat test
+
+### moment 2 · 15:05
+why: a concrete tip from sadie for people hiding behind "i'm fine": practice being honest about small things first, like exposure therapy for vulnerability.
+- [youtube] this is exposure therapy for VULNERABILITY #mentalhealth #teens
+- [instagram] if you always say "great" when you're not, start with the small stuff
+- [tiktok] practice being honest in small ways
+
+### moment 3 · 17:30
+why: it reframes the fear of being judged. research says people wouldn't judge you, and the harshest judge is often yourself, which a listener can take in without any context.
+- [youtube] the JUDGMENT problem nobody talks about #mentalhealth #activeminds
+- [instagram] research says people wouldn't judge you. you might be the one who does.
+- [tiktok] this is who's judging you
+
+### moment 4 · 5:05
+why: a personal, heavy line from the founder about her brother hiding his struggle for years even in a supportive family. It shows why silence is so dangerous. (content note: suicide, so consider a resource line in the caption.)
+- [youtube] allison malam on why her brother stayed SILENT #mentalhealth #suicideprevention
+- [instagram] his family was supportive. he still hid it for four years.
+- [tiktok] he hid it for four years
+
+### moment 5 · 11:09
+why: a simple three-step tool, ask (acknowledge, support, keep in touch), for friends who never know what to say. It reassures them that no clinical background is needed.
+- [youtube] what to say when a friend is STRUGGLING #mentalhealth #teens
+- [instagram] you don't need to be a therapist to help a friend. here's the 3-step ask.
+- [tiktok] what to say to a struggling friend
+
+### moment 6 · 20:57
+why: it breaks the idea that a diagnosis ends your future. "perfect or nothing" is a belief many high-pressure students recognize.
+- [youtube] the PERFECT or nothing problem #mentalhealth #penface
+- [instagram] you can struggle and still be successful. her brother never heard that.
+- [tiktok] this is perfect or nothing
+
+## ep 207 · 207. What Research Says About DEPRESSION feat. Dr. Steven Hollon
+
+### moment 1 · 13:14
+why: reframes depression, anxiety and pain as protective signals, which validates without pathologizing and works with no context.
+- [youtube] depression keeps you THINKING carefully #depression #mentalhealth
+- [instagram] anxiety keeps you safe, pain protects injured tissue, depression makes you think
+- [tiktok] this is what depression is FOR
+
+### moment 2 · 10:13
+why: a surprising stat that depression is far more common than we were told, and most people only get one or two episodes.
+- [youtube] the depression problem nobody TALKS about #depression #research
+- [instagram] most people who get depressed will only have one or two episodes in their life
+- [tiktok] depression is more COMMON than we think
+
+### moment 3 · 13:43
+why: names the exact trap (blaming yourself) and gives the reframe: it's usually behavior, not a defect in you.
+- [youtube] this is SELF-BLAME, not the truth #depression #cbt
+- [instagram] we think we're unlovable or incompetent, and that's usually not the case
+- [tiktok] you're not unlovable. you're STUCK.
+
+### moment 4 · 19:32
+why: a concrete, testable tip (go to the party and find out) plus the idea that depression distorts expectation and memory.
+- [youtube] this is how depression LIES to you #depression #cbt
+- [instagram] depression lives in the future and the past, not in the moment you're actually in
+- [tiktok] depression is a disease of EXPECTATION
+
+### moment 5 · 20:38
+why: a simple action rule and a three-question check that anyone can use tonight.
+- [youtube] don't believe everything you THINK #depression #cbt
+- [instagram] don't wait to feel like doing something. do what you'd do if you weren't depressed.
+- [tiktok] 3 questions for a spiraling mind
+
+### moment 6 · 27:19
+why: a personal line from sadie on trusting teens, backed by Dr. Hollon's claim that adolescents can do everything adults can.
+- [youtube] this is why we should TRUST teens #depression #teenmentalhealth
+- [instagram] we may not be trusting adolescents enough to learn and use mental health skills
+- [tiktok] teens can do this as well as ADULTS
