@@ -2034,3 +2034,119 @@ why: a personal line from sadie on trusting teens, backed by Dr. Hollon's claim 
 - [youtube] this is why we should TRUST teens #depression #teenmentalhealth
 - [instagram] we may not be trusting adolescents enough to learn and use mental health skills
 - [tiktok] teens can do this as well as ADULTS
+
+## ep 206 · 206. EMOTION REGULATION: Misophonia, DBT, Reactivity, & More feat. Dr. Mark Zachary Rosenthal
+
+### moment 1 · 4:35
+why: a plain, surprising reframe of what the brain is actually doing with every sound, sight and smell, and it sets up the whole emotion cycle in under a minute.
+- [youtube] this is what your brain is really doing #emotions #dbt
+- [instagram] your brain is not trying to make you happy, it's trying to keep you safe
+- [tiktok] your brain's real job is SURVIVAL
+
+### moment 2 · 5:56
+why: a short, concrete fact that emotions last seconds, and that what we feel for hours is emotions getting re-triggered, which reframes what "a bad mood" is.
+- [youtube] why emotions last seconds, not hours #emotions #mentalhealth
+- [instagram] emotions last seconds. what you feel for hours is the same one firing again.
+- [tiktok] emotions only last SECONDS
+
+### moment 3 · 7:25
+why: it directly corrects a common belief, that good regulation means feeling less, and gives three clear jobs emotions do (signal, communicate, motivate).
+- [youtube] how our emotions are a SIGNAL, not a flaw #emotions #dbt
+- [instagram] dr. rosenthal on why feeling no emotion was never the goal of regulation
+- [tiktok] emotions aren't the PROBLEM
+
+### moment 4 · 21:36
+why: a concrete, usable tip for anyone looking for dbt: one yes-or-no question that cuts through a clinic's website, plus the point that skills alone aren't full dbt.
+- [youtube] a therapist's advice on finding real DBT #dbt #therapy
+- [instagram] the one question to ask a therapist who says they do DBT
+- [tiktok] ask this before starting DBT
+
+### moment 5 · 28:38
+why: a clear, compassionate explanation of why suicidal thoughts can happen (they bring short-term relief), using the seatbelt example. It's gentle, nonjudgmental and helps people understand a friend or themselves. Note for the team: add a resource line to the post, since this is a sensitive topic.
+- [youtube] why suicidal thoughts can feel like relief #dbt #mentalhealth
+- [instagram] dr. rosenthal on why the mind can reach for an unsafe "solution" when pain is huge
+- [tiktok] why the mind reaches for a CLUE
+
+### moment 6 · 44:01
+why: a vivid line that makes misophonia make sense to people who've never heard of it (the grizzly bear), and it shifts "annoyed" to "nervous system threat."
+- [youtube] this is what misophonia actually feels like #misophonia #dbt
+- [instagram] a patient described misophonia as a grizzly bear suddenly sitting next to you
+- [tiktok] misophonia isn't ANNOYANCE
+
+One fix before posting: in moment 5, the tiktok hook is wrong. Please use this instead: "why pain makes the mind look for RELIEF" (still under 50 characters? it is 36). Use that line.
+
+## ep 205 · 205. What I Wish I Knew About Anxiety...
+
+### moment 1 · 8:52
+why: the ride the wave skill is concrete and takes under a minute to say. anyone mid-spiral can use it right away.
+- [youtube] ride the WAVE when anxiety spikes #anxiety #dbt
+- [instagram] picture each anxiety symptom as a wave that goes up and then retreats
+- [tiktok] anxiety comes in WAVES
+
+### moment 2 · 14:00
+why: it's a surprising reframe of panic symptoms. sweating and a racing heart read as the body doing its job, not as something wrong with you.
+- [youtube] why your body sweats when you're anxious #anxiety #panicattack
+- [instagram] you sweat when you panic so you'd be slippery enough to escape a predator
+- [tiktok] why panic makes you SWEAT
+
+### moment 3 · 24:14
+why: it's the one-sentence takeaway sadie calls the tldr, with a plain example (flying) that makes the logic easy to follow.
+- [youtube] this is why avoidance makes anxiety WORSE #anxiety #cbt
+- [instagram] every time you avoid something scary, the next time feels even bigger
+- [tiktok] this is why anxiety GROWS
+
+### moment 4 · 42:19
+why: the ice water skill is a specific tip with a clear mechanism, and she says to offer it to a friend in a panic attack.
+- [youtube] a therapist's advice on panic: the ICE water skill #dbt #panicattack
+- [instagram] the cold water trick that slows your heart rate during a panic attack
+- [tiktok] the panic attack FIX
+
+### moment 5 · 4:22
+why: it's a personal and honest line about how anxiety and depression became her whole identity in treatment. it speaks to anyone who's felt defined by a diagnosis.
+- [youtube] when anxiety becomes your whole IDENTITY #anxiety #mentalhealth
+- [instagram] in treatment i said "i'm depressed, i'm anxious" like it was part of my name
+- [tiktok] anxiety is not your IDENTITY
+
+### moment 6 · 48:27
+why: it flips the usual story with the yerkes-dodson law. a little anxiety helps performance, which is a relief for anyone who hates feeling nervous before a test.
+- [youtube] why a little anxiety is actually GOOD #anxiety #psychology
+- [instagram] a little anxiety helps you perform better, and the research says so
+- [tiktok] anxiety can actually HELP
+
+## ep 204 · 204. Your Guide to Generational Trauma feat. Dr. Mariel Buqué
+
+### moment 1 · 5:16
+why: a clear, quotable definition (passed down the family line, biology plus psychology) that answers the question the whole episode is built on.
+- [youtube] this is generational trauma #trauma #relationships
+- [instagram] generational trauma is the only trauma that can be passed down the family line.
+- [tiktok] what generational trauma actually IS
+
+### moment 2 · 23:38
+why: a concrete first step that reframes where healing starts, so people stop forcing themselves to dig before they're ready.
+- [youtube] why healing starts with your BODY #nervoussystem #healing
+- [instagram] before you dig into the past, there's a step zero most people skip.
+- [tiktok] step zero of healing is not digging
+
+### moment 3 · 11:25
+why: a hopeful, concrete protective factor. one steady adult can change how trauma shows up, which is useful for anyone who wants to be that person or wishes they'd had one.
+- [youtube] why one safe PERSON changes everything #safety #relationships
+- [instagram] one of the biggest protections against trauma is a single steady adult.
+- [tiktok] one safe person changes the outcome
+
+### moment 4 · 18:08
+why: a usable script for talking to a parent without it turning into blame, which is the tension most listeners in this situation feel.
+- [youtube] how to talk to parents without BLAME #family #boundaries
+- [instagram] "i know you did the best you could" can open a hard conversation with your parents.
+- [tiktok] a way to talk to your parents about it
+
+### moment 5 · 21:18
+why: a personal story plus a tip anyone can use today, since healing can be a shared project and loneliness adds to trauma.
+- [youtube] why you need a co-healing PARTNER #healing #friendship
+- [instagram] find a co-healing partner. read the chapter, listen to the podcast, then debrief together.
+- [tiktok] you don't have to heal alone
+
+### moment 6 · 28:07
+why: a surprising, low-effort tip with a vivid example (a cologne, a trigger) that makes the idea of knowing your own triggers feel real.
+- [youtube] why you should sit outside WITHOUT your phone #triggers #selfawareness
+- [instagram] sit outside with no phone. you might learn what your body is trying to tell you.
+- [tiktok] the 100-year-old healing tip
