@@ -1,51 +1,46 @@
 # social insights
 
-Generated 2026-11-12 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-11-13 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
 ## playbook (Claude's read of the numbers)
 
-**what travels**
+what travels
+- **one CAPS word, not more.** shorts with exactly 1 caps word: n=198, lift 0.82 vs 0.28 for none. 2 or more drops to 0.17–0.25 (n=89, 58, 36). example: "how our CHILDHOOD affects our current emotions" (2.51).
+- **short hooks.** shorts at 6 words or fewer: n=62, lift 0.94, vs 0.13 for 12+ (n=107). example: "ANXIETY 101".
+- **no numbers in shorts.** n=197, lift 1.0 vs 0.17 with a number (n=372). note that episode-number titles may inflate this, so read it carefully.
+- **1–2 hashtags on shorts.** n=202, lift 1.0 vs 0.16 with none (n=367).
+- **"this is" hooks.** n=13, lift 1.24, 85% above baseline. thin, but the best hook type with any n.
+- **topics.** shorts: social media (n=34, 1.05), troubled teen industry (n=28, 0.96), 20s (n=40, 0.93). example: "A Therapist's Advice on BOUNDARIES" (2.43).
+- **episodes:** guest episodes beat solo (n=138, 0.94 vs n=64, 0.66). troubled teen industry (n=11, 1.46) and trauma (n=17, 1.39) lead. example: "198. Chrysalis School Montana: My Troubled Teen Industry Experience" (27x).
 
-- **"this is" hooks (shorts).** n=13, lift 1.24, 85% beat baseline. the best single hook type we have, but it's a small group, so treat it as a lead and not a rule.
-- **short hooks, 6 words or fewer (shorts).** n=62, lift 0.94, against 0.43 for medium and 0.13 for long (n=107). the clearest length pattern we have.
-- **no numbers in the hook (shorts).** n=196, lift 1.00, against 0.17 for hooks with a number (n=372). note that "has_number" may be catching things like episode numbers, so check before leaning on it.
-- **1–2 hashtags (shorts).** n=201, lift 0.99, against 0.16 with none (n=367).
-- **exactly one CAPS word (shorts).** n=198, lift 0.81. zero CAPS is 0.27 and two or more drops to 0.25 or lower. one CAPS word on the key idea, like "how our CHILDHOOD affects our current emotions" (lift 2.50).
-- **topics (shorts).** social media (n=34, 1.05), sadie recommends (n=27, 1.02), troubled teen industry (n=28, 0.96), 20s (n=40, 0.92), depression (n=122, 0.79) and relationships (n=133, 0.78) all beat the rest.
-- **full episodes.** guest episodes (n=138, 0.93) beat solo (n=64, 0.66). trauma (n=17, 1.39) and troubled teen industry (n=11, 1.46) lead. a plain statement title like "The Problem of People in Therapy" is the base case (n=113, 0.94).
+what sinks
+- **long hooks.** 12+ words on shorts: n=107, lift 0.13, only 8% above baseline.
+- **"you / your" and "how to" shorts.** n=85, 0.33 and n=33, 0.27. example: "10 Coping Skills You NEED to Know" (0.01).
+- **heavy caps.** 3 or more caps words: n=94, lift around 0.25. example: "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?!"
+- **trauma, body image and anxiety on shorts.** n=29, 34, 47, lifts 0.08, 0.18, 0.21.
 
-**what sinks**
+data is thin on minis (n=28 total) and on episode hook types (n≤4 for most), so i'm not drawing conclusions there.
 
-- **long hooks, 12+ words (shorts).** n=107, lift 0.13, and only 8% beat baseline.
-- **CAPS overload (shorts).** 3 or more CAPS words (n=94) sit at 0.25 or lower, e.g. "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?!" (lift 0.01).
-- **"you / your," "how to" and "watch this if" (shorts).** you/your n=85, 0.33. how to n=33, 0.27. watch this if n=7, 0.07, which is thin.
-- **trauma, anxiety, body image and self-improvement (shorts).** n=29 to 110, all at 0.23 or lower.
-
-**phrasings to reuse**
-
+phrasings to reuse
 - this is ___
-- why ___ (shorter, plain version)
-- how our ___ affects our ___
-- the problem of ___
 - ___ 101
 - a therapist's advice on ___
+- how our ___ affects our current emotions
 - red flags that you don't have enough ___
-- what if part of you ___
-- how to help someone who ___
-- why your 20s can be so ___
+- what if part of you doesn't want ___?
+- how to help someone who doesn't want help
+- ___ in five minutes
+- why your ___ can be so lonely
 
-caveat: several of these come from episode titles and minis, not shorts, and some are n<8. the shorts data says to keep them short, with one CAPS word and 1–2 hashtags.
+(keep each to one CAPS word and under 7 words where you can.)
 
-**how sadie edits**
+how sadie edits
+- **she rewrites quotes into plain framing.** "nobody gets what a BATTLE it is" became "signs a teenager is STRUGGLING with their mental health."
+- **she drops hashtags from the hook text.** all 8 drafts had them or were rewritten without them, but n=8 is the minimum, so treat this as a loose habit.
+- **she leans on "how to" and "signs" phrasing and keeps one CAPS word.** she also adds names like dr. angela duckworth. this conflicts with the lift data, since "how to" shorts did poorly (0.27).
+- **all 8 were edited, with similarity 0.46–0.72,** so she rarely keeps a draft close to as written.
 
-only 8 edits are logged, all on youtube, so this is early.
-
-- **she drops the quote.** the drafts were pulled quotes and she swapped them for a plain topic line, such as "how to tell if a teen is STRUGGLING with their mental health."
-- **she moves to "how to," "signs" and "what teens ACTUALLY say" framings.** these promise something concrete. note that our data scores how to lower on shorts (0.27), so worth testing.
-- **she keeps one CAPS word and drops hashtags.** this matches the CAPS finding but runs against the hashtag one (1–2 beat none), so check that.
-- **she names the guest** when one is involved (e.g. "dr. angela duckworth on…").
-
-## youtube:short (568 posts with a lift; baseline 1036.5 views)
+## youtube:short (569 posts with a lift; baseline 1033 views)
 
 **hook_type**
 
@@ -56,7 +51,7 @@ only 8 edits are logged, all on youtube, so this is early.
 | the truth / secret | 13 | 0.78 | 38% |
 | why | 46 | 0.65 | 35% |
 | question | 55 | 0.39 | 31% |
-| statement | 303 | 0.37 | 26% |
+| statement | 304 | 0.36 | 26% |
 | you / your | 85 | 0.33 | 24% |
 | how to | 33 | 0.27 | 27% |
 | stop / never | 6 | 0.19 | 33% |
@@ -67,21 +62,21 @@ only 8 edits are logged, all on youtube, so this is early.
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | true | 67 | 0.56 | 31% |
-| false | 501 | 0.38 | 28% |
+| false | 502 | 0.38 | 28% |
 
 **addresses_you**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| false | 403 | 0.4 | 29% |
+| false | 404 | 0.4 | 29% |
 | true | 165 | 0.35 | 27% |
 
 **caps_words**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| 0 | 187 | 0.27 | 25% |
-| 1 | 198 | 0.81 | 41% |
+| 0 | 188 | 0.28 | 24% |
+| 1 | 198 | 0.82 | 42% |
 | 2 | 89 | 0.17 | 25% |
 | 3 | 58 | 0.25 | 10% |
 | 4+ | 36 | 0.24 | 14% |
@@ -90,15 +85,15 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| short (≤6 words) | 62 | 0.94 | 45% |
-| medium (7–11) | 399 | 0.43 | 31% |
+| short (≤6 words) | 62 | 0.94 | 47% |
+| medium (7–11) | 400 | 0.43 | 31% |
 | long (12+) | 107 | 0.13 | 8% |
 
 **has_number**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| no | 196 | 1 | 51% |
+| no | 197 | 1 | 51% |
 | yes | 372 | 0.17 | 17% |
 
 **hashtags**
@@ -106,7 +101,7 @@ only 8 edits are logged, all on youtube, so this is early.
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | 0 | 367 | 0.16 | 17% |
-| 1–2 | 201 | 0.99 | 50% |
+| 1–2 | 202 | 1 | 50% |
 
 **duration**
 
@@ -114,30 +109,30 @@ only 8 edits are logged, all on youtube, so this is early.
 | --- | ---: | ---: | ---: |
 | ≤20s | 125 | 0.4 | 34% |
 | 21–40s | 287 | 0.39 | 27% |
-| 41–60s | 155 | 0.36 | 27% |
+| 41–60s | 156 | 0.35 | 28% |
 
 **format**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
 | solo | 206 | 0.39 | 29% |
-| guest | 362 | 0.38 | 28% |
+| guest | 363 | 0.38 | 28% |
 
 **topic**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| parents | 5 | 1.2 | 80% |
+| parents | 6 | 1.16 | 67% |
 | social media | 34 | 1.05 | 50% |
 | sadie recommends | 27 | 1.02 | 56% |
 | troubled teen industry | 28 | 0.96 | 46% |
-| 20s | 40 | 0.92 | 40% |
+| 20s | 40 | 0.93 | 43% |
 | career | 12 | 0.83 | 42% |
 | depression | 122 | 0.79 | 40% |
-| relationships | 133 | 0.78 | 40% |
-| dbt | 124 | 0.75 | 43% |
+| relationships | 133 | 0.78 | 41% |
+| dbt | 125 | 0.75 | 42% |
 | adhd | 8 | 0.68 | 38% |
-| teen mental health | 155 | 0.58 | 34% |
+| teen mental health | 156 | 0.59 | 33% |
 | emotions | 90 | 0.41 | 30% |
 | college | 50 | 0.33 | 14% |
 | self-improvement | 110 | 0.23 | 21% |
@@ -150,28 +145,28 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| fri | 82 | 0.51 | 29% |
+| fri | 82 | 0.51 | 30% |
 | mon | 74 | 0.42 | 27% |
-| sun | 74 | 0.4 | 30% |
-| sat | 89 | 0.4 | 31% |
+| sun | 74 | 0.41 | 30% |
 | tue | 71 | 0.39 | 27% |
+| sat | 90 | 0.38 | 31% |
 | thu | 85 | 0.35 | 25% |
 | wed | 93 | 0.3 | 29% |
 
 **top posts**
 
-- 2.81× · 2916 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
-- 2.75× · 2849 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.7× · 2795 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
+- 2.82× · 2916 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
+- 2.76× · 2849 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
+- 2.71× · 2795 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
 - 2.6× · 2690 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.52× · 2617 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
-- 2.5× · 2593 views · ep 258 · how our CHILDHOOD affects our current emotions
-- 2.45× · 2537 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
-- 2.44× · 2529 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.42× · 2511 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.36× · 2450 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
+- 2.53× · 2617 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
+- 2.51× · 2593 views · ep 258 · how our CHILDHOOD affects our current emotions
+- 2.46× · 2539 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
+- 2.45× · 2529 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.43× · 2511 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.37× · 2450 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
 - 2.33× · 2410 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
-- 2.31× · 2395 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
+- 2.32× · 2395 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
 
 **bottom posts**
 
@@ -190,25 +185,25 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| i wish i knew | 3 | 1.94 | 67% |
+| i wish i knew | 3 | 1.95 | 67% |
 | numbered list | 4 | 1.87 | 50% |
-| statement | 113 | 0.94 | 47% |
+| statement | 113 | 0.94 | 48% |
 | question | 15 | 0.72 | 33% |
-| you / your | 65 | 0.68 | 31% |
+| you / your | 65 | 0.69 | 31% |
 | the truth / secret | 3 | 0.65 | 33% |
 
 **is_question**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| false | 189 | 0.8 | 41% |
+| false | 189 | 0.81 | 42% |
 | true | 15 | 0.72 | 33% |
 
 **addresses_you**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| false | 131 | 0.93 | 47% |
+| false | 131 | 0.94 | 47% |
 | true | 73 | 0.65 | 30% |
 
 **caps_words**
@@ -217,15 +212,15 @@ only 8 edits are logged, all on youtube, so this is early.
 | --- | ---: | ---: | ---: |
 | 0 | 141 | 0.76 | 40% |
 | 1 | 39 | 0.93 | 46% |
-| 2 | 12 | 1.01 | 50% |
-| 3 | 7 | 0.7 | 14% |
+| 2 | 12 | 1.02 | 50% |
+| 3 | 7 | 0.7 | 29% |
 | 4+ | 5 | 0.46 | 20% |
 
 **length**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| long (12+) | 159 | 0.85 | 44% |
+| long (12+) | 159 | 0.85 | 45% |
 | medium (7–11) | 42 | 0.75 | 31% |
 | short (≤6 words) | 3 | 0.41 | 0% |
 
@@ -233,44 +228,44 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| yes | 204 | 0.8 | 41% |
+| yes | 204 | 0.81 | 41% |
 
 **hashtags**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| 0 | 204 | 0.8 | 41% |
+| 0 | 204 | 0.81 | 41% |
 
 **duration**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| >60s | 204 | 0.8 | 41% |
+| >60s | 204 | 0.81 | 41% |
 
 **format**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| guest | 138 | 0.93 | 47% |
+| guest | 138 | 0.94 | 48% |
 | solo | 64 | 0.66 | 28% |
 
 **topic**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| sadie recommends | 3 | 43.24 | 100% |
+| sadie recommends | 3 | 43.27 | 100% |
 | adhd | 4 | 2.91 | 100% |
 | troubled teen industry | 11 | 1.46 | 64% |
 | trauma | 17 | 1.39 | 53% |
 | body image | 12 | 1.07 | 58% |
 | depression | 42 | 1 | 50% |
-| teen mental health | 50 | 0.89 | 44% |
-| dbt | 32 | 0.81 | 38% |
-| career | 11 | 0.8 | 45% |
+| teen mental health | 50 | 0.9 | 44% |
+| dbt | 32 | 0.81 | 41% |
+| career | 11 | 0.81 | 45% |
 | relationships | 36 | 0.77 | 36% |
 | social media | 12 | 0.76 | 33% |
 | anxiety | 29 | 0.72 | 34% |
-| emotions | 24 | 0.7 | 38% |
+| emotions | 24 | 0.7 | 42% |
 | self-improvement | 37 | 0.66 | 32% |
 | 20s | 13 | 0.62 | 23% |
 | college | 28 | 0.61 | 32% |
@@ -280,27 +275,27 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
+| sat | 37 | 0.93 | 43% |
 | wed | 12 | 0.93 | 50% |
-| sat | 37 | 0.92 | 43% |
 | mon | 22 | 0.91 | 45% |
 | fri | 37 | 0.85 | 46% |
-| thu | 41 | 0.8 | 37% |
-| sun | 25 | 0.68 | 32% |
-| tue | 30 | 0.65 | 37% |
+| thu | 41 | 0.81 | 37% |
+| sun | 25 | 0.69 | 32% |
+| tue | 30 | 0.65 | 40% |
 
 **top posts**
 
-- 66.54× · 8450 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
-- 43.24× · 5492 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 28.32× · 3597 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 28.06× · 3563 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 26.91× · 3417 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 24.24× · 3079 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
-- 11.14× · 1415 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
+- 66.71× · 8472 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 43.27× · 5495 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
+- 28.6× · 3632 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 28.12× · 3571 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 27× · 3429 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 24.26× · 3081 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 11.56× · 1468 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
 - 9.89× · 1256 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
 - 9.68× · 1229 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
 - 8.7× · 1105 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 7.07× · 898 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 7.08× · 899 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 - 6.83× · 868 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
@@ -384,7 +379,7 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| relationships | 5 | 4.42 | 80% |
+| relationships | 5 | 4.45 | 80% |
 | dbt | 6 | 2.45 | 67% |
 | depression | 5 | 2.37 | 80% |
 | self-improvement | 4 | 1.69 | 100% |
@@ -397,7 +392,7 @@ only 8 edits are logged, all on youtube, so this is early.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| wed | 3 | 4.42 | 67% |
+| wed | 3 | 4.45 | 67% |
 | mon | 15 | 1.18 | 73% |
 | tue | 10 | 0.86 | 40% |
 
@@ -406,7 +401,7 @@ only 8 edits are logged, all on youtube, so this is early.
 - 41.32× · 1570 views · ep 132 · MINI: Learn 5 DBT Skills in 5 Mins!
 - 16.34× · 621 views · ep 202 · MINI: 5 Ways to Form a SECURE ATTACHMENT in 5 Mins!
 - 12.29× · 467 views · ep 172 · MINI: How do I set boundaries?
-- 4.42× · 168 views · ep 187 · MINI: why your 20s can be so lonely
+- 4.45× · 169 views · ep 187 · MINI: why your 20s can be so lonely
 - 4.16× · 158 views · ep 146 · MINI: a dbt crash course– everything you need to know about this therapy in 5 mins!
 - 2.53× · 96 views · ep 96 · MINI: a day in the life in mental health residential treatment?!!
 - 2.39× · 91 views · ep 86 · MINI: Fix Your Self-Confidence in Five Minutes!

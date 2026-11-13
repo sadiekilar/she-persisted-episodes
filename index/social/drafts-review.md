@@ -2150,3 +2150,117 @@ why: a surprising, low-effort tip with a vivid example (a cologne, a trigger) th
 - [youtube] why you should sit outside WITHOUT your phone #triggers #selfawareness
 - [instagram] sit outside with no phone. you might learn what your body is trying to tell you.
 - [tiktok] the 100-year-old healing tip
+
+## ep 203 · 203. 5 Things You Didn't Know About Depression feat. Jonathan Rottenberg
+
+### moment 1 · 52:09
+why: the "recovery" as a corrupted word file analogy is a surprising reframe that makes sense with zero context, and it challenges what most people think the goal is.
+- [youtube] why "recovery" might be the wrong GOAL #depression #mentalhealth
+- [instagram] what if the goal after depression isn't to go back to how things were?
+- [tiktok] recovery isn't a RESTORED file
+
+### moment 2 · 11:33
+why: a clear, concrete finding that bad moods normally fade, and that's exactly what makes depression so confusing from the inside.
+- [youtube] why depression feels so CONFUSING #depression #mentalhealth
+- [instagram] most bad moods fade on their own. depression is when they don't.
+- [tiktok] why your usual fixes stop WORKING
+
+### moment 3 · 10:07
+why: a validating line for anyone who has been told to just go for a walk. it explains the cycle of failed coping without blaming the person.
+- [youtube] depressed people are not STUPID #depression #copingskills
+- [instagram] depressed people have already tried the walk, the yoga and the water.
+- [tiktok] you already tried the advice
+
+### moment 4 · 17:28
+why: a reframe of social media and commercials: nobody feels peppy and excited all the time, so the comparison you're making isn't real.
+- [youtube] this is why you feel UNHAPPY next to everyone #mentalhealth #socialmedia
+- [instagram] constant happiness is a myth, and comparing yourself to it makes you feel worse.
+- [tiktok] nobody feels that excited all day
+
+### moment 5 · 36:48
+why: a hopeful claim backed by data. it counters the gloomy story people get after a diagnosis, and "realistic hope" is a phrase people can take with them.
+- [youtube] this is REALISTIC hope for depression #depression #hope
+- [instagram] about 1 in 10 people with depression go on to feel really well. that's data, not a pep talk.
+- [tiktok] hope that's actually backed by DATA
+
+### moment 6 · 50:46
+why: a personal line from sadie about her own life after depression: her family, the podcast and her studies all grew out of it, without pretending the pain was good.
+- [youtube] what depression left me WITH #depression #sadiesutton
+- [instagram] my favorite parts of my life all trace back to the worst time of my life.
+- [tiktok] the best parts of life came after
+
+## ep 202 · 202. 5 Ways to Form a Secure Attachment Style feat. Thais Gibson
+
+### moment 1 · 4:35
+why: the "conscious mind can't outwill the subconscious" idea explains why willpower alone doesn't change patterns, and it works as a standalone reframe (clip runs to about 5:11).
+- [youtube] why willpower isn't enough to CHANGE #attachment #subconscious
+- [instagram] you keep telling yourself you'll change, but nothing shifts. here's why.
+- [tiktok] why you can't think your way out
+
+### moment 2 · 6:51
+why: the warehouse and program analogy makes the subconscious easy to picture, and the driving example is concrete and relatable (clip runs to about 7:48).
+- [youtube] this is your SUBCONSCIOUS #psychology #mentalhealth
+- [instagram] your subconscious is a giant warehouse. here's what's stored in it.
+- [tiktok] this is your subconscious
+
+### moment 3 · 8:32
+why: she gives plain examples of how childhood fears (abandonment, broken trust, feeling smothered) show up in adult relationships, so listeners can spot themselves quickly (clip runs to about 9:36).
+- [youtube] how our CHILDHOOD shows up in love #attachment #relationships
+- [instagram] if you fear being abandoned, trusting, or feeling trapped, start here.
+- [tiktok] why you expect people to leave
+
+### moment 4 · 14:28
+why: the fearful avoidant push-pull pattern, with the unpredictable-parent example, is the most vivid style description and the one people recognize most in themselves (clip runs to about 15:43).
+- [youtube] this is a FEARFUL avoidant #attachment #relationships
+- [instagram] you want closeness, then pull away the second it gets real. this is why.
+- [tiktok] this is fearful avoidant
+
+### moment 5 · 21:39
+why: the five pillars give a concrete, usable answer to "how do i become secure": reprogram fears, meet your needs, regulate your nervous system, set boundaries, communicate. Clip starts at the recap, where she runs through the steps (about 21:39 to 22:26).
+- [youtube] secure attachment in one MINUTE #attachment #healing
+- [instagram] the steps that move you from insecure to secure attachment, in order.
+- [tiktok] how anxious becomes secure
+
+### moment 6 · 28:56
+why: the interdependence framing is a clear claim that resolves the "be independent" vs "give everything" debate, and it ends on a quotable line (clip runs to about 30:02).
+- [youtube] this is healthy INTERDEPENDENCE #boundaries #relationships
+- [instagram] you're 100% responsible for your 50% of the relationship.
+- [tiktok] you can't pour from an empty cup
+
+## ep 201 · 201. The Science of Motivating Gen Z: Mentors, Purpose, and Politics feat. Dr. David Yeager
+
+### moment 1 · 41:50
+why: the strongest claim in the episode. it reframes "young people are lazy" as a choice adults made, and it ties purpose directly to mental health. sadie's intro teases the same idea at 0:29, so it works as a cold open too.
+- [youtube] we told young people they don't MATTER #mentalhealth #genz
+- [instagram] we told everyone under 30 to wait to matter, then wondered why they feel lost
+- [tiktok] we told you to wait to MATTER
+
+### moment 2 · 13:44
+why: a clear reframe of why "just say no" campaigns fail. it names the real problem (adults assume teens can't think for themselves), and it is the most quotable "groan-splaining" line.
+- [youtube] why adults GROAN-SPLAIN to teens #teenmentalhealth #parenting
+- [instagram] the reason "just say no" never worked is that it starts with an insult
+- [tiktok] why "just say no" FAILED
+
+### moment 3 · 7:57
+why: a personal, relatable explanation of why humiliation and pride hit so hard at this age. it makes listeners feel seen in a way that is hard to put into words.
+- [youtube] why teen embarrassment feels so HUGE #teenmentalhealth #psychology
+- [instagram] the pain of humiliation never feels as bad as it does when you're a teenager
+- [tiktok] why humiliation hurts MORE at 15
+
+### moment 4 · 27:32
+why: a concrete reframe on stress. you don't need a mentor in your life every day, you just need to feel like you could ask someone for help. it's comforting and easy to apply.
+- [youtube] you don't need more support, just to feel it's THERE #mentalhealth #college
+- [instagram] coping with stress isn't always about who you have. it's who you feel you could ask
+- [tiktok] the support you could ASK for
+
+### moment 5 · 29:17
+why: a practical tip on finding a mentor without the awkward "will you be my mentor?" ask. it's step by step, so it works as a standalone how-to for college students.
+- [youtube] how to get a mentor without the awkward ASK #college #mentorship
+- [instagram] don't ask "will you be my mentor?" ask for advice, then come back and tell them how it went
+- [tiktok] a mentor without the AWKWARD ask
+
+### moment 6 · 31:47
+why: a myth-buster for stressed-out high schoolers and college students. the claim that you can relax about the "perfect" college path is relieving and goes against what most listeners have been told.
+- [youtube] you don't need PERFECT to get into a good college #college #teenmentalhealth
+- [instagram] getting into a good college is way easier than the pressure makes it feel
+- [tiktok] the college race is mostly a MYTH
