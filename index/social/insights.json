@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T13:42:44.962Z",
+ "generatedAt": "2026-11-14T12:47:12.915Z",
  "note": "lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.",
  "baselines": {
   "youtube:episode": {
@@ -533,7 +533,7 @@
     "hook_type": {
      "i wish i knew": {
       "n": 3,
-      "median_lift": 1.95,
+      "median_lift": 1.97,
       "share_above_1": 67
      },
      "numbered list": {
@@ -609,7 +609,7 @@
      },
      "3": {
       "n": 7,
-      "median_lift": 0.7,
+      "median_lift": 0.71,
       "share_above_1": 29
      },
      "4+": {
@@ -706,7 +706,7 @@
      },
      "parents": {
       "n": 1,
-      "median_lift": 0.94,
+      "median_lift": 0.97,
       "share_above_1": 0
      },
      "teen mental health": {
@@ -778,7 +778,7 @@
      },
      "mon": {
       "n": 22,
-      "median_lift": 0.91,
+      "median_lift": 0.92,
       "share_above_1": 45
      },
      "fri": {
@@ -808,8 +808,8 @@
      "id": "yt:CWCjSR8_f20",
      "episode": 228,
      "hook": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
-     "lift": 66.71,
-     "views": 8472,
+     "lift": 66.83,
+     "views": 8488,
      "published": "2025-08-17",
      "hook_type": "statement"
     },
@@ -826,8 +826,8 @@
      "id": "yt:I1sqLxG8BTQ",
      "episode": 220,
      "hook": "220. how to succeed as a psychology major (& what we wish we knew sooner)",
-     "lift": 28.6,
-     "views": 3632,
+     "lift": 28.88,
+     "views": 3668,
      "published": "2025-05-13",
      "hook_type": "statement"
     },
@@ -835,8 +835,8 @@
      "id": "yt:2QpD5ZiqxpM",
      "episode": 96,
      "hook": "96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial",
-     "lift": 28.12,
-     "views": 3571,
+     "lift": 28.13,
+     "views": 3573,
      "published": "2022-04-21",
      "hook_type": "statement"
     },
@@ -844,8 +844,8 @@
      "id": "yt:d9ffkCTrPpE",
      "episode": 198,
      "hook": "198. Chrysalis School Montana: My Troubled Teen Industry Experience",
-     "lift": 27,
-     "views": 3429,
+     "lift": 27.08,
+     "views": 3439,
      "published": "2024-08-18",
      "hook_type": "statement"
     },
@@ -853,8 +853,8 @@
      "id": "yt:YnrQOydrUpU",
      "episode": 197,
      "hook": "197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler",
-     "lift": 24.26,
-     "views": 3081,
+     "lift": 24.32,
+     "views": 3089,
      "published": "2024-08-02",
      "hook_type": "statement"
     },
@@ -862,8 +862,8 @@
      "id": "yt:_oLo33Ndc7Q",
      "episode": 254,
      "hook": "254. how to help someone who doesn’t want help (without making it worse)",
-     "lift": 11.56,
-     "views": 1468,
+     "lift": 12,
+     "views": 1524,
      "published": "2026-04-04",
      "hook_type": "statement"
     },
@@ -871,8 +871,8 @@
      "id": "yt:1dhkRLhA7-o",
      "episode": 77,
      "hook": "77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment",
-     "lift": 9.89,
-     "views": 1256,
+     "lift": 9.91,
+     "views": 1258,
      "published": "2021-11-08",
      "hook_type": "statement"
     },
@@ -898,8 +898,8 @@
      "id": "yt:cBV3la9fqbE",
      "episode": 60,
      "hook": "60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski",
-     "lift": 7.08,
-     "views": 899,
+     "lift": 7.09,
+     "views": 900,
      "published": "2021-04-10",
      "hook_type": "statement"
     },
@@ -994,7 +994,7 @@
     "hook_type": {
      "question": {
       "n": 3,
-      "median_lift": 2.53,
+      "median_lift": 2.58,
       "share_above_1": 100
      },
      "numbered list": {
@@ -1016,7 +1016,7 @@
     "is_question": {
      "true": {
       "n": 3,
-      "median_lift": 2.53,
+      "median_lift": 2.58,
       "share_above_1": 100
      },
      "false": {
@@ -1122,7 +1122,7 @@
      },
      "dbt": {
       "n": 6,
-      "median_lift": 2.45,
+      "median_lift": 2.48,
       "share_above_1": 67
      },
      "depression": {
@@ -1254,8 +1254,8 @@
      "id": "yt:nZOQ60zeqLk",
      "episode": 96,
      "hook": "MINI: a day in the life in mental health residential treatment?!!",
-     "lift": 2.53,
-     "views": 96,
+     "lift": 2.58,
+     "views": 98,
      "published": "2025-10-27",
      "hook_type": "question"
     },

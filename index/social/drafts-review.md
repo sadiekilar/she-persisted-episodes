@@ -2264,3 +2264,117 @@ why: a myth-buster for stressed-out high schoolers and college students. the cla
 - [youtube] you don't need PERFECT to get into a good college #college #teenmentalhealth
 - [instagram] getting into a good college is way easier than the pressure makes it feel
 - [tiktok] the college race is mostly a MYTH
+
+## ep 200 · 200. Back to School Advice (DBT Edition)
+
+### moment 1 · 29:04
+why: college is built for avoidance, which is a surprising reframe, and it ends on a clear move: go toward the thing you'd rather skip. It works for anyone starting a new semester.
+- [youtube] college is built for AVOIDANCE #backtoschool #dbt
+- [instagram] college makes it so easy to avoid everything that scares you
+- [tiktok] college is built for AVOIDANCE
+
+### moment 2 · 10:07
+why: cope ahead is a concrete skill that she explains in plain words, with the first day of class as the example. It's clear without the rest of the episode.
+- [youtube] this is COPE AHEAD #dbt #backtoschool
+- [instagram] this is cope ahead, the dbt skill i use before every first day of class
+- [tiktok] this is COPE AHEAD
+
+### moment 3 · 12:27
+why: "suffering twice" is a short, memorable reframe of worry. It's a single clear idea with no setup needed.
+- [youtube] this is how we suffer TWICE #dbt #anxiety
+- [instagram] this is suffering twice: once while you worry, and again if it never happens
+- [tiktok] this is suffering TWICE
+
+### moment 4 · 6:33
+why: a concrete tip with a clear before and after: swap "slept well" for "in bed by 11 p.m." so progress is a yes or no. It's easy to try the same day.
+- [youtube] habit tracking 101 for the school year #dbt #habits
+- [instagram] habit tracking 101: write "in bed by 11," not "slept well"
+- [tiktok] habit tracking 101
+
+### moment 5 · 26:41
+why: the biggest return on mental health comes from relationships, and the easiest lasting mood boost is an act of kindness. It's a claim with a stat behind it, and it's warm.
+- [youtube] this is the biggest mood boost, per research #dbt #wellbeing
+- [instagram] this is the easiest mood boost that lasts: an act of kindness for someone else
+- [tiktok] this is the longest lasting mood boost
+
+### moment 6 · 17:53
+why: it defines learned helplessness and mastery in plain words and explains why mastery matters for self-esteem. It's an idea worth sharing with a friend.
+- [youtube] mastery 101: the opposite of learned HELPLESSNESS #dbt #selfesteem
+- [instagram] mastery 101: the opposite of learned helplessness is feeling capable
+- [tiktok] mastery 101
+
+## ep 199 · 199. Growing Pains: Advice for Teens & Parents on Navigating Teenage Years feat. Ellen Galinsky
+
+### moment 1 · 0:00
+why: a clean reframe in under 30 seconds: swap "what do you want to do" for "what kind of person do you want to be." it needs no context, and it's the cold open, so it's already cut for clips.
+- [youtube] this is the better question than "what do you want to be" #teenmentalhealth #gen z
+- [instagram] what if we asked teens a different question than "what do you want to be?"
+- [tiktok] stop asking teens what they'll BE
+
+### moment 2 · 8:51
+why: a 16-year-old in cool boots says adults keep pushing teens toward the next stage and then say "enjoy it." it's relatable and a little funny, and it's a teen voice, not an expert's.
+- [youtube] this is why "best years of your life" feels so heavy #teenadvice #genz
+- [instagram] "you say these are the best years, but you don't let us enjoy them"
+- [tiktok] this is the pressure no one admits
+
+### moment 3 · 12:20
+why: it covers the two things teens told her, "you don't understand us" and "people don't like teenagers," and then the 38% stat on "don't stereotype us." it's a data-backed claim that teens feel seen by.
+- [youtube] this is what 38% of teens asked adults to stop doing #teenmentalhealth #genz
+- [instagram] teens said two things over and over: "you don't understand us," and "people don't like us"
+- [tiktok] teens said: don't label us
+
+### moment 4 · 17:10
+why: it normalizes the "am I the only one who feels this way?" feeling, then gives a concrete route to feeling better: become a helper. it's warm and actionable for teens.
+- [youtube] this is the best route to mental health, per research #teenmentalhealth #helping
+- [instagram] if a friend breaking up with you feels like the end of the world, is that normal?
+- [tiktok] feeling the lows? try HELPING
+
+### moment 5 · 21:35
+why: it's a clear, simple script for supporting a struggling teen: listen more than you talk, say "that must have felt hard," and don't fix it. it works for parents and friends alike.
+- [youtube] this is how to support a struggling teen, in teens' words #parenting #teenadvice
+- [instagram] teens told her exactly what to say when they're struggling: "listen more than you talk"
+- [tiktok] what teens want you to SAY
+
+### moment 6 · 34:34
+why: a personal, soothing line for a teen in the middle of something big: it's momentous now, and it won't always feel that way. it makes a good closing clip.
+- [youtube] this is what to remember when everything feels huge #teenadvice #mentalhealth
+- [instagram] it feels momentous right now, and it is. but it won't be forever.
+- [tiktok] it's a long time to GROW
+
+## ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+
+### moment 1 · 7:12
+why: a clear, checkable red flag that stands alone. the cancer comparison makes "51% of your custody" land with no context needed.
+- [youtube] this is the biggest red flag in the troubled teen industry / #troubledteenindustry #mentalhealth
+- [instagram] they asked my parents to sign over 51% of their custody. that's not treatment.
+- [tiktok] this is a red flag
+
+### moment 2 · 5:42
+why: a surprising reframe. the remote location gets sold as "healing nature," but sadie explains it's by design and why it works as control.
+- [youtube] this is why these programs are in the middle of nowhere / #troubledteenindustry #survivor
+- [instagram] the middle of nowhere isn't an accident. it's the whole design.
+- [tiktok] why it's always in the woods
+
+### moment 3 · 42:46
+why: a concrete tip any parent can use. she gives a short rule of thumb for what a real program looks like, and it names a common trap (educational consultants).
+- [youtube] a ethical treatment program looks like THIS / #troubledteenindustry #parents
+- [instagram] if you're picking a treatment program, look for these three things first.
+- [tiktok] how to spot a real program
+
+### moment 4 · 17:25
+why: she separates something that is helpful when you choose it (hiking) from the same thing as punishment, and the "PUPS" detail is vivid and easy to follow.
+- [youtube] this is what "adventure therapy" actually looked like / #troubledteenindustry #adventuretherapy
+- [instagram] hiking can heal you. being forced to hike or get punished isn't therapy.
+- [tiktok] this is not therapy
+
+### moment 5 · 59:03
+why: a personal, validating line for anyone who thinks their experience "wasn't bad enough." she names the doubt and answers it kindly.
+- [youtube] it wasn't the worst program. it was still not okay. / #troubledteenindustry #healing
+- [instagram] it took me a really long time to say: that wasn't ethical, and it was traumatic.
+- [tiktok] it didn't have to be the WORST
+
+### moment 6 · 59:51
+why: a small, doable tip. the running list of "that wasn't normal" memories gives people a first step for processing, and the English muffin ban adds some warmth.
+- [youtube] the list that helped me heal from a troubled teen program / #troubledteenindustry #healing
+- [instagram] one thing that helped me heal: a running list of "that wasn't right" memories.
+- [tiktok] this is how i started healing
