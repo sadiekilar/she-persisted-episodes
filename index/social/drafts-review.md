@@ -2378,3 +2378,117 @@ why: a small, doable tip. the running list of "that wasn't normal" memories give
 - [youtube] the list that helped me heal from a troubled teen program / #troubledteenindustry #healing
 - [instagram] one thing that helped me heal: a running list of "that wasn't right" memories.
 - [tiktok] this is how i started healing
+
+## ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+
+### moment 1 · 19:39
+why: gives parents and teens a concrete way to spot a bad program even after it changes its name, and the whack-a-mole framing sticks.
+- [youtube] this is what the troubled teen industry ACTUALLY looks like #troubledteenindustry #mentalhealth
+- [instagram] programs change their names, so learn the red flags instead
+- [tiktok] this is how TTI programs hide
+
+### moment 2 · 24:18
+why: a plain explanation of why a glossy badge doesn't mean anything, with the "no FDA for behavioral health" line that makes the gap in oversight clear.
+- [youtube] the truth about the SEAL on a treatment program's website #troubledteenindustry #sadiesutton
+- [instagram] the truth about the "official" seal on treatment program websites
+- [tiktok] there is no FDA for behavioral health
+
+### moment 3 · 12:25
+why: a survivor explains how an adult finally saying "that wasn't okay" gave her the words for what happened. it applies to any experience that was normalized.
+- [youtube] what nobody tells you about healing from an abusive PROGRAM #troubledteenindustry #healing
+- [instagram] what nobody tells you about healing: someone has to say "that wasn't okay"
+- [tiktok] the first adult to say "that wasn't right"
+
+### moment 4 · 14:12
+why: a personal, relatable moment about records proving you aren't crazy, and about friends filling in each other's blocked-out memories.
+- [youtube] this is why having PROOF matters after being gaslit #troubledteenindustry #survivors
+- [instagram] this is why proof matters when you've been gaslit for years
+- [tiktok] this is why documents help after gaslighting
+
+### moment 5 · 17:34
+why: relatable and a bit funny, about asking "is this bad or are we being dramatic?" about things that got normalized, and why an outside perspective helps.
+- [youtube] this is what NORMALIZED abuse actually looks like #troubledteenindustry #mentalhealth
+- [instagram] "is this bad, or are we being dramatic?" what normalized abuse sounds like
+- [tiktok] "wait, is this bad?" is a real question
+
+### moment 6 · 36:44
+why: the actionable advice for parents: positive feedback works better than harsh discipline, and teens should have a say in their own treatment.
+- [youtube] a survivor's advice for PARENTS considering a program #troubledteenindustry #parenting
+- [instagram] a survivor's advice: let your teen have a say in their own treatment
+- [tiktok] kids don't act out for no reason
+
+## ep 196 · 196. EXPOSING the Troubled Teen Industry: How it Scams Parents & Harms Teens feat. Maia Szalavitz
+
+### moment 1 · 9:43
+why: maya defines the troubled teen industry in plain words, ending on "troubled teen is not a diagnosis." it works as a clear explainer for anyone who has never heard of it.
+- [youtube] what the troubled teen industry actually IS in plain words #troubledteenindustry #mentalhealth
+- [instagram] the abuse isn't a side effect in these programs. it's the treatment.
+- [tiktok] troubled teen is not a DIAGNOSIS
+
+### moment 2 · 11:30
+why: a surprising, concrete fact: there is no FDA for behavioral health, so anyone can open a program without proving it works. it explains how the industry exists at all.
+- [youtube] the truth about why anyone can open a teen treatment PROGRAM #troubledteenindustry #teenmentalhealth
+- [instagram] there's no FDA for behavioral health. anyone can sell "treatment" to parents.
+- [tiktok] anyone can open a teen treatment PROGRAM
+
+### moment 3 · 14:23
+why: it lists the tactics (cut off contact, food and sleep deprivation, attack therapy) and names the aim, using shame to create conformity. it shows what the abuse looks like in practice.
+- [youtube] this is what troubled teen programs actually look like in PRACTICE #troubledteenindustry #survivors
+- [instagram] these programs use shame to create conformity, and they call it therapy.
+- [tiktok] this is what "treatment" looked like
+
+### moment 4 · 16:24
+why: a clear counterintuitive tip for parents: the best treatment is usually at home. it speaks to the fear that sending a kid away is the only option.
+- [youtube] a parent's guide to what actually helps a struggling TEEN at home #troubledteenindustry #parenting
+- [instagram] for almost every teen mental health condition, the best treatment is at home.
+- [tiktok] sending your teen away usually HURTS
+
+### moment 5 · 29:53
+why: maya's reframe that "take accountability" is the wrong message for survivors, and sadie adds the psychology (internal, global, permanent) at 31:37. it names why these programs harm mental health.
+- [youtube] why blaming teens for everything is a TRAP, per a psychology student #troubledteenindustry #psychology
+- [instagram] these programs teach teens that everything is their fault. that's the opposite of healing.
+- [tiktok] this is why "accountability" backfires
+
+### moment 6 · 40:25
+why: a one-line test any parent can use, plus the idea of an independent evaluation. it's the most useful takeaway for a parent who is scared and searching.
+- [youtube] this is how to spot a bad teen treatment PROGRAM #troubledteenindustry #parents
+- [instagram] one question to ask: can your kid talk to you with no supervision from day one?
+- [tiktok] the one question to ask any PROGRAM
+
+## ep 195 · 195. Your Family Vacation Survival Guide: Coping Skills, Boundaries, & More!
+
+### moment 1 · 4:18
+why: a surprising reframe that names a real confusion: recharging an introvert battery looks like depression symptoms from the outside, and she explains how to tell the difference.
+- [youtube] this is why your social battery and mental health get mixed up #introvert #mentalhealth
+- [instagram] resting your social battery can look a lot like depression, and that's confusing
+- [tiktok] recharging vs. isolating: the SAME look
+
+### moment 2 · 6:40
+why: a personal line about knowing her limit and a clear two-way-street claim that being aware of your battery is not selfish, it's kinder to everyone.
+- [youtube] a therapist's advice on knowing your social LIMITS #familytime #boundaries
+- [instagram] knowing when your social battery is low isn't selfish, it's a gift to everyone around you
+- [tiktok] low social battery isn't SELFISH
+
+### moment 3 · 9:02
+why: a concrete tip that works for any level of anxiety. she shows how to scaffold coping skills before a trip, from a written plan to a packed book.
+- [youtube] what nobody tells you about surviving a family TRIP #copingskills #familyvacation
+- [instagram] before a family trip, write down who you'll call if you feel angry, anxious, or low
+- [tiktok] make your coping plan BEFORE the trip
+
+### moment 4 · 12:30
+why: a ready-to-use script. she models an abbreviated DEAR MAN for asking for space, framed around how a break helps the group too.
+- [youtube] how to ask your family for SPACE on vacation #dbt #boundaries
+- [instagram] a script for asking your family for five minutes alone without it turning into a fight
+- [tiktok] the script for asking for SPACE
+
+### moment 5 · 17:21
+why: a funny, relatable story (the 45-minute horseback ride in 100-degree heat) that makes the point that debriefing after a trip helps families plan better.
+- [youtube] this is why a family trip debrief actually WORKS #familyvacation #communication
+- [instagram] we all overheated on a 45-minute horseback ride, and it taught my family something
+- [tiktok] the horseback ride that CHANGED our trips
+
+### moment 6 · 25:58
+why: a clear claim that gives her a name for the problem. travel strips away your routine, sleep, and support system, so you're more emotionally vulnerable than you'd be at home.
+- [youtube] this is why family vacations feel so HARD #emotions #dbt
+- [instagram] family vacations are a masterclass in emotional vulnerability, and here's why
+- [tiktok] why trips make your feelings LOUDER
