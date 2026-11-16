@@ -2492,3 +2492,117 @@ why: a clear claim that gives her a name for the problem. travel strips away you
 - [youtube] this is why family vacations feel so HARD #emotions #dbt
 - [instagram] family vacations are a masterclass in emotional vulnerability, and here's why
 - [tiktok] why trips make your feelings LOUDER
+
+## ep 194 · 194. Treating ADHD Without Medication: Tips to Improve Focus & Productivity feat. Dr. Nick Nissen
+
+### moment 1 · 30:25
+why: a surprising reframe that gives procrastination a reason, and it ends on a concrete fix (tight deadlines) that works for anyone who leaves things to the last minute.
+- [youtube] procrastination is a form of self-medicating #adhd #focus
+- [instagram] procrastinating might be your brain looking for a STIMULANT
+- [tiktok] procrastination is self-medicating
+
+### moment 2 · 31:11
+why: a concrete tip that sounds backwards at first (aggressive deadlines, a small piece of the task), so it's easy to try right away.
+- [youtube] set a deadline so tight it's almost IMPOSSIBLE #adhd #productivity
+- [instagram] adhd brains need tighter deadlines, not looser ones
+- [tiktok] make your deadlines tighter
+
+### moment 3 · 31:40
+why: a short, hopeful line from behavioral psychology that is useful for anyone stuck at the starting line. It matches the "just keep going" phrasing that performed best.
+- [youtube] once you start, it's easier to keep GOING #adhd #motivation
+- [instagram] the hardest part is starting, and it gets easier after that
+- [tiktok] just keep going
+
+### moment 4 · 21:58
+why: names a common trap (important but not urgent things never get done) and gives a clear rule for it: put it on your calendar.
+- [youtube] why the important stuff never gets DONE #adhd #productivity
+- [instagram] the things that matter most rarely feel urgent
+- [tiktok] important but not urgent? schedule it.
+
+### moment 5 · 29:16
+why: gives listeners permission to delete the guilt-inducing to-do list items, and it works as a clear claim for anyone who feels behind.
+- [youtube] delete your zombie to-do list #adhd #selfcare
+- [instagram] you can delete the things you'll never do, and the guilt too
+- [tiktok] your to-do list has zombies on it
+
+### moment 6 · 34:17
+why: a quick, practical focus tip with no jargon that people can try the same day. Sadie's personal calendar show-and-tell makes a good companion clip.
+- [youtube] put your PHONE in another room #adhd #focus
+- [instagram] the first step to focusing is moving your phone to another room
+- [tiktok] phone in a drawer. notifications off.
+
+## ep 193 · 193. Gaining Wisdom & Weathering Grief in Your Twenties feat. Yasmine Cheyenne
+
+### moment 1 · 6:46
+why: the sugar jar metaphor explains boundaries in under a minute and makes sense to someone who has never heard of the book.
+- [youtube] the sugar jar: a boundaries metaphor (#boundaries #20s)
+- [instagram] most of us are walking around with no lid on our jar
+- [tiktok] your jar has no LID
+
+### moment 2 · 8:09
+why: a personal admission that even the good stuff felt like too much, and a reframe of exhaustion as too many yeses that were secret nos.
+- [youtube] saying yes to so many things that were a NO (#boundaries #20s)
+- [instagram] i was exhausted because i said yes to things that were a no
+- [tiktok] when even the good stuff is TOO MUCH
+
+### moment 3 · 13:23
+why: a plain, honest claim that therapy tools don't make you immune to grief, which is a relief for anyone who feels like they should be coping better.
+- [youtube] when none of your coping tools work (#grief #20s)
+- [instagram] grief was the first time no tool mattered, and that's okay to admit
+- [tiktok] you can know the tools and still FALL APART
+
+### moment 4 · 18:04
+why: it widens what counts as grief to breakups, a failed class, even good changes, which gives listeners permission to take their own losses seriously.
+- [youtube] grief isn't just death (#grief #20s)
+- [instagram] grief can be a breakup, a failed class, or a change you wanted
+- [tiktok] it counts as GRIEF
+
+### moment 5 · 20:39
+why: a concrete reframe of self-talk, "compassionate honesty" versus brutal honesty, with a relatable example of running late.
+- [youtube] compassionate honesty vs. brutal honesty (#selfcompassion #20s)
+- [instagram] we know how to be brutally honest with ourselves. try this instead
+- [tiktok] stop being brutally HONEST with yourself
+
+### moment 6 · 25:13
+why: a usable exercise for the feeling that nobody has been through what you're going through, built on remembering past times you started from scratch.
+- [youtube] when nobody has been through what you're going through (#20s #wisdom)
+- [instagram] you may not have this experience, but you have started from scratch before
+- [tiktok] you've started from SCRATCH before
+
+## ep 192 · 192. Technology & Gen Z: AI, Cancel Culture, Ethics, & More feat. Nita Farahany
+
+### moment 1 · 0:40
+why: a clear claim about the "closed loop" that names how feeds shape you without you noticing. it works as a cold open with no setup.
+- [youtube] your feed is changing who you are #socialmedia #genz
+- [instagram] your feed isn't just showing you things, it's quietly reshaping who you are
+- [tiktok] your feed is a closed LOOP
+
+### moment 2 · 10:21
+why: it reframes "too much screen time" as passive, automatic scrolling instead of hours logged, so it speaks to the parent-teen fight.
+- [youtube] screen time isn't the real PROBLEM #socialmedia #screentime
+- [instagram] the problem isn't how many hours you're on a screen, it's how you're using it
+- [tiktok] it's not screen TIME
+
+### moment 3 · 14:11
+why: "it's not rotting your brain, it's disconnecting you from yourself" is a surprising reframe of the brain rot conversation, and it fits in one breath.
+- [youtube] social media isn't rotting your brain #socialmedia #genz
+- [instagram] it's not really rotting your brain, it's disconnecting you from yourself
+- [tiktok] not brain rot. DISCONNECTION.
+
+### moment 4 · 20:06
+why: it's a funny, relatable personal story (the pimple video at 1am) that explains how the algorithm builds a picture of you from what you can't look away from.
+- [youtube] why tiktok knows you too well #socialmedia #algorithm
+- [instagram] one pimple video and tiktok decided it knew exactly who i was
+- [tiktok] the 1am pimple ALGORITHM
+
+### moment 5 · 41:26
+why: a concrete tip. opting out of personalized recommendations and tracking is something a viewer can do tonight, and she explains why personalized ads mean personalized steering.
+- [youtube] one setting that changes your feed #socialmedia #privacy
+- [instagram] you might like your personalized ads, but here's what comes with them
+- [tiktok] turn off the PERSONALIZED feed
+
+### moment 6 · 42:36
+why: three quick, doable habits (grayscale at night, exercise, call your representative) that make a good save-for-later clip.
+- [youtube] a simple phone habit for better sleep #socialmedia #sleep
+- [instagram] put your phone in grayscale at night. here's why it helps
+- [tiktok] try GRAYSCALE after dark
