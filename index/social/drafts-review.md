@@ -2606,3 +2606,117 @@ why: three quick, doable habits (grayscale at night, exercise, call your represe
 - [youtube] a simple phone habit for better sleep #socialmedia #sleep
 - [instagram] put your phone in grayscale at night. here's why it helps
 - [tiktok] try GRAYSCALE after dark
+
+## ep 191 · 191. How Should We Talk About Depression? feat. Hans Schroder
+
+### moment 1 · 7:45
+why: a clean, funny analogy that takes apart a belief most people have never questioned, and it works with no context.
+- [youtube] the chemical imbalance LOGIC breaks fast #depression #mentalhealth
+- [instagram] if tylenol helps a headache, is the headache caused by low tylenol?
+- [tiktok] low TYLENOL causes headaches?
+
+### moment 2 · 16:45
+why: a surprising reframe that gives hope, from a researcher who has tested it in group therapy.
+- [youtube] this is a SIGNAL, not a flaw #depression #mentalhealth
+- [instagram] what if depression isn't a malfunction, but a signal your life needs attention?
+- [tiktok] depression as a SIGNAL
+
+### moment 3 · 19:13
+why: a personal line from sadie that names a common, confusing experience: being depressed with no obvious reason.
+- [youtube] depressed with no obvious REASON #depression #teenmentalhealth
+- [instagram] i was depressed with no big loss or change. looking back, the signals were there.
+- [tiktok] no big LOSS, still depressed
+
+### moment 4 · 20:55
+why: a concrete list of universal needs that makes an abstract idea easy to grasp.
+- [youtube] this is what depression SIGNALS #depression #needs
+- [instagram] love, respect, boundaries, space, meaning. depression may be telling us one isn't met.
+- [tiktok] depression and unmet NEEDS
+
+### moment 5 · 28:18
+why: a practical checklist for getting curious about depression instead of spiraling, and it can be saved.
+- [youtube] a depression CHECK-IN list #depression #selfawareness
+- [instagram] values, relationships, sleep, movement: a curious check-in when depression shows up.
+- [tiktok] a depression CHECK-IN list
+
+### moment 6 · 37:34
+why: a simple, usable script for supporting someone who is struggling, built on validating first and then expressing belief in them.
+- [youtube] validate first, then add HOPE #depression #validation
+- [instagram] "this sounds awful" and "i believe you can get through this." you need both.
+- [tiktok] you need both: VALIDATION
+
+## ep 190 · 190. How to Become an OPTIMIST: 3 Positive Psychology Techniques to Change Your Mindset
+
+### moment 1 · 21:39
+why: a clean reframe of a common trap (acceptance feels like giving up), and sadie says it from her own depression, so it stands alone.
+- [youtube] this is what ACCEPTANCE really means #mentalhealth #acceptance
+- [instagram] acceptance felt like giving up to me. it's actually the opposite.
+- [tiktok] acceptance is not giving UP
+
+### moment 2 · 31:43
+why: it gives a concrete way to hear the self-talk in a bad-grade moment, using an example every student knows.
+- [youtube] PESSIMISM 101 #psychology #mindset
+- [instagram] same bad test, two very different stories we tell ourselves
+- [tiktok] pessimism 101: the bad test
+
+### moment 3 · 33:53
+why: it's the flip side most people miss. we explain good news differently, and sadie shows what taking credit sounds like.
+- [youtube] this is how optimists explain WINS #optimism #positivepsychology
+- [instagram] optimists don't just handle setbacks differently. they handle wins differently too.
+- [tiktok] you're allowed to take credit
+
+### moment 4 · 14:14
+why: a surprising study with a memorable hook (nuns' application essays), and the numbers land fast.
+- [youtube] this is the NUN study #psychology #positivity
+- [instagram] nuns wrote essays in their 20s. it predicted who lived longer.
+- [tiktok] the nun study is wild
+
+### moment 5 · 26:54
+why: the learned helplessness experiment is explained simply, and the finding (people stop trying even once the button works) stays with you.
+- [youtube] this is learned HELPLESSNESS #psychology #seligman
+- [instagram] they fixed the button and nobody pressed it. here's what that means.
+- [tiktok] why people stop trying
+
+### moment 6 · 20:15
+why: a personal line. sadie names what her own depression looked like (distracting, avoiding, giving up), which is very relatable.
+- [youtube] what pessimism looked like: AVOIDANCE #mentalhealth #depression
+- [instagram] when i was depressed, i avoided everything. i just didn't know it had a name.
+- [tiktok] what my depression looked like
+
+## ep 189 · 189. The Psychology of Ozempic, Obesity, and Weight Loss feat. Johann Hari
+
+### moment 1 · 10:45
+why: a plain claim with a surprising reframe: food is also how we soothe ourselves, which explains why a drug that blocks it surfaces feelings. the KFC story makes it concrete and easy to follow.
+- [youtube] why we eat when we're STRESSED #bodyimage #mentalhealth
+- [instagram] he sat down to his comfort meal and couldn't eat it. then the feelings came.
+- [tiktok] food soothes us like a BABY
+
+### moment 2 · 16:07
+why: a personal, story-driven reframe. the weight-gain-as-protection story (content note: it includes sexual abuse) shows that weight can be a response to trauma, not a failure of willpower.
+- [youtube] why weight can be PROTECTION #trauma #bodyimage
+- [instagram] "overweight is overlooked, and that's what i need to be." a story about weight and safety.
+- [tiktok] weight isn't always about food
+
+### moment 3 · 33:49
+why: a clear claim backed by a number. most diets fail long term, and the set point explanation takes the blame off the person.
+- [youtube] why DIETS fail long term #dieting #bodyimage
+- [instagram] over two years, the average dieter loses about two pounds. here's why.
+- [tiktok] your body fights back against DIETS
+
+### moment 4 · 13:21
+why: a short, relatable reframe on "once i'm thin, my life will be better". it works for any listener with a before/after fantasy.
+- [youtube] this is the lie about WEIGHT LOSS #mentalhealth #bodyimage
+- [instagram] you get thin and you still have the same life. what then?
+- [tiktok] thin isn't the magic fix
+
+### moment 5 · 40:32
+why: a personal moment that makes the stakes feel real for her age group. his teenage niece asks him for ozempic, and he realizes what his weight loss told her.
+- [youtube] when my niece asked for OZEMPIC #bodyimage #teens
+- [instagram] his 19-year-old niece asked for ozempic. that's when the worry got real.
+- [tiktok] my niece asked for OZEMPIC
+
+### moment 6 · 57:13
+why: a warm, quotable takeaway that works as a standalone. it reframes anxiety and depression as signals about unmet needs, and it's the strongest line to end on.
+- [youtube] this is not a BROKEN brain #mentalhealth #anxiety
+- [instagram] you're not a machine with broken parts. you're a human with unmet needs.
+- [tiktok] you're not broken, you're UNMET
