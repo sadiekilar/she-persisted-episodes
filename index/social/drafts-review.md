@@ -2720,3 +2720,117 @@ why: a warm, quotable takeaway that works as a standalone. it reframes anxiety a
 - [youtube] this is not a BROKEN brain #mentalhealth #anxiety
 - [instagram] you're not a machine with broken parts. you're a human with unmet needs.
 - [tiktok] you're not broken, you're UNMET
+
+## ep 188 · 188. A Psychologist's Guide to Your 20s: How to Handle Mental Health, Breakups, & Growing Up feat. Meg Jay
+
+### moment 1 · 0:29
+why: a clear claim and a reframe in under a minute: uncertainty feels like danger but isn't. clip starts at "oftentimes people ask me" and runs to "that's really good news."
+- [youtube] meg jay on living with UNCERTAINTY in your 20s #20s #mentalhealth
+- [instagram] the brain reads uncertainty as danger. in the 20s, it isn't.
+- [tiktok] this is what 20s UNCERTAINTY does
+
+### moment 2 · 15:24
+why: it reframes a heavy post-breakup low as grief, a sign the attachment system works, and it ends on a memorable line.
+- [youtube] this is why breakups feel like DEPRESSION #breakups #20s
+- [instagram] heartbreak that flattens everything is a working attachment system, not a disorder.
+- [tiktok] heartbreak is GRIEF, not a disorder
+
+### moment 3 · 17:15
+why: it names a concrete risk of self-diagnosing from the internet (the nocebo effect), which fits sadie's audience and the social media topic.
+- [youtube] how internet LABELS limit our healing #mentalhealth #gen z
+- [instagram] the nocebo effect: expecting not to get better can keep people stuck.
+- [tiktok] the NOCEBO effect, explained
+
+### moment 4 · 24:34
+why: a surprising reframe of the "best years of your life" myth, and the line "it's actually good news" is a relief to hear.
+- [youtube] why the 20s are NOT the best years #20s #growingup
+- [instagram] the 20s aren't the best years of life, and that's actually good news.
+- [tiktok] the 20s are not the BEST years
+
+### moment 5 · 25:45
+why: a concrete tool for tough moments. clip starts at "i often talk about it with clients as their data points" and ends with the DBT-style "i got through it before."
+- [youtube] how past hard times help us COPE now #dbt #copingskills
+- [instagram] hard days get easier to handle once there's evidence of getting through them.
+- [tiktok] collect DATA POINTS for hard days
+
+### moment 6 · 34:37
+why: an unexpected comparison between jobs and relationships makes breakups feel like learning rather than failing, and it's easy to quote.
+- [youtube] this is what breakups and JOBS have in common #breakups #20s
+- [instagram] most people have many jobs by thirty-five. relationships teach the same way.
+- [tiktok] this is what breakups TEACH
+
+## ep 187 · 187. THE PSYCHOLOGY OF FRIENDSHIP: Forming Connections in the Social Media Era feat. Jeffery Hall
+
+### moment 1 · 0:29
+why: opens with a clear reframe that friendship getting harder after school isn't a personal failing. it's the most shareable claim in the episode and it works cold.
+- [youtube] this is why friendship got HARD after school #friendship #youngadulthood
+- [instagram] nothing is wrong with you. you left the place that made friends easy.
+- [tiktok] why friends got hard after school
+
+### moment 2 · 20:10
+why: the "admissions board is in charge of my friendship" line is a surprising, concrete example of how context picks our friends, and it ends on a kind, direct reassurance.
+- [youtube] this is how context picks your FRIENDS #friendship #college
+- [instagram] your college admissions office kind of chose your friends. that's not a flaw in you.
+- [tiktok] who actually chose your friends?
+
+### moment 3 · 18:09
+why: a concrete answer to "how long does it take to make a friend," with the three hour counts and the key caveat that how you spend the time matters.
+- [youtube] this is how many hours a real friend takes #friendship #relationships
+- [instagram] 40 hours for casual, 80 to 100 for a friend, 200+ for a best friend.
+- [tiktok] hours it takes to make a best friend
+
+### moment 4 · 30:29
+why: reframes loneliness as a sign your need to belong is working, not proof something is wrong. it's the warmest, most surprising idea in the episode, backed by a personal example from jeffrey.
+- [youtube] this is why feeling LONELY is a good sign #loneliness #mentalhealth
+- [instagram] feeling lonely means your need to belong is working. it works like hunger.
+- [tiktok] loneliness is like hunger
+
+### moment 5 · 6:24
+why: a myth-busting reframe. feeling guilty about scrolling can spoil the pleasure and affect how it makes you feel, which speaks directly to a young audience that gets lectured about social media.
+- [youtube] this is how guilt about scrolling SPOILS it #socialmedia #mentalhealth
+- [instagram] feeling guilty about scrolling may matter more than the scrolling itself.
+- [tiktok] guilt makes scrolling feel worse
+
+### moment 6 · 43:06
+why: a concrete four-part tip list (strengthen the signal, quality communication, tighten the circle, make it a priority) that is easy to save and use. the last line, "don't just say we should get together," is a strong closer.
+- [youtube] this is how to build better FRIENDSHIPS #friendship #socialmedia
+- [instagram] don't just say we should get together. make the plan.
+- [tiktok] stop saying "we should hang out"
+
+## ep 186 · 186. THE SCIENCE OF HAPPINESS: How to Improve Your Mood & Increase Your Freedom feat. Emma Seppälä
+
+### moment 1 · 0:29
+why: a clear, surprising claim that anyone from a ceo to a chef has the same emotional training as a five-year-old, and it stands alone with no setup.
+- [youtube] this is why we cope so BADLY with big emotions #emotions #mentalhealth
+- [instagram] no matter how educated you are, nobody taught you what to do with a bad feeling
+- [tiktok] we get zero training on emotions
+
+### moment 2 · 11:25
+why: the best-friend test is a concrete reframe that is easy to try, and the "different bodies" line lands hard.
+- [youtube] this is the best friend test for SELF-CRITICISM #selfcompassion #mentalhealth
+- [instagram] what would you say to your best friend who made the same mistake?
+- [tiktok] you'd never say this to a friend
+
+### moment 3 · 14:41
+why: "emotion is energy in motion" is a simple reframe, and the child and labor comparisons make it easy to picture.
+- [youtube] why FEELING it is how emotions actually leave #emotions #healing
+- [instagram] a child is angry for two minutes and then it's over. here's why.
+- [tiktok] emotion is energy in motion
+
+### moment 4 · 33:14
+why: it turns vague "love yourself" advice into one question to ask a few times a day, with a doom-scroll-versus-nap example.
+- [youtube] self-love 101: the one question to ask yourself daily #selflove #selfcare
+- [instagram] "love yourself" is vague. swap "am i good enough?" for this question.
+- [tiktok] stop asking "am i good enough?"
+
+### moment 5 · 34:47
+why: a vulnerable personal story about the last day of an eating disorder, with a lesson about feeling an emotion before reacting to it. (content note: includes an eating disorder, so check the framing before posting.)
+- [youtube] my eating disorder ended after ONE cry on my bed #recovery #emotions
+- [instagram] i always cried after i binged. then one day i cried first.
+- [tiktok] the day my eating disorder ended
+
+### moment 6 · 26:00
+why: a student's one-week self-care experiment challenges the idea that burning yourself out is the price of success, and the "skeptical scientist" framing makes it low-pressure to try.
+- [youtube] how to be MORE productive by resting #burnout #collegelife
+- [instagram] he thought self-care would slow him down. a week later he got more done.
+- [tiktok] burnout is a super highway
