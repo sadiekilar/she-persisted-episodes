@@ -2834,3 +2834,117 @@ why: a student's one-week self-care experiment challenges the idea that burning 
 - [youtube] how to be MORE productive by resting #burnout #collegelife
 - [instagram] he thought self-care would slow him down. a week later he got more done.
 - [tiktok] burnout is a super highway
+
+## ep 185 · 185. "The WORST Year of My Entire Life!!!" - Responding to Reddit Mental Health Posts Pt. 2!
+
+### moment 1 · 27:00
+why: the title line itself. a personal, plain statement of the hardest year, followed by what it took to process afterward. it works cold and ties to the troubled teen industry, one of the stronger shorts topics.
+- [youtube] this is what the TROUBLED teen industry looks like #troubledteenindustry #mentalhealth
+- [instagram] i spent 14 months at a therapeutic boarding school in montana. here's what it was like.
+- [tiktok] the WORST year of my life
+
+### moment 2 · 24:32
+why: concrete, checkable red flags (no psychologists, a life coach as therapist, one session a week) that anyone can use to judge a program. it works for teens and for parents.
+- [youtube] this is how to spot a SKETCHY treatment program #troubledteenindustry #teenmentalhealth
+- [instagram] no psychologists on staff. one therapist was a life coach. this was my "treatment."
+- [tiktok] red flags in a treatment program
+
+### moment 3 · 8:58
+why: it names the "it's not bad enough" belief that stops people from asking for help, then reframes mental health as a spectrum. a clear claim most listeners will recognize themselves in.
+- [youtube] why "it's not bad ENOUGH" keeps you stuck #mentalhealth #depression
+- [instagram] you don't have to be at your worst to deserve support. mental health is a spectrum.
+- [tiktok] "it's not bad ENOUGH" is a lie
+
+### moment 4 · 33:43
+why: a practical way to handle jealousy and judgment. it uses the college decisions example, which is timely, and ends on the idea that the real thing you want is usually to feel loved and seen.
+- [youtube] this is what your JEALOUSY is actually telling you #mentalhealth #selfawareness
+- [instagram] jealous of someone going to your dream school? it's probably not about the school.
+- [tiktok] what your jealousy is really about
+
+### moment 5 · 31:00
+why: it reframes self-trust as evidence built by using coping skills and surviving hard days, not as affirmations. it's a concrete explanation that gives people something to do.
+- [youtube] why trusting yourself is so HARD (and how to build it) #mentalhealth #cbt
+- [instagram] you can't say "i trust myself" into a mirror. you earn it by surviving the hard days.
+- [tiktok] trust yourself by surviving 100% of bad days
+
+### moment 6 · 5:38
+why: a surprising, easy-to-remember reframe using the bear and toddler examples. it explains why distress and impairment matter more than "normal," which helps anyone wondering if what they feel counts.
+- [youtube] this is how you know if it's a REAL problem #depression #mentalhealth
+- [instagram] if we were bears, sleeping all winter would be normal. here's why that matters.
+- [tiktok] normal vs. DISTRESSING
+
+## ep 184 · 184. UNHEALTHY RELATIONSHIPS: Red Flags & Risk Factors in Teen Relationships feat. Eden Garcia-Balis
+
+### moment 1 · 9:12
+why: gives a clear, plain definition of what unhealthy and abusive look like, and reframes abuse as more than physical, including emotional and digital.
+- [youtube] abuse isn't always PHYSICAL #relationships #teenmentalhealth
+- [instagram] abuse isn't only physical. emotional and digital abuse count too
+- [tiktok] abuse isn't always PHYSICAL
+
+### moment 2 · 11:03
+why: names a pattern many listeners will recognize, that it hurts too much to reflect so they jump into the next relationship, and says why that keeps the cycle going.
+- [youtube] why the cycle keeps REPEATING #relationships #healing
+- [instagram] it hurts too much to look back, so we start the next relationship. the cycle continues
+- [tiktok] why the cycle REPEATS
+
+### moment 3 · 13:51
+why: a concrete, easy-to-remember journaling tip with real examples (cooking together, a partner who respected your decisions, one who didn't support your friendships).
+- [youtube] two questions to ask after a BREAKUP #journaling #relationships
+- [instagram] before the next relationship, ask what you liked and what you didn't
+- [tiktok] ask this before dating AGAIN
+
+### moment 4 · 18:10
+why: a warm reframe that takes the blame off listeners, since nobody goes looking for a relationship that hurts and family patterns can pull us in without our meaning to.
+- [youtube] nobody CHOOSES an unhealthy relationship #teenmentalhealth #relationships
+- [instagram] nobody is looking for someone to hurt them. it happens without us noticing
+- [tiktok] nobody CHOOSES this
+
+### moment 5 · 21:32
+why: a practical tip on preparing for a hard conversation, with one line that works as a self-check: if you already expect your partner to get mad, that's a red flag.
+- [youtube] this is a red FLAG #relationships #boundaries
+- [instagram] if you already think this will make your partner mad, that's a red flag
+- [tiktok] this is a red FLAG
+
+### moment 6 · 26:55
+why: speaks directly to friends. The outside view sees what someone in the relationship can't, and staying quiet can feel like approval.
+- [youtube] why staying quiet is CO-SIGNING #friendship #relationships
+- [instagram] if a friend's relationship seems unhealthy, say something. silence reads as approval
+- [tiktok] silence is CO-SIGNING
+
+## ep 183 · 183. High-Functioning Depression & Trauma in College Students feat. Judith Joseph, M.D., M.B.A.
+
+### moment 1 · 12:12
+why: a clear reframe of "delayed gratification" as a trap of "when i finally get X, i'll be happy," and it ends on the fear that relaxing means losing everything. runs about 55 seconds, to 13:11.
+- [youtube] this is what high-functioning depression looks like #mentalhealth #college
+- [instagram] "when i finally get in, i'll be happy" is not the same as delayed gratification
+- [tiktok] why you can never relax
+
+### moment 2 · 8:35
+why: it names the hidden group, people who are very high functioning, busy, thriving and still feel "off," and the line that busyness blocks pain you can't name makes it easy to self-diagnose. runs about 40 seconds, to 9:27.
+- [youtube] this is high-functioning depression #highfunctioningdepression #mentalhealth
+- [instagram] you're killing it on paper and something still feels off. dr. judith joseph explains
+- [tiktok] killing it, but something's off
+
+### moment 3 · 10:48
+why: scarcity trauma is a new term for many people. the idea that you hide it from your therapist to be liked, or feel you shouldn't complain, is relatable and surprising. runs about 55 seconds, to 11:43.
+- [youtube] this is SCARCITY trauma #traumahealing #mentalhealth
+- [instagram] a therapist on scarcity trauma and why you might be hiding it from your own therapist
+- [tiktok] what is scarcity trauma?
+
+### moment 4 · 25:39
+why: a validating, concrete claim that blame and shame are symptoms of ptsd, not proof that something is wrong with you. it works as a standalone comfort clip. runs about 45 seconds, to 26:33.
+- [youtube] this is why you blame YOURSELF #traumarecovery #mentalhealth
+- [instagram] feeling shame after trauma is a symptom of the trauma, not a flaw in you
+- [tiktok] self-blame is a symptom
+
+### moment 5 · 33:20
+why: a tip with a vivid analogy, to find a therapist before you need one because crisis is the worst time to pick, like looking for your keys when you're late. runs about 55 seconds, to 34:15.
+- [youtube] a therapist's advice on finding a THERAPIST #therapy #college
+- [instagram] a psychiatrist's advice: find a therapist before you're in crisis
+- [tiktok] find a therapist before you need one
+
+### moment 6 · 31:58
+why: it takes down the "i'm not as bad as other people" thought and gives a clear rule that "not as bad" shouldn't be the bar for getting help. runs about 55 seconds, to 32:54.
+- [youtube] why "it could be worse" keeps you STUCK #mentalhealth #therapy
+- [instagram] "people have it worse than me" shouldn't be the bar for getting help
+- [tiktok] "others have it worse" is a trap

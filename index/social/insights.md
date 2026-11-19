@@ -1,43 +1,43 @@
 # social insights
 
-Generated 2026-11-18 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-11-19 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
 ## playbook (Claude's read of the numbers)
 
-**what travels** (youtube shorts unless noted; baseline is 1,033 views)
-- **one CAPS word:** n=198, lift 0.82, vs 0.28 with none (n=190) and 0.17 with two (n=89). "how our CHILDHOOD affects our current emotions" hit 2.51.
-- **short hooks (6 words or fewer):** n=62, lift 0.94, vs 0.14 for 12+ words (n=107). "ANXIETY 101 | Ep. 120 SOLO EP" hit 2.37.
-- **"this is" openers:** n=13, lift 1.24, 85% above baseline. i can't quote one because none made the top list, so treat it as a lead, not a rule.
-- **topics:** social media (n=34, 1.05), sadie recommends (n=27, 1.02), troubled teen industry (n=28, 0.96). on episodes, TTI is n=11 at 1.41. "198. Chrysalis School Montana: My Troubled Teen Industry Experience" hit 26x.
-- **statements about the topic, not "you":** on episodes, no "you" is n=131 at 0.90 vs 0.63 (n=73). "254. how to help someone who doesn't want help (without making it worse)" hit 12.7x.
-- **no digits in the hook (shorts):** n=199, lift 1.0 vs 0.17 (n=372). this may partly be episode numbers in titles, so don't over-read it.
-- **hashtags:** 1–2 hashtags (n=204) show lift 1.0 vs 0.16 for none. the top hooks shown don't use them, and it may just reflect older vs newer posts. test it before leaning on it.
+what travels
+- one CAPS word beats zero or many. youtube shorts with exactly 1 caps word: n=198, lift 0.82 vs 0.28 for none. 2+ caps words sank to 0.17–0.25. quote: "how our CHILDHOOD affects our current emotions" (2.51).
+- short hooks, 6 words or fewer: n=62, lift 0.94 vs 0.14 for 12+ words (n=107).
+- no digits: n=199, lift 1.00 vs 0.17 with a number (n=372). note that episode numbers in titles may be driving the "has number" split, so read it carefully.
+- 1–2 hashtags: n=204, lift 1.00 vs 0.16 with none (n=367).
+- "this is" hooks: n=13, lift 1.24, 85% above baseline. the thin sample means it's worth testing, not a rule.
+- topics: social media (n=34, 1.05), sadie recommends (n=27, 1.02), troubled teen industry (n=28, 0.96) and 20s (n=40, 0.93) lead on shorts. parents (n=8, 1.16) is thin.
+- episodes: guest-led beat solo (n=138, 0.90 vs n=64, 0.63). the top episode titles are specific and promise an outcome: "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!" (64.5x).
 
-**what sinks**
-- **long hooks:** 12+ words on shorts, lift 0.14, only 8% above baseline (n=107).
-- **trauma, anxiety, body image and generic self-improvement on shorts:** lifts of 0.08 (n=29), 0.21 (n=47), 0.18 (n=34) and 0.23 (n=110).
-- **list-y or "you" framing on shorts:** "how to" is 0.27 (n=33), "you / your" is 0.33 (n=85). "10 Coping Skills You NEED to Know" got 13 views.
-- **stacked caps and questions:** 3+ caps words stay at or under 0.25, and questions sit at 0.39 (n=55). "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?!" got 10 views.
+what sinks
+- long hooks, 12+ words on shorts: n=107, lift 0.14, only 8% beat baseline.
+- 2+ caps words: n=183 combined, lift 0.17–0.25. quote: "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103" (0.01).
+- "how to" (n=33, 0.27) and "you / your" (n=85, 0.33) hooks on shorts.
+- trauma (n=29, 0.08), body image (n=34, 0.18), anxiety (n=47, 0.21) and self-improvement (n=110, 0.23) as short topics.
 
-minis (n=28) and most hook types have too few posts to call, so no pattern claims there.
-
-**phrasings to reuse**
+phrasings to reuse
+- this is what ___ actually looks like
 - this is ___
-- ___ 101
-- how our ___ affects our emotions
-- how to help someone who ___ (without making it worse)
-- my ___ experience
-- what part of you ___ about ___?
-- ___ in therapy: the problem nobody names
-- red flags you don't have enough ___
+- why ___ is so hard
+- just keep going
 - a therapist's advice on ___
-- ___ and what we wish we knew sooner
+- ___ 101
+- what if part of you doesn't want ___?
+- how our ___ affects our current emotions
+- how to help someone who doesn't want help
+- what we wish we knew about ___
 
-**how sadie edits** (12 edited posts, all youtube, so a fair sample)
-- **hashtags and pull quotes go.** drafts like "nobody gets what a BATTLE it is..." became topic-first titles.
-- **she moves toward "how to / signs / what you need to know" framing**, e.g. "signs a teenager is STRUGGLING with their mental health". this is the framing the shorts data scores lowest, though these edits are too new to have settled views.
-- **she keeps one CAPS word** and often adds "!!". edits stay close to the original idea (similarity 0.46–0.72).
-- **she adds names and context** ("dr. angela duckworth on...", "MINI:", "dbt expert on...").
+keep each to one caps word and under 7 words where you can.
+
+how sadie edits
+- she turns quotes and observations into "how to / signs / what" framings: "nobody gets what a BATTLE it is..." became "how to tell if a teen is STRUGGLING with their mental health."
+- she drops the hashtags from the hook line in nearly every edit (12 of 13 edits). that sits against the data, where 1–2 hashtags did better, so check whether they're still going in the description.
+- she names the audience or guest and the topic plainly ("dr. angela duckworth on...", "college FRIEND GROUPS") instead of the cryptic draft line.
+- she adds "!!" or "?!!" energy, which is not tied to any lift yet. the log has no outcomes, so we can't say her edits performed better. many of her rewrites are 8+ words, which runs against the short-hook finding.
 
 ## youtube:short (571 posts with a lift; baseline 1033 views)
 
@@ -156,7 +156,7 @@ minis (n=28) and most hook types have too few posts to call, so no pattern claim
 
 - 2.82× · 2916 views · ep 121 · just keep going | Ep. 121. feat. Mary's Cup of Tea
 - 2.76× · 2849 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
-- 2.71× · 2795 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
+- 2.71× · 2796 views · ep 172 · The Problem of People in Therapy | She Persisted Ep. 172 Terri Cole
 - 2.61× · 2691 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
 - 2.53× · 2617 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
 - 2.51× · 2593 views · ep 258 · how our CHILDHOOD affects our current emotions
@@ -252,7 +252,7 @@ minis (n=28) and most hook types have too few posts to call, so no pattern claim
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| sadie recommends | 3 | 41.51 | 100% |
+| sadie recommends | 3 | 41.52 | 100% |
 | adhd | 4 | 2.79 | 100% |
 | troubled teen industry | 11 | 1.41 | 64% |
 | trauma | 17 | 1.34 | 53% |
@@ -284,17 +284,17 @@ minis (n=28) and most hook types have too few posts to call, so no pattern claim
 
 **top posts**
 
-- 64.41× · 8534 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
-- 41.51× · 5500 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 28.73× · 3807 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 27.15× · 3597 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 26.15× · 3465 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 23.58× · 3124 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
-- 12.74× · 1688 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
+- 64.54× · 8551 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 41.52× · 5502 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
+- 29.11× · 3857 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 27.18× · 3601 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 26.22× · 3474 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 23.65× · 3134 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 13.15× · 1742 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
 - 9.52× · 1261 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
 - 9.3× · 1232 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
 - 8.38× · 1110 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 6.84× · 906 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 6.85× · 908 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 - 6.57× · 870 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
