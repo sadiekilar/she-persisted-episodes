@@ -2948,3 +2948,117 @@ why: it takes down the "i'm not as bad as other people" thought and gives a clea
 - [youtube] why "it could be worse" keeps you STUCK #mentalhealth #therapy
 - [instagram] "people have it worse than me" shouldn't be the bar for getting help
 - [tiktok] "others have it worse" is a trap
+
+## ep 182 · 182. Anxiety 101: What We Do Wrong, How to Cope, and Facing Our Fears feat. Dr. David Rosmarin
+
+### moment 1 · 6:29
+why: a calm, bold reframe that anxiety is a misfire and not a broken brain, and it lands with no context needed.
+- [youtube] this is what anxiety ACTUALLY is #anxiety #mentalhealth
+- [instagram] anxiety isn't a disease, it's your fear response misfiring
+- [tiktok] this is a MISFIRE, not broken
+
+### moment 2 · 10:30
+why: it explains in plain terms why running from anxiety makes it bigger, which is the core idea of the episode.
+- [youtube] why running from anxiety makes it WORSE #anxiety #therapy
+- [instagram] the more you try to get rid of anxiety, the louder it gets
+- [tiktok] why avoiding anxiety backfires
+
+### moment 3 · 17:10
+why: the gym comparison turns discomfort into a sign of growth and is easy to picture and repeat.
+- [youtube] this is your emotional GYM #anxiety #resilience
+- [instagram] if a workout feels terrible, you're in the right place. anxiety works the same way
+- [tiktok] anxiety is your emotional GYM
+
+### moment 4 · 19:42
+why: a therapist's personal rule that she won't ask a patient to do anything she wouldn't do herself builds trust and has a funny straw story attached.
+- [youtube] a therapist's rule that built my TRUST #therapy #anxiety
+- [instagram] a therapist's rule: never ask a patient to do what you won't do yourself
+- [tiktok] this therapist does the exposure TOO
+
+### moment 5 · 31:30
+why: the spider story is a concrete example of how facing one fear can change a whole life.
+- [youtube] this is what facing one fear can DO #exposuretherapy #anxiety
+- [instagram] she faced spiders in one day, then went scuba diving years later
+- [tiktok] one fear faced, a whole life changed
+
+### moment 6 · 33:33
+why: it names the thing parents do that makes anxiety worse, which speaks to teens and to anyone who has felt their parents' worry.
+- [youtube] this is what makes a teen's anxiety WORSE #parenting #anxiety
+- [instagram] what parents do that makes anxiety worse, and what to say instead
+- [tiktok] what to say when your teen is ANXIOUS
+
+## ep 181 · 181. "Is there something wrong with me?!!" - Responding to Reddit Mental Health Posts
+
+### moment 1 · 6:44
+why: a clear reframe, since the idea that a feeling can be valid without being justified applies to anyone who has ever thought "i shouldn't feel this way."
+- [youtube] this is why feeling lonely isn't a FLAW (title: "this is why loneliness isn't a FLAW") #mentalhealth #depression
+- [instagram] you can't control the first feeling, but you can control what you say to yourself next
+- [tiktok] this is the SECOND feeling
+
+### moment 2 · 7:20
+why: it names the "secondary emotion" spiral with a concrete example and a personal line about recovery, and it stands alone in under a minute.
+- [youtube] this is the shame spiral behind sadness #depression #dbt
+- [instagram] one of the game changers in my recovery was learning we can't control our emotions, but we can control this
+- [tiktok] this is how feelings snowball
+
+### moment 3 · 8:49
+why: a gentle, factual answer to "please tell me it's going to be okay," and the personal mantra makes it comforting without sounding like a platitude.
+- [youtube] this is why it HAS to be okay #depression #hope
+- [instagram] nothing lasts forever, and that includes the way you feel right now
+- [tiktok] it has to be OKAY
+
+### moment 4 · 17:53
+why: it gives a clear two-question test (distress and impairment) for "is this bad enough for therapy?", which is a question many girls in the audience are quietly asking.
+- [youtube] this is how to know if you need THERAPY #depression #mentalhealth
+- [instagram] "is it bad enough for therapy?" two questions psychologists actually ask
+- [tiktok] is it bad ENOUGH for therapy?
+
+### moment 5 · 22:50
+why: a candid, slightly "hot take" boundary line for anyone worn out from carrying a struggling friend, backed by Sadie's own story of her parents stepping in at 13.
+- [youtube] this is what you can't do for a depressed FRIEND #depression #friendship
+- [instagram] you can want the world for your friend, but you can only help someone as much as they want to help themselves
+- [tiktok] you can't fix your FRIEND
+
+### moment 6 · 39:23
+why: it's a concrete, doable tip (a vulnerability ladder, plus the residential "vulnerability group" detail) for anyone who freezes when trying to open up.
+- [youtube] this is how to practice being VULNERABLE #mentalhealth #trauma
+- [instagram] my throat closes up when i try to open up: here's the exposure ladder that helped me
+- [tiktok] this is the vulnerability LADDER
+
+## ep 180 · 180. All About ADHD: Symptoms, Misconceptions, Diagnosis, & More feat. Dr. Roberto Olivardia
+
+### moment 1 · 0:29
+why: a surprising reframe that names a pattern many young women will recognize in themselves, and it opens the episode, so it stands alone.
+- [youtube] why perfectionism and anxiety can hide ADHD in girls #adhd #mentalhealth
+- [instagram] a lot of girls with ADHD are treated for perfectionism and anxiety instead
+- [tiktok] this is ADHD in girls
+
+### moment 2 · 13:20
+why: it corrects the biggest misconception (that ADHD means you can't focus) with a concrete example, the 14 hours of video games.
+- [youtube] this is what ADHD attention ACTUALLY looks like #adhd #hyperfocus
+- [instagram] ADHD isn't a lack of attention. it's attention you can't steer
+- [tiktok] ADHD is not a focus problem
+
+### moment 3 · 15:19
+why: a short, relatable line that answers the "you're just lazy" story, and it works as a validation clip for anyone who has felt shame over it.
+- [youtube] why ADHD is called INTENTION deficit disorder #adhd #mentalhealth
+- [instagram] we joke in the ADD community that it should be called intention deficit disorder
+- [tiktok] it's not that you don't care
+
+### moment 4 · 19:48
+why: the "lying in a dark room waiting for nothing to happen" quote is vivid and shareable, and it explains why sleep is so hard.
+- [youtube] why going to sleep is SO hard with ADHD #adhd #sleep
+- [instagram] going to sleep with ADHD is lying in a dark room waiting for nothing to happen
+- [tiktok] why ADHD brains can't fall asleep
+
+### moment 5 · 28:35
+why: the dimmer switch versus light switch analogy is a clear explanation that people will send to friends and family.
+- [youtube] this is the difference between ADHD and being bored #adhd #neurodivergent
+- [instagram] most brains have a dimmer switch. ADHD brains have a light switch
+- [tiktok] this is the ADHD light switch
+
+### moment 6 · 46:41
+why: a concrete, low-effort tip (the stick figure packing list) that shows what externalizing a task looks like, and it's funny and warm too.
+- [youtube] this is the stick man trick for ADHD packing #adhd #adhdtips
+- [instagram] this is how a psychologist with ADHD packs for a trip: the stick man method
+- [tiktok] this is the stick man method
