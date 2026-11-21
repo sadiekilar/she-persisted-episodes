@@ -4,7 +4,7 @@
 
 tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (40), college (37), high school (36), trauma (22), social media (19), 20s (17), career (17), body image (17), troubled teen industry (15), adhd (7), therapy (1)
 
-## 267. why you procrastinate even when you really care
+## 267. why you procrastinate (even when you really care)
 date: 2026-11-21 | https://shepersistedpodcast.com/episodes/267 | 49 min | video
 tags: college, high school, 20s, therapy, emotions, career, adhd
 format: guest | guests: dr. sarah olivo, dr. liz seidler

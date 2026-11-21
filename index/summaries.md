@@ -2,7 +2,7 @@
 
 260 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
 
-## 267. why you procrastinate even when you really care
+## 267. why you procrastinate (even when you really care)
 
 - date: 2026-11-21
 - tags: college, high school, 20s, therapy, emotions, career, adhd

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:15:40.924Z",
+ "generatedAt": "2026-11-21T13:58:17.533Z",
  "rule": "youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads",
  "playlist": "PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu",
  "snapshots": 28,
@@ -39,7 +39,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 969
+    "views": 970
    },
    "minis": {
     "count": 0,

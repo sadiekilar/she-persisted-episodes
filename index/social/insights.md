@@ -4,43 +4,43 @@ Generated 2026-11-21 from index/social/posts.json. lift = views / median views o
 
 ## playbook (Claude's read of the numbers)
 
-## what travels
-- **short hooks:** shorts of 6 words or fewer have a median lift of 0.94 (n=62). 7–11 words get 0.43 (n=402). "just keep going" hit 2.82.
-- **one CAPS word:** shorts with exactly one get 0.82 (n=198), against 0.17–0.28 for any other count. "how our CHILDHOOD affects our current emotions" hit 2.51.
-- **troubled teen industry:** episodes get 1.36 (n=11) and shorts get 0.96 (n=28). "198. Chrysalis School Montana: My Troubled Teen Industry Experience" hit 25.19.
-- **guest episodes:** they get 0.86 (n=138) against 0.61 for solo (n=65). "197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler" hit 22.79.
-- **social media and 20s shorts:** these get 1.05 (n=34) and 0.93 (n=40), better than most topics. "MINI: why your 20s can be so lonely" is a mini, so it's only a loose example.
-- **trauma:** it works as an episode (1.29, n=17) but not as a short (0.08, n=29).
+**what travels**
 
-## what sinks
-- **2+ CAPS words on shorts:** these sit at 0.17–0.25 (n=183). "EMOTIONS don't have to be ISOLATING | Ep. 100" got 0.
-- **long shorts:** 12+ words get 0.14 (n=107). "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?! | Ep. 103" got 0.01.
-- **crowded short topics:** self-improvement (0.23, n=110), anxiety (0.21, n=47), body image (0.18, n=34). "10 Coping Skills You NEED to Know" got 0.01.
-- **"you/your" on episodes:** these get 0.62 (n=73) against 0.87 without (n=132). "126. YOUR MENTAL HEALTH TOOLKIT for the Holiday Season" got 0.22.
+- shorts with 1–2 hashtags: n=204, lift 1.0 vs 0.16 for none (n=367). the strongest signal in the data, though it could be partly a posting-era effect.
+- shorts with no number in the hook: n=199, lift 1.0 vs 0.17 with a number (n=372).
+- shorts with exactly one CAPS word: n=198, lift 0.82. zero caps is 0.28, two is 0.17, 3+ is lower still. one word, not a shout. e.g. "how our CHILDHOOD affects our current emotions".
+- short hooks (≤6 words) on shorts: n=62, lift 0.94 vs 0.14 for 12+ words (n=107).
+- "this is" shorts: n=13, lift 1.24, 85% above baseline. thin, but consistent.
+- episode topics: troubled teen industry (n=11, lift 1.36) and trauma (n=17, 1.29). guest episodes beat solo (n=138, 0.86 vs n=65, 0.61). "254. how to help someone who doesn't want help (without making it worse)" hit 13.4x.
+- minis with a number: n=7, lift 4.29, but minis are small. "MINI: Learn 5 DBT Skills in 5 Mins!" hit 41x.
 
-data is thin on "i wish i knew" (n=4, 1.82), numbered lists on episodes (n=4), and "this is" shorts (n=13, 1.24, but no hook to quote). minis have only 28 posts, so no pattern there. the hashtag and number splits on shorts look like old-title-format artifacts, so i'm not trusting them.
+**what sinks**
 
-## phrasings to reuse
-- ___ 101
-- a therapist's advice on ___
-- how our ___ affects how we feel
-- red flags that you don't have enough ___
-- how to help someone who doesn't want ___ (without making it worse)
+- long shorts hooks (12+ words): n=107, lift 0.14, and only 8% beat baseline.
+- "how to" (n=33, 0.27) and "you / your" (n=85, 0.33) shorts both sit well under baseline. "watch this if" (n=7) is thin but looks bad too.
+- shorts about trauma (n=29, 0.08), body image (n=34, 0.18) and anxiety (n=47, 0.21). episodes about college (n=29, 0.57) and "you" framing (n=73, 0.62) also trail.
+- 3+ caps words on shorts: n=94, lift ~0.25.
+
+**phrasings to reuse**
+
+- this is ___
+- how our ___ affects our current emotions
+- how to help someone who doesn't want help (without making it worse)
 - what if part of you doesn't want ___?
-- how to ___ (& what we wish we knew sooner)
-- my ___ experience
-- tips for ___
+- ___ and what we wish we knew sooner
+- ___ in 5 mins (minis)
+- why your 20s can be so ___
+- a day in the life of ___
+- ___ | one CAPS word only
 
-keep shorts to six words or fewer with one CAPS word, so some of these need trimming.
+**how sadie edits**
 
-## how sadie edits
-13 edits are logged, and every draft was changed (similarity 0.46–0.72).
-- **drafts are the guest's own lines, posts are explainers.** "nobody gets what a BATTLE it is…" became "how to tell if a teen is STRUGGLING with their mental health."
-- **hashtags are dropped.** 11 of the 13 drafts carried them and none of the posted hooks do.
-- **posted hooks are mostly longer and carry one CAPS word.** 9 of 13 have one, and they usually run 8–10 words. That cuts against the short-hook finding above.
-- **doubled punctuation shows up on 5 of 13 posted hooks** ("!!", "??!"). there's no data on whether it helps.
+n=13 edits, so read these as tendencies.
 
-this is a small sample, so treat it as a tendency.
+- she swaps quote-style drafts for plain "how to / signs / what" framings: "signs a teenager is STRUGGLING with their mental health". that runs against the "how to" data on shorts, so worth testing.
+- she drops hashtags from every hook. the data says 1–2 hashtags lift shorts, so that is worth rechecking.
+- she keeps roughly one CAPS word per hook, matching what works.
+- she adds "!!" and "?!!" in several, and names the guest or topic more directly.
 
 ## youtube:episode (205 posts with a lift; baseline 138 views)
 

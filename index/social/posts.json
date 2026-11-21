@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:15:41.568Z",
+ "generatedAt": "2026-11-21T13:58:18.153Z",
  "snapshots": 28,
  "posts": 812,
  "with_stats": 812,
@@ -25,8 +25,8 @@
    "episode": 267,
    "duration_sec": 2957,
    "published": "2026-11-21",
-   "title": "267. why you procrastinate even when you really care",
-   "hook": "267. why you procrastinate even when you really care",
+   "title": "267. why you procrastinate (even when you really care)",
+   "hook": "267. why you procrastinate (even when you really care)",
    "hashtags": [],
    "url": "https://www.youtube.com/watch?v=Xxbofa-OYsE",
    "source": "youtube-api",
@@ -126,7 +126,7 @@
    "first_seen": "2026-11-20",
    "stats": {
     "as_of": "2026-11-21",
-    "views": 65,
+    "views": 66,
     "likes": 0,
     "comments": 1,
     "views_7d": null,
@@ -149,7 +149,7 @@
     "weekday": "fri"
    },
    "age_days": 2,
-   "views_per_day": 32.5,
+   "views_per_day": 33,
    "lift": null
   },
   {

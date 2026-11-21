@@ -3176,3 +3176,117 @@ why: it's sadie's firsthand, evidence-based take on the troubled teen industry, 
 - [youtube] why ethical troubled teen programs don't EXIST #troubledteenindustry #teenmentalhealth
 - [instagram] reputable long-term isolation programs for teens don't exist, and here's why
 - [tiktok] why ethical TTI programs don't exist
+
+## ep 177 · 177. Your Guide to Relationships: How to Build Healthier Connections & Increase Self-Love feat. Jeff Kallil
+
+### moment 1 · 16:38
+why: a clean myth-bust with a vivid image. confidence comes from experience, not mirror affirmations, and a strong belief system means failing doesn't flatten you.
+- [youtube] confidence doesn't come from AFFIRMATIONS in the mirror #selfworth #confidence
+- [instagram] confidence doesn't come from affirmations in the mirror. it comes from failing and getting back up.
+- [tiktok] this is how confidence is ACTUALLY built
+
+### moment 2 · 15:07
+why: a concrete tip with a surprising reframe. ask "when did it start?" instead of "why do i believe this?" to stop the why-spiral.
+- [youtube] this is why asking WHY keeps you stuck #selfbelief #mindset
+- [instagram] stop asking why you believe it. ask when it started.
+- [tiktok] stop asking why. ask WHEN instead
+
+### moment 3 · 24:36
+why: a clear claim that reframes relationships as a mirror. if you don't believe you deserve love, you feel safe with people who confirm that.
+- [youtube] this is why you keep choosing the same kind of PERSON #relationships #selfworth
+- [instagram] if you don't believe you deserve love, you'll feel safest with people who don't give it.
+- [tiktok] your relationships mirror how you see YOURSELF
+
+### moment 4 · 25:59
+why: explains a painful pattern without blame. we look for what's familiar, so we end up repeating how a parent treated us.
+- [youtube] this is why we find the same TOXIC people #healing #relationships
+- [instagram] we don't pick people who hurt us on purpose. we pick what feels familiar.
+- [tiktok] why you attract the same people AGAIN
+
+### moment 5 · 33:09
+why: a protective, validating line for anyone in an abusive relationship, followed by a simple exercise (what can and can't you control?).
+- [youtube] this is what to remember about ABUSE in a relationship #toxicrelationships #healing
+- [instagram] in an abusive relationship, the abuse is not your fault. ever.
+- [tiktok] the abuse was never your FAULT
+
+### moment 6 · 36:42
+why: a surprising reframe on guilt after leaving. the other person's reaction isn't your responsibility, and a breakup can raise your self-worth.
+- [youtube] this is why a BREAKUP can build your self-worth #breakups #selfworth
+- [instagram] a breakup can actually raise your self-worth if you do it for the right reasons.
+- [tiktok] a breakup can boost your SELF-WORTH
+
+## ep 176 · 176. The Power of DBT: How to Change Your Behaviors & Cultivate Hope feat. Dr. Maddy Ellberger
+
+### moment 1 · 15:38
+why: names the exact feeling that brings people to dbt (nobody understands, nothing works), so it lands for anyone who has felt written off by therapy.
+- [youtube] this is what it feels like before DBT works #dbt #mentalhealth
+- [instagram] the feeling that brings almost everyone to DBT, and why it doesn't have to stay
+- [tiktok] this is the DBT feeling
+
+### moment 2 · 32:19
+why: a clear reframe of invalidation: the people who love us most often invalidate us because they can't sit with our discomfort, which puts words to something many listeners have lived.
+- [youtube] why the people who love us INVALIDATE us #dbt #validation
+- [instagram] the people who care most can be the most invalidating, and here's why
+- [tiktok] why loved ones invalidate us
+
+### moment 3 · 9:40
+why: a simple, surprising claim that behavior is easier to change than thoughts, and emotions and thoughts follow.
+- [youtube] change your BEHAVIOR and your emotions follow #dbt #therapy
+- [instagram] you can't think your way out of it, but you can act your way out
+- [tiktok] stop fighting your thoughts
+
+### moment 4 · 21:10
+why: concrete and relatable, since a lot of what feels like anxiety is actually shame, and naming it correctly changes what you do next.
+- [youtube] what feels like anxiety is actually SHAME #dbt #emotions
+- [instagram] what if it isn't anxiety? why naming the right emotion matters
+- [tiktok] it might not be anxiety
+
+### moment 5 · 39:46
+why: a practical reframe for hopeless moments: a thought is a behavior, so you can choose not to engage with it, and she shows how with the word "overwhelmed."
+- [youtube] a THOUGHT is a behavior you can change #dbt #mindset
+- [instagram] a thought is a behavior, which means you can do something different with it
+- [tiktok] your thoughts are behaviors
+
+### moment 6 · 36:44
+why: a warm, usable tip for when therapy feels stuck: give your therapist feedback, because it means the two of you can problem solve instead of you quitting.
+- [youtube] what if therapy isn't working for you? #therapy #dbt
+- [instagram] what if part of you thinks therapy will never work? start with this
+- [tiktok] when therapy feels like it's failing
+
+## ep 175 · 175. SELF-INVALIDATION: Why We Judge Ourselves & How To Accept Your Emotions
+
+### moment 1 · 2:58
+why: sadie names the exact inner monologue ("i don't have a reason to be depressed") and then explains secondary emotions. it's a personal line that sets up a clear claim.
+- [youtube] this is what self-invalidation sounds like #dbt #selfvalidation
+- [instagram] "i don't have a reason to be depressed" was my lowest-point mindset
+- [tiktok] this is SELF-INVALIDATION
+
+### moment 2 · 3:24
+why: a quick, concrete example of the sad → angry at yourself → "bad person" chain. it works as a standalone claim: judging an emotion creates more pain than the emotion itself.
+- [youtube] this is how one feeling becomes three #emotions #dbt
+- [instagram] you're sad, then angry at yourself for being sad, then you feel like a bad person
+- [tiktok] sad, then ashamed of being SAD
+
+### moment 3 · 15:57
+why: she explains why we self-invalidate: if you tell yourself you shouldn't feel it, maybe you won't. then the payoff: it doesn't work, it bubbles up. a surprising reframe of an avoidance habit.
+- [youtube] this is why telling yourself to stop feeling doesn't work #emotions #dbt
+- [instagram] if you tell yourself you shouldn't feel it, maybe you won't. that's not how it works.
+- [tiktok] why you can't talk yourself out of FEELINGS
+
+### moment 4 · 34:31
+why: the most portable tip in the episode. one phrase, with examples, and sadie promises it works.
+- [youtube] this is the 3-word phrase for self-validation #dbt #selfvalidation
+- [instagram] add "it makes sense that" in front of the thought and watch what changes
+- [tiktok] say "it makes SENSE" first
+
+### moment 5 · 28:30
+why: the double standard everyone recognizes. she asks you to hear your own self-talk as if a friend said it, which makes self-compassion feel doable.
+- [youtube] this is the double standard we have with ourselves #selfcompassion #dbt
+- [instagram] you'd never tell a friend "it's ridiculous that you feel this way." so why say it to you?
+- [tiktok] you'd never say that to a FRIEND
+
+### moment 6 · 37:48
+why: it clears up a common confusion. validating someone's feelings (or your own) is not the same as agreeing with or excusing actions, which helps in arguments and conflicts.
+- [youtube] this is what validation is NOT #relationships #dbt
+- [instagram] validating a feeling doesn't mean you agree with what someone did
+- [tiktok] validating is not AGREEING
