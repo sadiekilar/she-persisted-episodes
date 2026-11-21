@@ -55,7 +55,7 @@ function isHeading(el) { return /^h[1-6]$/.test(el.tag) || (el.tag === 'p' && /^
 function markerOf(el) {
   const raw = el.text.trim();
   const t = raw.replace(/^[\s*:\u2013\u2026-]+|[\s*:\u2013\u2026-]+$/g, '');
-  if (/^pull ?quote\s*[:\u2013-]/i.test(t)) return 'quote'; // "pull quote: ..." with the quote inline, however long
+  if (/^(pull ?quote\s*[:\u2013-]|quote\s*:)/i.test(t)) return 'quote'; // "pull quote: ..." or "quote: ..." with the quote inline, however long
   if (t.length > 160) return null; // markers are headings or short lead-ins, never paragraphs
   // a plain paragraph only counts as a lead-in when it is short or ends in a colon; a sentence of the
   // description that happens to say "let's talk about it!" is not a marker
