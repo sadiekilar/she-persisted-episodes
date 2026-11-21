@@ -3062,3 +3062,117 @@ why: a concrete, low-effort tip (the stick figure packing list) that shows what 
 - [youtube] this is the stick man trick for ADHD packing #adhd #adhdtips
 - [instagram] this is how a psychologist with ADHD packs for a trip: the stick man method
 - [tiktok] this is the stick man method
+
+## ep 267 · 267. why you procrastinate even when you really care
+
+### moment 1 · 1:44
+why: the core reframe in one breath: procrastination isn't laziness, it's an emotion you're trying not to feel, and it hits hardest on things you care about.
+- [youtube] procrastination is not LAZINESS #procrastination #mentalhealth
+- [instagram] procrastination isn't a motivation problem. it's an emotion regulation problem.
+- [tiktok] it's not laziness, it's DREAD
+
+### moment 2 · 3:07
+why: a concrete way to decode what "procrastination" is actually hiding: overwhelm, predicted failure, or a missing skill you're embarrassed about.
+- [youtube] what procrastination is really HIDING #procrastination #college
+- [instagram] procrastination is a giveaway word. here are 3 things it can be hiding.
+- [tiktok] what your procrastination is hiding
+
+### moment 3 · 6:35
+why: a funny, relatable idea (the excuse generating machine) that gives people a kind way to talk back to their brain.
+- [youtube] meet your excuse generating MACHINE #procrastination #brain
+- [instagram] your brain is amazing at finding reasons you don't have to do the hard thing.
+- [tiktok] your brain's excuse MACHINE
+
+### moment 4 · 12:13
+why: the donkey story is vivid and easy to repeat. it shows why self-criticism only gets you part of the way and why you need a carrot too.
+- [youtube] stop using only the STICK on yourself #procrastination #selfcare
+- [instagram] if you're only using the stick, no wonder you're exhausted. here's the donkey story.
+- [tiktok] you have a stick but no CARROT
+
+### moment 5 · 36:19
+why: a personal-feeling line for anyone with adhd who has been called lazy, plus a practical step: you can't fix what you've already decided is a trait.
+- [youtube] "lazy" is not a roadmap for ADHD #adhd #procrastination
+- [instagram] if you've decided you're lazy, none of the productivity tips will work. start here.
+- [tiktok] you're not LAZY, you're stuck
+
+### moment 6 · 42:23
+why: a small, doable tip that works when you don't feel like doing anything: the smallest step you can commit to, and permission to stop after it.
+- [youtube] the smallest STEP beats motivation #procrastination #habits
+- [instagram] what's the smallest step you can commit to? then decide if you want the next one.
+- [tiktok] do the smallest STEP
+
+## ep 179 · 179. Gen Z Mental Health: The Role of Families, Friends, Schools, ACEs, & More feat. Dr. Jessica Gomez
+
+### moment 1 · 18:24
+why: a clear, quotable claim that reframes teen depression as a health crisis, with real stats and the "would we accept this for diabetes" comparison.
+- [youtube] Half get no help. DIABETES wouldn't be allowed. #teenmentalhealth #depression
+- [instagram] 16% of teens have clinical depression, and only half ever get treatment
+- [tiktok] only HALF get help
+
+### moment 2 · 23:55
+why: a concrete, doable tip: four foundations (sleep, food, movement, community) before any coping skills, with a house-foundation metaphor.
+- [youtube] 4 FOUNDATIONS before any coping skill #mentalhealth #teens
+- [instagram] before coping skills, a psychologist starts with 4 basic foundations
+- [tiktok] the 4 FOUNDATIONS of well-being
+
+### moment 3 · 25:49
+why: the "even 51% counts" idea takes the pressure off perfect self-care, which suits a young, perfectionist audience.
+- [youtube] you only need 51% to feel better #selfcare #teenmentalhealth
+- [instagram] you don't have to do it all. 51% still puts you on an upward trend
+- [tiktok] 51% is ENOUGH
+
+### moment 4 · 29:38
+why: a practical tip for parents (and teens passing it on): the hardest part is managing your reaction so your kid keeps coming to you with the big stuff.
+- [youtube] how to be a parent teens tell the TRUTH to #parenting #teenmentalhealth
+- [instagram] why teens stop telling their parents things: it's the reaction, not the mistake
+- [tiktok] how parents lose their teen's TRUST
+
+### moment 5 · 31:03
+why: it gives teens permission to stop being their friend's therapist, plus a clear next step, which is a common real-life bind.
+- [youtube] you're not your friend's THERAPIST #friendship #mentalhealth
+- [instagram] you don't have to be your friend's therapist, and here's what to do instead
+- [tiktok] you're not their THERAPIST
+
+### moment 6 · 35:18
+why: it answers "everyone is stressed, so is it really a problem?" with a clear red-flag test teens can apply to themselves.
+- [youtube] everyone's stressed. so when is it a RED FLAG? #mentalhealth #teens
+- [instagram] if everyone feels this way, how do you know when you need help?
+- [tiktok] when "normal" stress isn't NORMAL
+
+## ep 178 · 178. MENTAL HEALTH HOT TAKES: Teen Mental Health, Therapeutic Boarding School, Exposure Therapy, & More!
+
+### moment 1 · 3:00
+why: a clear, simple claim with a data-chart image that anyone can grasp, and sadie owns her own "digress" slip, which makes it warm.
+- [youtube] if you're not progressing, you're REGRESSING #mentalhealth #recovery
+- [instagram] your mental health is never standing still, so it's either going up or down
+- [tiktok] not progressing? you're REGRESSING
+
+### moment 2 · 16:25
+why: the seligman quote is a surprising reframe that tells anyone in recovery that feeling numb or empty after symptoms fade is normal and fixable, and sadie ties it to her own experience.
+- [youtube] getting better isn't the same as feeling GOOD #recovery #positivepsychology
+- [instagram] removing what hurts is not the same as building a life worth living
+- [tiktok] recovery has TWO jobs
+
+### moment 3 · 19:37
+why: the oxygen mask analogy is a concrete image with a clear takeaway, and it speaks to any girl who has been the friend everyone vents to.
+- [youtube] why you can't be your friend's therapist #teenmentalhealth #boundaries
+- [instagram] the oxygen mask principle: why you can't carry a friend's mental health
+- [tiktok] you can't be their THERAPIST
+
+### moment 4 · 26:17
+why: a reframe of exposure therapy as an everyday skill, with a rule of thumb: the urge to avoid is the signal to do the thing. it works as a tip without any clinical context.
+- [youtube] avoidance makes anxiety BIGGER #exposuretherapy #anxiety
+- [instagram] the more you avoid it, the smaller your world gets. how to use exposure daily
+- [tiktok] avoiding it? that's your SIGNAL
+
+### moment 5 · 27:50
+why: a funny, relatable personal story (the cvs care pass) that makes a hard tip feel doable: practice saying no in low-stakes spots first, then build up.
+- [youtube] how i got scammed by CVS (and learned to say no) #boundaries #peoplepleasing
+- [instagram] i paid for cvs care pass for six months because i couldn't say no
+- [tiktok] start saying no at CVS
+
+### moment 6 · 33:20
+why: it's sadie's firsthand, evidence-based take on the troubled teen industry, our strongest-performing topic, and the claim stands on its own without the episode.
+- [youtube] why ethical troubled teen programs don't EXIST #troubledteenindustry #teenmentalhealth
+- [instagram] reputable long-term isolation programs for teens don't exist, and here's why
+- [tiktok] why ethical TTI programs don't exist

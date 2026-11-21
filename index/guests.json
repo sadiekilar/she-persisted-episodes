@@ -1,7 +1,51 @@
 {
- "generatedAt": "2026-11-20T14:41:37.695Z",
+ "generatedAt": "2026-11-21T13:15:39.290Z",
  "count": 170,
  "guests": [
+  {
+   "id": "sarah-olivo",
+   "name": "dr. sarah olivo",
+   "credentials": "",
+   "bio": "",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/05684420-3afc-4a5a-827e-ce974ed2c8b6/Untitled+design+%2834%29.jpg",
+   "headshot_note": "",
+   "episodes": [
+    267,
+    149
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "89fdf6158eeb2744",
+     "title": "Thrive in Your College Social Life Through DBT!",
+     "parent": 149
+    }
+   ]
+  },
+  {
+   "id": "liz-seidler",
+   "name": "dr. liz seidler",
+   "credentials": "",
+   "bio": "Liz Seidler— two clinical psychologists and hosts of the College is Fine, Everything is Fine podcast who've helped students navigate the highs and lows of college for over a decade.",
+   "website": "",
+   "instagram": "",
+   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/05684420-3afc-4a5a-827e-ce974ed2c8b6/Untitled+design+%2834%29.jpg",
+   "headshot_note": "",
+   "episodes": [
+    267,
+    149
+   ],
+   "mashups": [],
+   "minis": [
+    {
+     "id": "89fdf6158eeb2744",
+     "title": "Thrive in Your College Social Life Through DBT!",
+     "parent": 149
+    }
+   ]
+  },
   {
    "id": "jill-rathus",
    "name": "dr. jill rathus",
@@ -1104,48 +1148,6 @@
    ],
    "mashups": [],
    "minis": []
-  },
-  {
-   "id": "sarah-olivo",
-   "name": "dr. sarah olivo",
-   "credentials": "",
-   "bio": "",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/05684420-3afc-4a5a-827e-ce974ed2c8b6/Untitled+design+%2834%29.jpg",
-   "headshot_note": "",
-   "episodes": [
-    149
-   ],
-   "mashups": [],
-   "minis": [
-    {
-     "id": "89fdf6158eeb2744",
-     "title": "Thrive in Your College Social Life Through DBT!",
-     "parent": 149
-    }
-   ]
-  },
-  {
-   "id": "liz-seidler",
-   "name": "dr. liz seidler",
-   "credentials": "",
-   "bio": "Liz Seidler— two clinical psychologists and hosts of the College is Fine, Everything is Fine podcast who've helped students navigate the highs and lows of college for over a decade.",
-   "website": "",
-   "instagram": "",
-   "headshot": "https://images.squarespace-cdn.com/content/v1/60425bb2aadd3e6f7955d493/05684420-3afc-4a5a-827e-ce974ed2c8b6/Untitled+design+%2834%29.jpg",
-   "headshot_note": "",
-   "episodes": [
-    149
-   ],
-   "mashups": [],
-   "minis": [
-    {
-     "id": "89fdf6158eeb2744",
-     "title": "Thrive in Your College Social Life Through DBT!",
-     "parent": 149
-    }
-   ]
   },
   {
    "id": "emi-nietfeld",

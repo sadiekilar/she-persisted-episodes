@@ -1,6 +1,20 @@
 # she persisted — episode summaries
 
-259 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+260 episodes, newest first. Full transcripts live in `episodes/ep-NNN.md`.
+
+## 267. why you procrastinate even when you really care
+
+- date: 2026-11-21
+- tags: college, high school, 20s, therapy, emotions, career, adhd
+- guests: dr. sarah olivo, dr. liz seidler
+- url: https://shepersistedpodcast.com/episodes/267
+- transcript: episodes/ep-267.md (full)
+
+sadie talks with dr. sarah olivo and dr. liz seidler, clinical psychologists and hosts of the college is fine, everything is fine podcast, about why we procrastinate even on things we care about. they frame procrastination as an emotion regulation problem more than a motivation or laziness problem, and they explain the "excuse generating machine" the brain uses to dodge dread, overwhelm, or fear of failure. they get into how adhd and executive function differences change what helps, how perfectionism shows up as over-rehearsing and rechecking, and why college is a breeding ground for procrastination compared to the built-in structure of high school. listeners come away with practical tools: the premack principle (a low-reward task first, then a reward), the carrot vs. stick idea, body doubling, picking the smallest possible next step, mood induction to shift your emotional state before starting, and reframing "lazy" as a state instead of a trait. the episode closes with reminders to stay flexible, be kind to yourself when a system stops working, and notice the strengths you already have.
+
+> procrastination really is an emotion regulation problem.
+> if you practice avoiding something that's hard, you're going to get really good at it.
+> there's a new day every day.
 
 ## 266. i thought college would make me happier (what i wish i knew)
 

@@ -1,8 +1,15 @@
 # she persisted — episode catalogue
 
-259 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
+260 episodes, newest first. Each block: title, date, link, length, tags, guests, summary, pull quote, chapter titles. Episode pages live at shepersistedpodcast.com/episodes/<slug>. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (39), college (36), high school (35), trauma (22), social media (19), body image (17), 20s (16), career (16), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (40), college (37), high school (36), trauma (22), social media (19), 20s (17), career (17), body image (17), troubled teen industry (15), adhd (7), therapy (1)
+
+## 267. why you procrastinate even when you really care
+date: 2026-11-21 | https://shepersistedpodcast.com/episodes/267 | 49 min | video
+tags: college, high school, 20s, therapy, emotions, career, adhd
+format: guest | guests: dr. sarah olivo, dr. liz seidler
+summary: sadie talks with dr. sarah olivo and dr. liz seidler, clinical psychologists and hosts of the college is fine, everything is fine podcast, about why we procrastinate even on things we care about. they frame procrastination as an emotion regulation problem more than a motivation or laziness problem, and they explain the "excuse generating machine" the brain uses to dodge dread, overwhelm, or fear of failure. they get into how adhd and executive function differences change what helps, how perfectionism shows up as over-rehearsing and rechecking, and why college is a breeding ground for procrastination compared to the built-in structure of high school. listeners come away with practical tools: the premack principle (a low-reward task first, then a reward), the carrot vs. stick idea, body doubling, picking the smallest possible next step, mood induction to shift your emotional state before starting, and reframing "lazy" as a state instead of a trait. the episode closes with reminders to stay flexible, be kind to yourself when a system stops working, and notice the strengths you already have.
+chapters: why we procrastinate on things we care about; how you can struggle with procrastination and still be high-functioning; if procrastination is a motivation problem (or an emotion-regulation one)?!; the relationship between ADHD + procrastinating; whether you can be a perfectionist and still procrastinate; what makes college students more likely to procrastinate; tips on how to stop procrastinating + get things done!; reminders for people who are hard on themselves about their procrastination
 
 ## 266. i thought college would make me happier (what i wish i knew)
 date: 2026-11-07 | https://shepersistedpodcast.com/episodes/266 | 35 min | video
