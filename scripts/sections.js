@@ -195,11 +195,15 @@ function extract(bodyHtml) {
     } else if (state === 'talkAbout') {
       if (el.tag === 'ul' || el.tag === 'ol') { if (!talkFromList) { talkAbout = listItems(el.html); talkFromList = true; } continue; }
       if (isHeading(el)) { state = 'other'; continue; }
-      // older posts write the list as paragraphs: "+ item", "- item", "\u2192 item"
-      const bullet = /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)]|\d{1,2}:\d{2}(?::\d{2})?\s)\s*(.+)$/.exec(el.text || '');
-      if (bullet) talkAbout.push(bullet[1].trim());
-      else if (el.text && !talkAbout.length) talkAbout.push(el.text);
-      else if (el.text && talkAbout.length) state = 'other';
+      // older posts write the list as paragraphs: "+ item", "- item", "\u2192 item"; some as one paragraph with
+      // line breaks ("01:28 topic<br>04:03 topic"), each line an item
+      const lines = /<br\s*\/?>/i.test(el.html || '') ? el.html.split(/<br\s*\/?>/i).map((h) => htmlToText(h).trim()).filter(Boolean) : [el.text];
+      for (const line of lines) {
+        const bullet = /^\s*(?:[+\-\u2022\u2192*\u00b7>]|\d{1,2}[.)]|\d{1,2}:\d{2}(?::\d{2})?\s)\s*(.+)$/.exec(line || '');
+        if (bullet) talkAbout.push(bullet[1].trim());
+        else if (line && !talkAbout.length) talkAbout.push(line);
+        else if (line && talkAbout.length) { state = 'other'; break; }
+      }
     } else if (state === 'mentioned') {
       if (isHeading(el) && !/^(call|text|visit|go to)\b/i.test(el.text)) { state = 'other'; continue; }
       if (FOOTER.test(el.text) || BOILERPLATE.test(el.text)) { state = 'other'; continue; }
