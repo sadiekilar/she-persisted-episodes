@@ -1,91 +1,95 @@
 # social insights
 
-Generated 2026-11-21 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-11-22 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
 ## playbook (Claude's read of the numbers)
 
 **what travels**
 
-- shorts with 1–2 hashtags: n=204, lift 1.0 vs 0.16 for none (n=367). the strongest signal in the data, though it could be partly a posting-era effect.
-- shorts with no number in the hook: n=199, lift 1.0 vs 0.17 with a number (n=372).
-- shorts with exactly one CAPS word: n=198, lift 0.82. zero caps is 0.28, two is 0.17, 3+ is lower still. one word, not a shout. e.g. "how our CHILDHOOD affects our current emotions".
-- short hooks (≤6 words) on shorts: n=62, lift 0.94 vs 0.14 for 12+ words (n=107).
-- "this is" shorts: n=13, lift 1.24, 85% above baseline. thin, but consistent.
-- episode topics: troubled teen industry (n=11, lift 1.36) and trauma (n=17, 1.29). guest episodes beat solo (n=138, 0.86 vs n=65, 0.61). "254. how to help someone who doesn't want help (without making it worse)" hit 13.4x.
-- minis with a number: n=7, lift 4.29, but minis are small. "MINI: Learn 5 DBT Skills in 5 Mins!" hit 41x.
+- shorts with 1–2 hashtags: n=204, median lift 1.0 (50% above baseline) vs 0.16 for no hashtags (n=367). the biggest single gap in the data.
+- shorts with no number in the hook: n=199, lift 1.0, vs 0.17 with a number (n=372). some of that is the episode-number format in older titles, so read it loosely.
+- exactly one CAPS word in a short: n=198, lift 0.82. zero, two or three+ all sit around 0.17–0.28. one word, not a shout.
+- short hooks (≤6 words) on shorts: n=62, lift 0.94, vs 0.14 for 12+ words (n=107).
+- "this is ___" hooks on shorts: n=13, lift 1.24, 85% above baseline. small but consistent.
+- topics on shorts: social media (n=34, 1.05), 20s (n=40, 0.93), troubled teen industry (n=28, 0.96). on episodes, troubled teen industry (n=11, 1.35) and trauma (n=17, 1.27). example: "198. Chrysalis School Montana: My Troubled Teen Industry Experience".
+- long-form episodes: guest episodes (n=138, 0.85) beat solo (n=65, 0.60). a promise of practical help also shows up in the top: "254. how to help someone who doesn't want help (without making it worse)".
+
+thin data: minis (n=28 total) and episode topics like adhd (n=4) are too small to call.
 
 **what sinks**
 
-- long shorts hooks (12+ words): n=107, lift 0.14, and only 8% beat baseline.
-- "how to" (n=33, 0.27) and "you / your" (n=85, 0.33) shorts both sit well under baseline. "watch this if" (n=7) is thin but looks bad too.
-- shorts about trauma (n=29, 0.08), body image (n=34, 0.18) and anxiety (n=47, 0.21). episodes about college (n=29, 0.57) and "you" framing (n=73, 0.62) also trail.
-- 3+ caps words on shorts: n=94, lift ~0.25.
+- 12+ word short hooks: n=107, lift 0.14, only 8% above baseline.
+- stacking CAPS: 3+ caps words (n=94) lifts 0.24–0.25 with just 10–14% above baseline.
+- "you / your" and "how to" shorts: n=85 (0.33) and n=33 (0.27). "watch this if" (n=7) is too thin to call.
+- shorts on trauma (n=29, 0.08), body image (n=34, 0.18) and anxiety (n=47, 0.21). on episodes, "you / your" titles (n=65, 0.63) and q+a or recap titles trail.
 
 **phrasings to reuse**
 
-- this is ___
-- how our ___ affects our current emotions
-- how to help someone who doesn't want help (without making it worse)
-- what if part of you doesn't want ___?
-- ___ and what we wish we knew sooner
-- ___ in 5 mins (minis)
-- why your 20s can be so ___
-- a day in the life of ___
-- ___ | one CAPS word only
+- this is what ___ actually looks like
+- this is why ___
+- ___ and social media
+- why ___ in your 20s
+- what ___ taught me about ___
+- the ___ nobody talks about
+- what if part of you ___?
+- how to help someone who ___ (without making it worse)
+- ___: my experience
+
+keep each to six words or fewer, add one or two hashtags, and use one CAPS word at most.
 
 **how sadie edits**
 
-n=13 edits, so read these as tendencies.
+n=16 edits, all rewritten (similarity 0.45–0.72).
 
-- she swaps quote-style drafts for plain "how to / signs / what" framings: "signs a teenager is STRUGGLING with their mental health". that runs against the "how to" data on shorts, so worth testing.
-- she drops hashtags from every hook. the data says 1–2 hashtags lift shorts, so that is worth rechecking.
-- she keeps roughly one CAPS word per hook, matching what works.
-- she adds "!!" and "?!!" in several, and names the guest or topic more directly.
+- she drops quotes and turns them into topic-led, how-to or "signs" framings: "nobody gets what a BATTLE it is..." became "how to tell if a teen is STRUGGLING with their mental health".
+- she removes hashtags in nearly every post, which cuts against the hashtag lift above. worth testing.
+- she lengthens hooks and often adds "!!" or "?!!", while the data favors short ones.
+- she keeps one CAPS word, which fits the data. on long-form clips she adds the guest name and episode.
 
-## youtube:episode (205 posts with a lift; baseline 138 views)
+## youtube:episode (205 posts with a lift; baseline 140 views)
 
 **hook_type**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| i wish i knew | 4 | 1.82 | 75% |
-| numbered list | 4 | 1.74 | 50% |
-| statement | 113 | 0.86 | 44% |
-| question | 15 | 0.67 | 33% |
-| you / your | 65 | 0.64 | 31% |
-| the truth / secret | 3 | 0.62 | 33% |
+| i wish i knew | 4 | 1.84 | 75% |
+| numbered list | 4 | 1.72 | 50% |
+| statement | 113 | 0.85 | 44% |
+| question | 15 | 0.66 | 33% |
+| you / your | 65 | 0.63 | 31% |
+| the truth / secret | 3 | 0.61 | 33% |
 
 **is_question**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| false | 190 | 0.77 | 40% |
-| true | 15 | 0.67 | 33% |
+| false | 190 | 0.76 | 40% |
+| true | 15 | 0.66 | 33% |
 
 **addresses_you**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| false | 132 | 0.87 | 45% |
-| true | 73 | 0.62 | 30% |
+| false | 132 | 0.86 | 45% |
+| true | 73 | 0.61 | 30% |
 
 **caps_words**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| 0 | 142 | 0.71 | 39% |
-| 1 | 39 | 0.86 | 44% |
-| 2 | 12 | 0.95 | 50% |
-| 3 | 7 | 0.65 | 14% |
-| 4+ | 5 | 0.43 | 20% |
+| 0 | 142 | 0.7 | 39% |
+| 1 | 39 | 0.84 | 44% |
+| 2 | 12 | 0.94 | 50% |
+| 3 | 7 | 0.64 | 14% |
+| 4+ | 5 | 0.42 | 20% |
 
 **length**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| long (12+) | 160 | 0.8 | 42% |
-| medium (7–11) | 42 | 0.69 | 33% |
-| short (≤6 words) | 3 | 0.38 | 0% |
+| long (12+) | 160 | 0.79 | 42% |
+| medium (7–11) | 42 | 0.68 | 33% |
+| short (≤6 words) | 3 | 0.37 | 0% |
 
 **has_number**
 
@@ -109,57 +113,57 @@ n=13 edits, so read these as tendencies.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| guest | 138 | 0.86 | 46% |
-| solo | 65 | 0.61 | 28% |
+| guest | 138 | 0.85 | 46% |
+| solo | 65 | 0.6 | 28% |
 
 **topic**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| sadie recommends | 3 | 39.93 | 100% |
-| adhd | 4 | 2.68 | 75% |
-| troubled teen industry | 11 | 1.36 | 64% |
-| trauma | 17 | 1.29 | 53% |
-| body image | 12 | 0.99 | 50% |
-| depression | 42 | 0.92 | 48% |
-| teen mental health | 50 | 0.83 | 42% |
+| sadie recommends | 3 | 39.38 | 100% |
+| adhd | 4 | 2.64 | 75% |
+| troubled teen industry | 11 | 1.35 | 64% |
+| trauma | 17 | 1.27 | 53% |
+| body image | 12 | 0.98 | 50% |
+| depression | 42 | 0.91 | 48% |
+| teen mental health | 50 | 0.82 | 42% |
 | career | 11 | 0.76 | 45% |
-| dbt | 32 | 0.75 | 38% |
-| relationships | 36 | 0.72 | 36% |
+| dbt | 32 | 0.74 | 38% |
+| relationships | 36 | 0.71 | 36% |
 | social media | 12 | 0.71 | 33% |
-| anxiety | 29 | 0.67 | 31% |
+| anxiety | 29 | 0.66 | 31% |
 | emotions | 24 | 0.64 | 38% |
-| self-improvement | 37 | 0.62 | 32% |
+| self-improvement | 37 | 0.61 | 32% |
 | 20s | 14 | 0.6 | 29% |
-| college | 29 | 0.57 | 34% |
-| sleep | 4 | 0.44 | 25% |
+| college | 29 | 0.56 | 34% |
+| sleep | 4 | 0.43 | 25% |
 
 **weekday**
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| sat | 38 | 0.87 | 42% |
-| wed | 12 | 0.86 | 50% |
-| mon | 22 | 0.85 | 41% |
-| fri | 37 | 0.78 | 43% |
+| sat | 38 | 0.86 | 42% |
+| wed | 12 | 0.85 | 50% |
+| mon | 22 | 0.84 | 41% |
+| fri | 37 | 0.77 | 43% |
 | thu | 41 | 0.76 | 37% |
 | sun | 25 | 0.64 | 32% |
-| tue | 30 | 0.61 | 37% |
+| tue | 30 | 0.6 | 37% |
 
 **top posts**
 
-- 62.1× · 8570 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
-- 39.93× · 5511 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 28.4× · 3919 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 26.22× · 3619 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 25.19× · 3476 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 22.79× · 3145 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
-- 13.41× · 1851 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
-- 9.14× · 1261 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
-- 8.93× · 1233 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
-- 8.04× · 1110 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 6.6× · 911 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
-- 6.31× · 871 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
+- 61.28× · 8579 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 39.38× · 5513 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
+- 28.23× · 3952 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 25.91× · 3627 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 24.87× · 3482 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 22.49× · 3149 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 13.49× · 1889 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
+- 9.01× · 1261 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
+- 8.81× · 1234 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
+- 7.93× · 1110 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
+- 6.51× · 912 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 6.22× · 871 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
 
@@ -167,10 +171,10 @@ n=13 edits, so read these as tendencies.
 - 0.11× · 15 views · ep 67 · 67. High School RECAP
 - 0.12× · 17 views · ep 123 · 123. Q+A: Staying Healthy in College, Eating Habits, Starting Therapy, & More!
 - 0.13× · 18 views · ep 83 · 83. Freeing Yourself from Stress + Struggle by Understanding the Human Experience feat. Beth Segaloff
-- 0.17× · 23 views · ep 140 · 140. Q+A: Trusting Yourself, Willfulness, Advocating for Your Needs, & Building Healthy Relationships
+- 0.16× · 23 views · ep 140 · 140. Q+A: Trusting Yourself, Willfulness, Advocating for Your Needs, & Building Healthy Relationships
 - 0.18× · 25 views · ep 130 · 130. Making Goals and Getting Motivated: Easy Ways to Increase Productivity & Achieve Your Ambitions feat. Kate Stone
-- 0.2× · 27 views · ep 129 · 129. New Years Resolutions For Your Mental Health: SMART Goals, My 2023 Intentions, + More
-- 0.22× · 30 views · ep 126 · 126. YOUR MENTAL HEALTH TOOLKIT for the Holiday Season (Navigating Finals Stress, Family Relationships, Seasonal Depression, + Body Image)
+- 0.19× · 27 views · ep 129 · 129. New Years Resolutions For Your Mental Health: SMART Goals, My 2023 Intentions, + More
+- 0.21× · 30 views · ep 126 · 126. YOUR MENTAL HEALTH TOOLKIT for the Holiday Season (Navigating Finals Stress, Family Relationships, Seasonal Depression, + Body Image)
 
 ## youtube:short (571 posts with a lift; baseline 1033 views)
 
@@ -293,9 +297,9 @@ n=13 edits, so read these as tendencies.
 - 2.61× · 2691 views · ep 125 · Ep. 125: Tips for Teens feat. Talk With Zach
 - 2.53× · 2617 views · ep 104 · TEEN SLEEP NEEDS | Ep. 104 Heather Turgeon + Julie Wright
 - 2.51× · 2593 views · ep 258 · how our CHILDHOOD affects our current emotions
-- 2.46× · 2543 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
+- 2.46× · 2545 views · ep 154 · RE-FEEDING in ED Treatment | Ep. 154 Erin Treloar
 - 2.45× · 2529 views · ep 172 · Red Flags That You Don't Have Enough BOUNDARIES | She Persisted Ep. 172 Terri Cole
-- 2.43× · 2512 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
+- 2.43× · 2513 views · ep 172 · A Therapist's Advice on BOUNDARIES | She Persisted Ep. 172 Terri Cole
 - 2.37× · 2450 views · ep 120 · ANXIETY 101 | Ep. 120 SOLO EP
 - 2.33× · 2410 views · ep 130 · Making Goals & Getting Motivated | Ep. 130 feat. Kate Stone
 - 2.32× · 2396 views · ep 134 · Ellie Zeiler’s Advice for Teens | Ep. 134
@@ -407,8 +411,8 @@ n=13 edits, so read these as tendencies.
 - 4.29× · 163 views · ep 146 · MINI: a dbt crash course– everything you need to know about this therapy in 5 mins!
 - 2.61× · 99 views · ep 96 · MINI: a day in the life in mental health residential treatment?!!
 - 2.39× · 91 views · ep 86 · MINI: Fix Your Self-Confidence in Five Minutes!
+- 2.39× · 91 views · ep 113 · MINI: Friendship Guide for SOCIAL ANXIETY!
 - 2.37× · 90 views · ep 80 · MINI: depression hacks you need to know!
-- 2.37× · 90 views · ep 113 · MINI: Friendship Guide for SOCIAL ANXIETY!
 - 2.21× · 84 views · ep 228 · MINI: reverse engineer your life for SUCCESS in just 5 mins!
 - 1.45× · 55 views · ep 91 · MINI: 5 Ways to Fix Your ANXIETY
 - 1.45× · 55 views · ep 109 · MINI: Is STRESS Causing Your Depression?!

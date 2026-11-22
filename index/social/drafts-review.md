@@ -3290,3 +3290,117 @@ why: it clears up a common confusion. validating someone's feelings (or your own
 - [youtube] this is what validation is NOT #relationships #dbt
 - [instagram] validating a feeling doesn't mean you agree with what someone did
 - [tiktok] validating is not AGREEING
+
+## ep 173 · 173. Food Myths, Fear Foods, & Eating Disorder Treatment feat. Registered Dietitian Amy Dahl, MS, RD
+
+### moment 1 · 12:22
+why: amy turns carbs from a fear food into a plain fact (the brain runs on them), and the "light bulb" line works as a one-claim clip for anyone who's afraid of bread.
+- [youtube] this is why you need bread #foodmyths #edrecovery
+- [instagram] your brain runs on carbs, and nobody told you that in health class
+- [tiktok] bread is literally BRAIN food
+
+### moment 2 · 16:39
+why: the road trip analogy makes a calorie feel like fuel instead of a threat, and it's short and visual enough to land with no context.
+- [youtube] this is what a calorie actually is #foodmyths #bodyimage
+- [instagram] a calorie is just fuel, like gas for a road trip. here's amy's version.
+- [tiktok] a calorie is just GAS for your car
+
+### moment 3 · 22:24
+why: it's a concrete list of red flags (good/bad food talk, no eating after a certain time, eating only in your room), including the great "what does your body stop doing after eight?" line.
+- [youtube] the red flags of disordered eating #edrecovery #foodrules
+- [instagram] "what does your body stop doing after 8 o'clock?" signs food has become a problem
+- [tiktok] red flags nobody TALKS about
+
+### moment 4 · 18:08
+why: it reframes binge eating as part of a restrict-then-overeat cycle, which is surprising and takes the shame out of it.
+- [youtube] why binge eating starts with restriction #bingeeating #edrecovery
+- [instagram] binge eating is often a restrictive process. this changes how you see it.
+- [tiktok] bingeing starts with RESTRICTING
+
+### moment 5 · 24:54
+why: it gives teens a real script for supporting a friend without playing therapist, and it's the most practical clip for the 15–25 audience.
+- [youtube] how to help a friend who's struggling with food #edsupport #friendship
+- [instagram] you don't need the perfect words to support a friend with an eating disorder
+- [tiktok] how to help a friend, no script NEEDED
+
+### moment 6 · 10:50
+why: it busts the myth that you can tell by looking who is sick. "you don't look anorexic" is a strong, specific claim backed by research.
+- [youtube] the eating disorder myth about bodies #edawareness #bodyimage
+- [instagram] people in larger bodies with anorexia are just as sick. you can't tell by looking.
+- [tiktok] you can't SEE an eating disorder
+
+## ep 171 · 171. Relationship Advice That Will Change Your Life: Improve Your Interpersonal Effectiveness This Holiday Season
+
+### moment 1 · 3:22
+why: a surprising, concrete finding (relationships were the one necessary ingredient for high happiness) that stands alone and challenges "i'm fine on my own."
+- [youtube] the one thing very happy people all have #relationships #happiness
+- [instagram] this is what the happiest people all have in common
+- [tiktok] this is what happy people share
+
+### moment 2 · 6:31
+why: a clean, practical reframe of any conversation into three possible goals, which makes interpersonal stress feel manageable.
+- [youtube] the 3 goals behind every hard conversation #dbt #relationships
+- [instagram] this is why hard conversations feel so confusing
+- [tiktok] this is why talks go wrong
+
+### moment 3 · 12:34
+why: answers the most common teen question (how to ask parents for therapy) with a real script that viewers can copy and use.
+- [youtube] how to ask your parents for therapy #dbt #teenmentalhealth
+- [instagram] how to ask your parents for therapy (without it turning into a fight)
+- [tiktok] how to ask for THERAPY
+
+### moment 4 · 15:45
+why: a counterintuitive tip (frame the ask around what your parent gains) with a clear do and don't example.
+- [youtube] this is why parents say no to therapy #dbt #parenting
+- [instagram] this is why your ask keeps getting a no: it has to be rewarding to THEM
+- [tiktok] this is why they said no
+
+### moment 5 · 21:12
+why: names a habit nearly every people pleaser recognizes (apologizing for having a need or opinion) and gives permission to stop.
+- [youtube] this is what over-apologizing looks like #peoplepleasing #dbt
+- [instagram] you're allowed to have an opinion. stop saying "sorry to ask, but..."
+- [tiktok] stop apologizing for your NEEDS
+
+### moment 6 · 27:13
+why: a reframe that lowers conflict immediately, and it includes a personal line about sadie and her parents in treatment.
+- [youtube] what my parents and i learned in treatment #dbt #family
+- [instagram] what if part of them is trying, even when it doesn't feel like it?
+- [tiktok] what if they're TRYING?
+
+## ep 170 · 170. What to Expect When Texting Crisis Text Line & What Teens Today Are Struggling With feat. Crisis Counselor Ana Tueme
+
+### moment 1 · 4:41
+why: ana's personal line about saving crisis text line as a contact ("text me if you're feeling suicidal") is a concrete, lived tip that makes reaching out feel doable.
+- [youtube] this is why she saved crisis text line as a CONTACT #crisistextline #mentalhealth
+- [instagram] she saved crisis text line in her phone as "text me if you're feeling suicidal"
+- [tiktok] the contact name that kept her SAFE
+
+### moment 2 · 7:15
+why: it answers the biggest fear about texting in (what do i even say?) by showing the first message is just "hi", which lowers the barrier right away.
+- [youtube] this is what texting crisis text line looks like #crisistextline #teenmentalhealth
+- [instagram] you don't have to know what to say. you can just text "hi."
+- [tiktok] you can just text HI
+
+### moment 3 · 9:55
+why: a clear, practical listening tip that works for friends and family: stop asking question after question and say one validating thing instead.
+- [youtube] what a crisis counselor does when you're STRUGGLING #validation #listening
+- [instagram] the best skill she learned: stop asking question after question
+- [tiktok] stop asking so many questions
+
+### moment 4 · 13:17
+why: a relatable personal confession about "waiting to talk" instead of listening, followed by a simple definition of active listening.
+- [youtube] this is why you're not really LISTENING #activelistening #friendship
+- [instagram] before training, she was listening but really just waiting to talk
+- [tiktok] are you listening or just waiting?
+
+### moment 5 · 19:43
+why: a surprising reframe that you can't will emotions away, but you can change behavior and thoughts and the feeling follows (the opposite-action idea from dbt).
+- [youtube] you can't think your way out of a feeling #dbt #depression
+- [instagram] you can't will an emotion away, but you can change what you DO
+- [tiktok] you can't force a feeling away
+
+### moment 6 · 24:03
+why: a concrete how-to for crisis planning, since in the moment nobody remembers their coping skills. it lists exactly what to write down.
+- [youtube] the crisis plan nobody talks about #crisisplan #copingskills
+- [instagram] when you're in crisis, you won't remember your coping skills. plan ahead.
+- [tiktok] make a crisis plan BEFORE you need it
