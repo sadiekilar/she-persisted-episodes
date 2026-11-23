@@ -3404,3 +3404,117 @@ why: a concrete how-to for crisis planning, since in the moment nobody remembers
 - [youtube] the crisis plan nobody talks about #crisisplan #copingskills
 - [instagram] when you're in crisis, you won't remember your coping skills. plan ahead.
 - [tiktok] make a crisis plan BEFORE you need it
+
+## ep 168 · 168. DBT Crash Course: Key DBT Skills & Dialectics That CHANGED My Life!
+
+### moment 1 · 21:10
+why: the five-options reframe is a clear, concrete idea that works alone, and "you always have the option to make things worse" lands as honest, not preachy.
+- [youtube] you always have 5 options (even when it feels like none) #dbt #mentalhealth
+- [instagram] you don't have to get better. that's exactly why choosing to is powerful.
+- [tiktok] the 5 choices in every situation
+
+### moment 2 · 2:48
+why: it reframes "i'm lazy" as exhaustion, which is personal, specific, and instantly recognizable to anyone who has said it about herself.
+- [youtube] "i'm lazy" was really DEPRESSION #dbt #depression
+- [instagram] i told everyone i was lazy. i was actually exhausted just existing.
+- [tiktok] you're not lazy, you're exhausted
+
+### moment 3 · 25:38
+why: "you don't have to like it" fixes the biggest misunderstanding about radical acceptance in one clear line.
+- [youtube] radical acceptance doesn't mean you APPROVE #dbt #radicalacceptance
+- [instagram] radical acceptance doesn't mean you like it, agree with it, or condone it.
+- [tiktok] acceptance is not approval
+
+### moment 4 · 27:19
+why: a concrete example of internal vs. external attribution (the "i'm late" vs. "i'm a late person" swap), plus the "i have diabetes" comparison for mental health.
+- [youtube] "i am anxious" vs "i have anxiety" #dbt #mentalhealth
+- [instagram] you wouldn't say "i am diabetes." so why "i am anxiety"?
+- [tiktok] stop making it your personality
+
+### moment 5 · 15:49
+why: the seesaw idea is simple, and the list of paired truths (independent and wanting help, alone and lonely) is highly shareable.
+- [youtube] dialectics 101: two things can be TRUE #dbt #dialectics
+- [instagram] you can be with people and still feel lonely. both are true.
+- [tiktok] dialectics, explained in 20 seconds
+
+### moment 6 · 14:29
+why: "you can't fail therapy" is a bold claim that is validating for anyone who feels like she's the problem, and it ends with a clear takeaway.
+- [youtube] you cannot FAIL therapy #dbt #therapy
+- [instagram] if therapy isn't working, it's not a reflection of you. dbt says the therapy failed.
+- [tiktok] you can't fail therapy
+
+## ep 167 · 167. Teen Mental Health: Stigma, Social Media, & Starting Therapy feat. Dr. Justin Puder
+
+### moment 1 · 27:44
+why: a concrete, counterintuitive tip for parents, backed by "the relationship is the number one predictor of outcomes." it's easy to act on and needs no context.
+- [youtube] let your teen pick the THERAPIST #teenmentalhealth #therapy
+- [instagram] parents: let your teen pick the therapist. here's why it matters.
+- [tiktok] let your teen pick the THERAPIST
+
+### moment 2 · 30:57
+why: a surprising reframe that takes the pressure off picking the "right" type of therapy. the claim is clear and the research backs it.
+- [youtube] all therapy types work the SAME? #therapy #teenmentalhealth
+- [instagram] the "best" type of therapy might matter less than you think.
+- [tiktok] CBT vs EMDR? the research says...
+
+### moment 3 · 22:06
+why: it gives a first-time therapy-goer one question to ask themselves, and it separates what you want from what your parents want.
+- [youtube] before you start therapy, ask this #startingtherapy #teenmentalhealth
+- [instagram] before your first therapy session, ask yourself one thing.
+- [tiktok] what do YOU want from therapy?
+
+### moment 4 · 25:51
+why: it makes therapy feel less intimidating by explaining that experimenting is the process, with a relatable sleep and caffeine example.
+- [youtube] this is what therapy ACTUALLY looks like #therapy #teenmentalhealth
+- [instagram] therapy isn't magic. it's experiments, and that's how it works.
+- [tiktok] therapy is an EXPERIMENT
+
+### moment 5 · 33:57
+why: a simple daily practice anyone can do, with a personal admission that even a psychologist is surprised by what shows up when he journals.
+- [youtube] a 2-minute habit for your MIND #teenmentalhealth #journaling
+- [instagram] a psychologist says "i'm fine" until he journals. try this.
+- [tiktok] the notes app habit that helps
+
+### moment 6 · 18:24
+why: a reframe on social media in a field that usually talks about its harms. it names the specific relief of seeing "i have the same intrusive thoughts" in the comments.
+- [youtube] the good side of SOCIAL media #teenmentalhealth #socialmedia
+- [instagram] "i thought i was the only one." where social media helps.
+- [tiktok] social media can make you feel SEEN
+
+## ep 166 · 166. Amanda E. White on Substance Use in College, Taylor Swift Therapy, & Seeking Help
+
+### moment 1 · 8:45
+why: a clear reframe that "the best time of your life" pressure backfires, and it speaks to anyone about to start college.
+- [youtube] college isn't the BEST time of your life #college #mentalhealth
+- [instagram] the pressure for college to be the best time of your life can backfire
+- [tiktok] why college pressure backfires
+
+### moment 2 · 10:49
+why: a concrete reframe of "i'll be happy when…" thinking that applies to any big transition.
+- [youtube] you bring yourself WHEREVER you go #college #mentalhealth
+- [instagram] if you struggled in high school, a new place won't fix it on its own
+- [tiktok] you bring yourself everywhere
+
+### moment 3 · 14:49
+why: a surprising, science-backed explanation of why alcohol makes anxiety worse, which most people get wrong.
+- [youtube] what alcohol does to your ANXIETY #college #alcohol
+- [instagram] alcohol doesn't make you happy, it expands the feeling you already have
+- [tiktok] alcohol and anxiety: the truth
+
+### moment 4 · 16:55
+why: a personal, specific warning sign (drinking alone, drinking to cope) for noticing a shift when everyone around you drinks too.
+- [youtube] a warning sign that's easy to MISS #college #sobriety
+- [instagram] when everyone drinks, how do you know it's turned into something else?
+- [tiktok] the sign i almost missed
+
+### moment 5 · 21:47
+why: a fun, shareable entry point into taylor swift therapy that will pull in swifties who haven't heard the show.
+- [youtube] what your favorite SWIFT song says about you #taylorswift #therapy
+- [instagram] the song you can't stop replaying might be telling you something
+- [tiktok] your taylor song says this
+
+### moment 6 · 31:37
+why: a plain, practical line that gives permission to leave a therapist who isn't the right fit.
+- [youtube] your therapist works FOR you #therapy #mentalhealth
+- [instagram] you're allowed to break up with a therapist who isn't the right fit
+- [tiktok] you can switch therapists
