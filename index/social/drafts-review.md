@@ -3632,3 +3632,117 @@ why: a surprising reframe that you don't have to be "better" first; meaning and 
 - [youtube] you don't have to be better to start LIVING\n#recovery #lifeworthliving
 - [instagram] why am I doing this? because I want to get back to the violin
 - [tiktok] recovery needs a reason, a LIFE
+
+## ep 161 · 161. A Parent’s Guide to Teen Mental Health feat. Ann Coleman
+
+### moment 1 · 0:29
+why: the guest reframes a parent's anger as fear in one plain line, and it works as a standalone shift for any teen who has been yelled at.
+- [youtube] this is why your parent is so ANGRY #teenmentalhealth #parents
+- [instagram] when a parent is acting out, it's usually fear, not anger
+- [tiktok] this is what parent anger really is
+
+### moment 2 · 12:03
+why: it gives teens a concrete way to see their parents as human, and it ends on a warm, relatable line about there being no handbook.
+- [youtube] this is what your parent is feeling when they SCREAM #parenting #teens
+- [instagram] this is what your parent is feeling when they scold you
+- [tiktok] this is parents being scared
+
+### moment 3 · 20:57
+why: it's a simple rule of thumb for which fights are worth having, and the messy room payoff makes it easy to share with a parent.
+- [youtube] this is the rule for which fights to PICK with your teen #parenting #teenmentalhealth
+- [instagram] if it's not dangerous, unhealthy, unethical or illegal, let them decide
+- [tiktok] this is why messy rooms don't matter
+
+### moment 4 · 32:44
+why: it names "calm down" as one of the most invalidating things you can say, with the guest's own story behind it, and it is useful for teens and parents alike.
+- [youtube] this is why "calm down" makes anxiety WORSE #anxiety #validation
+- [instagram] "calm down" is one of the most invalidating things you can say
+- [tiktok] this is what not to say to anxiety
+
+### moment 5 · 28:29
+why: it's a practical tip for teens whose parents won't listen: bring in a school counselor or write it down. This one is useful, so it's worth the "how to" phrasing even though that trails on shorts.
+- [youtube] what if your parents won't LISTEN? try this #therapy #teenmentalhealth
+- [instagram] if your parents won't hear you, put it in writing. here's how
+- [tiktok] this is how to ask for therapy
+
+### moment 6 · 46:52
+why: it's an emotional personal line from the guest about how much it hurts a parent to send their child to treatment, and it gives teens a view they rarely get.
+- [youtube] this is what parents feel sending their kid to TREATMENT #parents #teens
+- [instagram] no parent sends their child to treatment without feeling they failed
+- [tiktok] this is what parents never say
+
+## ep 160 · 160. Gigi Robinson on Chronic Illness, Social Media Influencers, & Sharing Your Story
+
+### moment 1 · 25:36
+why: a personal, concrete claim that works cold. it's the strongest line in the episode, and framing it as chronic illness and sports illustrated avoids the body image topic that underperforms on shorts.
+- [youtube] this is what a swimsuit MODEL looks like #chronicillness #eds
+- [instagram] gigi on being in sports illustrated with stretch marks and eczema
+- [tiktok] this is a bikini shoot with ECZEMA
+
+### moment 2 · 6:47
+why: a specific story with a clear payoff (a teacher says "what can you get done?" and accepts a photo essay). anyone who has needed an extension can use it.
+- [youtube] a photo essay instead of a 20 page PAPER #accommodations #college
+- [instagram] gigi asked her professor for a photo essay instead of a paper. it worked
+- [tiktok] bring a SOLUTION, not just a problem
+
+### moment 3 · 14:24
+why: a surprising reframe of "the best years of your life." it's honest and comforting for anyone who isn't loving college, and it ends with what actually helped.
+- [youtube] college wasn't the best years of my LIFE #college #20s
+- [instagram] gigi robinson on why college was one of the hardest times of her life
+- [tiktok] college was HARD, and that's okay
+
+### moment 4 · 13:24
+why: a small, concrete burnout check anyone can try tonight, with an honest example from gigi's own life (typing for school while eating).
+- [youtube] eating a meal without MULTITASKING #burnout #college
+- [instagram] a burnout check: can i eat a meal without doing something else?
+- [tiktok] the burnout test: eat a MEAL
+
+### moment 5 · 29:33
+why: a clear claim about the social media feedback loop (cry on camera, get likes, the brain learns to repeat it). it names something many viewers have felt but couldn't put words to.
+- [youtube] this is oversharing, not VULNERABILITY #socialmedia #creators
+- [instagram] crying on camera gets attention, and the brain learns to want more
+- [tiktok] this is the vulnerability TRAP
+
+### moment 6 · 32:33
+why: a restrained, personal line: she could have written darker, named names and chased pity, and chose not to. it shows what sharing with intention looks like.
+- [youtube] she could have exposed them. she DIDN'T #storytelling #chronicillness
+- [instagram] gigi could have shown darker photos and named names. she chose not to
+- [tiktok] tell it with PURPOSE
+
+## ep 159 · 159. Back to School Advice, Creating School/Life Balance, & My Junior Year Goals - SOLO EP
+
+### moment 1 · 0:40
+why: a clear, low-stakes reframe about grades that anyone in school can use without context, and it opens the episode.
+- [youtube] this is what one B actually means | #college #studytips
+- [instagram] a B on one test won't send your whole life off track.
+- [tiktok] one B won't ruin your LIFE
+
+### moment 2 · 9:05
+why: a concrete reframe for big-goal overwhelm: focus on the day-to-day and trust the systems that lead to the goal.
+- [youtube] this is how I handle BIG goals | #goalsetting #college
+- [instagram] this is how i stop big goals from overwhelming me
+- [tiktok] this is how i handle big GOALS
+
+### moment 3 · 11:29
+why: a practical, relatable tip. writing things down frees up mental space and cuts stress.
+- [youtube] why writing it down lowers STRESS | #productivity #college
+- [instagram] if it's in your calendar, it's no longer taking up space in your head.
+- [tiktok] get it out of your HEAD
+
+### moment 4 · 13:15
+why: an honest admission from a self-described procrastinator, plus a trick to work with it: schedule classes so free time can't swallow your day.
+- [youtube] this is why i schedule my classes like this | #procrastination #college
+- [instagram] i'm a procrastinator, so i built a schedule that forces me to be productive.
+- [tiktok] i'm a PROCRASTINATOR. here's my fix
+
+### moment 5 · 20:55
+why: a specific mistake and fix. four similar classes in one semester led to burnout, and mixing disciplines helped. useful for anyone picking a schedule.
+- [youtube] why i stopped taking similar classes | #college #burnout
+- [instagram] i took four classes on the same topic and burned out. here's what i changed.
+- [tiktok] this is how i avoid BURNOUT
+
+### moment 6 · 24:10
+why: a transparent look at how she balances school, podcast and work: add things slowly, over years, not overnight.
+- [youtube] this is how i balance school and work | #college #sidehustle
+- [instagram] this is how i balance school, a podcast and a job: add things slowly.
+- [tiktok] add things SLOWLY

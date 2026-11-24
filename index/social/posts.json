@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T16:47:14.263Z",
+ "generatedAt": "2026-11-24T22:57:00.140Z",
  "snapshots": 31,
  "posts": 815,
  "with_stats": 815,
@@ -36,7 +36,7 @@
    "first_seen": "2026-11-24",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 77,
+    "views": 85,
     "likes": 3,
     "comments": 0,
     "views_7d": null,
@@ -64,7 +64,7 @@
     "weekday": "tue"
    },
    "age_days": 1,
-   "views_per_day": 77,
+   "views_per_day": 85,
    "lift": null
   },
   {
@@ -82,8 +82,8 @@
    "first_seen": "2026-11-21",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 348,
-    "likes": 4,
+    "views": 351,
+    "likes": 5,
     "comments": 0,
     "views_7d": null,
     "views_30d": null
@@ -110,7 +110,7 @@
     "weekday": "sat"
    },
    "age_days": 4,
-   "views_per_day": 87,
+   "views_per_day": 87.8,
    "lift": null
   },
   {
@@ -131,7 +131,7 @@
    "first_seen": "2026-11-23",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 35,
+    "views": 39,
     "likes": 0,
     "comments": 0,
     "views_7d": null,
@@ -154,7 +154,7 @@
     "weekday": "mon"
    },
    "age_days": 2,
-   "views_per_day": 17.5,
+   "views_per_day": 19.5,
    "lift": null
   },
   {
@@ -175,7 +175,7 @@
    "first_seen": "2026-11-22",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 116,
+    "views": 117,
     "likes": 2,
     "comments": 0,
     "views_7d": null,
@@ -198,7 +198,7 @@
     "weekday": "sun"
    },
    "age_days": 3,
-   "views_per_day": 38.7,
+   "views_per_day": 39,
    "lift": null
   },
   {
@@ -263,7 +263,7 @@
    "first_seen": "2026-11-20",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 69,
+    "views": 70,
     "likes": 0,
     "comments": 1,
     "views_7d": null,
@@ -286,7 +286,7 @@
     "weekday": "fri"
    },
    "age_days": 5,
-   "views_per_day": 13.8,
+   "views_per_day": 14,
    "lift": null
   },
   {
@@ -524,10 +524,10 @@
    "first_seen": "2026-11-08",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 267,
+    "views": 268,
     "likes": 4,
     "comments": 2,
-    "views_7d": 63,
+    "views_7d": 64,
     "views_30d": null
    },
    "features": {
@@ -547,7 +547,7 @@
     "weekday": "sat"
    },
    "age_days": 18,
-   "views_per_day": 14.8,
+   "views_per_day": 14.9,
    "lift": 1.91
   },
   {
@@ -1756,11 +1756,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 369,
+    "views": 371,
     "likes": 9,
     "comments": 2,
-    "views_7d": 35,
-    "views_30d": 96
+    "views_7d": 37,
+    "views_30d": 98
    },
    "features": {
     "hook_type": "i wish i knew",
@@ -1780,7 +1780,7 @@
    },
    "age_days": 60,
    "views_per_day": 6.2,
-   "lift": 2.64
+   "lift": 2.65
   },
   {
    "id": "yt:BGv-le-iv7k",
@@ -2149,11 +2149,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 465,
+    "views": 466,
     "likes": 4,
     "comments": 0,
-    "views_7d": 4,
-    "views_30d": 15
+    "views_7d": 5,
+    "views_30d": 16
    },
    "features": {
     "hook_type": "you / your",
@@ -2173,7 +2173,7 @@
    },
    "age_days": 79,
    "views_per_day": 5.9,
-   "lift": 3.32
+   "lift": 3.33
   },
   {
    "id": "yt:3OJ4sSzWIq8",
@@ -2550,11 +2550,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 5516,
+    "views": 5517,
     "likes": 25,
     "comments": 2,
-    "views_7d": 16,
-    "views_30d": 42
+    "views_7d": 17,
+    "views_30d": 43
    },
    "features": {
     "hook_type": "question",
@@ -2575,7 +2575,7 @@
    },
    "age_days": 95,
    "views_per_day": 58.1,
-   "lift": 39.4
+   "lift": 39.41
   },
   {
    "id": "yt:C7iPUV5kCtE",
@@ -3853,11 +3853,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 269,
+    "views": 270,
     "likes": 10,
     "comments": 1,
-    "views_7d": 16,
-    "views_30d": 40
+    "views_7d": 17,
+    "views_30d": 41
    },
    "features": {
     "hook_type": "i wish i knew",
@@ -3878,7 +3878,7 @@
    },
    "age_days": 205,
    "views_per_day": 1.3,
-   "lift": 1.92
+   "lift": 1.93
   },
   {
    "id": "yt:I9ZD4lGHPuc",
@@ -4283,11 +4283,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 1987,
-    "likes": 67,
+    "views": 1997,
+    "likes": 68,
     "comments": 5,
-    "views_7d": 329,
-    "views_30d": 1133
+    "views_7d": 339,
+    "views_30d": 1143
    },
    "features": {
     "hook_type": "statement",
@@ -4307,7 +4307,7 @@
    },
    "age_days": 235,
    "views_per_day": 8.5,
-   "lift": 14.19
+   "lift": 14.26
   },
   {
    "id": "yt:8cyDR3t5vDg",
@@ -4990,11 +4990,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 163,
+    "views": 164,
     "likes": 5,
     "comments": 0,
-    "views_7d": 3,
-    "views_30d": 15
+    "views_7d": 4,
+    "views_30d": 16
    },
    "features": {
     "hook_type": "statement",
@@ -5013,7 +5013,7 @@
    },
    "age_days": 273,
    "views_per_day": 0.6,
-   "lift": 1.16
+   "lift": 1.17
   },
   {
    "id": "yt:TlMAEuSTfgQ",
@@ -8152,11 +8152,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 1118,
+    "views": 1119,
     "likes": 39,
     "comments": 1,
-    "views_7d": 0,
-    "views_30d": 0
+    "views_7d": 1,
+    "views_30d": 1
    },
    "features": {
     "hook_type": "this is",
@@ -10517,11 +10517,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 144,
+    "views": 145,
     "likes": 8,
     "comments": 1,
-    "views_7d": 2,
-    "views_30d": 5
+    "views_7d": 3,
+    "views_30d": 6
    },
    "features": {
     "hook_type": "question",
@@ -10541,7 +10541,7 @@
    },
    "age_days": 423,
    "views_per_day": 0.3,
-   "lift": 1.03
+   "lift": 1.04
   },
   {
    "id": "yt:1mhEHrYqmjQ",
@@ -10860,11 +10860,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 8609,
+    "views": 8613,
     "likes": 175,
     "comments": 7,
-    "views_7d": 88,
-    "views_30d": 390
+    "views_7d": 92,
+    "views_30d": 394
    },
    "features": {
     "hook_type": "statement",
@@ -10886,7 +10886,7 @@
    },
    "age_days": 465,
    "views_per_day": 18.5,
-   "lift": 61.49
+   "lift": 61.52
   },
   {
    "id": "yt:iSIwGO3DnpU",
@@ -11151,11 +11151,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 651,
+    "views": 653,
     "likes": 17,
     "comments": 4,
-    "views_7d": 85,
-    "views_30d": 167
+    "views_7d": 87,
+    "views_30d": 169
    },
    "features": {
     "hook_type": "statement",
@@ -11175,7 +11175,7 @@
    },
    "age_days": 558,
    "views_per_day": 1.2,
-   "lift": 4.65
+   "lift": 4.66
   },
   {
    "id": "yt:I1sqLxG8BTQ",
@@ -11192,11 +11192,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 4034,
+    "views": 4044,
     "likes": 113,
     "comments": 3,
-    "views_7d": 260,
-    "views_30d": 983
+    "views_7d": 270,
+    "views_30d": 993
    },
    "features": {
     "hook_type": "statement",
@@ -11216,7 +11216,7 @@
    },
    "age_days": 561,
    "views_per_day": 7.2,
-   "lift": 28.81
+   "lift": 28.89
   },
   {
    "id": "yt:wz3i2CM238k",
@@ -12166,11 +12166,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 3170,
+    "views": 3174,
     "likes": 69,
     "comments": 16,
-    "views_7d": 55,
-    "views_30d": 201
+    "views_7d": 59,
+    "views_30d": 205
    },
    "features": {
     "hook_type": "statement",
@@ -12189,7 +12189,7 @@
    },
    "age_days": 845,
    "views_per_day": 3.8,
-   "lift": 22.64
+   "lift": 22.67
   },
   {
    "id": "yt:9-rxCir8-C0",
@@ -13875,11 +13875,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 2513,
+    "views": 2514,
     "likes": 26,
     "comments": 0,
-    "views_7d": 1,
-    "views_30d": 8
+    "views_7d": 2,
+    "views_30d": 9
    },
    "features": {
     "hook_type": "statement",
@@ -16229,11 +16229,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 2548,
+    "views": 2549,
     "likes": 31,
     "comments": 0,
-    "views_7d": 3,
-    "views_30d": 40
+    "views_7d": 4,
+    "views_30d": 41
    },
    "features": {
     "hook_type": "statement",
@@ -17940,11 +17940,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 1941,
+    "views": 1943,
     "likes": 66,
     "comments": 0,
-    "views_7d": 9,
-    "views_30d": 25
+    "views_7d": 11,
+    "views_30d": 27
    },
    "features": {
     "hook_type": "question",
@@ -18991,11 +18991,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 1575,
+    "views": 1576,
     "likes": 68,
     "comments": 0,
-    "views_7d": 0,
-    "views_30d": 1
+    "views_7d": 1,
+    "views_30d": 2
    },
    "features": {
     "hook_type": "you / your",
@@ -19014,7 +19014,7 @@
    },
    "age_days": 1298,
    "views_per_day": 1.2,
-   "lift": 1.52
+   "lift": 1.53
   },
   {
    "id": "yt:VsvjjpjwTLM",
@@ -26804,11 +26804,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 413,
+    "views": 414,
     "likes": 16,
     "comments": 0,
-    "views_7d": 1,
-    "views_30d": 8
+    "views_7d": 2,
+    "views_30d": 9
    },
    "features": {
     "hook_type": "statement",
@@ -26827,7 +26827,7 @@
    },
    "age_days": 1538,
    "views_per_day": 0.3,
-   "lift": 2.95
+   "lift": 2.96
   },
   {
    "id": "yt:vHtKs51S0XI",
@@ -29186,11 +29186,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 628,
+    "views": 629,
     "likes": 22,
     "comments": 0,
-    "views_7d": 1,
-    "views_30d": 11
+    "views_7d": 2,
+    "views_30d": 12
    },
    "features": {
     "hook_type": "statement",
@@ -30087,11 +30087,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 3631,
+    "views": 3633,
     "likes": 46,
     "comments": 3,
-    "views_7d": 38,
-    "views_30d": 162
+    "views_7d": 40,
+    "views_30d": 164
    },
    "features": {
     "hook_type": "statement",
@@ -30111,7 +30111,7 @@
    },
    "age_days": 1679,
    "views_per_day": 2.2,
-   "lift": 25.94
+   "lift": 25.95
   },
   {
    "id": "yt:nC-PDhLC2XA",
@@ -31067,11 +31067,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 252,
+    "views": 254,
     "likes": 9,
     "comments": 0,
-    "views_7d": 16,
-    "views_30d": 24
+    "views_7d": 18,
+    "views_30d": 26
    },
    "features": {
     "hook_type": "you / your",
@@ -31090,7 +31090,7 @@
    },
    "age_days": 1395,
    "views_per_day": 0.2,
-   "lift": 0.24
+   "lift": 0.25
   },
   {
    "id": "yt:0kywJ9QGXd4",
@@ -32741,11 +32741,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 365,
+    "views": 366,
     "likes": 7,
     "comments": 0,
-    "views_7d": 0,
-    "views_30d": 2
+    "views_7d": 1,
+    "views_30d": 3
    },
    "features": {
     "hook_type": "statement",
@@ -32862,11 +32862,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 164,
+    "views": 166,
     "likes": 6,
     "comments": 1,
-    "views_7d": 5,
-    "views_30d": 20
+    "views_7d": 7,
+    "views_30d": 22
    },
    "features": {
     "hook_type": "you / your",
@@ -32887,7 +32887,7 @@
    },
    "age_days": 380,
    "views_per_day": 0.4,
-   "lift": 4.32
+   "lift": 4.37
   },
   {
    "id": "yt:nZOQ60zeqLk",
@@ -32905,11 +32905,11 @@
    "first_seen": "2026-10-25",
    "stats": {
     "as_of": "2026-11-24",
-    "views": 99,
+    "views": 100,
     "likes": 0,
     "comments": 0,
-    "views_7d": 1,
-    "views_30d": 4
+    "views_7d": 2,
+    "views_30d": 5
    },
    "features": {
     "hook_type": "question",
@@ -32929,7 +32929,7 @@
    },
    "age_days": 394,
    "views_per_day": 0.3,
-   "lift": 2.61
+   "lift": 2.63
   },
   {
    "id": "yt:N800RiN2zQQ",

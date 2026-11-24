@@ -10,8 +10,9 @@ Long-form videos match by the episode number at the start of the title (or "ep. 
 - [abc7 News Bay Area Interview with Kristen Sze | May 5th, 2021](https://www.youtube.com/watch?v=dlO7uBQGjm4) (2021-05-05, 10 min)
 - [EASY STEP-BY-STEP- PODCAST EDITING TUTORIAL FOR BEGINNERS (Adobe Audition, Descript, and Anchor)](https://www.youtube.com/watch?v=OJb64JJEnMM) (2021-01-18, 9 min)
 
-## shorts (690)
+## shorts (691)
 
+- [why you procrastinate (even when you really care)](https://www.youtube.com/shorts/oOSBWrXUeLQ) (2026-11-24)
 - [what if you don't BELIEVE your mental health will get BETTER??! #mentalhealthpodcast #depressionhelp](https://www.youtube.com/shorts/0KV9Tx_NHb0) (2026-10-01)
 - [a psychology hack to STOP a PANIC ATTACK #mentalhealthpodcast #panicattack](https://www.youtube.com/shorts/nBaibmAu1IM) (2026-04-13)
 - [i got hospitalized for my mental health in high school #mentalhealthadvocate #mentalhealthpodcast](https://www.youtube.com/shorts/-p2JrD_lc-I) (2026-03-31)
