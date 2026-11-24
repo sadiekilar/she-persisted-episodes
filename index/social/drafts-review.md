@@ -3518,3 +3518,117 @@ why: a plain, practical line that gives permission to leave a therapist who isn'
 - [youtube] your therapist works FOR you #therapy #mentalhealth
 - [instagram] you're allowed to break up with a therapist who isn't the right fit
 - [tiktok] you can switch therapists
+
+## ep 165 · 165. Changing Your Behaviors 101: How to Decrease Problem Behaviors & Increase Wanted Behaviors
+
+### moment 1 · 1:31
+why: the car metaphor is a clear, visual reframe. you can steer thoughts and behaviors, and emotions follow. it works with no context.
+- [youtube] your mental health is a CAR #dbt #mentalhealth
+- [instagram] you can't force your emotions to change, but you can steer the front two wheels
+- [tiktok] this is how emotions actually change
+
+### moment 2 · 7:05
+why: four plain reasons to accept reality, ending on the "pain is inevitable, suffering is optional" line. it's a clear claim and easy to share.
+- [youtube] why radical ACCEPTANCE works #dbt #radicalacceptance
+- [instagram] rejecting reality doesn't change reality. it just turns pain into suffering.
+- [tiktok] pain is inevitable. suffering is optional.
+
+### moment 3 · 5:46
+why: the five ways to respond to a serious problem are a surprising list, and "stay miserable" being on it is both funny and true. it's a personal reframe about having a choice.
+- [youtube] 5 ways to respond to a PROBLEM #dbt #copingskills
+- [instagram] there are five ways to respond to a problem, and "stay miserable" is one of them
+- [tiktok] this is what DBT says about choices
+
+### moment 4 · 13:35
+why: it explains chain analysis as a concrete tool (vulnerability factors, trigger, behavior, consequences) and includes the "be annoyingly specific" tip. sadie's six months of whiteboard sessions add a personal note.
+- [youtube] chain analysis 101 #dbt #selfimprovement
+- [instagram] i did chain analyses in therapy for six months, and this is how they work
+- [tiktok] chain analysis 101
+
+### moment 5 · 22:40
+why: the dog at the door example makes extinction easy to picture, including the burst of behavior before it fades. it's a surprising and relatable way to understand how habits stop.
+- [youtube] why your dog teaches you about HABITS #behaviorchange #dbt
+- [instagram] if you stop rewarding a behavior, it gets worse before it gets better
+- [tiktok] this is why habits get worse first
+
+### moment 6 · 24:11
+why: sadie's tennis shoes trick is a funny, concrete tip for beating procrastination. it's specific enough to try tonight.
+- [youtube] the tennis shoe trick that stopped my PROCRASTINATION #dbt #habits
+- [instagram] i put my tennis shoes on so i couldn't lie in bed, and it worked
+- [tiktok] my shoes-on-bed rule
+
+## ep 164 · 164. Teenager Therapy's Gael Aitor on Gen Z Mental Health Resources, Starting a Podcast, and How to Feel Less Alone
+
+### moment 1 · 13:28
+why: names the top teen struggles in plain terms (loneliness, family, mental health) and backs it with poll data, so it lands without the episode.
+- [youtube] This is what teens are LONELY about #teenmentalhealth #loneliness
+- [instagram] the polls were clear: most teens said they felt lonely, and it wasn't close
+- [tiktok] this is what teens struggle with most
+
+### moment 2 · 15:43
+why: a surprising reframe that the cliches (routine, self-love, don't lose hope) were the answer all along, from someone who once rolled his eyes at them.
+- [youtube] The cliches are TRUE #mentalhealth #selflove
+- [instagram] i thought the cliches sounded stupid, until i got through it
+- [tiktok] the cliches were the answer
+
+### moment 3 · 19:45
+why: a gentle, relatable reframe for anyone in their early 20s who felt they had to rush through their teens.
+- [youtube] You have more TIME than you think #20s #mentalhealth
+- [instagram] your teens felt like a sprint, but you don't have to keep rushing
+- [tiktok] this is what slowing down feels like
+
+### moment 4 · 24:52
+why: honest, concrete picture of showing up for a mission even when you don't want to, with the reason that kept them going.
+- [youtube] What to do when you don't want to SHOW UP #motivation #consistency
+- [instagram] we weren't on good terms, but we still showed up for the audience
+- [tiktok] a strong why keeps you going
+
+### moment 5 · 22:18
+why: a concrete tip for anyone starting a podcast, and the show's audience is full of teens who want to.
+- [youtube] Starting a PODCAST 101 #podcasting #teenpodcast
+- [instagram] starting a podcast from zero? find a co-host first, and here's why
+- [tiktok] podcast 101 from teenager therapy
+
+### moment 6 · 6:38
+why: explains why vulnerable, unpolished conversations hit harder than teen comedy, which tells viewers why the show mattered.
+- [youtube] What nobody tells you about teen CONTENT #teenmentalhealth #podcast
+- [instagram] teen content is usually comedy, then five kids in a bedroom got real
+- [tiktok] why this teen podcast blew up
+
+## ep 163 · 163. Treating Eating Disorders: How to Get Help & Get Better feat. David Alperovitz (Program Director of Klarman Eating Disorders Center at McLean Hospital)
+
+### moment 1 · 9:27
+why: david names why "just eat it" fails, and the reframe that symptoms began as protection is validating for anyone who has felt judged or misunderstood.
+- [youtube] eating disorders aren't a CHOICE\n#eatingdisorders #bodyimage
+- [instagram] these behaviors started as a way to protect you, and that matters
+- [tiktok] why "just eat it" never works
+
+### moment 2 · 23:32
+why: a clear claim that eating disorders are fear-driven and function like anxiety, with the "we can't avoid food" point as a surprising reframe.
+- [youtube] this is what an eating disorder really IS\n#eatingdisorders #anxiety
+- [instagram] eating disorders are full of anxiety, and food is the one thing you can't avoid
+- [tiktok] it's not about food, it's FEAR
+
+### moment 3 · 22:38
+why: speaks to parents and friends who want one clear cause; david explains why there isn't one, which relieves guilt.
+- [youtube] it's never ONE conversation\n#eatingdisorders #mentalhealth
+- [instagram] if it were that simple, we'd have fixed it already
+- [tiktok] there is no single root CAUSE
+
+### moment 4 · 25:55
+why: a concrete, relatable explanation of how every meal in treatment works as exposure, and how avoidance feeds the fear.
+- [youtube] this is what recovery at the table looks like\n#recovery #eatingdisorders
+- [instagram] sitting down to one snack can be an exposure, and here's why
+- [tiktok] every meal is an EXPOSURE
+
+### moment 5 · 27:49
+why: direct, warm advice for anyone who hasn't asked for help yet, with a strength reframe that sticks.
+- [youtube] asking for help is STRENGTH\n#askforhelp #eatingdisorderrecovery
+- [instagram] recovery rarely happens alone, and you don't need an expert to start
+- [tiktok] the first step is telling someone
+
+### moment 6 · 31:12
+why: a surprising reframe that you don't have to be "better" first; meaning and treatment happen together, and it applies beyond eating disorders.
+- [youtube] you don't have to be better to start LIVING\n#recovery #lifeworthliving
+- [instagram] why am I doing this? because I want to get back to the violin
+- [tiktok] recovery needs a reason, a LIFE
