@@ -3062,3 +3062,573 @@ why: a concrete, low-effort tip (the stick figure packing list) that shows what 
 - [youtube] this is the stick man trick for ADHD packing #adhd #adhdtips
 - [instagram] this is how a psychologist with ADHD packs for a trip: the stick man method
 - [tiktok] this is the stick man method
+
+## ep 267 · 267. why you procrastinate even when you really care
+
+### moment 1 · 1:44
+why: the core reframe in one breath: procrastination isn't laziness, it's an emotion you're trying not to feel, and it hits hardest on things you care about.
+- [youtube] procrastination is not LAZINESS #procrastination #mentalhealth
+- [instagram] procrastination isn't a motivation problem. it's an emotion regulation problem.
+- [tiktok] it's not laziness, it's DREAD
+
+### moment 2 · 3:07
+why: a concrete way to decode what "procrastination" is actually hiding: overwhelm, predicted failure, or a missing skill you're embarrassed about.
+- [youtube] what procrastination is really HIDING #procrastination #college
+- [instagram] procrastination is a giveaway word. here are 3 things it can be hiding.
+- [tiktok] what your procrastination is hiding
+
+### moment 3 · 6:35
+why: a funny, relatable idea (the excuse generating machine) that gives people a kind way to talk back to their brain.
+- [youtube] meet your excuse generating MACHINE #procrastination #brain
+- [instagram] your brain is amazing at finding reasons you don't have to do the hard thing.
+- [tiktok] your brain's excuse MACHINE
+
+### moment 4 · 12:13
+why: the donkey story is vivid and easy to repeat. it shows why self-criticism only gets you part of the way and why you need a carrot too.
+- [youtube] stop using only the STICK on yourself #procrastination #selfcare
+- [instagram] if you're only using the stick, no wonder you're exhausted. here's the donkey story.
+- [tiktok] you have a stick but no CARROT
+
+### moment 5 · 36:19
+why: a personal-feeling line for anyone with adhd who has been called lazy, plus a practical step: you can't fix what you've already decided is a trait.
+- [youtube] "lazy" is not a roadmap for ADHD #adhd #procrastination
+- [instagram] if you've decided you're lazy, none of the productivity tips will work. start here.
+- [tiktok] you're not LAZY, you're stuck
+
+### moment 6 · 42:23
+why: a small, doable tip that works when you don't feel like doing anything: the smallest step you can commit to, and permission to stop after it.
+- [youtube] the smallest STEP beats motivation #procrastination #habits
+- [instagram] what's the smallest step you can commit to? then decide if you want the next one.
+- [tiktok] do the smallest STEP
+
+## ep 179 · 179. Gen Z Mental Health: The Role of Families, Friends, Schools, ACEs, & More feat. Dr. Jessica Gomez
+
+### moment 1 · 18:24
+why: a clear, quotable claim that reframes teen depression as a health crisis, with real stats and the "would we accept this for diabetes" comparison.
+- [youtube] Half get no help. DIABETES wouldn't be allowed. #teenmentalhealth #depression
+- [instagram] 16% of teens have clinical depression, and only half ever get treatment
+- [tiktok] only HALF get help
+
+### moment 2 · 23:55
+why: a concrete, doable tip: four foundations (sleep, food, movement, community) before any coping skills, with a house-foundation metaphor.
+- [youtube] 4 FOUNDATIONS before any coping skill #mentalhealth #teens
+- [instagram] before coping skills, a psychologist starts with 4 basic foundations
+- [tiktok] the 4 FOUNDATIONS of well-being
+
+### moment 3 · 25:49
+why: the "even 51% counts" idea takes the pressure off perfect self-care, which suits a young, perfectionist audience.
+- [youtube] you only need 51% to feel better #selfcare #teenmentalhealth
+- [instagram] you don't have to do it all. 51% still puts you on an upward trend
+- [tiktok] 51% is ENOUGH
+
+### moment 4 · 29:38
+why: a practical tip for parents (and teens passing it on): the hardest part is managing your reaction so your kid keeps coming to you with the big stuff.
+- [youtube] how to be a parent teens tell the TRUTH to #parenting #teenmentalhealth
+- [instagram] why teens stop telling their parents things: it's the reaction, not the mistake
+- [tiktok] how parents lose their teen's TRUST
+
+### moment 5 · 31:03
+why: it gives teens permission to stop being their friend's therapist, plus a clear next step, which is a common real-life bind.
+- [youtube] you're not your friend's THERAPIST #friendship #mentalhealth
+- [instagram] you don't have to be your friend's therapist, and here's what to do instead
+- [tiktok] you're not their THERAPIST
+
+### moment 6 · 35:18
+why: it answers "everyone is stressed, so is it really a problem?" with a clear red-flag test teens can apply to themselves.
+- [youtube] everyone's stressed. so when is it a RED FLAG? #mentalhealth #teens
+- [instagram] if everyone feels this way, how do you know when you need help?
+- [tiktok] when "normal" stress isn't NORMAL
+
+## ep 178 · 178. MENTAL HEALTH HOT TAKES: Teen Mental Health, Therapeutic Boarding School, Exposure Therapy, & More!
+
+### moment 1 · 3:00
+why: a clear, simple claim with a data-chart image that anyone can grasp, and sadie owns her own "digress" slip, which makes it warm.
+- [youtube] if you're not progressing, you're REGRESSING #mentalhealth #recovery
+- [instagram] your mental health is never standing still, so it's either going up or down
+- [tiktok] not progressing? you're REGRESSING
+
+### moment 2 · 16:25
+why: the seligman quote is a surprising reframe that tells anyone in recovery that feeling numb or empty after symptoms fade is normal and fixable, and sadie ties it to her own experience.
+- [youtube] getting better isn't the same as feeling GOOD #recovery #positivepsychology
+- [instagram] removing what hurts is not the same as building a life worth living
+- [tiktok] recovery has TWO jobs
+
+### moment 3 · 19:37
+why: the oxygen mask analogy is a concrete image with a clear takeaway, and it speaks to any girl who has been the friend everyone vents to.
+- [youtube] why you can't be your friend's therapist #teenmentalhealth #boundaries
+- [instagram] the oxygen mask principle: why you can't carry a friend's mental health
+- [tiktok] you can't be their THERAPIST
+
+### moment 4 · 26:17
+why: a reframe of exposure therapy as an everyday skill, with a rule of thumb: the urge to avoid is the signal to do the thing. it works as a tip without any clinical context.
+- [youtube] avoidance makes anxiety BIGGER #exposuretherapy #anxiety
+- [instagram] the more you avoid it, the smaller your world gets. how to use exposure daily
+- [tiktok] avoiding it? that's your SIGNAL
+
+### moment 5 · 27:50
+why: a funny, relatable personal story (the cvs care pass) that makes a hard tip feel doable: practice saying no in low-stakes spots first, then build up.
+- [youtube] how i got scammed by CVS (and learned to say no) #boundaries #peoplepleasing
+- [instagram] i paid for cvs care pass for six months because i couldn't say no
+- [tiktok] start saying no at CVS
+
+### moment 6 · 33:20
+why: it's sadie's firsthand, evidence-based take on the troubled teen industry, our strongest-performing topic, and the claim stands on its own without the episode.
+- [youtube] why ethical troubled teen programs don't EXIST #troubledteenindustry #teenmentalhealth
+- [instagram] reputable long-term isolation programs for teens don't exist, and here's why
+- [tiktok] why ethical TTI programs don't exist
+
+## ep 177 · 177. Your Guide to Relationships: How to Build Healthier Connections & Increase Self-Love feat. Jeff Kallil
+
+### moment 1 · 16:38
+why: a clean myth-bust with a vivid image. confidence comes from experience, not mirror affirmations, and a strong belief system means failing doesn't flatten you.
+- [youtube] confidence doesn't come from AFFIRMATIONS in the mirror #selfworth #confidence
+- [instagram] confidence doesn't come from affirmations in the mirror. it comes from failing and getting back up.
+- [tiktok] this is how confidence is ACTUALLY built
+
+### moment 2 · 15:07
+why: a concrete tip with a surprising reframe. ask "when did it start?" instead of "why do i believe this?" to stop the why-spiral.
+- [youtube] this is why asking WHY keeps you stuck #selfbelief #mindset
+- [instagram] stop asking why you believe it. ask when it started.
+- [tiktok] stop asking why. ask WHEN instead
+
+### moment 3 · 24:36
+why: a clear claim that reframes relationships as a mirror. if you don't believe you deserve love, you feel safe with people who confirm that.
+- [youtube] this is why you keep choosing the same kind of PERSON #relationships #selfworth
+- [instagram] if you don't believe you deserve love, you'll feel safest with people who don't give it.
+- [tiktok] your relationships mirror how you see YOURSELF
+
+### moment 4 · 25:59
+why: explains a painful pattern without blame. we look for what's familiar, so we end up repeating how a parent treated us.
+- [youtube] this is why we find the same TOXIC people #healing #relationships
+- [instagram] we don't pick people who hurt us on purpose. we pick what feels familiar.
+- [tiktok] why you attract the same people AGAIN
+
+### moment 5 · 33:09
+why: a protective, validating line for anyone in an abusive relationship, followed by a simple exercise (what can and can't you control?).
+- [youtube] this is what to remember about ABUSE in a relationship #toxicrelationships #healing
+- [instagram] in an abusive relationship, the abuse is not your fault. ever.
+- [tiktok] the abuse was never your FAULT
+
+### moment 6 · 36:42
+why: a surprising reframe on guilt after leaving. the other person's reaction isn't your responsibility, and a breakup can raise your self-worth.
+- [youtube] this is why a BREAKUP can build your self-worth #breakups #selfworth
+- [instagram] a breakup can actually raise your self-worth if you do it for the right reasons.
+- [tiktok] a breakup can boost your SELF-WORTH
+
+## ep 176 · 176. The Power of DBT: How to Change Your Behaviors & Cultivate Hope feat. Dr. Maddy Ellberger
+
+### moment 1 · 15:38
+why: names the exact feeling that brings people to dbt (nobody understands, nothing works), so it lands for anyone who has felt written off by therapy.
+- [youtube] this is what it feels like before DBT works #dbt #mentalhealth
+- [instagram] the feeling that brings almost everyone to DBT, and why it doesn't have to stay
+- [tiktok] this is the DBT feeling
+
+### moment 2 · 32:19
+why: a clear reframe of invalidation: the people who love us most often invalidate us because they can't sit with our discomfort, which puts words to something many listeners have lived.
+- [youtube] why the people who love us INVALIDATE us #dbt #validation
+- [instagram] the people who care most can be the most invalidating, and here's why
+- [tiktok] why loved ones invalidate us
+
+### moment 3 · 9:40
+why: a simple, surprising claim that behavior is easier to change than thoughts, and emotions and thoughts follow.
+- [youtube] change your BEHAVIOR and your emotions follow #dbt #therapy
+- [instagram] you can't think your way out of it, but you can act your way out
+- [tiktok] stop fighting your thoughts
+
+### moment 4 · 21:10
+why: concrete and relatable, since a lot of what feels like anxiety is actually shame, and naming it correctly changes what you do next.
+- [youtube] what feels like anxiety is actually SHAME #dbt #emotions
+- [instagram] what if it isn't anxiety? why naming the right emotion matters
+- [tiktok] it might not be anxiety
+
+### moment 5 · 39:46
+why: a practical reframe for hopeless moments: a thought is a behavior, so you can choose not to engage with it, and she shows how with the word "overwhelmed."
+- [youtube] a THOUGHT is a behavior you can change #dbt #mindset
+- [instagram] a thought is a behavior, which means you can do something different with it
+- [tiktok] your thoughts are behaviors
+
+### moment 6 · 36:44
+why: a warm, usable tip for when therapy feels stuck: give your therapist feedback, because it means the two of you can problem solve instead of you quitting.
+- [youtube] what if therapy isn't working for you? #therapy #dbt
+- [instagram] what if part of you thinks therapy will never work? start with this
+- [tiktok] when therapy feels like it's failing
+
+## ep 175 · 175. SELF-INVALIDATION: Why We Judge Ourselves & How To Accept Your Emotions
+
+### moment 1 · 2:58
+why: sadie names the exact inner monologue ("i don't have a reason to be depressed") and then explains secondary emotions. it's a personal line that sets up a clear claim.
+- [youtube] this is what self-invalidation sounds like #dbt #selfvalidation
+- [instagram] "i don't have a reason to be depressed" was my lowest-point mindset
+- [tiktok] this is SELF-INVALIDATION
+
+### moment 2 · 3:24
+why: a quick, concrete example of the sad → angry at yourself → "bad person" chain. it works as a standalone claim: judging an emotion creates more pain than the emotion itself.
+- [youtube] this is how one feeling becomes three #emotions #dbt
+- [instagram] you're sad, then angry at yourself for being sad, then you feel like a bad person
+- [tiktok] sad, then ashamed of being SAD
+
+### moment 3 · 15:57
+why: she explains why we self-invalidate: if you tell yourself you shouldn't feel it, maybe you won't. then the payoff: it doesn't work, it bubbles up. a surprising reframe of an avoidance habit.
+- [youtube] this is why telling yourself to stop feeling doesn't work #emotions #dbt
+- [instagram] if you tell yourself you shouldn't feel it, maybe you won't. that's not how it works.
+- [tiktok] why you can't talk yourself out of FEELINGS
+
+### moment 4 · 34:31
+why: the most portable tip in the episode. one phrase, with examples, and sadie promises it works.
+- [youtube] this is the 3-word phrase for self-validation #dbt #selfvalidation
+- [instagram] add "it makes sense that" in front of the thought and watch what changes
+- [tiktok] say "it makes SENSE" first
+
+### moment 5 · 28:30
+why: the double standard everyone recognizes. she asks you to hear your own self-talk as if a friend said it, which makes self-compassion feel doable.
+- [youtube] this is the double standard we have with ourselves #selfcompassion #dbt
+- [instagram] you'd never tell a friend "it's ridiculous that you feel this way." so why say it to you?
+- [tiktok] you'd never say that to a FRIEND
+
+### moment 6 · 37:48
+why: it clears up a common confusion. validating someone's feelings (or your own) is not the same as agreeing with or excusing actions, which helps in arguments and conflicts.
+- [youtube] this is what validation is NOT #relationships #dbt
+- [instagram] validating a feeling doesn't mean you agree with what someone did
+- [tiktok] validating is not AGREEING
+
+## ep 173 · 173. Food Myths, Fear Foods, & Eating Disorder Treatment feat. Registered Dietitian Amy Dahl, MS, RD
+
+### moment 1 · 12:22
+why: amy turns carbs from a fear food into a plain fact (the brain runs on them), and the "light bulb" line works as a one-claim clip for anyone who's afraid of bread.
+- [youtube] this is why you need bread #foodmyths #edrecovery
+- [instagram] your brain runs on carbs, and nobody told you that in health class
+- [tiktok] bread is literally BRAIN food
+
+### moment 2 · 16:39
+why: the road trip analogy makes a calorie feel like fuel instead of a threat, and it's short and visual enough to land with no context.
+- [youtube] this is what a calorie actually is #foodmyths #bodyimage
+- [instagram] a calorie is just fuel, like gas for a road trip. here's amy's version.
+- [tiktok] a calorie is just GAS for your car
+
+### moment 3 · 22:24
+why: it's a concrete list of red flags (good/bad food talk, no eating after a certain time, eating only in your room), including the great "what does your body stop doing after eight?" line.
+- [youtube] the red flags of disordered eating #edrecovery #foodrules
+- [instagram] "what does your body stop doing after 8 o'clock?" signs food has become a problem
+- [tiktok] red flags nobody TALKS about
+
+### moment 4 · 18:08
+why: it reframes binge eating as part of a restrict-then-overeat cycle, which is surprising and takes the shame out of it.
+- [youtube] why binge eating starts with restriction #bingeeating #edrecovery
+- [instagram] binge eating is often a restrictive process. this changes how you see it.
+- [tiktok] bingeing starts with RESTRICTING
+
+### moment 5 · 24:54
+why: it gives teens a real script for supporting a friend without playing therapist, and it's the most practical clip for the 15–25 audience.
+- [youtube] how to help a friend who's struggling with food #edsupport #friendship
+- [instagram] you don't need the perfect words to support a friend with an eating disorder
+- [tiktok] how to help a friend, no script NEEDED
+
+### moment 6 · 10:50
+why: it busts the myth that you can tell by looking who is sick. "you don't look anorexic" is a strong, specific claim backed by research.
+- [youtube] the eating disorder myth about bodies #edawareness #bodyimage
+- [instagram] people in larger bodies with anorexia are just as sick. you can't tell by looking.
+- [tiktok] you can't SEE an eating disorder
+
+## ep 171 · 171. Relationship Advice That Will Change Your Life: Improve Your Interpersonal Effectiveness This Holiday Season
+
+### moment 1 · 3:22
+why: a surprising, concrete finding (relationships were the one necessary ingredient for high happiness) that stands alone and challenges "i'm fine on my own."
+- [youtube] the one thing very happy people all have #relationships #happiness
+- [instagram] this is what the happiest people all have in common
+- [tiktok] this is what happy people share
+
+### moment 2 · 6:31
+why: a clean, practical reframe of any conversation into three possible goals, which makes interpersonal stress feel manageable.
+- [youtube] the 3 goals behind every hard conversation #dbt #relationships
+- [instagram] this is why hard conversations feel so confusing
+- [tiktok] this is why talks go wrong
+
+### moment 3 · 12:34
+why: answers the most common teen question (how to ask parents for therapy) with a real script that viewers can copy and use.
+- [youtube] how to ask your parents for therapy #dbt #teenmentalhealth
+- [instagram] how to ask your parents for therapy (without it turning into a fight)
+- [tiktok] how to ask for THERAPY
+
+### moment 4 · 15:45
+why: a counterintuitive tip (frame the ask around what your parent gains) with a clear do and don't example.
+- [youtube] this is why parents say no to therapy #dbt #parenting
+- [instagram] this is why your ask keeps getting a no: it has to be rewarding to THEM
+- [tiktok] this is why they said no
+
+### moment 5 · 21:12
+why: names a habit nearly every people pleaser recognizes (apologizing for having a need or opinion) and gives permission to stop.
+- [youtube] this is what over-apologizing looks like #peoplepleasing #dbt
+- [instagram] you're allowed to have an opinion. stop saying "sorry to ask, but..."
+- [tiktok] stop apologizing for your NEEDS
+
+### moment 6 · 27:13
+why: a reframe that lowers conflict immediately, and it includes a personal line about sadie and her parents in treatment.
+- [youtube] what my parents and i learned in treatment #dbt #family
+- [instagram] what if part of them is trying, even when it doesn't feel like it?
+- [tiktok] what if they're TRYING?
+
+## ep 170 · 170. What to Expect When Texting Crisis Text Line & What Teens Today Are Struggling With feat. Crisis Counselor Ana Tueme
+
+### moment 1 · 4:41
+why: ana's personal line about saving crisis text line as a contact ("text me if you're feeling suicidal") is a concrete, lived tip that makes reaching out feel doable.
+- [youtube] this is why she saved crisis text line as a CONTACT #crisistextline #mentalhealth
+- [instagram] she saved crisis text line in her phone as "text me if you're feeling suicidal"
+- [tiktok] the contact name that kept her SAFE
+
+### moment 2 · 7:15
+why: it answers the biggest fear about texting in (what do i even say?) by showing the first message is just "hi", which lowers the barrier right away.
+- [youtube] this is what texting crisis text line looks like #crisistextline #teenmentalhealth
+- [instagram] you don't have to know what to say. you can just text "hi."
+- [tiktok] you can just text HI
+
+### moment 3 · 9:55
+why: a clear, practical listening tip that works for friends and family: stop asking question after question and say one validating thing instead.
+- [youtube] what a crisis counselor does when you're STRUGGLING #validation #listening
+- [instagram] the best skill she learned: stop asking question after question
+- [tiktok] stop asking so many questions
+
+### moment 4 · 13:17
+why: a relatable personal confession about "waiting to talk" instead of listening, followed by a simple definition of active listening.
+- [youtube] this is why you're not really LISTENING #activelistening #friendship
+- [instagram] before training, she was listening but really just waiting to talk
+- [tiktok] are you listening or just waiting?
+
+### moment 5 · 19:43
+why: a surprising reframe that you can't will emotions away, but you can change behavior and thoughts and the feeling follows (the opposite-action idea from dbt).
+- [youtube] you can't think your way out of a feeling #dbt #depression
+- [instagram] you can't will an emotion away, but you can change what you DO
+- [tiktok] you can't force a feeling away
+
+### moment 6 · 24:03
+why: a concrete how-to for crisis planning, since in the moment nobody remembers their coping skills. it lists exactly what to write down.
+- [youtube] the crisis plan nobody talks about #crisisplan #copingskills
+- [instagram] when you're in crisis, you won't remember your coping skills. plan ahead.
+- [tiktok] make a crisis plan BEFORE you need it
+
+## ep 168 · 168. DBT Crash Course: Key DBT Skills & Dialectics That CHANGED My Life!
+
+### moment 1 · 21:10
+why: the five-options reframe is a clear, concrete idea that works alone, and "you always have the option to make things worse" lands as honest, not preachy.
+- [youtube] you always have 5 options (even when it feels like none) #dbt #mentalhealth
+- [instagram] you don't have to get better. that's exactly why choosing to is powerful.
+- [tiktok] the 5 choices in every situation
+
+### moment 2 · 2:48
+why: it reframes "i'm lazy" as exhaustion, which is personal, specific, and instantly recognizable to anyone who has said it about herself.
+- [youtube] "i'm lazy" was really DEPRESSION #dbt #depression
+- [instagram] i told everyone i was lazy. i was actually exhausted just existing.
+- [tiktok] you're not lazy, you're exhausted
+
+### moment 3 · 25:38
+why: "you don't have to like it" fixes the biggest misunderstanding about radical acceptance in one clear line.
+- [youtube] radical acceptance doesn't mean you APPROVE #dbt #radicalacceptance
+- [instagram] radical acceptance doesn't mean you like it, agree with it, or condone it.
+- [tiktok] acceptance is not approval
+
+### moment 4 · 27:19
+why: a concrete example of internal vs. external attribution (the "i'm late" vs. "i'm a late person" swap), plus the "i have diabetes" comparison for mental health.
+- [youtube] "i am anxious" vs "i have anxiety" #dbt #mentalhealth
+- [instagram] you wouldn't say "i am diabetes." so why "i am anxiety"?
+- [tiktok] stop making it your personality
+
+### moment 5 · 15:49
+why: the seesaw idea is simple, and the list of paired truths (independent and wanting help, alone and lonely) is highly shareable.
+- [youtube] dialectics 101: two things can be TRUE #dbt #dialectics
+- [instagram] you can be with people and still feel lonely. both are true.
+- [tiktok] dialectics, explained in 20 seconds
+
+### moment 6 · 14:29
+why: "you can't fail therapy" is a bold claim that is validating for anyone who feels like she's the problem, and it ends with a clear takeaway.
+- [youtube] you cannot FAIL therapy #dbt #therapy
+- [instagram] if therapy isn't working, it's not a reflection of you. dbt says the therapy failed.
+- [tiktok] you can't fail therapy
+
+## ep 167 · 167. Teen Mental Health: Stigma, Social Media, & Starting Therapy feat. Dr. Justin Puder
+
+### moment 1 · 27:44
+why: a concrete, counterintuitive tip for parents, backed by "the relationship is the number one predictor of outcomes." it's easy to act on and needs no context.
+- [youtube] let your teen pick the THERAPIST #teenmentalhealth #therapy
+- [instagram] parents: let your teen pick the therapist. here's why it matters.
+- [tiktok] let your teen pick the THERAPIST
+
+### moment 2 · 30:57
+why: a surprising reframe that takes the pressure off picking the "right" type of therapy. the claim is clear and the research backs it.
+- [youtube] all therapy types work the SAME? #therapy #teenmentalhealth
+- [instagram] the "best" type of therapy might matter less than you think.
+- [tiktok] CBT vs EMDR? the research says...
+
+### moment 3 · 22:06
+why: it gives a first-time therapy-goer one question to ask themselves, and it separates what you want from what your parents want.
+- [youtube] before you start therapy, ask this #startingtherapy #teenmentalhealth
+- [instagram] before your first therapy session, ask yourself one thing.
+- [tiktok] what do YOU want from therapy?
+
+### moment 4 · 25:51
+why: it makes therapy feel less intimidating by explaining that experimenting is the process, with a relatable sleep and caffeine example.
+- [youtube] this is what therapy ACTUALLY looks like #therapy #teenmentalhealth
+- [instagram] therapy isn't magic. it's experiments, and that's how it works.
+- [tiktok] therapy is an EXPERIMENT
+
+### moment 5 · 33:57
+why: a simple daily practice anyone can do, with a personal admission that even a psychologist is surprised by what shows up when he journals.
+- [youtube] a 2-minute habit for your MIND #teenmentalhealth #journaling
+- [instagram] a psychologist says "i'm fine" until he journals. try this.
+- [tiktok] the notes app habit that helps
+
+### moment 6 · 18:24
+why: a reframe on social media in a field that usually talks about its harms. it names the specific relief of seeing "i have the same intrusive thoughts" in the comments.
+- [youtube] the good side of SOCIAL media #teenmentalhealth #socialmedia
+- [instagram] "i thought i was the only one." where social media helps.
+- [tiktok] social media can make you feel SEEN
+
+## ep 166 · 166. Amanda E. White on Substance Use in College, Taylor Swift Therapy, & Seeking Help
+
+### moment 1 · 8:45
+why: a clear reframe that "the best time of your life" pressure backfires, and it speaks to anyone about to start college.
+- [youtube] college isn't the BEST time of your life #college #mentalhealth
+- [instagram] the pressure for college to be the best time of your life can backfire
+- [tiktok] why college pressure backfires
+
+### moment 2 · 10:49
+why: a concrete reframe of "i'll be happy when…" thinking that applies to any big transition.
+- [youtube] you bring yourself WHEREVER you go #college #mentalhealth
+- [instagram] if you struggled in high school, a new place won't fix it on its own
+- [tiktok] you bring yourself everywhere
+
+### moment 3 · 14:49
+why: a surprising, science-backed explanation of why alcohol makes anxiety worse, which most people get wrong.
+- [youtube] what alcohol does to your ANXIETY #college #alcohol
+- [instagram] alcohol doesn't make you happy, it expands the feeling you already have
+- [tiktok] alcohol and anxiety: the truth
+
+### moment 4 · 16:55
+why: a personal, specific warning sign (drinking alone, drinking to cope) for noticing a shift when everyone around you drinks too.
+- [youtube] a warning sign that's easy to MISS #college #sobriety
+- [instagram] when everyone drinks, how do you know it's turned into something else?
+- [tiktok] the sign i almost missed
+
+### moment 5 · 21:47
+why: a fun, shareable entry point into taylor swift therapy that will pull in swifties who haven't heard the show.
+- [youtube] what your favorite SWIFT song says about you #taylorswift #therapy
+- [instagram] the song you can't stop replaying might be telling you something
+- [tiktok] your taylor song says this
+
+### moment 6 · 31:37
+why: a plain, practical line that gives permission to leave a therapist who isn't the right fit.
+- [youtube] your therapist works FOR you #therapy #mentalhealth
+- [instagram] you're allowed to break up with a therapist who isn't the right fit
+- [tiktok] you can switch therapists
+
+## ep 165 · 165. Changing Your Behaviors 101: How to Decrease Problem Behaviors & Increase Wanted Behaviors
+
+### moment 1 · 1:31
+why: the car metaphor is a clear, visual reframe. you can steer thoughts and behaviors, and emotions follow. it works with no context.
+- [youtube] your mental health is a CAR #dbt #mentalhealth
+- [instagram] you can't force your emotions to change, but you can steer the front two wheels
+- [tiktok] this is how emotions actually change
+
+### moment 2 · 7:05
+why: four plain reasons to accept reality, ending on the "pain is inevitable, suffering is optional" line. it's a clear claim and easy to share.
+- [youtube] why radical ACCEPTANCE works #dbt #radicalacceptance
+- [instagram] rejecting reality doesn't change reality. it just turns pain into suffering.
+- [tiktok] pain is inevitable. suffering is optional.
+
+### moment 3 · 5:46
+why: the five ways to respond to a serious problem are a surprising list, and "stay miserable" being on it is both funny and true. it's a personal reframe about having a choice.
+- [youtube] 5 ways to respond to a PROBLEM #dbt #copingskills
+- [instagram] there are five ways to respond to a problem, and "stay miserable" is one of them
+- [tiktok] this is what DBT says about choices
+
+### moment 4 · 13:35
+why: it explains chain analysis as a concrete tool (vulnerability factors, trigger, behavior, consequences) and includes the "be annoyingly specific" tip. sadie's six months of whiteboard sessions add a personal note.
+- [youtube] chain analysis 101 #dbt #selfimprovement
+- [instagram] i did chain analyses in therapy for six months, and this is how they work
+- [tiktok] chain analysis 101
+
+### moment 5 · 22:40
+why: the dog at the door example makes extinction easy to picture, including the burst of behavior before it fades. it's a surprising and relatable way to understand how habits stop.
+- [youtube] why your dog teaches you about HABITS #behaviorchange #dbt
+- [instagram] if you stop rewarding a behavior, it gets worse before it gets better
+- [tiktok] this is why habits get worse first
+
+### moment 6 · 24:11
+why: sadie's tennis shoes trick is a funny, concrete tip for beating procrastination. it's specific enough to try tonight.
+- [youtube] the tennis shoe trick that stopped my PROCRASTINATION #dbt #habits
+- [instagram] i put my tennis shoes on so i couldn't lie in bed, and it worked
+- [tiktok] my shoes-on-bed rule
+
+## ep 164 · 164. Teenager Therapy's Gael Aitor on Gen Z Mental Health Resources, Starting a Podcast, and How to Feel Less Alone
+
+### moment 1 · 13:28
+why: names the top teen struggles in plain terms (loneliness, family, mental health) and backs it with poll data, so it lands without the episode.
+- [youtube] This is what teens are LONELY about #teenmentalhealth #loneliness
+- [instagram] the polls were clear: most teens said they felt lonely, and it wasn't close
+- [tiktok] this is what teens struggle with most
+
+### moment 2 · 15:43
+why: a surprising reframe that the cliches (routine, self-love, don't lose hope) were the answer all along, from someone who once rolled his eyes at them.
+- [youtube] The cliches are TRUE #mentalhealth #selflove
+- [instagram] i thought the cliches sounded stupid, until i got through it
+- [tiktok] the cliches were the answer
+
+### moment 3 · 19:45
+why: a gentle, relatable reframe for anyone in their early 20s who felt they had to rush through their teens.
+- [youtube] You have more TIME than you think #20s #mentalhealth
+- [instagram] your teens felt like a sprint, but you don't have to keep rushing
+- [tiktok] this is what slowing down feels like
+
+### moment 4 · 24:52
+why: honest, concrete picture of showing up for a mission even when you don't want to, with the reason that kept them going.
+- [youtube] What to do when you don't want to SHOW UP #motivation #consistency
+- [instagram] we weren't on good terms, but we still showed up for the audience
+- [tiktok] a strong why keeps you going
+
+### moment 5 · 22:18
+why: a concrete tip for anyone starting a podcast, and the show's audience is full of teens who want to.
+- [youtube] Starting a PODCAST 101 #podcasting #teenpodcast
+- [instagram] starting a podcast from zero? find a co-host first, and here's why
+- [tiktok] podcast 101 from teenager therapy
+
+### moment 6 · 6:38
+why: explains why vulnerable, unpolished conversations hit harder than teen comedy, which tells viewers why the show mattered.
+- [youtube] What nobody tells you about teen CONTENT #teenmentalhealth #podcast
+- [instagram] teen content is usually comedy, then five kids in a bedroom got real
+- [tiktok] why this teen podcast blew up
+
+## ep 163 · 163. Treating Eating Disorders: How to Get Help & Get Better feat. David Alperovitz (Program Director of Klarman Eating Disorders Center at McLean Hospital)
+
+### moment 1 · 9:27
+why: david names why "just eat it" fails, and the reframe that symptoms began as protection is validating for anyone who has felt judged or misunderstood.
+- [youtube] eating disorders aren't a CHOICE\n#eatingdisorders #bodyimage
+- [instagram] these behaviors started as a way to protect you, and that matters
+- [tiktok] why "just eat it" never works
+
+### moment 2 · 23:32
+why: a clear claim that eating disorders are fear-driven and function like anxiety, with the "we can't avoid food" point as a surprising reframe.
+- [youtube] this is what an eating disorder really IS\n#eatingdisorders #anxiety
+- [instagram] eating disorders are full of anxiety, and food is the one thing you can't avoid
+- [tiktok] it's not about food, it's FEAR
+
+### moment 3 · 22:38
+why: speaks to parents and friends who want one clear cause; david explains why there isn't one, which relieves guilt.
+- [youtube] it's never ONE conversation\n#eatingdisorders #mentalhealth
+- [instagram] if it were that simple, we'd have fixed it already
+- [tiktok] there is no single root CAUSE
+
+### moment 4 · 25:55
+why: a concrete, relatable explanation of how every meal in treatment works as exposure, and how avoidance feeds the fear.
+- [youtube] this is what recovery at the table looks like\n#recovery #eatingdisorders
+- [instagram] sitting down to one snack can be an exposure, and here's why
+- [tiktok] every meal is an EXPOSURE
+
+### moment 5 · 27:49
+why: direct, warm advice for anyone who hasn't asked for help yet, with a strength reframe that sticks.
+- [youtube] asking for help is STRENGTH\n#askforhelp #eatingdisorderrecovery
+- [instagram] recovery rarely happens alone, and you don't need an expert to start
+- [tiktok] the first step is telling someone
+
+### moment 6 · 31:12
+why: a surprising reframe that you don't have to be "better" first; meaning and treatment happen together, and it applies beyond eating disorders.
+- [youtube] you don't have to be better to start LIVING\n#recovery #lifeworthliving
+- [instagram] why am I doing this? because I want to get back to the violin
+- [tiktok] recovery needs a reason, a LIFE

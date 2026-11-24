@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-11-20T14:41:39.644Z",
+ "generatedAt": "2026-11-24T16:47:13.519Z",
  "rule": "youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads",
  "playlist": "PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu",
- "snapshots": 27,
+ "snapshots": 31,
  "first": "2026-10-25",
- "latest": "2026-11-20",
+ "latest": "2026-11-24",
  "episodes": [
+  {
+   "number": 267,
+   "date": "2026-11-21",
+   "youtube": {
+    "in_playlist": false,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "views_7d": 0,
+    "views_30d": 0
+   },
+   "clips": {
+    "note": "shorts: not plays or downloads",
+    "count": 1,
+    "views": 77
+   },
+   "minis": {
+    "count": 0,
+    "views": 0
+   }
+  },
   {
    "number": 266,
    "date": "2026-11-07",
@@ -14,12 +35,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
-    "count": 6,
-    "views": 775
+    "count": 9,
+    "views": 1140
    },
    "minis": {
     "count": 0,
@@ -34,7 +56,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -54,7 +77,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -74,7 +98,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -111,7 +136,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -148,12 +174,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 8414
+    "views": 8417
    },
    "minis": {
     "count": 0,
@@ -185,7 +212,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -222,7 +250,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -259,7 +288,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -296,12 +326,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 7274
+    "views": 7277
    },
    "minis": {
     "count": 0,
@@ -333,7 +364,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -370,7 +402,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -407,7 +440,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -444,7 +478,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -481,7 +516,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -518,7 +554,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -555,7 +592,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -592,7 +630,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -629,7 +668,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -666,7 +706,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -703,7 +744,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -740,7 +782,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -777,7 +820,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -814,7 +858,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -851,12 +896,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 16,
-    "views": 16297
+    "views": 16299
    },
    "minis": {
     "count": 0,
@@ -888,7 +934,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -925,7 +972,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -962,12 +1010,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 14,
-    "views": 12975
+    "views": 12983
    },
    "minis": {
     "count": 0,
@@ -999,7 +1048,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1036,7 +1086,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1073,7 +1124,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1110,7 +1162,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1147,7 +1200,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1184,7 +1238,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1221,7 +1276,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1258,7 +1314,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1295,7 +1352,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1332,7 +1390,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1369,7 +1428,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1406,7 +1466,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1443,7 +1504,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1480,7 +1542,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1517,7 +1580,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1554,7 +1618,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1591,7 +1656,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1628,7 +1694,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1665,7 +1732,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1702,7 +1770,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1739,7 +1808,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1776,7 +1846,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1813,7 +1884,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1850,7 +1922,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1887,7 +1960,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1924,7 +1998,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1961,7 +2036,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -1998,7 +2074,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2035,7 +2112,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2072,7 +2150,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2109,7 +2188,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2146,7 +2226,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2183,7 +2264,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2220,7 +2302,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2257,7 +2340,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2294,7 +2378,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2331,7 +2416,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2368,7 +2454,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2405,7 +2492,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2442,7 +2530,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2479,7 +2568,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2516,7 +2606,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2553,7 +2644,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2590,7 +2682,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2627,7 +2720,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2664,7 +2758,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2701,7 +2796,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2738,7 +2834,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2775,7 +2872,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2812,7 +2910,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2849,7 +2948,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2886,7 +2986,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2923,7 +3024,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2960,7 +3062,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -2997,7 +3100,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3034,7 +3138,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3071,7 +3176,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3108,7 +3214,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3145,7 +3252,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3182,7 +3290,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3219,7 +3328,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3256,7 +3366,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3293,7 +3404,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3330,12 +3442,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 406
+    "views": 408
    },
    "minis": {
     "count": 0,
@@ -3367,7 +3480,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3404,7 +3518,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3441,12 +3556,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 8047
+    "views": 8048
    },
    "minis": {
     "count": 1,
@@ -3478,7 +3594,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3515,7 +3632,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3552,7 +3670,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3589,7 +3708,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3626,7 +3746,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3663,12 +3784,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 2,
-    "views": 1020
+    "views": 1022
    },
    "minis": {
     "count": 1,
@@ -3700,7 +3822,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3737,7 +3860,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3774,7 +3898,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3811,7 +3936,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3848,7 +3974,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3885,7 +4012,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3922,7 +4050,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -3959,12 +4088,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 961
+    "views": 967
    },
    "minis": {
     "count": 0,
@@ -3996,12 +4126,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 380
+    "views": 381
    },
    "minis": {
     "count": 0,
@@ -4033,7 +4164,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4070,7 +4202,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4107,12 +4240,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2842
+    "views": 2847
    },
    "minis": {
     "count": 0,
@@ -4144,7 +4278,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4181,7 +4316,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4218,7 +4354,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4255,7 +4392,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4292,7 +4430,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4329,7 +4468,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4366,12 +4506,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2332
+    "views": 2333
    },
    "minis": {
     "count": 0,
@@ -4403,7 +4544,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4412,7 +4554,7 @@
    },
    "minis": {
     "count": 1,
-    "views": 163
+    "views": 164
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -4440,7 +4582,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4477,12 +4620,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 4008
+    "views": 4012
    },
    "minis": {
     "count": 0,
@@ -4514,12 +4658,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 786
+    "views": 788
    },
    "minis": {
     "count": 1,
@@ -4551,12 +4696,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 6950
+    "views": 6966
    },
    "minis": {
     "count": 1,
@@ -4588,12 +4734,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2650
+    "views": 2652
    },
    "minis": {
     "count": 0,
@@ -4625,7 +4772,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4662,7 +4810,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4699,7 +4848,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4736,12 +4886,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 7176
+    "views": 7177
    },
    "minis": {
     "count": 0,
@@ -4773,7 +4924,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4810,7 +4962,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4847,12 +5000,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 13876
+    "views": 13882
    },
    "minis": {
     "count": 0,
@@ -4884,12 +5038,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 1693
+    "views": 1696
    },
    "minis": {
     "count": 0,
@@ -4921,7 +5076,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4958,7 +5114,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -4995,7 +5152,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5032,12 +5190,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 702
+    "views": 703
    },
    "minis": {
     "count": 0,
@@ -5069,7 +5228,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5106,7 +5266,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5143,12 +5304,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 3352
+    "views": 3353
    },
    "minis": {
     "count": 0,
@@ -5180,7 +5342,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5217,7 +5380,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5254,7 +5418,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5291,7 +5456,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5328,7 +5494,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5365,7 +5532,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5402,7 +5570,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5439,7 +5608,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5476,7 +5646,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5513,7 +5684,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5550,12 +5722,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 783
+    "views": 786
    },
    "minis": {
     "count": 0,
@@ -5587,7 +5760,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5624,7 +5798,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5633,7 +5808,7 @@
    },
    "minis": {
     "count": 1,
-    "views": 90
+    "views": 91
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -5661,7 +5836,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5698,7 +5874,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5735,7 +5912,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5772,12 +5950,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 2283
+    "views": 2287
    },
    "minis": {
     "count": 1,
@@ -5809,7 +5988,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5846,12 +6026,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 4406
+    "views": 4410
    },
    "minis": {
     "count": 0,
@@ -5883,7 +6064,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5920,7 +6102,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -5957,12 +6140,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 4904
+    "views": 4902
    },
    "minis": {
     "count": 0,
@@ -5994,7 +6178,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6031,7 +6216,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6067,7 +6253,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6104,7 +6291,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6141,7 +6329,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6178,12 +6367,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 2854
+    "views": 2857
    },
    "minis": {
     "count": 0,
@@ -6215,7 +6405,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6252,16 +6443,17 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 3032
+    "views": 3042
    },
    "minis": {
     "count": 1,
-    "views": 98
+    "views": 99
    },
    "spotify": {
     "note": "Spotify-only plays since publish; overlaps RSS downloads and Flightcast, never summed",
@@ -6289,7 +6481,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6326,7 +6519,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6363,7 +6557,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6400,7 +6595,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6437,7 +6633,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6474,7 +6671,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6511,7 +6709,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6548,7 +6747,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6585,7 +6785,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6622,7 +6823,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6659,12 +6861,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 1716
+    "views": 1733
    },
    "minis": {
     "count": 0,
@@ -6696,7 +6899,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6733,7 +6937,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6770,7 +6975,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6807,7 +7013,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6844,7 +7051,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6881,7 +7089,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6918,7 +7127,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6955,7 +7165,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -6992,7 +7203,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7029,7 +7241,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7066,7 +7279,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7103,7 +7317,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7140,7 +7355,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7177,7 +7393,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7214,7 +7431,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7251,7 +7469,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7288,7 +7507,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7325,7 +7545,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7362,7 +7583,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7399,12 +7621,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 4086
+    "views": 4087
    },
    "minis": {
     "count": 0,
@@ -7436,7 +7659,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7473,7 +7697,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7510,7 +7735,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7547,7 +7773,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7584,7 +7811,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7620,7 +7848,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7656,7 +7885,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7692,12 +7922,13 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 2616
+    "views": 2617
    },
    "minis": {
     "count": 0,
@@ -7728,7 +7959,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7764,7 +7996,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7800,7 +8033,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7836,7 +8070,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7872,7 +8107,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7908,7 +8144,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7944,7 +8181,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -7980,7 +8218,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8016,7 +8255,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8052,7 +8292,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8088,7 +8329,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8124,7 +8366,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8160,7 +8403,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8196,7 +8440,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8225,7 +8470,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8254,7 +8500,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8283,7 +8530,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8312,7 +8560,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8341,7 +8590,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8370,7 +8620,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8399,7 +8650,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8428,7 +8680,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8457,7 +8710,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8486,7 +8740,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8515,7 +8770,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8544,7 +8800,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8573,7 +8830,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8602,7 +8860,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8631,7 +8890,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8660,7 +8920,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8689,7 +8950,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8718,7 +8980,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8747,7 +9010,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8776,7 +9040,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8805,7 +9070,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8834,7 +9100,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8863,7 +9130,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8892,7 +9160,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8921,7 +9190,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8950,7 +9220,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -8979,7 +9250,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9008,7 +9280,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9037,7 +9310,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9066,7 +9340,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9095,7 +9370,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9124,7 +9400,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9153,7 +9430,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9182,7 +9460,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",
@@ -9211,7 +9490,8 @@
     "views": 0,
     "likes": 0,
     "comments": 0,
-    "views_7d": 0
+    "views_7d": 0,
+    "views_30d": 0
    },
    "clips": {
     "note": "shorts: not plays or downloads",

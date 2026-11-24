@@ -1,6 +1,6 @@
 # transcript backfill
 
-259 episodes: 258 full, 1 partial, 0 needs-descript.
+260 episodes: 259 full, 1 partial, 0 needs-descript.
 
 - **needs-descript**: no transcript on the post, or fewer than 2000 words. Re-export from Descript, paste under `## transcript` in the episode file and set `transcript_source: descript`.
 - **partial**: 2000+ words but ends mid-sentence or has no speaker labels. Usable for search and the Claude Project; worth a re-export when convenient.

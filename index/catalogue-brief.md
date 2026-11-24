@@ -1,9 +1,11 @@
 # she persisted — episode catalogue (brief)
 
-259 episodes, newest first: number. title | date | tags | guests | link, then a one-line summary. The full version with chapters and pull quotes is index/catalogue.md. Regenerated nightly.
+260 episodes, newest first: number. title | date | tags | guests | link, then a one-line summary. The full version with chapters and pull quotes is index/catalogue.md. Regenerated nightly.
 
-tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (39), college (36), high school (35), trauma (22), social media (19), body image (17), 20s (16), career (16), troubled teen industry (15), adhd (6)
+tags: self-improvement (76), depression (64), anxiety (63), relationships (58), parents (57), therapy & treatment (54), dbt (46), emotions (40), college (37), high school (36), trauma (22), social media (19), 20s (17), career (17), body image (17), troubled teen industry (15), adhd (7), therapy (1)
 
+267. why you procrastinate (even when you really care) | 2026-11-21 | college, high school, 20s, therapy, emotions, career, adhd | dr. sarah olivo, dr. liz seidler | https://shepersistedpodcast.com/episodes/267
+   sadie talks with dr. sarah olivo and dr. liz seidler, clinical psychologists and hosts of the college is fine, everything is fine podcast, about why we procrastinate even on things we care about. they frame…
 266. i thought college would make me happier (what i wish i knew) | 2026-11-07 | college, 20s, high school | solo | https://shepersistedpodcast.com/episodes/266
    sadie reflects on her first year of college and what she wishes she'd known about the adjustment process. she covers why everyone seems more adjusted than they are, the reality that looking comfortable and feeling…
 265. why does it take a crisis to be taken seriously? | 2026-10-24 | dbt, parents, therapy & treatment | dr. jill rathus | https://shepersistedpodcast.com/episodes/265
