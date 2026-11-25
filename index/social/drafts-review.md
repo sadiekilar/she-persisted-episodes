@@ -3746,3 +3746,117 @@ why: a transparent look at how she balances school, podcast and work: add things
 - [youtube] this is how i balance school and work | #college #sidehustle
 - [instagram] this is how i balance school, a podcast and a job: add things slowly.
 - [tiktok] add things SLOWLY
+
+## ep 157 · 157. Overcoming Loneliness & Isolation as a Teen feat. Dr. Caroline Fenkel
+
+### moment 1 · 0:00
+why: a bold, quotable claim from a clinician, and it names the cause (relationships nobody modeled) without needing any episode context.
+- [youtube] this is the crux of human SUFFERING #loneliness #teenmentalhealth
+- [instagram] isolation is the crux of human suffering, and nobody modeled connection for us
+- [tiktok] isolation is the crux of SUFFERING
+
+### moment 2 · 17:28
+why: it explains the loneliness spiral in plain terms: pulling away from one person turns into pulling away from almost everyone.
+- [youtube] why we withdraw from EVERYONE #loneliness #depression
+- [instagram] when you pull away from one person, you usually pull away from almost everyone
+- [tiktok] why we withdraw from EVERYONE
+
+### moment 3 · 21:47
+why: a concrete list of the exact phrases loneliness sounds like, so it's easy to recognize in yourself or a friend.
+- [youtube] this is what loneliness SOUNDS like #loneliness #mentalhealth
+- [instagram] "i just can't snap out of it" can be a sign of loneliness
+- [tiktok] this is what loneliness sounds LIKE
+
+### moment 4 · 23:44
+why: a surprising reframe of "why can't i just get up". it splits the problem into capacity, motivation and resources instead of blaming willpower.
+- [youtube] why getting out of bed feels IMPOSSIBLE #depression #teenmentalhealth
+- [instagram] capacity, motivation, resources: why getting out of bed is so hard
+- [tiktok] it's not laziness, it's CAPACITY
+
+### moment 5 · 32:09
+why: a warm, funny story with a practical tip. start from what you loved as a kid, and the people follow.
+- [youtube] the kid who loved BUGS #friendship #teenmentalhealth
+- [instagram] a teen who loved bugs found his people. start with what you loved as a kid.
+- [tiktok] start with what you LOVED
+
+### moment 6 · 33:01
+why: a relatable, low-pressure tip. being honest that you wanted to cancel often shows everyone else did too, which eases the anxiety.
+- [youtube] everyone wanted to CANCEL too #socialanxiety #loneliness
+- [instagram] be honest that you wanted to cancel. chances are everyone else did too.
+- [tiktok] everyone wants to CANCEL
+
+## ep 156 · 156. Tracking Your Mental Health: Diary Cards, Bullet Journaling, Apps, & More - SOLO EP
+
+### moment 1 · 7:32
+why: a vivid, personal "i felt better but nothing had changed" story that leads straight into the case for outside markers; it makes sense with no context.
+- [youtube] why feeling better isn't the same as BETTER #dbt #mentalhealth
+- [instagram] i felt like things were improving. my own data said they weren't.
+- [tiktok] feeling better vs. BEING better
+
+### moment 2 · 3:44
+why: a short, clear claim about awareness that anyone can apply to their own emotions, with a gentle admission that she doesn't problem-solve after the moment passes either.
+- [youtube] why you can't change what you don't NOTICE #mentalhealth #selfawareness
+- [instagram] without awareness, we can't change. that's true for emotions too.
+- [tiktok] you can't fix what you don't see
+
+### moment 3 · 8:20
+why: the blood test and blood pressure comparison makes tracking feel normal rather than obsessive, and it works as a stand-alone analogy.
+- [youtube] this is why mental health needs a BASELINE #dbt #therapy
+- [instagram] you'd get a blood test for a physical issue. why not track your mood?
+- [tiktok] mental health needs a BASELINE
+
+### moment 4 · 8:40
+why: a funny, honest take on how unglamorous a real DBT diary card looks. it's relatable, and it ends on the reason she moved away from it.
+- [youtube] this is what a DBT diary card looks like #dbt #diarycard
+- [instagram] guys, let me tell you: diary cards are ugly. looks like an excel sheet.
+- [tiktok] this is a DBT diary CARD
+
+### moment 5 · 12:46
+why: a personal line about living in "i can't change this," and why the belief that things can shift is itself something you can track.
+- [youtube] why belief that you can CHANGE matters in therapy #dbt #hope
+- [instagram] for a really long time, i was a zero on "i can make this better."
+- [tiktok] when i believed nothing could CHANGE
+
+### moment 6 · 18:25
+why: a reframe of why numbers help when you're in distress: seeing a 2 out of 10 on paper stops you from normalizing it. it's validating and specific.
+- [youtube] why writing down a 2 out of 10 is VALIDATING #dbt #mentalhealth
+- [instagram] this isn't the average 7 out of 10 everyone has. my days were a 2.
+- [tiktok] stop NORMALIZING your distress
+
+## ep 155 · 155. Are You a Perfectionist?: The 3 Types of Perfectionism & How You Can Achieve Your Goals WITHOUT It feat. Nicole Baker
+
+### moment 1 · 0:05
+why: a clear reframe that opens the episode: perfectionism is about a level, not a look. it corrects the stereotype and ends on a line people will save.
+- [youtube] this is what perfectionism ACTUALLY is #perfectionism #mentalhealth
+- [instagram] perfectionism isn't about how you look. it's about the 125%.
+- [tiktok] perfectionism isn't a LOOK
+
+### moment 2 · 3:13
+why: it answers the question "why am I so anxious as a perfectionist?" in plain terms. the all-or-nothing and what-if explanation fits anyone who has lain awake over a project.
+- [youtube] why perfectionism feeds ANXIETY #perfectionism #anxiety
+- [instagram] perfectionism lives in the "what if i'm not the best?" question.
+- [tiktok] why perfectionists are so anxious
+
+### moment 3 · 21:41
+why: it flips the belief that procrastinators are lazy. the "busy on comfortable things" line is a surprising reframe that many viewers will recognize in themselves.
+- [youtube] why procrastinators aren't LAZY #procrastination #perfectionism
+- [instagram] procrastinators aren't lazy. they're some of the busiest people around.
+- [tiktok] procrastinators aren't LAZY
+
+### moment 4 · 28:42
+why: a concrete tip with a test you can run on your own to-do list: if you can't name the first step in three seconds, the task is too big. the "one sitting tasks" idea is easy to try the same day.
+- [youtube] this is why your to-do list stalls #procrastination #productivity
+- [instagram] if you can't name step one in 3 seconds, the task is too big.
+- [tiktok] the 3-second to-do list test
+
+### moment 5 · 36:02
+why: it turns the goal-chasing mindset around. asking "what is step one?" instead of "how do I reach 100?" counters burnout, and the claim that focusing on the journey gets you there faster is a surprise.
+- [youtube] why step ONE beats step 100 #burnout #goals
+- [instagram] stop asking how to get to level 100. ask what step one is.
+- [tiktok] stop staring at step 100
+
+### moment 6 · 48:37
+why: a warm, practical close. the daily "what's your percentage?" check-in with a partner (borrowed from Brené Brown) gives viewers permission to show up at 19% and still be enough, and it can be copied with a friend or roommate.
+- [youtube] this is the 19% check-in #selfcompassion #perfectionism
+- [instagram] "what's your percentage today?" a check-in for low-capacity days.
+- [tiktok] you're still enough at 19%

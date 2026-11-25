@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-24T22:56:59.706Z",
+ "generatedAt": "2026-11-25T16:34:46.538Z",
  "rule": "youtube.views counts only videos in the podcast playlist; clips (shorts) are reported separately and are never plays or downloads",
  "playlist": "PLGLC3-iJIHRQBUXr2D4FfHv7tCyn6wqyu",
- "snapshots": 31,
+ "snapshots": 32,
  "first": "2026-10-25",
- "latest": "2026-11-24",
+ "latest": "2026-11-25",
  "episodes": [
   {
    "number": 267,
@@ -19,8 +19,8 @@
    },
    "clips": {
     "note": "shorts: not plays or downloads",
-    "count": 1,
-    "views": 85
+    "count": 2,
+    "views": 141
    },
    "minis": {
     "count": 0,
@@ -41,7 +41,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 1146
+    "views": 1153
    },
    "minis": {
     "count": 0,
@@ -83,7 +83,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 10756
+    "views": 10757
    },
    "minis": {
     "count": 0,
@@ -3790,7 +3790,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 2,
-    "views": 1022
+    "views": 1023
    },
    "minis": {
     "count": 1,
@@ -4094,7 +4094,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 967
+    "views": 970
    },
    "minis": {
     "count": 0,
@@ -4246,7 +4246,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 2848
+    "views": 2850
    },
    "minis": {
     "count": 0,
@@ -4626,7 +4626,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 5,
-    "views": 4014
+    "views": 4019
    },
    "minis": {
     "count": 0,
@@ -4664,7 +4664,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 4,
-    "views": 788
+    "views": 789
    },
    "minis": {
     "count": 1,
@@ -4702,7 +4702,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 8,
-    "views": 6966
+    "views": 6974
    },
    "minis": {
     "count": 1,
@@ -4816,7 +4816,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 12,
-    "views": 6101
+    "views": 6109
    },
    "minis": {
     "count": 0,
@@ -5044,7 +5044,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 7,
-    "views": 1696
+    "views": 1698
    },
    "minis": {
     "count": 0,
@@ -5310,7 +5310,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 10,
-    "views": 3353
+    "views": 3354
    },
    "minis": {
     "count": 0,
@@ -5386,7 +5386,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 9,
-    "views": 2607
+    "views": 2608
    },
    "minis": {
     "count": 0,
@@ -6184,7 +6184,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 2794
+    "views": 2795
    },
    "minis": {
     "count": 0,
@@ -6449,7 +6449,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 3,
-    "views": 3042
+    "views": 3043
    },
    "minis": {
     "count": 1,
@@ -6867,7 +6867,7 @@
    "clips": {
     "note": "shorts: not plays or downloads",
     "count": 6,
-    "views": 1735
+    "views": 1738
    },
    "minis": {
     "count": 0,
