@@ -3860,3 +3860,117 @@ why: a warm, practical close. the daily "what's your percentage?" check-in with 
 - [youtube] this is the 19% check-in #selfcompassion #perfectionism
 - [instagram] "what's your percentage today?" a check-in for low-capacity days.
 - [tiktok] you're still enough at 19%
+
+## ep 153 · 153. EMOTIONAL VULNERABILITY: How Teenagers Can Understand & Regulate their Emotions!
+
+### moment 1 · 3:25
+why: a clean reframe that stands alone. the event isn't what triggers the emotion, the interpretation is, and anyone who has replayed a text can feel it right away.
+- [youtube] this is why two people feel SO differently about one event #dbt #emotions
+- [instagram] the event isn't what upset you. the story you told about it might be.
+- [tiktok] this is your INTERPRETATION
+
+### moment 2 · 4:38
+why: a concrete tip with a real example. it shows how to check the facts when you assume someone is mad at you, and it's useful in any argument.
+- [youtube] this is how to stop assuming they're MAD at you #dbt #checkthefacts
+- [instagram] before you go on the defensive, ask: did they actually say they were upset?
+- [tiktok] this is checking the FACTS
+
+### moment 3 · 5:16
+why: it explains in plain terms why teen emotions feel so intense (prefrontal cortex, social rejection, the 14 and 24 stats). validating and not shaming.
+- [youtube] this is why everything feels SO intense as a teen #teenmentalhealth #brain
+- [instagram] your brain isn't broken. it's still developing, and rejection hits harder right now.
+- [tiktok] this is your TEEN brain
+
+### moment 4 · 12:00
+why: the skin sensitivity analogy turns a heavy idea into something visual. it lands the point that being emotionally sensitive is inborn, not a flaw.
+- [youtube] this is why you feel more than your friends #dbt #emotionalsensitivity
+- [instagram] some people burn easily in the sun. some people feel easily too. neither is wrong.
+- [tiktok] sensitive isn't BAD
+
+### moment 5 · 15:28
+why: it reframes blame. the dysregulation comes from the mix of a sensitive person and an invalidating environment, so it's not your fault, and it's not your family's either. sadie's "comfort blanket" line at 16:33 makes it personal.
+- [youtube] this is the no-blame model of emotions #dbt #invalidation
+- [instagram] it's not you. it's not your family. it's the pattern between you.
+- [tiktok] it's not YOUR fault
+
+### moment 6 · 22:34
+why: a practical, relatable tip (sleep, the inside out comparison, two lattes) that works without any DBT background.
+- [youtube] this is what sleep does to your emotions #sleep #mentalhealth
+- [instagram] if your emotions feel too big today, ask how you slept before anything else.
+- [tiktok] this is why you're SNAPPY
+
+## ep 151 · 151. YOUR COLLEGE APPLICATION GUIDE: How to Write Your Essays, Build Your Resume, & More! feat. Kate Stone
+
+### moment 1 · 0:00
+why: a warm reframe that tells viewers they're more interesting than they think, and it makes sense without any college context.
+- [youtube] this is what we get wrong about ourselves #selfesteem #collegeprep
+- [instagram] there is something about you that is extraordinary. you just need to see it.
+- [tiktok] this is the part you downplay
+
+### moment 2 · 5:16
+why: it speaks to the "i'm not good at anything" feeling and gives one prerequisite, curiosity, that anyone can claim.
+- [youtube] what if you're not "good at anything"? #curiosity #highschool
+- [instagram] you don't need a finished resume at 16. you need curiosity.
+- [tiktok] you don't need a resume at 16
+
+### moment 3 · 6:03
+why: a concrete exercise that listeners can do right away, with the method explained in the clip.
+- [youtube] this is the I love, I know exercise #selfdiscovery #journaling
+- [instagram] try this: write "i love" and "i know" and don't overthink it.
+- [tiktok] this is the I LOVE / I KNOW list
+
+### moment 4 · 11:42
+why: it reframes brainstorming as a mental health tool instead of a chore, and it's quotable.
+- [youtube] this is why learning about yourself feels like HOPE #selflove #identity
+- [instagram] when you brainstorm who you are, you call your future self into the present.
+- [tiktok] this is how you build HOPE
+
+### moment 5 · 22:18
+why: it gives permission to write badly and explains why that's faster, and it works for any writing or creative project.
+- [youtube] this is why your first draft should be BAD #writingtips #perfectionism
+- [instagram] expect a bad first draft. it's the fastest way to a good one.
+- [tiktok] write the bad first draft
+
+### moment 6 · 28:53
+why: it lowers the pressure around rejection with a calm, reassuring reframe, and it's a line a stressed teen might need to hear.
+- [youtube] this is why college won't decide your whole LIFE #collegestress #rejection
+- [instagram] college does not determine the rest of your life. here's why it feels like it does.
+- [tiktok] this is NOT your whole life
+
+## ep 150 · 150. Mental Health in College Q+A: Burnout, Getting Rejected, Stress, & Self-Care
+
+### moment 1 · 3:33
+why: a concrete, reusable tip: schedule self-care before you're stressed so it's already a habit when things get hard.
+- [youtube] this is preventative self-care #college #selfcare
+- [instagram] don't wait until you're overwhelmed to do self-care. build it in first.
+- [tiktok] this is SELF-CARE that works
+
+### moment 2 · 9:36
+why: the marketing-score analogy is a surprising reframe for why a so-so "7.5" life never feels great, and it gives the 80/20 rule a clear job.
+- [youtube] this is why a 7.5 life feels flat #college #mentalhealth
+- [instagram] why "it wasn't bad" days never feel like enough, and what to do about it
+- [tiktok] this is why "fine" feels flat
+
+### moment 3 · 15:44
+why: a personal reframe from sadie: time flying means you're okay, because in treatment a single day felt like a year.
+- [youtube] this is what fast time means #college #healing
+- [instagram] in treatment a week felt like a decade. now time flies, and that's a good sign.
+- [tiktok] time flying is a good SIGN
+
+### moment 4 · 18:51
+why: relatable and specific: she put four classes in one day and stacked the same subject, and her fix is clear and gives permission to course correct.
+- [youtube] my freshman year scheduling MISTAKE #college #burnout
+- [instagram] i put four classes in one day. here's what burnout taught me about my schedule.
+- [tiktok] my freshman schedule MISTAKE
+
+### moment 5 · 28:40
+why: names a simple idea for anyone waiting on a decision: don't suffer twice. it works for rejection, results, or any dreaded outcome.
+- [youtube] this is how to stop suffering TWICE #college #rejection
+- [instagram] ruminating before bad news means you feel it twice. here's how to stop.
+- [tiktok] this is suffering TWICE
+
+### moment 6 · 24:07
+why: a warm, direct answer to rejection: reframing "i didn't get in" as "it wasn't meant to be," with sadie's own high school rejections behind it.
+- [youtube] this is how to handle REJECTION #college #rejection
+- [instagram] if you didn't get in, it's because it wasn't meant to be. here's how i got there.
+- [tiktok] this is how to handle REJECTION
