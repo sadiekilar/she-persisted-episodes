@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T16:06:54.765Z",
+ "generatedAt": "2026-11-27T15:54:36.463Z",
  "note": "lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.",
  "baselines": {
   "youtube:short": {
@@ -22,7 +22,7 @@
     "hook_type": {
      "i wish i knew": {
       "n": 4,
-      "median_lift": 1.92,
+      "median_lift": 1.93,
       "share_above_1": 75
      },
      "numbered list": {
@@ -165,7 +165,7 @@
     "topic": {
      "sadie recommends": {
       "n": 3,
-      "median_lift": 39.19,
+      "median_lift": 39.21,
       "share_above_1": 100
      },
      "adhd": {
@@ -297,8 +297,8 @@
      "id": "yt:CWCjSR8_f20",
      "episode": 228,
      "hook": "228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!",
-     "lift": 61.27,
-     "views": 8639,
+     "lift": 61.33,
+     "views": 8647,
      "published": "2025-08-17",
      "hook_type": "statement"
     },
@@ -306,8 +306,8 @@
      "id": "yt:wHYoKBwG_xU",
      "episode": 261,
      "hook": "261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)",
-     "lift": 39.19,
-     "views": 5526,
+     "lift": 39.21,
+     "views": 5529,
      "published": "2026-08-22",
      "hook_type": "question"
     },
@@ -315,8 +315,8 @@
      "id": "yt:I1sqLxG8BTQ",
      "episode": 220,
      "hook": "220. how to succeed as a psychology major (& what we wish we knew sooner)",
-     "lift": 29.05,
-     "views": 4096,
+     "lift": 29.35,
+     "views": 4138,
      "published": "2025-05-13",
      "hook_type": "statement"
     },
@@ -324,8 +324,8 @@
      "id": "yt:2QpD5ZiqxpM",
      "episode": 96,
      "hook": "96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial",
-     "lift": 25.81,
-     "views": 3639,
+     "lift": 25.83,
+     "views": 3642,
      "published": "2022-04-21",
      "hook_type": "statement"
     },
@@ -333,8 +333,8 @@
      "id": "yt:d9ffkCTrPpE",
      "episode": 198,
      "hook": "198. Chrysalis School Montana: My Troubled Teen Industry Experience",
-     "lift": 24.81,
-     "views": 3498,
+     "lift": 24.88,
+     "views": 3508,
      "published": "2024-08-18",
      "hook_type": "statement"
     },
@@ -342,8 +342,8 @@
      "id": "yt:YnrQOydrUpU",
      "episode": 197,
      "hook": "197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler",
-     "lift": 22.59,
-     "views": 3185,
+     "lift": 22.69,
+     "views": 3199,
      "published": "2024-08-02",
      "hook_type": "statement"
     },
@@ -351,8 +351,8 @@
      "id": "yt:_oLo33Ndc7Q",
      "episode": 254,
      "hook": "254. how to help someone who doesn’t want help (without making it worse)",
-     "lift": 14.57,
-     "views": 2055,
+     "lift": 14.8,
+     "views": 2087,
      "published": "2026-04-04",
      "hook_type": "statement"
     },
@@ -387,8 +387,8 @@
      "id": "yt:cBV3la9fqbE",
      "episode": 60,
      "hook": "60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski",
-     "lift": 6.52,
-     "views": 919,
+     "lift": 6.57,
+     "views": 926,
      "published": "2021-04-10",
      "hook_type": "statement"
     },
@@ -1319,8 +1319,8 @@
      "id": "yt:gPKhzBlYj-o",
      "episode": 167,
      "hook": "MINI: how to find a therapist + start therapy",
-     "lift": 0.32,
-     "views": 12,
+     "lift": 0.39,
+     "views": 15,
      "published": "2025-06-23",
      "hook_type": "statement"
     },
@@ -1364,8 +1364,8 @@
      "id": "yt:cVbMeK6VOBQ",
      "episode": 149,
      "hook": "MINI: Thrive in Your College Social Life Through DBT!",
-     "lift": 0.74,
-     "views": 28,
+     "lift": 0.76,
+     "views": 29,
      "published": "2024-09-17",
      "hook_type": "you / your"
     },

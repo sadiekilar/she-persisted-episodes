@@ -1,46 +1,43 @@
 # social insights
 
-Generated 2026-11-26 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
+Generated 2026-11-27 from index/social/posts.json. lift = views / median views of settled posts (14+ days old) of the same platform and kind. Values are medians of lift across posts with that feature; n is the number of posts. Read patterns only where n is 8 or more.
 
 ## playbook (Claude's read of the numbers)
 
-## what travels
+**what travels**
+- **youtube shorts, one CAPS word.** n=198, lift 0.82 vs 0.28 with none (n=190). two CAPS words drops to 0.17 (n=89). 3+ is worse still. example: "how our CHILDHOOD affects our current emotions".
+- **youtube shorts, short hooks (≤6 words).** n=62, lift 0.94 vs 0.14 for 12+ words (n=107). keep them tight.
+- **youtube shorts, 1–2 hashtags and no number.** hashtags: n=204, lift 1.0 vs 0.17 with none (n=367). no number: n=199, lift 1.0 vs 0.17 with one (n=372). these two may overlap with the episode-number titles, so treat them as a pair, not separate wins.
+- **"this is" openers on shorts.** n=13, lift 1.24, 85% above baseline. thin, but consistent.
+- **shorts topics:** social media (n=34, 1.05), troubled teen industry (n=28, 0.96), 20s (n=40, 0.93).
+- **full episodes: troubled teen industry** (n=11, 1.35) and **trauma** (n=17, 1.26). example: "198. Chrysalis School Montana: My Troubled Teen Industry Experience". guest episodes also beat solo (0.84 vs 0.60, n=138 / 65).
+- **minis with a number** n=7, lift 4.37, which is just under our n≥8 bar, so it's thin. example: "MINI: 5 Ways to Form a SECURE ATTACHMENT in 5 Mins!"
 
-- **"this is" openers on shorts** beat baseline: n=13, lift 1.24, 85% of posts above 1. this is the strongest hook-type signal in the data.
-- **short hooks on shorts (≤6 words)**: n=62, lift 0.94 vs 0.14 for long hooks (12+, n=107). example: "how our CHILDHOOD affects our current emotions."
-- **exactly one CAPS word on shorts**: n=198, lift 0.82, vs 0.17–0.28 for zero, two, three or more. one is the sweet spot.
-- **no number in the hook on shorts**: n=199, lift 1.0 vs 0.17 with a number (n=372). note: this is probably partly tangled up with the episode-number titles, so read it with care.
-- **topics on shorts**: social media (n=34, lift 1.05), 20s (n=40, 0.93), troubled teen industry (n=28, 0.96). example: "just keep going | Ep. 121."
-- **topics on episodes**: troubled teen industry (n=11, lift 1.35) and trauma (n=17, 1.26). example: "198. Chrysalis School Montana: My Troubled Teen Industry Experience."
-- **minis with a number**: n=7, lift 4.37. example: "MINI: 5 Ways to Form a SECURE ATTACHMENT in 5 Mins!" (thin, so treat as a lean, not a rule.)
+**what sinks**
+- **shorts with 12+ words:** lift 0.14, only 8% clear baseline (n=107).
+- **shorts with 3+ CAPS words:** 0.25 and 0.24 (n=58 / 36). "10 Coping Skills You NEED to Know" is among the bottom posts.
+- **shorts topics:** trauma (n=29, 0.08), body image (n=34, 0.18), anxiety (n=47, 0.21). trauma wins on full episodes but sinks on shorts.
+- **"you / your" hooks:** 0.33 on shorts (n=85) and 0.62 on episodes (n=65). "how to" is weak too (0.27, n=33).
 
-## what sinks
-
-- **long hooks on shorts (12+ words)**: n=107, lift 0.14, only 8% above 1.
-- **3+ CAPS words on shorts**: n=94, lift ~0.25. example: "THIS 1 THING PREDICTS YOUR THERAPY SUCCESS?!" (0.01).
-- **trauma, anxiety and body image on shorts**: lifts 0.08, 0.21, 0.18 (n=29, 47, 34).
-- **"you / your" and "how to" hooks on shorts**: n=85, lift 0.33 and n=33, lift 0.27. "watch this if" is n=7, so too thin to call.
-
-## phrasings to reuse
-
+**phrasings to reuse**
 - this is ___
-- how our ___ affects our current emotions
-- just keep going
-- what we wish we knew about ___
-- how to help someone who doesn't want help (without making it worse)
-- what if part of you doesn't want ___?
-- my ___ experience
-- life after ___
+- this is what ___ actually looks like
+- how our ___ affects our emotions
+- ___ in 5 mins (minis, thin data)
+- 5 ways to ___ (minis, thin data)
 - why your 20s can be so ___
+- what if part of you doesn't want ___?
+- how to help someone who doesn't want ___
+- my ___ experience
+- ___ (what we wish we knew sooner)
 
-## how sadie edits
+**how sadie edits**
+- she moves from short quote-style drafts to titles that name the topic and promise something: "how to...", "signs...", "what teens ACTUALLY say...". similarity is mostly around 0.5.
+- she usually drops the hashtags (and any "#" tags in the draft), even though shorts with 1–2 hashtags are the ones that perform.
+- she often lengthens the hook toward 8–12+ words, and for longer episodes adds "| She Persisted Ep. ___ guest", against the data favoring short hooks on shorts.
+- she keeps one CAPS word in most edits, which lines up with the data. the data also says her "this is" drafts do well, yet she often rewrites them (e.g. "this is what self-invalidation sounds like" became a question).
 
-- **she lengthens and adds context.** quiet, short drafts become full titles like "how to tell if a teen is STRUGGLING with their mental health" or "Why I'm ANXIOUS as a PERFECTIONIST." that runs against the data, which favors short on shorts (n=62 vs 107).
-- **she drops the hashtags** from nearly every draft. the hashtag-free tag is not a win on shorts (hashtags 1–2: lift 1.0, n=204), so worth testing.
-- **she swaps "this is…" drafts for question or "are you…" framings**, e.g. "Are You Consistently in BAD Relationships?!". the "this is" type is the best performer, so she may be cutting the winner.
-- **she often adds the episode tag and guest name** ("| She Persisted Ep. 177 Jeff Kallil") and uses 1–2 CAPS words, which fits the data.
-
-these edits are too new to have performance data, so none of this is proven yet.
+one caution: most of these edits were recorded in the last few weeks, so none have settled lift yet.
 
 ## youtube:episode (205 posts with a lift; baseline 141 views)
 
@@ -48,7 +45,7 @@ these edits are too new to have performance data, so none of this is proven yet.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| i wish i knew | 4 | 1.92 | 75% |
+| i wish i knew | 4 | 1.93 | 75% |
 | numbered list | 4 | 1.7 | 50% |
 | statement | 113 | 0.84 | 44% |
 | question | 15 | 0.65 | 33% |
@@ -116,7 +113,7 @@ these edits are too new to have performance data, so none of this is proven yet.
 
 | value | n | median lift | above baseline |
 | --- | ---: | ---: | ---: |
-| sadie recommends | 3 | 39.19 | 100% |
+| sadie recommends | 3 | 39.21 | 100% |
 | adhd | 4 | 2.62 | 75% |
 | troubled teen industry | 11 | 1.35 | 64% |
 | trauma | 17 | 1.26 | 53% |
@@ -148,17 +145,17 @@ these edits are too new to have performance data, so none of this is proven yet.
 
 **top posts**
 
-- 61.27× · 8639 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
-- 39.19× · 5526 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
-- 29.05× · 4096 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
-- 25.81× · 3639 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
-- 24.81× · 3498 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
-- 22.59× · 3185 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
-- 14.57× · 2055 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
+- 61.33× · 8647 views · ep 228 · 228. dr. angela duckworth on how to be gritty + set yourself up for SUCCESS!
+- 39.21× · 5529 views · ep 261 · 261. what if part of you doesn’t want to get better? (feat. dr. blaise aguirre)
+- 29.35× · 4138 views · ep 220 · 220. how to succeed as a psychology major (& what we wish we knew sooner)
+- 25.83× · 3642 views · ep 96 · 96. Eileen Kelly on DBT at McLean, Her Treatment Takeaways, + the Day-to-Day of Living in a Mental Hosptial
+- 24.88× · 3508 views · ep 198 · 198. Chrysalis School Montana: My Troubled Teen Industry Experience
+- 22.69× · 3199 views · ep 197 · 197. Life After The Program feat. Netflix Director & TTI Survivor Katherine Kubler
+- 14.8× · 2087 views · ep 254 · 254. how to help someone who doesn’t want help (without making it worse)
 - 8.94× · 1261 views · ep 77 · 77. Dr. Kojo Sarfo on ADHD in Women: Presentations, Diagnosis, and Treatment
 - 8.75× · 1234 views · ep 211 · 211. grit (I took angela duckworth's class at upenn)
 - 7.88× · 1111 views · ep 86 · 86. The Teenage Girl's Guide to Increasing Confidence, Self-Esteem, and Self-Love feat. The Teen Life Coach, Sami Halvorsen
-- 6.52× · 919 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
+- 6.57× · 926 views · ep 60 · 60. Vulnerability, Relatability, and Empowerment feat. Zachery Dereniowski
 - 6.21× · 875 views · ep 106 · 106. Dr. Judy Ho on Why We Self-Sabotage + How to Stop
 
 **bottom posts**
@@ -415,12 +412,12 @@ these edits are too new to have performance data, so none of this is proven yet.
 
 **bottom posts**
 
-- 0.32× · 12 views · ep 167 · MINI: how to find a therapist + start therapy
+- 0.39× · 15 views · ep 167 · MINI: how to find a therapist + start therapy
 - 0.45× · 17 views · ep 138 · MINI: Two Quick Tricks to Prevent a Panic Attack!
 - 0.53× · 20 views · ep 112 · MINI: 5 Steps for Healing Your Hidden Depression in 5 Mins!
 - 0.55× · 21 views · ep 142 · MINI: What you need to know about ADHD...
 - 0.68× · 26 views · ep 66 · MINI: How to Heal from Addiction
-- 0.74× · 28 views · ep 149 · MINI: Thrive in Your College Social Life Through DBT!
+- 0.76× · 29 views · ep 149 · MINI: Thrive in Your College Social Life Through DBT!
 - 0.76× · 29 views · ep 218 · MINI: stop comparing yourself on social media
 - 0.82× · 31 views · ep 136 · MINI: How to Find a Teen Treatment Program & What to Expect
 

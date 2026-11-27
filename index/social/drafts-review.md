@@ -3974,3 +3974,117 @@ why: a warm, direct answer to rejection: reframing "i didn't get in" as "it wasn
 - [youtube] this is how to handle REJECTION #college #rejection
 - [instagram] if you didn't get in, it's because it wasn't meant to be. here's how i got there.
 - [tiktok] this is how to handle REJECTION
+
+## ep 149 · 149. How to THRIVE as a College Student aka YOUR ULTIMATE COLLEGE TOOLKIT feat Dr. Olivo & Dr. Seidler
+
+### moment 1 · 40:00
+why: a clear reframe that assertiveness isn't aggression, and it works as a one-breath dialectic. anyone who struggles to set boundaries can use it.
+- [youtube] being kind and FIRM at once #dbt #boundaries
+- [instagram] you can be gentle and assertive at the same time. here's how.
+- [tiktok] this is what assertive actually is
+
+### moment 2 · 34:06
+why: a concrete tip for big decisions. it gives a simple check (sleep, food, water) before you quit or end a friendship, and it takes the pressure off.
+- [youtube] before you quit, try SLEEP #dbt #college
+- [instagram] before you drop out or cut someone off, check your sleep and food first.
+- [tiktok] this is what to do before a big decision
+
+### moment 3 · 45:16
+why: it speaks straight to the shame of struggling in freshman year. the Penn Face and "loneliest time" lines make it a validating clip for anyone who feels behind.
+- [youtube] this is why freshman year feels LONELY #college #mentalhealth
+- [instagram] freshman year was the loneliest time for almost everyone, even the ones who look fine.
+- [tiktok] this is why everyone looks fine
+
+### moment 4 · 51:00
+why: a surprising reframe of the happiness myth. it gives permission to feel neutral or unsettled in a new place and offers other emotions to look for.
+- [youtube] you don't have to be HAPPY in college #college #happiness
+- [instagram] most people are feeling kind of neutral right now, and that's okay.
+- [tiktok] this is the happiness myth
+
+### moment 5 · 27:00
+why: a concrete skill (cope ahead) explained with a basketball analogy and a worst-case-scenario twist. it works for any hard thing coming up, from a speech to an exam.
+- [youtube] this is how to COPE AHEAD #dbt #anxiety
+- [instagram] you might handle the hard thing better than you think. rehearse it that way.
+- [tiktok] this is coping ahead
+
+### moment 6 · 23:39
+why: a practical emotional "savings account" tip with easy examples (a candle, a walk, coffee). it is a low-effort way to feel better, and the point about variety is useful.
+- [youtube] this is your emotional SAVINGS account #dbt #selfcare
+- [instagram] do one small thing today for the sole purpose of feeling good. a candle counts.
+- [tiktok] this is an emotional savings account
+
+## ep 146 · 146. How to Stop Rejecting Reality & Avoiding Improvement: Skills You NEED if You’re Struggling
+
+### moment 1 · 1:21
+why: the whole episode in one idea. "not making things worse" is a clear, low-pressure claim that works for anyone who feels too overwhelmed to fix everything.
+- [youtube] this is net neutral, and it's enough #dbt #mentalhealth
+- [instagram] you don't have to fix your life today. you just have to not make it worse.
+- [tiktok] you don't have to get better today
+
+### moment 2 · 3:13
+why: a surprising, story-like reframe of why "just accept it" and "just change it" each fail alone, and why the dialectic works.
+- [youtube] why acceptance alone FAILS #dbt #therapy
+- [instagram] told to accept it, they heard "you're stuck." told to change it, they heard "it's your fault."
+- [tiktok] accept it vs change it? both.
+
+### moment 3 · 18:42
+why: a concrete, usable skill with a surprising mechanism (the dive reflex). it's an in-the-moment tip people will save.
+- [youtube] this is the TIP skill for panic #dbt #anxiety
+- [instagram] a bowl of ice water can lower your heart rate in seconds. here's why it works.
+- [tiktok] the ice water trick, explained
+
+### moment 4 · 23:26
+why: a short, quotable line paired with a practical way to sit through an urge, plus a personal migraine example.
+- [youtube] this is how to ride the WAVE #dbt #copingskills
+- [instagram] no emotion, thought, or urge lasts forever. our bodies can't hold it.
+- [tiktok] this feeling comes in waves
+
+### moment 5 · 28:00
+why: a clear reframe of pain versus suffering, tied to the idea that rejecting reality adds to the suffering. it ends on a hopeful note.
+- [youtube] rejecting reality turns PAIN into suffering #dbt #acceptance
+- [instagram] pain can't be avoided. rejecting reality is what turns it into suffering.
+- [tiktok] pain vs suffering: what's the difference
+
+### moment 6 · 31:54
+why: an easy, concrete tip that's different from the usual "just be positive" advice. it explains why planning small joys steadies your mood swings.
+- [youtube] plan your small JOYS on purpose #dbt #depression
+- [instagram] plan your coffee, your show, your friend. small joys steady your baseline.
+- [tiktok] schedule the small good things
+
+## ep 135 · 135. Q+A: Self-Care, School Burnout, Social Media, Seeking Help, & More!
+
+### moment 1 · 2:56
+why: a clear, reusable framework. the "pros and cons of doing it AND not doing it" twist is easy to grasp, and it sits in the social media topic that does well on shorts.
+- [youtube] this is the SMARTER pros and cons #dbt #socialmedia
+- [instagram] most pros and cons lists skip the half that actually matters
+- [tiktok] pros and cons, but make it DBT
+
+### moment 2 · 6:01
+why: a relatable, honest line ("if it was that simple, no one would be on social media") that names the real problem with phone habits without shaming anyone.
+- [youtube] scrolling less is not SIMPLE #socialmedia #phoneaddiction
+- [instagram] if it were that simple, no one would be on social media
+- [tiktok] why willpower alone doesn't fix scrolling
+
+### moment 3 · 9:44
+why: a short, concrete tip anyone can try tonight, with a funny bit about finding it on tiktok.
+- [youtube] this is the grayscale TRICK #socialmedia #screentime
+- [instagram] a tiktok tip for quitting tiktok (yes, it's ironic, yes, it works)
+- [tiktok] make your phone boring on purpose
+
+### moment 4 · 15:17
+why: a counterintuitive sleep reframe from a personal line ("i can't shut my brain off"). it pushes back on the usual screen-time advice.
+- [youtube] mindless TV helped my sleep #sleep #selfcare
+- [instagram] i used to lie awake for four hours. this is what finally helped
+- [tiktok] the bedtime habit "experts" say no to
+
+### moment 5 · 19:52
+why: a clear claim about burnout. the idea that most of your time just needs to be going in a good direction takes the pressure off being perfect.
+- [youtube] burnout and the balance RULE #burnout #collegelife
+- [instagram] you don't have to do everything right to avoid burnout
+- [tiktok] the rule that keeps burnout away
+
+### moment 6 · 40:10
+why: a practical plan for a topic people rarely get advice on. "overcorrect and fill the emotional bank" is a quotable reframe for any hard week.
+- [youtube] this is period week PREP #selfcare #mentalhealth
+- [instagram] what i do the week before my period to protect my mental health
+- [tiktok] fill your emotional bank BEFORE it's hard
